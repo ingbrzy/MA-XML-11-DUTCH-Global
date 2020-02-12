@@ -585,7 +585,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="face_name_edit">Bewerken</string>
     <string name="face_name_input">Naam invoeren</string>
     <string name="face_recommend">Aanbevelingen</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Kon handeling niet voltooien</string>
     <string name="fail_to_pick_email">Ongeldig e-mailadres</string>
     <string name="fail_to_sync_album">Synchronisatie mislukt. Controleer de netwerkverbinding.</string>
@@ -596,7 +595,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="feature_guidance_photo_effects">"Nieuwe foto-effecten
  zijn beschikbaar"</string>
     <string name="feature_guidance_video_editor_smart_effects">Nieuwe effecten zijn beschikbaar</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Kan dit item niet printen.</string>
     <string name="file_cannot_screen_throw">Kan dit item niet casten.</string>
     <string name="file_sending">Bestanden overzetten…</string>
@@ -728,7 +726,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="gif_tip">Gif</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">Instellen</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"Galerij heeft toegang nodig tot 
 %s
  om normaal te kunnen functioneren, tik op \"Instellen\" om naar Toestemmingen te gaan."</string>
@@ -1034,7 +1031,6 @@ om Galerij te personaliseren"</string>
     <string name="people_mark_mode_title_no_mark_name">Kies een persoon</string>
     <string name="people_page_label">Personen</string>
     <string name="people_page_unname">Naamloos</string>
-    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">"Voor het toewijzen van contacten aan mensen op foto's"</string>
     <string name="permission_contacts_name">Contacten</string>
     <string name="permission_optional_category">Optionele toestemmingen</string>
@@ -1244,13 +1240,8 @@ om Galerij te personaliseren"</string>
     <string name="screen_doodle_talkback_size">Lijnwijdte</string>
     <string name="screen_editor_btn_delete">Verwijderen</string>
     <string name="screen_editor_btn_save">Opslaan</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Deze screenshot verwijderen?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Gereed</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Annuleren</string>
     <string name="screen_save_dialog_btn_delete">Screenshot verwijderen</string>
     <string name="screen_save_dialog_btn_save">Opslaan in galerie</string>
@@ -1309,9 +1300,6 @@ om Galerij te personaliseren"</string>
     <string name="search_title_recommend">Aanbevolen</string>
     <string name="search_title_suggestion">Suggesties</string>
     <string name="search_title_tag">Objecten</string>
-    <string name="search_transition_element_icon">search_icon</string>
-    <string name="search_transition_element_input">search_input</string>
-    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">Zoeken naar projector…</string>
     <string name="secret_album_card_description">De beste plek voor al uw kleine geheimen</string>
     <string name="secret_album_card_title">Probeer verborgen album</string>

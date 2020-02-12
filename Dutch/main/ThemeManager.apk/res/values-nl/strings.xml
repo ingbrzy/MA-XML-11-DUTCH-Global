@@ -156,9 +156,7 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -242,7 +240,6 @@ Om deze functie uit te schakelen, ga naar Instellingen > Geluiden &amp; trillen 
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -483,7 +480,6 @@ Om deze functie uit te schakelen, ga naar Instellingen > Geluiden &amp; trillen 
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -498,10 +494,6 @@ Om deze functie uit te schakelen, ga naar Instellingen > Geluiden &amp; trillen 
     <string name="resource_restore">Herstellen</string>
     <string name="resource_restore_fail">Kon niet herstellen</string>
     <string name="resource_restore_succ">Succesvol hersteld</string>
-    <string name="resource_ring_ranking_list_divider">-</string>
-    <string name="resource_ring_ranking_list_rank_1">1</string>
-    <string name="resource_ring_ranking_list_rank_2">2</string>
-    <string name="resource_ring_ranking_list_rank_3">3</string>
     <string name="resource_ringtone_default">Beltonen</string>
     <string name="resource_ringtone_playing_error">Fout</string>
     <string name="resource_ringtone_volume_mute">Beltoon is gedempt</string>
@@ -583,7 +575,6 @@ Om deze functie uit te schakelen, ga naar Instellingen > Geluiden &amp; trillen 
     <string name="show_mamual_hide_font">Verborgen lettertypen weergeven</string>
     <string name="show_mamual_hide_theme">"Geef verborgen thema's weer"</string>
     <string name="show_mamual_hide_wallpaper">Verborgen achtergronden weergeven</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="swipe_find_more">Swipe omhoog voor meer</string>
     <string name="system_precust">Voorgeïnstalleerd</string>
     <string name="the_picture_is_not_support">De afbeelding wordt niet ondersteund</string>
@@ -653,7 +644,6 @@ Om deze functie uit te schakelen, ga naar Instellingen > Geluiden &amp; trillen 
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_purchased_list_empty">"U heeft geen thema's gekocht."</string>
     <string name="theme_purchased_non_local">Online</string>

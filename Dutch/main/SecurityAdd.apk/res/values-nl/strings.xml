@@ -18,7 +18,6 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="search_menu_title">Zoeken</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_downloading">Downloaden…</string>
     <string name="app_name">Systeemservice plugin</string>
     <string name="app_select_title">Veelgebruikte apps toevoegen</string>
@@ -36,7 +35,6 @@
     <string name="dialog_market_score_title_step2">Bedankt voor uw feedback!</string>
     <string name="dual_app_title">Dubbele apps</string>
     <string name="dual_app_words">Elke account verdient zijn eigen app</string>
-    <string name="empty">" "</string>
     <string name="fastboot_locked_answer_1">Fastboot is de traditionele methode om Mi-toestellen te flashen. Als het apparaat in de Fastboot-modus is, kunnen alle gegevens die op dit apparaat zijn opgeslagen direct worden bereikt en gewist. Wij vergrendelen Fastboot om ervoor te zorgen dat jouw gegevens veilig blijven als je het apparaat kwijtraakt, en ook om de betrouwbaarheid van de Apparaat zoeken functies te garanderen.</string>
     <string name="fastboot_locked_answer_2">In het geval dat je je toestel kwijtraakt, garandeert Fastboot de veiligheid van de items die op dit apparaat zijn opgeslagen. Als je Fastboot ontgrendelt, kun je je toestel niet langer op afstand vergrendelen of data verwijderen met de \"Apparaat zoeken\" functie. Daarom adviseren we je om Fastboot niet op je apparaat te ontgrendelen.</string>
     <string name="fastboot_locked_answer_3">U moet de ontgrendel-tool van de MIUI website te gebruiken. Om het apparaat te ontgrendelen, moeten we er zeker van zijn dat het uw apparaat is. Daarom dient u zich aan te melden met uw Mi Account en dient u \"Apparaat zoeken\" in te schakelen.</string>

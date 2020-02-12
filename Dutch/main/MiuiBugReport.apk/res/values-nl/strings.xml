@@ -303,7 +303,6 @@
     <string name="open_feedback_main">Meer</string>
     <string name="packaging_dialog_content">Rapport aanmaken…</string>
     <string name="pic_not_exist">Deze afbeelding bestaat niet</string>
-    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Uw feedback en de foutlogbestanden zullen naar de Mi servers worden verstuurd.</string>
     <string name="plus_one_submit_dialog_not_show_again">Voorkeuren onthouden</string>
     <string name="post_miui_bbs_failed">Kon niet op het MIUI Forum plaatsen</string>

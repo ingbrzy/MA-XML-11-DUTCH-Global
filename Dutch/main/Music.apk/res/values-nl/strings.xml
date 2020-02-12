@@ -620,7 +620,6 @@
     <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart wanneer beschikbaar</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="pro_member">PRO-lid</string>
     <string name="prompt_grant_write_settings_permission">Wijziging systeeminstellingen toestaan</string>
     <string name="pulluprefreshrecyclerview_loading_error">Kon niet laden</string>
@@ -812,7 +811,6 @@
     <string name="upgrade_music_message">Updates zijn klaar. Start opnieuw op om te updaten.</string>
     <string name="upgrading_in_backstage">Updaten in de achtergrond…</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version_info">Versie</string>

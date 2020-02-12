@@ -408,7 +408,6 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Gedownload</string>
     <string name="status_downloading">Aan het downloaden</string>
     <string name="status_installing">Aan het installeren</string>
