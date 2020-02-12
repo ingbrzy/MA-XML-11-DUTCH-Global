@@ -1,23 +1,63 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$s zijn niet gesync."</item>
-        <item quantity="one">"%1$s is niet gesync."</item>	
+    <plurals name="alert_message_delete">
+        <item quantity="other">%1$s items verwijderen?</item>
+        <item quantity="one">%1$s item verwijderen?</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s mappen</item>
-        <item quantity="one">%1$s map</item>
-	</plurals>
-	    <plurals name="note_terms">
-        <item quantity="other">%1$s notities</item>
-        <item quantity="one">%1$s notitie</item>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%1$s items zijn niet gesynchroniseerd</item>
+        <item quantity="one">%1$s item is niet gesynchroniseerd</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dagen hierna</item>
+        <item quantity="one">%1$d dag hierna</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d dagen hiervoor</item>
+        <item quantity="one">%1$d dag hiervoor</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">%1$s notities verwijderd uit de map</item>
+        <item quantity="one">%1$s notitie verwijderd uit de map</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s notities verplaatst naar %2$s</item>
+        <item quantity="one">%1$s notitie verplaatst naar %2$s</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d seconden resterend</item>
-        <item quantity="one">%d seconde resterend</item>
+        <item quantity="other">%d seconden over</item>
+        <item quantity="one">%d seconde over</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s notities succesvol verborgen</item>
+        <item quantity="one">%1$s notitie succesvol verborgen</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s notities zichtbaar gemaakt</item>
+        <item quantity="one">%1$s notitie zichtbaar gemaakt</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Over %1$d dagen</item>
+        <item quantity="one">Over %1$d dag</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">%1$s taken verwijderen?</item>
+        <item quantity="one">%1$s taak verwijderen?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Over %1$d dagen</item>
+        <item quantity="one">Over %1$d dag</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%d karakters</item>
-        <item quantity="one">%d karakters</item>
+        <item quantity="other">%d tekens</item>
+        <item quantity="one">%d teken</item>
     </plurals>
 </resources>

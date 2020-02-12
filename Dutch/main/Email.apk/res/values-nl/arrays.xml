@@ -1,16 +1,16 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="all_month_str">
+    <string-array name="all_month_str">
         <item>Jan</item>
         <item>Feb</item>
-        <item>Mrt</item>
+        <item>Maa</item>
         <item>Apr</item>
         <item>Mei</item>
         <item>Jun</item>
         <item>Jul</item>
         <item>Aug</item>
         <item>Sep</item>
-        <item>Okt</item>
+        <item>Oct</item>
         <item>Nov</item>
         <item>Dec</item>
     </string-array>
@@ -28,28 +28,32 @@
         <item>Doorsturen</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Heel kleine tekst</item>
-        <item>Kleine tekst</item>
-        <item>Normale tekst</item>
-        <item>Grote tekst</item>
-        <item>Heel grote tekst</item>
+        <item>Zeer klein</item>
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Zeer groot</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>Recent bekeken</item>
-        <item>Indeling</item>
+        <item>Formatteren</item>
         <item>Naam</item>
         <item>Afzender</item>
         <item>Ontvangstdatum</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Systeem</item>
-        <item>Veel gebruikt</item>
+        <item>Regelmatig gebruikt</item>
         <item>Alle mappen</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Nieuwer bericht</item>
         <item>Ouder bericht</item>
         <item>Postvak In</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Alle</item>
+        <item>Alleen afzenders</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Adres:</item>
@@ -63,23 +67,14 @@
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Bedankt,</item>
-        <item>Met vriendelijke groet,</item>
-        <item>Verzonden van mijn</item>
-        <item>Originele e-mail</item>
-        <item>Verzonden van mijn</item>
-        <item>Verzonden van</item>
+        <item>Met vriendelijke groeten</item>
+        <item>Verstuurd vanaf mijn</item>
+        <item>Oorspronkelijke e-mail</item>
+        <item>Verstuurd vanaf mijn</item>
+        <item>Verstuurd van</item>
         <item>Van</item>
         <item>Deze e-mail</item>
-        <item>Gebruiksvoorwaarden</item>
-        <item>E-mail gebruiksvoorwaarden</item>
-    </string-array>
-    <string-array name="signature_special_string_array">
-        <item>Gebruiksvoorwaarden:</item>
-        <item>E-mail gebruiksvoorwaarden</item>
-        <item>Verzonden via WPSMail</item>
-        <item>Verzonden van</item>
-        <item>Verzonden met</item>
-        <item>Bedankt,</item>
-        <item>Met vriendelijke groet,</item>
+        <item>Disclaimer</item>
+        <item>E-maildisclaimer</item>
     </string-array>
 </resources>

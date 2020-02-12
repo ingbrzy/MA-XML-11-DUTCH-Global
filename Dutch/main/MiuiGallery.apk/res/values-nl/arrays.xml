@@ -1,24 +1,39 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="baby_sexy">
+    <string-array name="activities_title">
+        <item>Speciale dag</item>
+        <item>Dag om te herinneren</item>
+        <item>Levendige momenten</item>
+    </string-array>
+    <string-array name="baby_sexy">
         <item>Jongen</item>
         <item>Meisje</item>
     </string-array>
-	<string-array name="menu_copy_or_move">
+    <string-array name="backup_automatically_key_words">
+        <item>"Back-up maken van foto's"</item>
+        <item>"Foto's synchroniseren met de cloud"</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>Mijn weekenden</item>
+        <item>Stukjes uit mijn leven</item>
+        <item>Weekend herinneringen</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
         <item>Verplaatsen</item>
         <item>Kopiëren</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
         <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
         <item>September</item>
-        <item>October</item>
+        <item>Oktober</item>
         <item>November</item>
         <item>December</item>
     </string-array>
@@ -30,106 +45,36 @@
         <item>Grootvader van moederszijde</item>
         <item>Grootmoeder van moederszijde</item>
     </string-array>
-	<string-array name="relation_with_me">
+    <string-array name="parties_title">
+        <item>Samen</item>
+        <item>Goede tijden</item>
+        <item>Gezamelijk</item>
+    </string-array>
+    <string-array name="relation_with_me">
         <item>Ik</item>
         <item>Kind</item>
         <item>Familie</item>
-        <item>Collega\'s</item>
+        <item>"Collega's"</item>
         <item>Klasgenoten</item>
         <item>Vrienden</item>
         <item>Niet gegroepeerd</item>
     </string-array>
     <string-array name="season">
-        <item>Spring</item>
-        <item>Summer</item>
-        <item>Autumn</item>
+        <item>Lente</item>
+        <item>Zomer</item>
+        <item>Herfst</item>
         <item>Winter</item>
     </string-array>
-	<string-array name="sharer_relation_addressive">
+    <string-array name="sharer_relation_addressive">
         <item>Vader</item>
         <item>Moeder</item>
         <item>Grootvader van vaderszijde</item>
         <item>Grootmoeder van vaderszijde</item>
         <item>Grootvader van moederszijde</item>
         <item>Grootmoeder van moederszijde</item>
-      </string-array>
-	  <string-array name="card_last_week_day">
-        <item>Afgelopen maandag</item>
-        <item>Afgelopen dinsdag</item>
-        <item>Afgelopen woensdag</item>
-        <item>Afgelopen donderdag</item>
-        <item>Afgelopen vrijdag</item>
     </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>Vorige Chinese oudejaarsavond</item>
-        <item>Vorige Chinees nieuwjaar</item>
-        <item>Vorige lantaarn festival</item>
-        <item>Vorige Dragon Boat Festival</item>
-        <item>Vorige Qixi Festival</item>
-        <item>Vorige Mid herfst festival</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>Chinese oudejaarsavond door de jaren heen</item>
-        <item>Chinees nieuwjaar door de jaren heen</item>
-        <item>Lantaarnfestival door de jaren heen</item>
-        <item>Dragon Boat Festival door de jaren heen</item>
-        <item>Qixi Festival door de jaren heen</item>
-        <item>Mid herfst Festival door de jaren heen</item>
-    </string-array>
-    <string-array name="holiday_last_year">
-        <item>Vorige nieuwjaarsdag</item>
-        <item>Vorige Valentijnsdag</item>
-        <item>Vorige dag van de Arbeid</item>
-        <item>Vorige dag van het kind</item>
-        <item>Vorige nationale feestdag</item>
-        <item>Vorige Kerst</item>
-    </string-array>
-    <string-array name="holiday_past_year">
-        <item>Nieuwjaar door de jaren heen</item>
-        <item>Valentijnsdag door de jaren heen</item>
-        <item>Dag van de Arbeid door de jaren heen</item>
-        <item>Dag van het kind door de jaren heen</item>
-        <item>Nationale feestdag door de jaren heen</item>
-        <item>Kerst door de jaren heen</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
-    </string-array>
-    <string-array name="month_last_year">
-        <item>Afgelopen Januari</item>
-        <item>Afgelopen February</item>
-        <item>Afgelopen Maaart</item>
-        <item>Afgelopen April</item>
-        <item>Afgelopen Mei</item>
-        <item>Afgelopen Juni</item>
-        <item>Afgelopen Juli</item>
-        <item>Afgelopen Augustus</item>
-        <item>Afgelopen September</item>
-        <item>Afgelopen Oktober</item>
-        <item>Afgelopen November</item>
-        <item>Afgelopen December</item>
-    </string-array>
-    <string-array name="season_last_year">
-        <item>Afgelopen lente</item>
-        <item>Afgelopen zomer</item>
-        <item>Afgelopen herfst</item>
-        <item>Afgelopen winter</item>
-    </string-array>
-    <string-array name="weekend_title">
-        <item>Vorige weekends</item>
-        <item>Dagen om te onthouden</item>
-        <item>Dagelijkse gebeurtenissen</item>
-        <item>Normale &amp; Abnormale</item>
+    <string-array name="sports_title">
+        <item>Verdergaan</item>
+        <item>Vol energie</item>
     </string-array>
 </resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">%d reacties bekijken</item>
+        <item quantity="one">%d reactie bekijken</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Zal teruggaan naar de startpagina over %1$d seconden…</item>
+        <item quantity="one">Zal teruggaan naar de startpagina over %1$d seconde…</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Ondertitels zullen %.1f seconden eerder worden getoond</item>
+        <item quantity="one">Ondertitels zullen %.1f seconde eerder worden getoond</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Ondertitels zullen %.1f seconden later worden getoond</item>
+        <item quantity="one">Ondertitels zullen %.1f seconde later worden getoond</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Grootte: %.2fKB</item>
+        <item quantity="one">Grootte: %.2fKB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>
+        <item quantity="one">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dag tot %3$s.</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">"%d videos's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">%s items nu verwijderen?</item>
+        <item quantity="one">%s item nu verwijderen?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">%s items geselecteerd</item>
+        <item quantity="one">%s item geselecteerd</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Bestandsgrootte: %.2fKB</item>
+        <item quantity="one">Bestandsgrootte: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s resultaten voor \"%1$s\"</item>
+        <item quantity="one">%2$s resultaat voor \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d afbeeldingen</item>
+        <item quantity="one">%d afbeelding</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">"%d video's"</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s abonnees</item>
+        <item quantity="one">%s abonnee</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Ondertitels zijn %.1f seconden versneld</item>
+        <item quantity="one">Ondertitels zijn %.1f seconde versneld</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Ondertitels zijn %.1f seconden vertraagd</item>
+        <item quantity="one">Ondertitels zijn %.1f seconde vertraagd</item>
+    </plurals>
+</resources>

@@ -1,15 +1,27 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="cloud_backup_detail_frequence_day">
-        <item quantity="other">Om de %d dagen back-uppen</item>
-        <item quantity="one">Elke dag back-uppen</item>
+        <item quantity="other">Back-up elke %d dagen</item>
+        <item quantity="one">Backup iedere dag</item>
     </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s back-ups (%2$s)</item>
         <item quantity="one">%1$s back-up (%2$s)</item>
     </plurals>
-	<plurals name="restoring_file_tile">
+    <plurals name="restoring_file_tile">
         <item quantity="other">%d bestanden herstellen</item>
         <item quantity="one">%d bestand herstellen</item>
+    </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">Hoge prioriteit: %d items</item>
+        <item quantity="one">Hoge prioriteit: %d item</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Normale prioriteit: %d items</item>
+        <item quantity="one">Normale prioriteit: %d item</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d apps op dit apparaat</item>
+        <item quantity="one">%d app op dit apparaat</item>
     </plurals>
 </resources>

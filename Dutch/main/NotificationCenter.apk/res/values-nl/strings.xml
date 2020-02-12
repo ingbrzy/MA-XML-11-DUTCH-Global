@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meldingen</string>
+    <string name="default_list_type">Sorteer op ontvangsttijd</string>
+    <string name="disable_float_notification">Zwevende meldingen zijn niet toegestaan</string>
+    <string name="disable_lockscreen_notification">Vergrendelscherm-meldingen zijn niet toegestaan</string>
+    <string name="disable_show_badge_notification">Notificatiebadges zijn niet toegestaan</string>
+    <string name="enable_float_notification">Zwevende meldingen zijn toegestaan</string>
+    <string name="enable_lockscreen_notification">Vergrendelscherm-meldingen zijn toegestaan</string>
+    <string name="enable_show_badge_notification">Notificatiebadges zijn toegestaan</string>
+    <string name="expandable_under_keyguard">Meldingenpaneel openen op het Vergrendelscherm</string>
+    <string name="float_notifications">Zwevende meldingen</string>
+    <string name="hint_search_all">Zoek naar apps</string>
+    <string name="hint_search_in_disabled_apps">Zoek naar apps die geen meldingen kunnen weergeven</string>
+    <string name="hint_search_in_enabled_apps">Zoek naar apps die meldingen kunnen weergeven</string>
+    <string name="list_title_disable_notification">Meldingen zijn niet toegestaan</string>
+    <string name="loading">Een ogenblik geduld…</string>
+    <string name="lock_screen_tip_toast">Sta Vergrendelscherm meldingen toe in \"Format\"</string>
+    <string name="lockscreen_notifications">Vergrendelscherm-meldingen</string>
+    <string name="not_sent_recently">Niet recent</string>
+    <string name="notch_and_status_bar_setting">Notch &amp; statusbalk</string>
+    <string name="notification_display_setting">Meldingenpaneel</string>
+    <string name="notification_display_style">Meldingsstijl</string>
+    <string name="notification_fold_summary">Alle onbelangrijke meldingen zullen in een aparte map verschijnen</string>
+    <string name="notification_fold_title">Meldingen-map</string>
+    <string name="notification_manager">App-meldingen</string>
+    <string name="off">Uit</string>
+    <string name="on">Aan</string>
+    <string name="settings_guide_title">Andere instellingen nodig?</string>
+    <string name="show_badge_notifications">Notificatiebadges</string>
+    <string name="status_bar_setting">Statusbalk</string>
+    <string name="summary_disable_float_notification">Zwevende meldingen zijn niet toegestaan</string>
+    <string name="summary_disable_lockscreen_notification">Vergrendelscherm-meldingen zijn niet toegestaan</string>
+    <string name="summary_disable_show_badge_notification">Notificatiebadges zijn niet toegestaan</string>
+    <string name="summary_enable_float_notification">Zwevende meldingen zijn toegestaan</string>
+    <string name="summary_enable_lockscreen_notification">Vergrendelscherm-meldingen zijn toegestaan</string>
+    <string name="summary_enable_show_badge_notification">Notificatiebadges zijn toegestaan</string>
+    <string name="summary_float_enable_notification_first">Sta meldingen toe om zwevende meldingen in te schakelen</string>
+    <string name="summary_lock_screen_enable_notification_first">Sta meldingen toe om Vergrendelscherm-meldingen in te schakelen</string>
+    <string name="summary_show_badge_enable_notification_first">Sta meldingen toe om notificatie badges in te schakelen</string>
+</resources>

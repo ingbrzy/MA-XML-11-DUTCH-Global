@@ -1,22 +1,58 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<plurals name="resource_comment_score_count">
-        <item quantity="other">%d opmerkingen</item>
-        <item quantity="one">%d opmerking</item>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">%d minuut geleden</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">Toegepast op %1$d apparaten</item>
+        <item quantity="one">Toegepast op %1$d apparaat</item>
+    </plurals>
+    <plurals name="resource_comment_score_count">
+        <item quantity="other">%d reacties</item>
+        <item quantity="one">%d reactie</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f punten</item>
+        <item quantity="one">%1$.1f punt</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s beltonen</item>
+        <item quantity="one">%1$s beltoon</item>
     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">"Updates beschikbaar voor %1$d thema's."</item>
+        <item quantity="other">"Update beschikbaar voor %1$d thema's."</item>
         <item quantity="one">Update beschikbaar voor %1$d thema.</item>
     </plurals>
-	<plurals name="theme_designer_products_count">
-        <item quantity="other">%1$s werken</item>
-        <item quantity="one">%1$s werk</item>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s producten</item>
+        <item quantity="one">%1$s product</item>
     </plurals>
-	    <plurals name="theme_update_local_resource_notifaction">
+    <plurals name="theme_update_local_resource_notifaction">
         <item quantity="other">"Updates beschikbaar voor %1$d thema's"</item>
         <item quantity="one">Update beschikbaar voor %1$d thema</item>
     </plurals>
-	<plurals name="wallpaper_staggered_item_text">
+    <plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Zoeken tussen %1$d apps</item>
+        <item quantity="one">Zoeken tussen %1$d app</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">%1$d apps gevonden</item>
+        <item quantity="one">%1$d app gevonden</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">U zult \"%2$s\" gratis kunnen uitproberen over %1$d uur</item>
+        <item quantity="one">U zult \"%2$s\" gratis kunnen uitproberen over %1$d uur</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3-daagse gratis proefversie (%1$d items resterend voor vandaag)</item>
+        <item quantity="one">3-daagse gratis proefversie (%1$d item resterend voor vandaag)</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
         <item quantity="other">%1$s | %2$d afbeeldingen</item>
         <item quantity="one">%1$s | %2$d afbeelding</item>
     </plurals>

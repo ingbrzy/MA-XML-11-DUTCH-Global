@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="attachment_chooser">
         <item>Camera</item>
@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
-        <item>Roepnaam</item>
+        <item>Bijnaam</item>
         <item>Telefoon</item>
         <item>E-mail</item>
         <item>Bedrijf</item>
@@ -15,38 +15,38 @@
         <item>Verjaardag</item>
         <item>Website</item>
         <item>Adres</item>
-        <item>Notities</item>
-	</string-array>
-    <string-array name="first_guide_contents">
-        <item>Welkom bij notities!</item>
-        <item>Maak notities</item>
-        <item>U kunt tekst, afbeeldingen en spraakopnamen gebruiken in uw notities. Een rijke bibliotheek met stijlen en lettertypen zorgt ervoor dat uw eenvoudige krabbels er prachtig uitzien.</item>
-        <item>Checklists en herinneringen komen helpen wanneer u basis en effectieve hulpmiddelen nodig heeft voor het plannen van uw volgende reis of het samenstellen van een boodschappenlijstje.</item>
-        <item>Deel notities</item>
-        <item>U kunt automatisch scroll screenshots maken in Notes en deze vervolgens met uw vrienden delen.</item>
-        <item>Maak &amp; schakel tussen mappen</item>
-        <item>Druk op de pijl hieronder om een nieuwe map te maken of om tussen bestaande mappen te schakelen.</item>
+        <item>Notitie</item>
     </string-array>
-	    <string-array name="folder_operations">
-        <item>Hernoemen</item>
+    <string-array name="first_guide_contents">
+        <item>Welkom bij Notities!</item>
+        <item>Notities maken</item>
+        <item>U kunt tekst, afbeeldingen en spraakopnames gebruiken in uw notities. Een bibliotheek rijk aan stijlen en lettertypen zorgt ervoor dat uw eenvoudige krabbels er prachtig uitzien.</item>
+        <item>Checklists en herinneringen komen van pas wanneer u standaard en effectieve hulpmiddelen nodig heeft voor het plannen van uw volgende reis of het samenstellen van een boodschappenlijstje.</item>
+        <item>Notities delen</item>
+        <item>U kunt automatisch scroll-screenshots creëren in Notities. Deze kunt u vervolgens met uw vrienden delen.</item>
+        <item>Creëer &amp; schakel tussen mappen</item>
+        <item>Druk op de pijl hieronder om een ​​nieuwe map te maken of om tussen bestaande mappen te schakelen.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Naam wijzigen</item>
         <item>Verwijderen</item>
     </string-array>
     <string-array name="font_size_names">
         <item>Klein</item>
         <item>Medium</item>
         <item>Groot</item>
-        <item>Enorm</item>
+        <item>Heel groot</item>
     </string-array>
-	    <string-array name="note_sort_way">
-        <item>Op opmaak datum</item>
-        <item>Op aangepaste datum</item>
+    <string-array name="note_sort_way">
+        <item>Op aanmaakdatum</item>
+        <item>Op aanpassingsdatum</item>
     </string-array>
-	<string-array name="second_guide_contents">
+    <string-array name="second_guide_contents">
         <item>Spraaknotities</item>
-        <item>U kunt nu spraaknotities maken. Tik gewoon op het pictogram, neem uw stem op en sla het audiobestand in de notitie op.</item>
+        <item>Maak notities met behulp van onze ingebouwde spraak-naar-tekst-engine die de originele opnames van uw stem aan de notities koppelt.</item>
     </string-array>
     <string-array name="second_guide_contents_pad_or_inter">
-        <item>Voice notes</item>
-        <item>You can create voice notes now. Just tap the icon, record your voice, and save the audio file inside the note.</item>
+        <item>Spraaknotities</item>
+        <item>U kunt nu spraaknotities creëren. Tik gewoonweg op het pictogram en sla het audiobestand binnen de notitie op.</item>
     </string-array>
 </resources>

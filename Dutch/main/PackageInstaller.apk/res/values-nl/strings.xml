@@ -346,9 +346,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
   <string name="pointer_location">Locatie aanwijzer</string>
   <string name="pointer_location_summary">Schermoverlay geeft huidige aanraakgegevens weer</string>
-  <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
-  <string name="power_discharging_duration">%1$s - ongeveer. %2$s resterend</string>
-  <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Ongeveer. %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>

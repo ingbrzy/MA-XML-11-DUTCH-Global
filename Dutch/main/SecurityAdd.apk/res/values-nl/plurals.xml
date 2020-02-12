@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d dagen resterend vóór Netwerk snelheidsboost sessie eindigt. Verleng de sessie om netwerksnelheidsproblemen te voorkomen.</item>
+        <item quantity="one">%d dag resterend vóór Netwerk snelheidsboost sessie eindigt. Verleng de sessie om netwerksnelheidsproblemen te voorkomen.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fast_connect_headset_reset">
+        <item quantity="other">Houd de knop op de box %1$d seconden ingedrukt</item>
+        <item quantity="one">Houd de knop op de box %1$d seconde ingedrukt</item>
+    </plurals>
+</resources>

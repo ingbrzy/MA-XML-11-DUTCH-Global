@@ -1,22 +1,22 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snooze voor %d minuten.</item>
-        <item quantity="one">Snooze voor %d minuut.</item>
+        <item quantity="other">Sluimeren voor %d minuten.</item>
+        <item quantity="one">Sluimeren voor %d minuut.</item>
     </plurals>
-	<plurals name="day">
+    <plurals name="day">
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
     </plurals>
-	<plurals name="delete_alarm_confirm">
-        <item quantity="other">Geselecteerde wekkers verwijderen?</item>
-        <item quantity="one">Deze wekker verwijderen?</item>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Geselecteerde alarmen verwijderen?</item>
+        <item quantity="one">Dit alarm verwijderen?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Geselecteerde tijdzones verwijderen?</item>
+        <item quantity="other">De geselecteerde tijdzones verwijderen?</item>
         <item quantity="one">Deze tijdzone verwijderen?</item>
     </plurals>
-	 <plurals name="hour">
+    <plurals name="hour">
         <item quantity="other">%d uur</item>
         <item quantity="one">%d uur</item>
     </plurals>
@@ -28,20 +28,52 @@
         <item quantity="other">%d minuten</item>
         <item quantity="one">%d minuut</item>
     </plurals>
-	<plurals name="second">
+    <plurals name="second">
         <item quantity="other">%d seconden</item>
         <item quantity="one">%d seconde</item>
     </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Alarm will go off %2$s times (%1$s min. each)</item>
-        <item quantity="one">Alarm will go off %2$s time (%1$s min.)</item>
+    <plurals name="sleep_duration_hour">
+        <item quantity="other">%1$s uren</item>
+        <item quantity="one">%1$s uur</item>
     </plurals>
-	<plurals name="snooze_message">
-        <item quantity="other">Snooze voor %d minuten</item>
-        <item quantity="one">Snooze voor %d minuut</item>
-	</plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1$s h</item>
+        <item quantity="one">%1$s h</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s minuten</item>
+        <item quantity="one">%1$s minuut</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Sluimerinterval gewijzigd naar %d minuten</item>
+        <item quantity="one">Sluimerinterval gewijzigd naar %d minuut</item>
+    </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">%1$s keer afgaan</item>
+        <item quantity="one">%1$s keer afgaan</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">Iedere %1$s min, gaat %2$s keer af</item>
+        <item quantity="one">Iedere %1$s min, gaat %2$s keer af</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">Elke %1$s min</item>
+        <item quantity="one">Elke %1$s min</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Alarm zal %2$s keer afgaan (%1$s elke min.)</item>
+        <item quantity="one">Alarm zal %2$s keer afgaan (%1$s min.)</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Sluimeren voor %d minuten</item>
+        <item quantity="one">Sluimeren voor %d minuut</item>
+    </plurals>
     <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d uur "</item>
+        <item quantity="other">"%1$d uren "</item>
         <item quantity="one">"%1$d uur "</item>
     </plurals>
     <plurals name="timer_message_minute">
