@@ -28,7 +28,6 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="search_menu_title">Zoeken</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="above_image">Omhoog</string>
     <string name="accessibility_battery_level">Batterij %d procent.</string>
     <string name="accessibility_battery_level_charging">Batterij opladen,%d procent.</string>

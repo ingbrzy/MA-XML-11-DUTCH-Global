@@ -17,7 +17,6 @@
     <string name="connectio_delay_content">U moet wellicht de verbinding op uw printer bevestigen.</string>
     <string name="connectio_help_title">Verbinding maken met een printer</string>
     <string name="could_not_create_file">Kan bestand niet maken</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Geselecteerde printers nu verwijderen?</string>
     <string name="destination_default_text">Printer selecteren</string>
     <string name="disabled_services_title">Uitgeschakelde services</string>
@@ -86,7 +85,6 @@
     <string name="printer_busy">Printer is bezet</string>
     <string name="printer_error">Printer fout</string>
     <string name="printer_error_msg">Printer fout: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Meer informatie over deze printer</string>
     <string name="printer_notification_error_title">Kon niet printen %1$s</string>
     <string name="printer_unavailable">Printer is niet beschikbaar</string>

@@ -179,7 +179,6 @@
     <string name="note_sort_way">Selecteer hoe u uw notities wilt sorteren</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
-    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
     <string name="notify_alarm_title">Notitie herinnering</string>
     <string name="permdesc_accessNote">Kwaadaardige apps kunnen dit gebruiken om toegang te krijgen tot uw persoonlijke gegevens.</string>

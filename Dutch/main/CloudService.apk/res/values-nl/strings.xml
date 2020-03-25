@@ -48,8 +48,6 @@
     <string name="error_unknown">Kan niet inloggen</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#ff0000>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
     <string name="find_device_error_server">Server fout</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <a href="app://com.miui.cloudservice.gdpr.license"><u>Privacybeleid</u></a>. Als u toestemming in moet trekken, schakel deze functie dan uit.</string>
@@ -181,14 +179,11 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_find_device_open_fail">Kon Apparaat zoeken niet uitschakelen</string>
     <string name="micloud_find_device_opened">Apparaat zoeken is ingeschakeld</string>
     <string name="micloud_find_device_opened_content">Zoek uw apparaat op %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Mogelijk is een uitgaand SMS-bericht vereist om deze service te activeren. Uw koerier brengt u dit bericht in rekening. Wanneer u van SIM-kaart wisselt, wordt mogelijk automatisch een bericht verzonden om deze functie opnieuw te activeren.</string>
     <string name="micloud_find_device_verify_button">Heractiveer Apparaat zoeken</string>
     <string name="micloud_find_device_verify_close">Apparaat zoeken uitschakelen</string>
     <string name="micloud_find_device_verify_fail">Apparaat zoeken kon niet geheractiveerd worden</string>
     <string name="micloud_find_device_verify_progress">Apparaat zoeken heractiveren…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Synchroniseren is geannuleerd. Probeer het opnieuw.</string>
     <string name="micloud_main_head_menu_cloud_backup">Startscherm back-up</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Startscherm lay-out en systeeminstellingen</string>
@@ -480,8 +475,6 @@ Read and agree to our"<a href="app://com.miui.cloudservice.user_agreement.licens
     <string name="sync_dspt_entrance_provision_network">Deze app moet verbonden zijn met het internet om normaal te werken. Het synchroniseren van gegevens kan een mobiele dataverbinding vereisten en het aanzetten van wifi.</string>
     <string name="sync_dspt_entrance_provision_skip">Deze stap overslaan</string>
     <string name="sync_dspt_provision">"Synchroniseer uw foto's, contacten, notities, en meer op al uw apparaten of bereik ze op "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". U kunt deze functie op elk moment in- of uitschakelen in Instellingen.
 "</string>
     <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
