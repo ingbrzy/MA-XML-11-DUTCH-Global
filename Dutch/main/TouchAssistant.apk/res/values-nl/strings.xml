@@ -11,9 +11,9 @@
     <string name="function_settings">Snelkoppeling instellingen</string>
     <string name="handy_mode_default_to_close_whether_open">Eén-hand modus is standaard uitgeschakeld. Eén-hand modus inschakelen?</string>
     <string name="hide_touch_assistant">Automatisch verbergen</string>
-    <string name="hide_touch_assistant_intro">Verberg Quick ball in geselecteerde apps.</string>
+    <string name="hide_touch_assistant_intro">Quick ball verbergen in geselecteerde apps.</string>
     <string name="hide_when_fullscreen">Schuif aan de kant bij volledig scherm</string>
-    <string name="hide_when_fullscreen_intro">Schuif aan de kant als volledig scherm modus wordt gestart.</string>
+    <string name="hide_when_fullscreen_intro">Schuif aan de kant als volledige schermmodus wordt gestart.</string>
     <string name="mi_wallet_summary">Transportkaart / Mi Pay / Sleutelkaart</string>
     <string name="motion_behavior">Voorkeursgebaar</string>
     <string name="name_alipay_payment_code">Alipay betaling</string>

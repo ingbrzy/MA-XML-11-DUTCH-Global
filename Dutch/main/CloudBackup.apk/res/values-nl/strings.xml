@@ -10,7 +10,6 @@
     <string name="retry">Opnieuw proberen</string>
     <string name="cloud_app_current_device">Huidig apparaat</string>
     <string name="cloud_app_other_devices">Andere apparaten</string>
-    <string name="cloud_app_restore_app_and_data">Stel uw apparaat in</string>
     <string name="cloud_app_restore_data">Persoonlijke data en eerder geïnstalleerde apps zullen automatisch op uw apparaat verschijnen</string>
     <string name="cloud_app_dont_restore">Stel in als nieuw apparaat</string>
     <string name="cloud_app_restore_wifi_prompt">Herstellen van de cloud back-up.</string>
@@ -50,6 +49,8 @@
     <string name="self_device_second_space">Deze telefoons Tweede ruimte</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
     <string name="size_unknown">Onbekende grootte</string>
     <string name="recovering">%s herstellen</string>
@@ -222,4 +223,5 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_task_unfinished">Kon niet herstellen</string>
     <string name="restore_failed_reason_network_error">Netwerkfout. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Niet genoeg opslagruimte. Maak eerst opslagruimte vrij.</string>
+    <string name="cloud_app_restore_app_and_data">Stel uw apparaat in</string>
 </resources>

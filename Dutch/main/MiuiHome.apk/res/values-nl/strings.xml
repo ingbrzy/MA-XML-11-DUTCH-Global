@@ -77,7 +77,7 @@
     <string name="app_category_games">Games</string>
     <string name="app_category_health">Gezondheid</string>
     <string name="app_category_lifestyle">Levensstijl</string>
-    <string name="app_category_music_movie">TV &amp; Muziek</string>
+    <string name="app_category_music_movie">TV en Muziek</string>
     <string name="app_category_news">Nieuws</string>
     <string name="app_category_photos">Fotografie</string>
     <string name="app_category_productivity">Productiviteit</string>
@@ -100,7 +100,6 @@
     <string name="aqi_quality_index_light_pollution">Waarschuwing</string>
     <string name="aqi_quality_index_moderate">Gemiddeld</string>
     <string name="aqi_quality_index_unhealthy">Ongezond</string>
-    <string name="auto_add_app_shortcut">Plaats nieuwe apps op het Startscherm</string>
     <string name="auto_delete_category_dialog_content">Huidige apps worden uit deze categorie verwijderd en de categorie wordt verwijderd. Deze categorie nu verwijderen?</string>
     <string name="auto_delete_category_dialog_title">Categorie verwijderen</string>
     <string name="backup_fail">Kon geen back-up maken van de launcher</string>
@@ -117,9 +116,6 @@
     <string name="category_cannot_empty">Voer eerst een categorie in</string>
     <string name="category_choose_no_app_select_tip">Elke categorie moet ten minste 1 app bevatten.</string>
     <string name="category_drawer_name_hint">Voer categorienaam in</string>
-    <string name="category_edit_back_confirm_dialog_content">Wijzigingen opslaan nu?</string>
-    <string name="category_edit_back_confirm_dialog_negative_button">Niet opslaan</string>
-    <string name="category_edit_back_confirm_dialog_positive_button">Opslaan</string>
     <string name="category_group">Apps categoriseren</string>
     <string name="category_group_summary">Categoriseer apps in de App lade</string>
     <string name="category_not_selected">Beschikbare apps</string>
@@ -201,7 +197,7 @@
     <string name="free_style_edit_bar_select_app">App kiezen</string>
     <string name="free_style_edit_bottom_empty_tip">Tik op rechthoek om te bewerken</string>
     <string name="free_style_edit_drawer">Lade</string>
-    <string name="free_style_edit_move_tip">Indrukken &amp; vasthouden om een item te verplaatsen</string>
+    <string name="free_style_edit_move_tip">Indrukken en vasthouden om een item te verplaatsen</string>
     <string name="free_style_edit_tab_free_component">Objecten</string>
     <string name="free_style_edit_tab_shortcut">Snelkoppelingen</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
@@ -247,7 +243,7 @@
     <string name="group_shortcuts">Snelkoppelingen</string>
     <string name="guide_install_app_msg">Deze app is niet op uw apparaat geïnstalleerd. De app nu zoeken en installeren?</string>
     <string name="guide_install_app_title">App zoeken en installeren?</string>
-    <string name="guide_tips_editing_mode">Houd ingedrukt om een ​​widget op te pakken</string>
+    <string name="guide_tips_editing_mode">Druk en ingedrukt houden om een widget op te pakken</string>
     <string name="home_gesture_content_center">Inhoudscentrum</string>
     <string name="home_gesture_global_search">Zoeken</string>
     <string name="home_gesture_no_action">Geen</string>
@@ -265,12 +261,9 @@
     <string name="is_system_wallpaper_message">Kan systeembronnen niet verwijderen</string>
     <string name="launcher_not_exist">Er is een fout opgetreden, ga terug naar het Startscherm en probeer het opnieuw.</string>
     <string name="launcher_pull_down_title">Swipe omlaag op het Startscherm</string>
-    <string name="launcher_search_bar_title">Startscherm zoekbalk</string>
-    <string name="launcher_search_bar_value_disable">Uitschakelen</string>
-    <string name="launcher_search_bar_value_enable">Aanzetten</string>
     <string name="launcher_slide_up_title">Swipe omhoog op het Startscherm</string>
     <string name="launcher_sliding_up_gesture">Swipe omhoog op het Startscherm om zoeken te openen</string>
-    <string name="launcher_title">Startscherm &amp; Recent</string>
+    <string name="launcher_title">Startscherm en Recent</string>
     <string name="like">Toevoegen aan favorieten</string>
     <string name="liked">Toegevoegd aan favorieten</string>
     <string name="loading_desktop">Een ogenblik geduld…</string>
@@ -384,7 +377,7 @@
     <string name="screen_cells_config_title">Startscherm lay-out</string>
     <string name="screen_locked_toast">Startscherm lay-out is vergrendeld.</string>
     <string name="screen_number">%d scherm</string>
-    <string name="search_in_apps_store">Zoeken naar \"%1$s in %2$s</string>
+    <string name="search_in_apps_store">Zoeken naar \"%1$s\" in %2$s</string>
     <string name="search_no_result">Kon geen resultaten vinden</string>
     <string name="select_all">Alles selecteren</string>
     <string name="select_frame">Frame</string>
@@ -408,6 +401,7 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_downloaded">Gedownload</string>
     <string name="status_downloading">Aan het downloaden</string>
     <string name="status_installing">Aan het installeren</string>

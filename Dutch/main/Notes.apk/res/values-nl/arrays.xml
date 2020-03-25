@@ -24,11 +24,11 @@
         <item>Checklists en herinneringen komen van pas wanneer u standaard en effectieve hulpmiddelen nodig heeft voor het plannen van uw volgende reis of het samenstellen van een boodschappenlijstje.</item>
         <item>Notities delen</item>
         <item>U kunt automatisch scroll-screenshots creëren in Notities. Deze kunt u vervolgens met uw vrienden delen.</item>
-        <item>Creëer &amp; schakel tussen mappen</item>
+        <item>Creëer en schakel tussen mappen</item>
         <item>Druk op de pijl hieronder om een ​​nieuwe map te maken of om tussen bestaande mappen te schakelen.</item>
     </string-array>
     <string-array name="folder_operations">
-        <item>Naam wijzigen</item>
+        <item>Hernoemen</item>
         <item>Verwijderen</item>
     </string-array>
     <string-array name="font_size_names">

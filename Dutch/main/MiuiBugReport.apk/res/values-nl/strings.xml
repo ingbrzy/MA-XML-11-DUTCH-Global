@@ -4,6 +4,8 @@
     <string name="action_submit">Verzenden</string>
     <string name="announcement">Let op</string>
     <string name="app_empty">Kon geen apps vinden.</string>
+    <string name="app_label">Feedback</string>
+    <string name="app_name">Feedback</string>
     <string name="app_search">Apps zoeken</string>
     <string name="btn_send">Verzenden</string>
     <string name="bugreport_dialog_not_show_again">Niet meer tonen</string>
@@ -30,6 +32,7 @@
 3. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
     <string name="catch_full_log_item_content_title">Stappen:</string>
     <string name="catch_full_log_item_title_audio">Audio, geluidsopnames en belgeluid</string>
+    <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Vertraging</string>
     <string name="catch_full_log_item_title_gps">Locatieservices</string>
     <string name="catch_full_log_item_title_sensor">Sensoren</string>
@@ -47,12 +50,14 @@
     <string name="catch_full_log_submit_directly">Indienen</string>
     <string name="close_feedback_main">Verberg</string>
     <string name="cta_cancel">Annuleren</string>
+    <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Bugs rapporteren vereist toegang tot het internet. Wilt u doorgaan?</string>
     <string name="cta_dialog_title">Internetverbinding</string>
     <string name="cta_not_show_again">Niet meer tonen</string>
     <string name="customer_service_apply">Vraag klantenservice aan</string>
     <string name="customer_service_complain">Meld klantenservice</string>
     <string name="customer_service_station">Servicelocaties</string>
+    <string name="default_text_view">TextView</string>
     <string name="description">Beschrijf het probleem</string>
     <string name="dialog_ask_delete">Verwijderen</string>
     <string name="dialog_ask_quit">Afsluiten</string>
@@ -60,7 +65,12 @@
     <string name="discard_draft_dialog_button_discard">Verwijderen</string>
     <string name="discard_draft_dialog_content">Alle wijzigingen die u hebt aangebracht in dit rapport zullen verloren gaan.</string>
     <string name="discard_draft_dialog_title">Concepten weggooien?</string>
+    <string name="err_type">Bug type</string>
+    <string name="err_type_app">Apps</string>
     <string name="err_type_appstore">App store</string>
+    <string name="err_type_bluetooth">Bluetooth</string>
+    <string name="err_type_camera">Camera</string>
+    <string name="err_type_hardware">Hardware</string>
     <string name="err_type_hardware_summary">Knoppen, opladen, sensoren, enz.</string>
     <string name="err_type_more">Meer</string>
     <string name="err_type_nonsystemapp">Andere apps</string>
@@ -70,8 +80,10 @@
     <string name="err_type_suggestion">Suggesties</string>
     <string name="err_type_system">Systeem</string>
     <string name="err_type_system_summary">Geheugen, prestatie, enz.</string>
+    <string name="err_type_systemapp">MIUI apps</string>
     <string name="err_type_translate">Taal</string>
     <string name="err_type_wifi">Wifi</string>
+    <string name="err_type_xiaomi_family">Mi Home</string>
     <string name="err_type_xiaomi_service">Klantenservice</string>
     <string name="error_no_connection">Kon niet verbinden met het netwerk</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s probleem \"%2$s\"</string>
@@ -97,7 +109,9 @@
     <string name="feedback_detail_feedback_category">Categorie</string>
     <string name="feedback_detail_feedback_id">Rapporterings-ID: %d</string>
     <string name="feedback_detail_feedback_reply_hint">Beantwoorden</string>
+    <string name="feedback_detail_feedback_summary">Feedback</string>
     <string name="feedback_detail_need_content">Voer eerst inhoud in</string>
+    <string name="feedback_detail_title">Details</string>
     <string name="feedback_detail_upload_generate_log">Logbestanden genereren</string>
     <string name="feedback_detail_upload_image">"Afbeeldingen/video's uploaden"</string>
     <string name="feedback_detail_upload_local_log">Bestand uploaden</string>
@@ -106,6 +120,7 @@
     <string name="feedback_empty_report_list">Nog geen rapporten</string>
     <string name="feedback_guess">Onze gok:</string>
     <string name="feedback_history_remind_login_desc">Meld u aan met uw Mi Account om details weer te geven en de voortgang van uw rapport te zien</string>
+    <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Sleutel: %s</string>
     <string name="feedback_jira_key_place_holder">Een Jira creëren…</string>
     <string name="feedback_package_log_failed">Rapport kon niet gecomprimeerd worden</string>
@@ -142,6 +157,7 @@
     <string name="feedback_status_forum_reply">Beantwoorden</string>
     <string name="feedback_status_get_and_save_bbs_info_failed">Kan URL-bijlage niet ophalen</string>
     <string name="feedback_status_jira_comment">Opmerking toevoegen</string>
+    <string name="feedback_status_more">Details</string>
     <string name="feedback_status_processing">Verwerken…</string>
     <string name="feedback_status_recorded">Feedback ontvangen</string>
     <string name="feedback_status_replyed">Beantwoord</string>
@@ -171,11 +187,14 @@
     <string name="feedback_tracking">Problemen tracken</string>
     <string name="feedback_version_label">Versie</string>
     <string name="feesback_list">Rapporten</string>
+    <string name="first_position">2#</string>
+    <string name="floor">%1$s#</string>
     <string name="from">van %1$s</string>
     <string name="goon_feedback_main">Doorgaan</string>
     <string name="hint_feedback_main">Beschrijf het probleem</string>
     <string name="issue_search">Zoeken</string>
     <string name="kr_authorization_agree">Accepteren</string>
+    <string name="kr_authorization_contact">Accounts</string>
     <string name="kr_authorization_contact_desc">Voor toegang tot Mi Account info om het apparaat te identificeren</string>
     <string name="kr_authorization_exit">Sluiten</string>
     <string name="kr_authorization_function">Feedback indienen, logbestanden genereren, veelgestelde vragen bekijken</string>
@@ -191,6 +210,7 @@
     <string name="kr_authorization_user_protocol">Gebruikersovereenkomst (vereist)</string>
     <string name="loading_apps">Lijst laden…</string>
     <string name="login_system_failed">Kon niet inloggen, probeer het opnieuw</string>
+    <string name="logo_title">Feedback</string>
     <string name="max_error">Uw %1$s moet korter zijn.</string>
     <string name="menu_copy">Kopiëren</string>
     <string name="message_label">Bericht</string>
@@ -199,9 +219,12 @@
     <string name="mi_service_dialog_content">Alle feedback functies zijn verplaatst naar de nieuwe \"Services &amp; feedback\" app. De Feedback app zal van uw Startscherm verwijderd worden. Tik op \"Openen\" om \"Services &amp; feedback\" uit te proberen.</string>
     <string name="mi_service_dialog_title">Nu introducerend: \"Services &amp; feedback\"</string>
     <string name="michat_app_name">Online ondersteuning</string>
+    <string name="michat_artificial_customer_phone">4001005678</string>
     <string name="michat_artificial_customer_phone_dial_error">Als u de 400 hotline niet kunt bellen, bel dan %1$s met een andere telefoon</string>
     <string name="michat_artificial_customer_text">Ondersteuningspersoneel</string>
     <string name="michat_attach_image">Afbeelding</string>
+    <string name="michat_attach_smiley">Emoticon</string>
+    <string name="michat_attach_take_photo">Camera</string>
     <string name="michat_back_to_detail">Ga terug naar chat</string>
     <string name="michat_cant_access_artificial">Ondersteuning kan momenteel niet worden bereikt</string>
     <string name="michat_cant_join_artificial">Verbinding mislukt door een netwerkfout</string>
@@ -271,8 +294,10 @@
     <string name="module_data">Opslag &amp; Dubbele apps</string>
     <string name="module_desktop">Startscherm &amp; instellingen</string>
     <string name="module_finance">Financiën &amp; Mi Wallet</string>
+    <string name="module_google_apps">Google apps</string>
     <string name="module_item_less">Verbergen</string>
     <string name="module_item_more">Meer</string>
+    <string name="module_medias">Media</string>
     <string name="module_more">Meer</string>
     <string name="module_network">Netwerk</string>
     <string name="module_search">Zoeken</string>
@@ -300,12 +325,15 @@
     <string name="network_unavailable_dialog_content">Uw rapport wordt verzonden wanneer u een dataverbinding hebt.</string>
     <string name="network_unavailable_dialog_title">Kan geen verbinding maken met het netwerk</string>
     <string name="non_system_app_select">Gedownloade apps</string>
+    <string name="nothing">--</string>
     <string name="open_feedback_main">Meer</string>
     <string name="packaging_dialog_content">Rapport aanmaken…</string>
     <string name="pic_not_exist">Deze afbeelding bestaat niet</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="plus_one_submit_dialog_content">Uw feedback en de foutlogbestanden zullen naar de Mi servers worden verstuurd.</string>
     <string name="plus_one_submit_dialog_not_show_again">Voorkeuren onthouden</string>
     <string name="post_miui_bbs_failed">Kon niet op het MIUI Forum plaatsen</string>
+    <string name="privacy_category_title">Privacy</string>
     <string name="privacy_policy_title">Privacybeleid</string>
     <string name="pull_to_refresh_pull_label">Trek naar beneden om te vernieuwen</string>
     <string name="pull_to_refresh_refreshing_label">Vernieuwen…</string>
@@ -323,7 +351,10 @@
     <string name="save_pic_fail">Afbeelding kon niet worden opgeslagen, controleer uw SD-kaart</string>
     <string name="save_pic_success">Afbeelding opgeslagen naar %s</string>
     <string name="screen_lock">Schermvergrendeling</string>
+    <string name="second_position">3#</string>
     <string name="section_description">Beschrijving</string>
+    <string name="section_err_type">Bug type</string>
+    <string name="section_screenshot">Screenshot</string>
     <string name="select_system_app_tag">Selecteer een afbeelding</string>
     <string name="submit_dialog_cancel">Niet akkoord</string>
     <string name="submit_dialog_confirm">Akkoord</string>
@@ -337,6 +368,7 @@
     <string name="tab_title_chat">Veelgestelde vragen</string>
     <string name="tab_title_my_reports">Mijn rapporten</string>
     <string name="tab_title_preferences">Instellingen</string>
+    <string name="tab_title_report">Feedback</string>
     <string name="title_answer_feedback_main">We hebben antwoorden gevonden!</string>
     <string name="title_catch_full_log">Logbestanden</string>
     <string name="title_customer_service">Klantenservice</string>
@@ -345,6 +377,7 @@
     <string name="title_mi_family">Mi Homes dichtbij</string>
     <string name="title_nonsystem_app">Andere apps</string>
     <string name="title_same_question_feedback_main">Vergelijkbare problemen op het MIUI Forum</string>
+    <string name="title_system_app">MIUI apps</string>
     <string name="title_user_guide">Handleiding</string>
     <string name="toast_app_tag_required">Selecteer kwestie</string>
     <string name="toast_catch_full_log_catching">U kunt maar één logbestand tegelijk genereren.</string>
@@ -371,6 +404,7 @@
     <string name="toast_screenshot_too_large">"Afbeeldingen of video's groter dan 100MB kunnen niet worden geüpload."</string>
     <string name="toast_third_packagename_required">Vul naam app in</string>
     <string name="toast_title_required">Beschrijf uw probleem</string>
+    <string name="topic_author">1#</string>
     <string name="try_again">Opnieuw proberen</string>
     <string name="upload_log_failed">Kon logbestanden niet verzenden</string>
     <string name="warning_field_empty">Voer %1$s in</string>

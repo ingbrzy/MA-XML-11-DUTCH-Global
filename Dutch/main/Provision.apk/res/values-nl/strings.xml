@@ -35,6 +35,7 @@
     <string name="content_description_start">Start</string>
     <string name="content_introduction">"Het Contentcentrum voegt content en diensten uit verschillende kanalen samen. Hier kunt u artikelen lezen, video's bekijken, dagelijks uitgelichte items zien en aanbevelingen voor content ontvangen."</string>
     <string name="continue_to_enable_accessibility">Blijf twee vingers ingedrukt houden om toegankelijkheid in te schakelen.</string>
+    <string name="data_traffic_enable_dialog_title">Als u nu niet bent verbonden met wifi, gebruikt uw apparaat mobiele gegevens. Het gebruik van mobiele gegevens kan extra providerskosten genereren.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te vergrendelen, Mi Pay-betalingen te verifiëren, of om aan te melden bij apps en services.</string>
@@ -59,7 +60,7 @@
     <string name="font_hint_large">Standaard tekstgrootte</string>
     <string name="font_hint_normal">Tekst vergroten</string>
     <string name="framework_introduction">Dankzij het Mi Services Framework kunt u Mi Account, Mi Push, Mi Stats en MIUI BI gebruiken.</string>
-    <string name="framwork_base_service">Om u deze diensten aan te kunnen bieden, moet het Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) verbinding met internet maken en toegang hebben tot uw telefoonnummer, IMEI en IMSI. Uw apparaat moet ook pushmeldingen kunnen ontvangen</string>
+    <string name="framwork_base_service">Om u deze diensten aan te kunnen bieden, moet het Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) verbinding met internet maken en toegang hebben tot uw locatie, telefoonnummer, IMEI en IMSI. Uw apparaat moet ook pushmeldingen kunnen ontvangen</string>
     <string name="game_introduction">Met de plug-in voor games kunt u inloggen, bestellingen en betalingen doen, coupons gebruiken en meedoen met promotie-evenementen.</string>
     <string name="google_service_introduction">Om normaal te kunnen werken heeft Google Play toegang tot internet en uw locatie nodig, moet audio kunnen opnemen, kunnen bellen en toegang hebben tot kalenderevenementen, sensors, opslag, camera, apparaatinformatie en accounts.</string>
     <string name="ime_privacy_policy">Privacybeleid van geselecteerde toestenbord</string>
@@ -146,6 +147,8 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="permission_virusscan_introduction">Om een virusscan uit te voeren en uw apparaat te optimaliseren</string>
     <string name="permission_xunlei_introduction">Om in te loggen en systeemaccounts te beheren om diensten van Xunlei aan te bieden</string>
     <string name="poco_agree_terms_other">(Inclusief het privacybeleid en de gebruikersovereenkomst van POCO Launcher)</string>
+    <string name="poco_launcher_privacy_policy">POCO Launcher Privacybeleid</string>
+    <string name="poco_launcher_user_agreement">POCO Launcher Gebruikersovereenkomst</string>
     <string name="pref_title_data_slot">Voorkeur SIM-kaart data</string>
     <string name="pref_title_voice_slot">Voorkeur SIM-kaart stem</string>
     <string name="privacy_policy">Privacy Beleid</string>
@@ -214,11 +217,11 @@ U moet met onze Servicevoorwaarden en ons Privacybeleid akkoord gaan voordat u M
     <string name="terms_of_use_label_systemhelper">, Zelf-geregistreerde dienst</string>
     <string name="terms_of_use_label_updater">, Updater</string>
     <string name="terms_of_use_lable_apps">Mi services, Mi SIM activatieservices, Xiaomi Cloud, Apparaat zoeken, Startscherm, Games, MIUI Daemon, MSA systeemcomponenten, vertalingsservices, Snelle apps, App-kluis, statistieken, Mi Link</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">"r
-r
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
+
 U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruikmaakt."</string>
-    <string name="terms_of_use_lable_default_input_method_kika">"r
-r
+    <string name="terms_of_use_lable_default_input_method_kika">"
+
 U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruik kan maken."</string>
     <string name="terms_of_use_lable_gms">, Google Play diensten</string>
     <string name="terms_of_use_lable_smart_cards">, Smartcards</string>
@@ -227,7 +230,7 @@ U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebru
     <string name="terms_privacy_policy_input_method_kika">Kika Privacybeleid</string>
     <string name="title_fingerprint">Wachtwoord instellen</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
-    <string name="user_agreement_declare">Voordat u MIUI kunt gebruiken, moet u onze gebruikersovereenkomst en ons privacybeleid lezen en daar akkoord mee gaan. Terwijl uw apparaat wordt geactiveerd, zullen Mi SIM Activatieservice, Startscherm, Veelgebruikte zinnen, Vertaalservice, MIUI Daemon en Updater verbinding met het netwerk maken. MSA zal verbinding met het netwerk maken en toegang tot uw locatie krijgen.</string>
+    <string name="user_agreement_declare">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en Privacybeleid lezen en ermee akkoord gaan. Terwijl uw apparaat wordt geactiveerd, zullen Mi SIM activatieservices, Xiaomi Cloud, Apparaat zoeken, Startscherm, Veel gebruikte zinnen, Vertaalservice, MIUI Daemon, HTML Viewer, AI Assistent, Batterij en prestaties, Power Detector, Joyose, OS AI Instelling en Updater verbinden met het netwerk. Smart services zal verbinding met het netwerk maken en toegang tot uw locatie krijgen.</string>
     <string name="voice_assist_advice">Mi AI maakt het voor u mogelijk om spraakbesturing te gebruiken, maar verbruikt meer batterij (+1% per uur).</string>
     <string name="voice_assist_condition">"U kunt Mi AI in al deze gevallen gebruiken: r
 1. Wanneer het scherm aanstaat. Wanneer u naar muziek luistert met uw scherm aan."</string>

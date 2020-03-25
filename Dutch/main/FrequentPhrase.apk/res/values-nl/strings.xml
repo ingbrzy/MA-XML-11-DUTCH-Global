@@ -9,5 +9,6 @@
     <string name="menu_add_frequent_phrases">Toevoegen</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_edit">Bewerken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sync_phrase_label">Veelgebruikte zinnen</string>
 </resources>

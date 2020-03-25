@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="alert_message_clear_records">Geselecteerde opnames verwijderen?</string>
     <string name="alert_message_delete_local_record">Deze opname verwijderen?</string>
     <string name="alert_message_delete_record">Verwijderen van de opname van het apparaat zal deze opname ook verwijderen van Xiaomi Cloud. Nu verwijderen?</string>
@@ -233,10 +260,10 @@
     <string name="reg_error_server">Er is een serverfout opgetreden. Meld het bij ons en probeer het opnieuw.</string>
     <string name="reg_error_upload_audio">Kon bestand niet uploaden. Probeer opnieuw.</string>
     <string name="reg_error_upload_order">Kon niet uploaden. Probeer opnieuw.</string>
-    <string name="rename">Naam wijzigen</string>
+    <string name="rename">Hernoemen</string>
     <string name="rename_dialog_title">Opname hernoemen</string>
     <string name="rename_duplicate">Een andere opname met dezelfde naam bestaat al.</string>
-    <string name="rename_fail_tip">Hernoemen niet gelukt. Een item met deze naam bestaat al.</string>
+    <string name="rename_fail_tip">Kon niet hernoemen. Een item met deze naam bestaat al.</string>
     <string name="rename_no_more_tip">Niet meer tonen</string>
     <string name="retry">Probeer het opnieuw</string>
     <string name="runtime_permission_ungranted">Recorder kan niet worden gebruikt door niet toegewezen toestemmingen</string>
@@ -246,6 +273,7 @@
     <string name="search_hint">Zoeken</string>
     <string name="search_led_indicator">Vergrendelingsscherm meldingen</string>
     <string name="search_led_indicator_prompt">Statusbalk snelkoppeling en pulse meldingslicht weergeven op Vergrendelscherm tijdens opnemen</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="search_quliaty_title">Opname kwaliteit</string>
     <string name="search_scenes">Opname type</string>
     <string name="search_silent_mode">Demp de beltoon tijdens het opnemen</string>
@@ -261,6 +289,7 @@
     <string name="speech_recognition_running_tip">"Verwerken "</string>
     <string name="start">Hervatten</string>
     <string name="status_bar_back">Tik om terug te keren naar Recorder</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Aan het opnemen…</string>
     <string name="status_bar_recording_pause">Opname gepauzeerd</string>
     <string name="text_btn_backward_3_seconds">3 seconden terug</string>

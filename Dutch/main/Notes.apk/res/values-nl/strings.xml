@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="action_folder_description">Mappen bekijken</string>
     <string name="action_mode_switcher_grid_description">Rasterweergave</string>
     <string name="action_mode_switcher_list_description">Lijstweergave</string>
@@ -25,6 +52,7 @@
     <string name="application_icon">App-icoon</string>
     <string name="audio_create_normal_state">Laat los om te creëren. Schuif omhoog om te annuleren.</string>
     <string name="audio_create_will_cancel_state">Laat los om te annuleren</string>
+    <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Audiobestand is ongeldig</string>
     <string name="audio_toast_file_undownload">Audiobestand is niet volledig gedownload of ontbreekt</string>
     <string name="audio_toast_network_is_not_available">Kon niet verbinden met het netwerk</string>
@@ -35,12 +63,18 @@
     <string name="cloud_trash_bin_title">Verwijderde notities in de cloud</string>
     <string name="confirm_cancel">Niet akkoord</string>
     <string name="confirm_ok">Akkoord</string>
+    <string name="copy">Kopiëren</string>
     <string name="cta_confirm_cancel">Niet toestaan</string>
     <string name="cta_confirm_ok">Toestaan</string>
     <string name="cta_dialog_message">Notities heeft toestemmingen nodig om verbinding met het internet te maken, audio op te nemen en contacten te kunnen lezen om normaal te werken. Toestaan?</string>
     <string name="cta_dialog_title">Toestemmingen vereist</string>
     <string name="cta_reminder">Notities heeft toestemmingen nodig om verbinding met het internet te maken, audio op te nemen en contacten te kunnen lezen om normaal te werken. Toestaan?</string>
+    <string name="data_empty_note">Nog geen notities hier</string>
+    <string name="data_empty_todo">Nog geen taken hier</string>
     <string name="date_calculate_today">0 dagen</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
     <string name="date_time_picker_alarm_reminder">Wekker</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_time_picker_has_not_set_alarm">Alarm niet ingesteld</string>
@@ -53,7 +87,7 @@
     <string name="dialog_share_as_pic">Notitie als afbeelding delen</string>
     <string name="dialog_share_as_text">Notitie als tekst delen</string>
     <string name="dlg_btn_set_password">Wachtwoord instellen</string>
-    <string name="dlg_check_reminder">Niet meer weergeven</string>
+    <string name="dlg_check_reminder">Niet meer tonen</string>
     <string name="dlg_delete_message">Verwijderen…</string>
     <string name="dlg_hide_message">Verbergen…</string>
     <string name="dlg_info_creating_message">Afbeelding maken…</string>
@@ -74,6 +108,7 @@
     <string name="edit_header_lock_description">Verborgen notitie</string>
     <string name="empty_folder_import_notes">Notities importeren</string>
     <string name="empty_folder_no_notes">Geen notities hier</string>
+    <string name="enable_sync">Sync</string>
     <string name="enable_sync_desc">Uw notities synchroniseren met uw Mi Account (%1$s)?</string>
     <string name="error_contact_not_exist">Het contact bestaat niet</string>
     <string name="error_hide_empty_note">Kan een lege notitie niet verbergen</string>
@@ -85,10 +120,13 @@
     <string name="error_unsupport_content">Deze notitie bevat niet-ondersteunde inhoud, tik hier om bij te werken</string>
     <string name="error_widget_exist_for_send_to_desktop">Deze notitie staat al op uw Startscherm</string>
     <string name="exceed_todo_text_limitation">Taakbeschrijving is te lang.</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="first_enter_custom_folder_hint">U kunt hier mappen hernoemen of verwijderen</string>
+    <string name="fmt_chinese_date">N e</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="folder_exist">Er bestaat reeds een map met deze naam</string>
     <string name="folder_operation_delete">Verwijderen</string>
-    <string name="folder_operation_rename">Naam wijzigen</string>
+    <string name="folder_operation_rename">Hernoemen</string>
     <string name="force_touch_menu_add">Notitie toevoegen</string>
     <string name="format_move_note_out_folder">Deze notitie is verplaatst</string>
     <string name="format_move_note_to_folder">Verplaatst naar %1$s</string>
@@ -98,7 +136,7 @@
     <string name="hint_foler_name">Naam</string>
     <string name="info_note_enter_desktop">Toegevoegd aan het Startscherm</string>
     <string name="loading_text">Een ogenblik geduld…</string>
-    <string name="login_sync">Inloggen &amp; sync</string>
+    <string name="login_sync">Inloggen en sync</string>
     <string name="lunar_day">Maan %1$s</string>
     <string name="menu_add_audio_description">Spraaknotitie toevoegen</string>
     <string name="menu_add_description">Notitie toevoegen</string>
@@ -130,6 +168,7 @@
     <string name="new_audio_create_guide_tip">Houd ingedrukt om een spraaknotitie te maken</string>
     <string name="new_audio_create_talkback_des">Tik om een tekstnotitie te maken. Houd ingedrukt om een spraaknotitie te maken. Laat de knop los om de opname te stoppen en de notitie te maken, of schuif omhoog om te annuleren.</string>
     <string name="not_now">Niet nu</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="note_description_content">De Notities app is een geweldig middel voor het bijhouden van uw ideeën. Het heeft ingebouwde herinneringen en synchroniseert uw items met de cloud zodat u ze overal en altijd kunt bereiken. Zorg ervoor dat u zonder deze functies kunt voordat u de installatie van de app ongedaan maakt.</string>
     <string name="note_description_title">Over Notities</string>
     <string name="note_link_email">E-mail opstellen</string>
@@ -140,6 +179,8 @@
     <string name="note_sort_way">Selecteer hoe u uw notities wilt sorteren</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
+    <string name="notelist_string_info">…</string>
+    <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
     <string name="notify_alarm_title">Notitie herinnering</string>
     <string name="permdesc_accessNote">Kwaadaardige apps kunnen dit gebruiken om toegang te krijgen tot uw persoonlijke gegevens.</string>
     <string name="permission_get_account_desc">Notities synchroniseren met de cloud</string>
@@ -163,13 +204,15 @@
     <string name="pref_title_show_root_folder_in_homepage">Toon alleen snelle notities op de startpagina</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Verwijderen met een gebaar</string>
     <string name="pref_title_todo_float_mode">Taken toolbox gebruiken</string>
+    <string name="pref_title_todo_shorcut">Toolbox</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_note_content_empty">Nog geen items hier.</string>
     <string name="recover_notes_hint">Er is een fout opgetreden, ga naar i.mi.com om notities te herstellen.</string>
     <string name="redo">Opnieuw doen</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Wacht tot de notitie is geladen en probeer het opnieuw.</string>
     <string name="refuse_to_share_as_pic_because_of_content">Deze notitie is te groot om te delen.</string>
     <string name="remind_title">Herinneringen</string>
-    <string name="rename_folder_dialog_tile">Naam van map wijzigen</string>
+    <string name="rename_folder_dialog_tile">Map hernoemen</string>
     <string name="repeat_mode_day">Elke dag</string>
     <string name="repeat_mode_default">Nooit</string>
     <string name="repeat_mode_dialog_title">Herhalen</string>
@@ -184,7 +227,7 @@
     <string name="repeat_mode_set_item_week_detail">Iedere week (%s)</string>
     <string name="repeat_mode_set_item_year">Elk jaar (%s)</string>
     <string name="repeat_mode_set_item_year_detail">Elk jaar (%s)</string>
-    <string name="repeat_mode_set_item_year_detail_day">dd-MM</string>
+    <string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
     <string name="repeat_mode_set_title">Herhalen</string>
     <string name="repeat_mode_week">Iedere week</string>
     <string name="repeat_mode_year">Elk jaar</string>
@@ -203,6 +246,7 @@
     <string name="search_hint">Notities zoeken</string>
     <string name="search_keyword_notes">Notities;Memo</string>
     <string name="search_label">Zoeken…</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="search_path_notes">Systeem-apps/Notities</string>
     <string name="search_setting_description">Zoek tekst in uw notities</string>
     <string name="select_account_prompt">Notities synchroniseren</string>
@@ -227,6 +271,8 @@
     <string name="sns_title_send">Verstuur bericht</string>
     <string name="sns_toast_empty">Kan geen leeg bericht verzenden</string>
     <string name="sns_toast_over_limit">Versturen als afbeelding</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_tips">Tik om notities met de cloud te synchroniseren.</string>
     <string name="theme_blue_description">Blauw</string>
     <string name="theme_green_description">Groen</string>
@@ -245,6 +291,7 @@
     <string name="theme_white_description">Wit</string>
     <string name="theme_yellow_description">Geel</string>
     <string name="time_picker_label_hour">U</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="toast_cancel_to_insert_image">Kon afbeelding niet toevoegen.</string>
     <string name="toast_message_add_image_fail">Kon afbeelding niet toevoegen</string>
     <string name="toast_notes_delete_success">Succesvol verwijderd</string>
@@ -267,7 +314,7 @@ Sta Notities toe de telefoonstatus en identiteit te lezen."</string>
 Sta Notities toe om audio op te nemen."</string>
     <string name="todo_alert_title_delete">Voltooide taken verwijderen</string>
     <string name="todo_audio_default_content">"[Spraaktaak] "</string>
-    <string name="todo_custom_remind_tag_pattern_with_md">dd-MM HH:mm</string>
+    <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">dd-MM-yyyy HH:mm</string>
     <string name="todo_edit_audio_hint">Zeg uw taak</string>
     <string name="todo_edit_btn_cancel_remind">Herinnering annuleren</string>
@@ -286,6 +333,7 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="todo_float_permission_open_reminder">Sta Notities toe om zwevende vensters in andere apps te weergeven om deze functie te gebruiken.</string>
     <string name="todo_item_group_expired">Verlopen</string>
     <string name="todo_item_group_finished">Voltooid</string>
+    <string name="todo_item_group_further">Later</string>
     <string name="todo_item_group_today">Vandaag</string>
     <string name="todo_item_group_tomorrow">Morgen</string>
     <string name="todo_item_group_unschedule">Niet gepland</string>
@@ -299,8 +347,10 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="todo_module_name">Taken</string>
     <string name="todo_notify_alarm_title">Taakherinnering</string>
     <string name="todo_schedule_time_expired">" (Verlopen)"</string>
-    <string name="todo_schedule_time_md">dd-MM</string>
-    <string name="todo_schedule_time_mdhm">dd-MM HH:mm</string>
+    <string name="todo_schedule_time_for_picker_hm">H mm</string>
+    <string name="todo_schedule_time_hm">HH:mm</string>
+    <string name="todo_schedule_time_md">dd/MM</string>
+    <string name="todo_schedule_time_mdhm">dd/MM HH:mm</string>
     <string name="todo_schedule_time_repeat_day">, elke dag</string>
     <string name="todo_schedule_time_repeat_month">, elke maand</string>
     <string name="todo_schedule_time_repeat_normal_workday">, Maandag tot vrijdag</string>
@@ -318,6 +368,7 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="todo_user_guide_tip3">Tik op een teksttaak om deze te bewerken.</string>
     <string name="todo_user_guide_tip4">Vergeet geen Startscherm snelkoppeling te creëren voor Taken.</string>
     <string name="todo_user_guide_tip5">Blijf op de hoogte en mis niets belangrijks!</string>
+    <string name="todoalert_done">OK</string>
     <string name="toolbar_check_description">Selectievakje toevoegen</string>
     <string name="toolbar_delete_description">Deze notitie verwijderen</string>
     <string name="toolbar_gallery_description">Afbeelding toevoegen</string>
@@ -332,6 +383,8 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="unclassfied_folder_name">Ongecategoriseerd</string>
     <string name="undo">Ongedaan maken</string>
     <string name="unknown_source">Onbekende bron</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="widget_content_loading">Een ogenblik geduld…</string>
     <string name="widget_havenot_content">Tik om een notitie te maken. Houd de widget ingedrukt om de grootte aan te passen.</string>
 </resources>

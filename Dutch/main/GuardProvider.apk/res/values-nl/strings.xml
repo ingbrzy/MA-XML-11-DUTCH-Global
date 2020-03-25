@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AVL">AVL</string>
+    <string name="Avast">Avast</string>
+    <string name="DesAVL">AVL</string>
+    <string name="DesAvast">Avast</string>
+    <string name="DesMi">Mi</string>
+    <string name="DesTencent">Tencent</string>
+    <string name="Mi">Mi</string>
+    <string name="Tencent">Tencent</string>
     <string name="app_name">MIUI beveiligingscomponenten</string>
+    <string name="avast_dialog_cloudscan" />
+    <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">Deze functie versleutelt en uploadt het ID van uw apparaat naar de server van Avast (%s).</string>
     <string name="avast_dialog_policy">Privacybeleid</string>
     <string name="avast_dialog_title">Privacybeleid van Avast</string>
+    <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
     <string name="avast_virus_type_adware_description">Dit virus is een adware. Het genereert automatisch reclame.</string>
     <string name="avast_virus_type_cryportor_description">Dit virus is een cryptor. Dit is kwaadaardige software die verspreidt door zichzelf in opslaglocaties te kopiëren.</string>
     <string name="avast_virus_type_dropper_description">Dit virus is een dropper. Het bevat code welke andere kwaadaardige virussen installeert.</string>
@@ -18,9 +29,12 @@
     <string name="avast_virus_type_trjan_description">Dit virus is een trojaans paard. Het is malware die ontworpen is om op afstand ongeautoriseerde toegang tot een apparaat te krijgen. Trojaanse paarden kunnen zich normaal niet vermenigvuldigen zoals virussen, maar ze kunnen er wel toe leiden tot de installatie van andere malware op uw apparaat, diefstal van data of andere kwaadwillende activiteiten.</string>
     <string name="avast_virus_type_unknown_description">Onbekend infectietype.</string>
     <string name="avast_virus_type_worm_description">Dit virus is een worm. Het is een op zichzelf staande vorm van malware die zichzelf vermenigvuldigt om zich te verspreiden naar andere apparaten. Het maakt misbruik van bestanden of andere informatie overdrachtsfuncties van uw systeem (zoals netwerken), het kan zich verspreiden zonder menselijke invloed. Wormen veroorzaken bijna altijd wel schade aan het netwerk.</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">Deze functie versleutelt en uploadt het ID van uw apparaat naar de server van AVL (%s).</string>
     <string name="avl_dialog_policy">Privacybeleid</string>
     <string name="avl_dialog_title">Privacybeleid van AVL</string>
+    <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">Hallo wereld!</string>
     <string name="menu_settings">Instellingen</string>
     <string name="tencent_dialog_cloudscan">Upload en scan namen van apps en details door online virusdefinities te gebruiken.</string>
@@ -28,4 +42,6 @@
     <string name="tencent_dialog_header">Deze functie versleutelt en upload het ID van uw apparaat naar de server van Tencent (%s).</string>
     <string name="tencent_dialog_policy">Privacybeleid</string>
     <string name="tencent_dialog_title">Privacybeleid van Tencent</string>
+    <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>

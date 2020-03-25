@@ -83,6 +83,7 @@
     <string name="handy_mode_summary">Tik op de donkere ruimte om af te sluiten</string>
     <string name="handy_mode_title">Eén-hand modus</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">Plaats uw vinger op de home knop</string>
+    <string name="input_method_clipboard_tips">Gekopieerde items worden na 48 uur van het klembord verwijderd</string>
     <string name="input_method_edit_phrase_text">Veelgebruikte zinnen bewerken</string>
     <string name="input_method_no_content_text">Nog niets om weer te geven</string>
     <string name="input_method_switch_settings_text">Toetsenbord instellingen</string>

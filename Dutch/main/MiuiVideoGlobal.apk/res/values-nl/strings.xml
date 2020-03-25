@@ -111,6 +111,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
     <string name="cast_notification_connecting_message">Verbinden met %1$s</string>
@@ -142,6 +143,9 @@
     <string name="choose_to_signup">Nee, ik maak er een</string>
     <string name="click_to_reload_more">Tik om meer te laden</string>
     <string name="click_to_retry">Opnieuw proberen</string>
+    <string name="cloud_online_switch">Gepersonaliseerde aanbevelingen</string>
+    <string name="cloud_online_switch_close_time">U kunt gepersonaliseerde inhoudsaanbevelingen inschakelen in %s</string>
+    <string name="cloud_online_switch_open_time">Toon aanbevelingen voor gepersonaliseerde inhoud</string>
     <string name="collect_diagnosis_log">Logbestanden verzamelen</string>
     <string name="com_facebook_device_auth_instructions">Ga naar &lt;b>facebook.com/device&lt;/b> en voer de bovenstaande code in.</string>
     <string name="com_facebook_image_download_unknown_error">Onverwachte fout bij downloaden van afbeelding.</string>
@@ -149,7 +153,7 @@
     <string name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
     <string name="com_facebook_like_button_liked">Vind ik leuk</string>
     <string name="com_facebook_like_button_not_liked">Vind ik leuk</string>
-    <string name="com_facebook_loading">Laden...</string>
+    <string name="com_facebook_loading">Laden…</string>
     <string name="com_facebook_loginview_cancel_action">Annuleren</string>
     <string name="com_facebook_loginview_log_in_button">Aanmelden</string>
     <string name="com_facebook_loginview_log_in_button_continue">Doorgaan met Facebook</string>
@@ -171,6 +175,7 @@
     <string name="comment_model_add_comment">Opmerking toevoegen</string>
     <string name="comment_model_bg_add_comment">Deel uw mening met onze community</string>
     <string name="comment_model_bg_deleted_comment">Deze opmerking is verwijderd</string>
+    <string name="comment_model_close">Commentaar geven is nu niet beschikbaar. Blijf op de hoogte!</string>
     <string name="comment_model_comment">Opmerkingen</string>
     <string name="comment_model_confirm_delete">Opmerking verwijderen nu?</string>
     <string name="comment_model_copy">Kopiëren</string>
@@ -225,7 +230,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_revoke_privacy_info_new2">Nadat u de toestemming intrekt zal de app stoppen met het verzamelen van gegevens en zullen alle gerelateerde gegevens van onze servers worden verwijderd. Dit kan ervoor zorgen dat de app zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
     <string name="dialog_revoke_privacy_title">Toestemming intrekken</string>
     <string name="diy_channels_tips">U kunt nu uw kanalenlijst aanpassen.</string>
-    <string name="do_not_show_again">Niet meer weergeven</string>
+    <string name="do_not_show_again">Niet meer tonen</string>
     <string name="empty_channels">Kanalen beheren</string>
     <string name="empty_subscribe">U heeft zich nog nergens op geabonneerd.</string>
     <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een andere Mi account.</string>
@@ -328,9 +333,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="gallery_video_music_format_error">Kan geen soundtrack toevoegen aan de geselecteerde video</string>
     <string name="gallery_video_music_text">Soundtrack</string>
     <string name="gallery_video_no_music_text">Geen</string>
-    <string name="gallery_video_operate_text">Slowmotion aanpassingen</string>
+    <string name="gallery_video_operate_text">Slow motion aanpassingen</string>
     <string name="gallery_video_save_video">Video creëren…</string>
-    <string name="gallery_video_slow_edit">Slowmotion</string>
+    <string name="gallery_video_slow_edit">Slow motion</string>
     <string name="gallery_view_tags">Tekens tonen</string>
     <string name="get_back_pwd">Wachtwoord resetten</string>
     <string name="get_ph_ticket">Haal code op</string>
@@ -358,6 +363,7 @@ voor video's"</string>
     <string name="language_setting_tips">Selecteer uw voorkeurstaal om relevantere inhoudsaanbevelingen te ontvangen. U kunt uw taalvoorkeur wijzigen in Profiel > Taal.</string>
     <string name="language_setting_tips_dialog">U kunt taalvoorkeuren voor inhoud selecteren in Account > Taal.</string>
     <string name="later">Later</string>
+    <string name="live_tv_title">Live TV</string>
     <string name="loading">Een ogenblik geduld…</string>
     <string name="local_push_title">Vandaag populair</string>
     <string name="login">Aanmelden</string>
@@ -399,7 +405,7 @@ voor video's"</string>
     <string name="lv_deleting">Verwijderen…</string>
     <string name="lv_device_list">Apparaten</string>
     <string name="lv_device_list_seaching">&lt;Geen apparaat om te casten></string>
-    <string name="lv_do_not_show_this_again">Niet meer weergeven</string>
+    <string name="lv_do_not_show_this_again">Niet meer tonen</string>
     <string name="lv_favor">Favorieten</string>
     <string name="lv_find_new_version">Er is een update beschikbaar</string>
     <string name="lv_find_videos">"Zoek opnieuw naar video's"</string>
@@ -531,7 +537,8 @@ voor video's"</string>
     <string name="no_phone">Geen telefoonnummer</string>
     <string name="no_recommend_data">"Geen aanbevolen video's nu"</string>
     <string name="no_subscriptions">Niets om te weergeven</string>
-    <string name="not_show">Niet meer weergeven</string>
+    <string name="not_show">Niet meer tonen</string>
+    <string name="not_support_share">Kan dit item momenteel niet delen</string>
     <string name="notice_comment_action">%s heeft gereageerd op uw bericht</string>
     <string name="notice_comment_action_deleted">Deze opmerking is verwijderd</string>
     <string name="notice_feedback_content">Er is een update van uw feedback. Tik om te bekijken.</string>
@@ -540,6 +547,7 @@ voor video's"</string>
     <string name="notice_title">Berichten</string>
     <string name="notify_apk_installed">Succesvol gedownload</string>
     <string name="ok">OK</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="ovp_alert_dialog_download_install_task">HD plug-in downloaden…</string>
@@ -614,12 +622,12 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="ovp_search_key_not_null">Vul trefwoorden in om te zoeken</string>
     <string name="ovp_select_ci">Aflevering selecteren</string>
     <string name="ovp_select_related_video">"Gerelateerde video's"</string>
-    <string name="ovp_setting_clear_cache_success">Cache succesvol gewist</string>
-    <string name="ovp_setting_clear_cache_text">Wis cachebestanden die op uw apparaat zijn opgeslagen</string>
+    <string name="ovp_setting_clear_cache_success">Succesvol cache gewist</string>
+    <string name="ovp_setting_clear_cache_text">Wis cache bestanden die op uw apparaat zijn opgeslagen</string>
     <string name="ovp_setting_clear_cache_title">Cache wissen</string>
     <string name="ovp_setting_privacy_policy_title">Privacybeleid</string>
     <string name="ovp_setting_privacy_switch_tips">Sommige functies zullen niet beschikbaar zijn als u uw toestemming intrekt</string>
-    <string name="ovp_setting_privacy_switch_title">Toestemming &amp; intrekking</string>
+    <string name="ovp_setting_privacy_switch_title">Toestemming en intrekking</string>
     <string name="ovp_setting_version_info_title">Versie</string>
     <string name="ovp_start_error_msg">Deze video kan niet worden afgespeeld</string>
     <string name="ovp_video_bad_network_condition">Kon niet verbinden met het netwerk.</string>
@@ -751,7 +759,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_gallery_mediatype_aimusic">Soundtracks</string>
     <string name="plus_gallery_mediatype_changtu">Lange afbeeldingen</string>
     <string name="plus_gallery_mediatype_fangtu">Vierkante afbeeldingen</string>
-    <string name="plus_gallery_mediatype_fastslowvideo">Time-lapse &amp; slo-mo</string>
+    <string name="plus_gallery_mediatype_fastslowvideo">Time-lapse en slo-mo</string>
     <string name="plus_gallery_mediatype_gif">Gifs</string>
     <string name="plus_gallery_mediatype_hidded">Verborgen items</string>
     <string name="plus_gallery_mediatype_longvideo">"Lange video's"</string>
@@ -912,6 +920,10 @@ De beveiliging van uw account verbeteren."</string>
     <string name="save_cancel_toast">Tik opnieuw op \"Terug\" om het opslaan van de video te annuleren</string>
     <string name="screenrecord_cancel">Compatibiliteitsproblemen</string>
     <string name="screenrecord_nosupport_record">Schermrecorder wordt momenteel niet ondersteund op dit apparaat.</string>
+    <string name="screenshot_8k">8K screenshot</string>
+    <string name="screenshot_8k_save_toast">8K screenshot opgeslagen in %s</string>
+    <string name="screenshot_8k_saving">8K screenshot opslaan…</string>
+    <string name="screenshot_8k_share">Stuur bestand naar</string>
     <string name="search">Zoeken</string>
     <string name="search_choose_language">Selecteer taal</string>
     <string name="search_choose_voice_language">Selecteer de taal gebruikt voor spraakgestuurd zoeken</string>
@@ -939,6 +951,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>

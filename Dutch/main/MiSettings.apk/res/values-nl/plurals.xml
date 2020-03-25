@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="last_several_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_equal">
+        <item quantity="other">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
+        <item quantity="one">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_less">
+        <item quantity="other">%2$s minder schermtijd vandaag dan uw %1$d-dag gemiddelde</item>
+        <item quantity="one">%2$s minder schermtijd vandaag dan uw %1$d-dag gemiddelde</item>
+    </plurals>
+    <plurals name="trend_from_last_several_day_more">
+        <item quantity="other">%2$s vandaag meer schermtijd dan uw %1$d-dag gemiddelde</item>
+        <item quantity="one">%2$s vandaag meer schermtijd dan uw %1$d-dag gemiddelde</item>
+    </plurals>
+    <plurals name="unlock_times">
+        <item quantity="other">%.2f keren</item>
+        <item quantity="one">%.2f keer</item>
+    </plurals>
+    <plurals name="usage_days">
+        <item quantity="other">%d dagen</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d keer ontgrendeld</item>
         <item quantity="one">%d keer ontgrendeld</item>
@@ -15,6 +39,10 @@
     <plurals name="usage_state_device_noti_explain_week">
         <item quantity="other">%d meldingen ontvangen</item>
         <item quantity="one">%d melding ontvangen</item>
+    </plurals>
+    <plurals name="usage_state_focus_usage_summary">
+        <item quantity="other">%d minuten is een grote stap in de richting van mindfulness en concentratie.</item>
+        <item quantity="one">%d minuut is een grote stap in de richting van mindfulness en concentratie.</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d uur</item>

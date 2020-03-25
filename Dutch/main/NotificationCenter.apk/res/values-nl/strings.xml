@@ -13,8 +13,10 @@
     <string name="hint_search_all">Zoek naar apps</string>
     <string name="hint_search_in_disabled_apps">Zoek naar apps die geen meldingen kunnen weergeven</string>
     <string name="hint_search_in_enabled_apps">Zoek naar apps die meldingen kunnen weergeven</string>
+    <string name="last_sent_time_second">Zojuist</string>
     <string name="list_title_disable_notification">Meldingen zijn niet toegestaan</string>
     <string name="loading">Een ogenblik geduld…</string>
+    <string name="lock_screen_display_rules">Format</string>
     <string name="lock_screen_tip_toast">Sta Vergrendelscherm meldingen toe in \"Format\"</string>
     <string name="lockscreen_notifications">Vergrendelscherm-meldingen</string>
     <string name="not_sent_recently">Niet recent</string>
@@ -24,10 +26,13 @@
     <string name="notification_fold_summary">Alle onbelangrijke meldingen zullen in een aparte map verschijnen</string>
     <string name="notification_fold_title">Meldingen-map</string>
     <string name="notification_manager">App-meldingen</string>
+    <string name="notification_style_android">Android</string>
+    <string name="notification_style_miui">MIUI</string>
     <string name="off">Uit</string>
     <string name="on">Aan</string>
     <string name="settings_guide_title">Andere instellingen nodig?</string>
     <string name="show_badge_notifications">Notificatiebadges</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Statusbalk</string>
     <string name="summary_disable_float_notification">Zwevende meldingen zijn niet toegestaan</string>
     <string name="summary_disable_lockscreen_notification">Vergrendelscherm-meldingen zijn niet toegestaan</string>

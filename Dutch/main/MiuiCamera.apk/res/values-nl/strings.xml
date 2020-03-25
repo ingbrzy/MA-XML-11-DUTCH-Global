@@ -21,6 +21,7 @@
     <string name="accessibility_camera_record_start">Opname gestart</string>
     <string name="accessibility_camera_record_stop">Opname gestopt</string>
     <string name="accessibility_camera_shutter_finish">Succesvol een foto gemaakt</string>
+    <string name="accessibility_camera_switch_capture_recording">Schakel tussen foto- en videomodi</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Volledig lichaammodus staat uit</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Volledig lichaammodus staat aan</string>
     <string name="accessibility_camera_video_960fps_120">120FPS</string>
@@ -71,14 +72,17 @@
     <string name="accessibility_video_pause_button">Opname gepauzeerd</string>
     <string name="accessibility_video_resume_button">Opname hervat</string>
     <string name="accessibility_zoom_button">Zoommodus</string>
-    <string name="ai_scene_mode_use_hint_text">"De AI-camera detecteert automatisch scènes
-en optimaliseert uw foto's op basis van deze informatie"</string>
+    <string name="ai_scene_mode_use_hint_text">"Scènes herkennen met AI
+en voorkeuren automatisch aanpassen"</string>
     <string name="ai_scene_top_moon_off">Weinig licht modus</string>
     <string name="ai_scene_top_tip">Maanmodus</string>
     <string name="audio_focus_exit_button_text">Audio focus uitschakelen</string>
     <string name="autozoom_click_hint">Tik op een object om op dit object te blijven focussen terwijl het beweegt. Houd ten minste 3 meter afstand voor het beste effect.</string>
     <string name="autozoom_disabled_hint">Gestopt met het volgen van bewegend object</string>
     <string name="autozoom_hint">Volg bewegend object</string>
+    <string name="auxiliary_close_status">Extra effecten zijn uitgeschakeld</string>
+    <string name="auxiliary_exposure_feedback_status">Belichtingsverificatie staat aan</string>
+    <string name="auxiliary_focus_peak_status">Focus peaking staat aan</string>
     <string name="back_bokeh_use_hint">Plaats uw object binnen een straal van 1.5 meter voor het beste effect</string>
     <string name="beauty_body">Figuur</string>
     <string name="beauty_body_body">Slank</string>
@@ -112,6 +116,7 @@ en optimaliseert uw foto's op basis van deze informatie"</string>
     <string name="camera_liveshot_on_tip">Dynamische opnames</string>
     <string name="camera_mode_options">Modi</string>
     <string name="camera_setting">Camera</string>
+    <string name="camera_settings_category_development">Experimentele functies</string>
     <string name="camera_settings_label">Camera</string>
     <string name="camera_snap_mode_title">Snelle foto modus</string>
     <string name="camera_snap_mode_title_detail">Tik om details te bekijken</string>
@@ -159,7 +164,7 @@ en optimaliseert uw foto's op basis van deze informatie"</string>
     <string name="confirm_install_scanner_message">Scanner maakt het mogelijk om QR-codes, barcodes en meer te scannen. U heeft geen internetverbinding nodig om het te installeren.</string>
     <string name="confirm_install_scanner_title">Scanner installeren</string>
     <string name="confirm_location_alert">"Locatie's van foto's onthouden"</string>
-    <string name="confirm_location_message">"Tag uw foto's en video's met de locaties waar ze zijn genomen. Andere apps kunnen toegang krijgen tot deze informatie en uw opgeslagen afbeeldingen."</string>
+    <string name="confirm_location_message">"&lt;Data>Welkom bij Camera! Door uw foto's en video's te taggen met de locaties waar ze zijn gemaakt, wordt uw Galerij overzichtelijker en kunt u items sneller vinden. Sommige functies zijn mogelijk niet beschikbaar als u het toevoegen van locatiegegevens beperkt.&lt;br/>&lt;br/>We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;/Data>"</string>
     <string name="confirm_location_title">"Locaties van foto's onthouden?"</string>
     <string name="confirm_recording_fail_calling_alert">Kan niet opnemen tijdens een gesprek.</string>
     <string name="confirm_recording_fail_recorder_busy_alert">Een andere app gebruikt de microfoon van het apparaat wellicht al om een opname te maken.</string>
@@ -298,9 +303,11 @@ in Portretmodus"</string>
     <string name="live_sticker_fragment_tab_name">TikTok effecten</string>
     <string name="live_sticker_network_error_hint">Netwerkfout</string>
     <string name="live_sticker_updating">Bijwerken…</string>
+    <string name="location_access_allow">Toestaan</string>
     <string name="location_permission_des">"Locaties voor foto's en video's herinneren"</string>
     <string name="location_permission_not_ask_again">Verleen Camera toegang tot uw locatie in de Instellingen.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Toestaan</string>
+    <string name="log_format">LOG</string>
     <string name="lying_direct_hint">Huidige oriëntatie</string>
     <string name="macro_mode">Macro</string>
     <string name="macro_mode_tip">Afstand tussen de lens en het object zou niet meer dan 10 cm moeten zijn</string>
@@ -381,6 +388,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_square">Vierkant</string>
     <string name="module_name_video">Video</string>
+    <string name="moive_frame">Filmframe</string>
     <string name="multi_window_mode_not_supported">Camera werkt niet in split-screen</string>
     <string name="network_access_user_notice_agree">Akkoord</string>
     <string name="network_access_user_notice_message_live_video">"&lt;Data>Camera moet verbinding met internet maken om effecten, muziek en andere functies voor korte video's te bieden.&lt;br/>&lt;br/>Door hieronder op \"Toestaan\" te tikken, gaat u akkoord met onze &lt;a href =%1$s>Gebruikersovereenkomst&lt;/a> en ons &lt;a href =%2$s>Privacybeleid&lt;/a> en staat u Camera toe om verbinding met internet te maken.&lt;/Data>"</string>
@@ -395,8 +403,47 @@ er groter uit te laten zien op foto's"</string>
     <string name="pano_how_to_use_prompt_slow_down">Vertragen…</string>
     <string name="pano_how_to_use_prompt_start">Tik op de pijl om richting te veranderen en begin langzaam te draaien.</string>
     <string name="pano_how_to_use_prompt_to_move">Begin langzaam te draaien</string>
+    <string name="parameter_description_pro_capture_title">"Pro functies voor het maken van foto's"</string>
+    <string name="parameter_description_pro_video_title">"Pro functies voor het maken van video's"</string>
+    <string name="parameter_description_sub_title">"Neem meer creatieve controle over uw foto's en video's"</string>
+    <string name="parameter_ef_split_description">U kunt de belichtingsring weg van de focusring slepen en de twee parameters afzonderlijk aanpassen.</string>
+    <string name="parameter_ef_split_title">Afzonderlijke scherpstelling en belichtingsmeting</string>
+    <string name="parameter_et_description">Automatische sluitertijd wordt bepaald door de lichtmeter van de camera. Wanneer u de sluitertijd handmatig selecteert, moet u er rekening mee houden dat hoe langer de sluiter open is, hoe meer licht op de sensor komt, waardoor uw beeld helderder wordt.</string>
+    <string name="parameter_exposure_description">Met deze functie kunt u de belichting compenseren wanneer u wilt dat uw afbeelding helderder of donkerder is dan de meter suggereert.</string>
+    <string name="parameter_exposure_feecback_description">Markeer onderbelichte gebieden in blauw en overbelichte gebieden in rood om de belichting correct te kunnen aanpassen.</string>
+    <string name="parameter_exposure_feecback_title">Belichtingsverificatie</string>
+    <string name="parameter_exposure_title">Belichting compensatie</string>
+    <string name="parameter_focus_description">U kunt zowel handmatig als automatisch focussen. Hoe groter de scherpstelwaarde die u op de schuifregelaar selecteert, hoe verder van de lens het scherpstelgebied zal liggen.</string>
+    <string name="parameter_focus_title">Focus</string>
+    <string name="parameter_histogram_description">Histogram is een real time weergave van de belichting die de donkerste delen van uw scène aan de linkerkant aangeeft en naar de helderste delen aan de rechterkant gaat. Het verticale deel van de schaal geeft aan hoeveel van de scène helder of donker is.</string>
+    <string name="parameter_histogram_title">Histogram</string>
+    <string name="parameter_iso_description">ISO-waarden kunnen automatisch worden bepaald door de lichtmeter. U kunt de waarde ook handmatig wijzigen. Vergeet niet dat hogere ISO uw camera gevoeliger maakt voor licht, maar meer digitale ruis in uw beeld brengt.</string>
+    <string name="parameter_lens_description">U kunt schakelen tussen meerdere beschikbare lenzen:</string>
+    <string name="parameter_lens_marco">, MACRO (macro lens)</string>
+    <string name="parameter_lens_st">, S-TELE (zoom lens)</string>
+    <string name="parameter_lens_t">, TELE (telelens)</string>
+    <string name="parameter_lens_tele_2x">, TELE-2X (telelens)</string>
+    <string name="parameter_lens_tele_5x">, TELE-5X (telelens)</string>
+    <string name="parameter_lens_title">Lenzen</string>
+    <string name="parameter_lens_uw">, UW (ultragroothoeklens)</string>
+    <string name="parameter_lens_w">WIDE (Groothoeklens)</string>
+    <string name="parameter_log_format_description">Dit formaat neemt video op met logaritmische functie toegepast op de belichtingscurve om meer details in accenten en schaduwen vast te leggen, waardoor u meer opties heeft voor nabewerking.</string>
+    <string name="parameter_log_format_title">LOG formaat</string>
+    <string name="parameter_metering_description">Gemiddelde meting houdt rekening met alle delen van uw afbeelding en werkt het beste voor gelijkmatig verlichte scènes. Centrumgerichte meting concentreert zich voornamelijk op het centrale deel van het frame en houdt rekening met de helderheid van de omgeving, die geschikt is voor het fotograferen van onderwerpen in het midden van het frame. Spotmeting bedekt slechts het gebied op één plek, waardoor u precieze controle over de belichting hebt.</string>
+    <string name="parameter_metering_title">Meetmodi</string>
+    <string name="parameter_peak_focus_description">Wanneer u handmatig scherpstelt, gebruikt u focus peaking om een rode markering op het scherpstelgebied te plaatsen.</string>
+    <string name="parameter_peak_focus_title">Focus peaking</string>
+    <string name="parameter_peak_raw_description">Dit beeldformaat legt alle beeldgegevens vast die door de sensor worden vastgelegd wanneer u een foto maakt. Niet-gecomprimeerde gegevens bieden meer opties voor nabewerking.</string>
+    <string name="parameter_peak_raw_title">RAW formaat</string>
+    <string name="parameter_wb_description">Naast de voorinstellingen voor de witbalans (gloeilamplicht, daglicht, fluorescerend, bewolkt), kunt u de witbalans ook instellen op een aangepaste waarde binnen het bereik van 2000–8000 Kelvin.</string>
+    <string name="parameter_wb_title">Witbalans</string>
+    <string name="parameter_zoom_slider_description">Sleep de zoomregelaar omhoog en omlaag om uw opname soepel te veranderen van een langeafstands opname naar een close-up.</string>
+    <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Systeem-apps/Camera/Instellingen</string>
     <string name="photo_assistance_tips_title">Live-tips</string>
+    <string name="pic_flaw_blink_more">Het lijkt erop dat iemand in het kader zijn ogen gesloten heeft</string>
+    <string name="pic_flaw_blink_one">Het lijkt erop dat de persoon in het kader zijn ogen gesloten heeft</string>
+    <string name="pic_flaw_cover">Het lijkt erop dat de lens gedeeltelijk is bedekt</string>
     <string name="popup_tip_3d_beauty_intro_text">3D Beauty</string>
     <string name="portait_effect_entry_blackwhite">Zwart-wit</string>
     <string name="portait_effect_entry_cool">Munt</string>
@@ -418,6 +465,17 @@ er groter uit te laten zien op foto's"</string>
 op uw foto's te vervagen"</string>
     <string name="portrait_bokeh_text">Portretmodus</string>
     <string name="portrait_bokeh_tips">Zorg dat het onderwerp niet verder dan 1.5 meter weg is</string>
+    <string name="portrait_india_effect_entry_memory">Geheugen</string>
+    <string name="portrait_india_effect_entry_mono">Mono</string>
+    <string name="portrait_india_effect_entry_pink">Roze</string>
+    <string name="portrait_india_effect_entry_portrait">Portret</string>
+    <string name="portrait_india_effect_entry_retro">Retro</string>
+    <string name="portrait_india_effect_entry_romantic">Romantisch</string>
+    <string name="portrait_india_effect_entry_strong">Intens</string>
+    <string name="portrait_india_effect_entry_sunny">Zonnig</string>
+    <string name="portrait_india_effect_entry_sweet">Karamel</string>
+    <string name="portrait_india_effect_entry_warm">Warm</string>
+    <string name="portrait_india_effect_entry_young">Jong</string>
     <string name="portrait_mode_depth_effect_success_hint">Diepte-effect</string>
     <string name="portrait_mode_lowlight_hint">Het is nu te donker</string>
     <string name="portrait_mode_too_close_hint">Neem meer afstand van het onderwerp</string>
@@ -427,7 +485,6 @@ en brengt de mensen naar voren."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"Probeer Portretmodus.
 Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_960_watermark_title">960FPS watermerk</string>
-    <string name="pref_advance_settings">Aanvullende instellingen</string>
     <string name="pref_ai_detect">AI-detectie</string>
     <string name="pref_audio_focus_entry_front">Voorkant</string>
     <string name="pref_audio_focus_entry_general">Normaal</string>
@@ -452,6 +509,10 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Frame gemiddelde</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Spotmeting</string>
     <string name="pref_camera_autoexposure_title">Auto belichting instellingen</string>
+    <string name="pref_camera_auxiliary_close">Uit</string>
+    <string name="pref_camera_auxiliary_exposure_feedback">Belichtingsverificatie</string>
+    <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Hoog</string>
     <string name="pref_camera_beautify_entry_low">Laag</string>
     <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -476,6 +537,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_coloreffect_entry_vsco_a4">Analoog</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
     <string name="pref_camera_coloreffect_title">Filters</string>
+    <string name="pref_camera_common_settings">Algemene instellingen</string>
     <string name="pref_camera_contrast_title">Contrast</string>
     <string name="pref_camera_delay_capture_entry_10s">10s vertraging</string>
     <string name="pref_camera_delay_capture_entry_3s">3s vertraging</string>
@@ -484,12 +546,10 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_delay_capture_title">Timer</string>
     <string name="pref_camera_device_watermark_title">Apparaat watermerk</string>
     <string name="pref_camera_exposuretime_entry_0_5">2s</string>
-    <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
     <string name="pref_camera_exposuretime_entry_125">1/125s</string>
     <string name="pref_camera_exposuretime_entry_15">1/15s</string>
     <string name="pref_camera_exposuretime_entry_16s">16s</string>
-    <string name="pref_camera_exposuretime_entry_2">1/2s</string>
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_30">1/30s</string>
     <string name="pref_camera_exposuretime_entry_32s">32s</string>
@@ -526,6 +586,8 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_hdr_entry_live">Live</string>
     <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_off">Uit</string>
+    <string name="pref_camera_heic_image_format_description">"Foto's in een zeer efficiënt beeldformaat nemen minder opslagruimte in beslag, maar worden door sommige apps niet ondersteund"</string>
+    <string name="pref_camera_heic_image_format_title">HEIF formaat</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
     <string name="pref_camera_hfr_entry_4x">120</string>
@@ -548,6 +610,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_lying_summary">Melding geven over huidige positie wanneer de telefoon parallel tot de grond is</string>
     <string name="pref_camera_lying_title">Meldingen geven over huidige positie</string>
     <string name="pref_camera_magic_mirror_title">Magische spiegel</string>
+    <string name="pref_camera_manual_description_title">Over Pro functies</string>
     <string name="pref_camera_manual_mode_title">Handmatig</string>
     <string name="pref_camera_movie_solid_title">Beeldstabilisatie</string>
     <string name="pref_camera_multilevel_entry_high">Hoog</string>
@@ -571,6 +634,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_portrait_mode_title">Portretmodus</string>
     <string name="pref_camera_proximity_lock_summary">Touch-gebaren vergrendelen als het apparaat in een broekzak zit</string>
     <string name="pref_camera_proximity_lock_title">Broekzakmodus</string>
+    <string name="pref_camera_quick_settings">Snelle instellingen</string>
     <string name="pref_camera_recordlocation_entry_off">Uit</string>
     <string name="pref_camera_recordlocation_entry_on">Aan</string>
     <string name="pref_camera_recordlocation_title">Locatie info opslaan</string>
@@ -675,6 +739,9 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_photo_assistance_tips_off">Uit</string>
     <string name="pref_photo_assistance_tips_on">Aan</string>
+    <string name="pref_pic_flaw_tip_summary">Ontvang real time meldingen wanneer mensen in het kader hun ogen sluiten of de lens gedeeltelijk bedekt is tijdens het fotograferen</string>
+    <string name="pref_pic_flaw_tip_title">Meldingen bij fouten</string>
+    <string name="pref_popup_camera_title">Pop-up camera</string>
     <string name="pref_priority_storage_title">Opslaan op SD-kaart</string>
     <string name="pref_privacy_title">Privacybeleid</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -814,7 +881,7 @@ Ultra wijde hoekmodus helpt wanneer u niet verder weg van het onderwerp kunt bew
     <string name="video_effect_entry_polaroid">Polaroid</string>
     <string name="video_reach_size_limit">Maximale grootte bereikt.</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">8K UHD</string>
+    <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Privacybeleid bekijken</string>
     <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
     <string name="vv_hint">U kunt vlogs alleen in landschapsmodus opnemen</string>

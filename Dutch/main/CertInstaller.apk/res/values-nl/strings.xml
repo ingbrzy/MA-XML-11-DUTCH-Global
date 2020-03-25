@@ -42,6 +42,7 @@ Roaming-consortiums: %3$s
 Realm: %4$s
 Verificatiemethode: EAP-%5$s
 "</string>
+    <string name="wifi_detail_label">Details</string>
     <string name="wifi_detail_title">Details voor %s</string>
     <string name="wifi_dismiss_label">Sluiten</string>
     <string name="wifi_install_label">Installeren</string>

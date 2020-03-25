@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accessibility_nfc_enabled">NFC ingeschakeld.</string>
+    <string name="android_beam">Android Beam</string>
     <string name="app_name">NFC-service</string>
     <string name="ask_nfc_tap">Tik op een ander apparaat om te voltooien</string>
     <string name="beam_busy">Beam is momenteel bezet. Probeer het opnieuw zodra de huidige overdracht is voltooid.</string>
@@ -33,6 +34,7 @@
     <string name="pairing_peripheral_failed">Kan %1$s niet koppelen</string>
     <string name="pay_with">Betalen met</string>
     <string name="prompt_connect_to_network">Verbinding maken met netwerk %1$s?</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unable_to_connect">Kan geen verbinding maken met het netwerk</string>
     <string name="status_wifi_connected">Verbonden</string>
     <string name="tap_again_to_complete">Tik nogmaals om te voltooien met %1$s</string>

@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="above_image">Omhoog</string>
     <string name="accessibility_battery_level">Batterij %d procent.</string>
     <string name="accessibility_battery_level_charging">Batterij opladen,%d procent.</string>
     <string name="align_type">In lijn brengen</string>
@@ -42,19 +44,22 @@
     <string name="aod_mode_summary">Toon klok, datum, meldingen en achtergrondafbeeldingen als het scherm uit is</string>
     <string name="aod_mode_time_summary">Tijd instellen om de Altijd-aan-modus in en uit te schakelen</string>
     <string name="aod_mode_time_title">Planning</string>
-    <string name="aod_mode_title">Altijd-aan-modus</string>
+    <string name="aod_mode_title">Altijd-aan-display</string>
+    <string name="aod_show_date_and_time">Datum en tijd weergeven</string>
     <string name="aod_show_style_title">Toon items</string>
     <string name="aod_style">Thema</string>
     <string name="aod_to_close">Uitschakelen</string>
     <string name="apply">Toepassen</string>
     <string name="apply_succeed">Succesvol toegepast</string>
     <string name="background_icon">Achtergrond</string>
+    <string name="below_image">Omlaag</string>
     <string name="cancel">Annuleer</string>
     <string name="choose_aod_style">Thema selecteren</string>
     <string name="chosen_picture">Selecteer achtergrond</string>
     <string name="clock_panel_icon">Wijzerplaat</string>
     <string name="color_change_with_time_description">Wijzig de tekstkleur automatisch in de loop van de tijd</string>
     <string name="color_change_with_time_title">Kleur automatisch wijzigen</string>
+    <string name="custom_image">Aangepaste afbeelding</string>
     <string name="deep_space_planet">Ruimte</string>
     <string name="deep_space_planet_des">Dit thema geeft de lichtveranderingen gedurende de dag om u heen weer. Zonsopgangen en zonsondergangen worden ook gesynchroniseerd met uw locatie.</string>
     <string name="digital_clock">Digitaal</string>
@@ -84,18 +89,20 @@
     <string name="show_battery_status">Batterijstatus tonen</string>
     <string name="show_notification">Meldingen weergeven</string>
     <string name="show_notificaton">Meldingen tonen</string>
+    <string name="shownone_arround_image">Geen</string>
     <string name="signature">Handtekening</string>
     <string name="signature_default_content">"Geloof altijd dat er iets
 moois op het punt staat te gebeuren"</string>
     <string name="standard_clock_panel">Standaard</string>
     <string name="standard_style">Standaard</string>
-    <string name="summary">"Om het stroomverbruik te verminderen, zullen in de volgende situaties geen items worden getoond:
-1. Als je toestel gedurende lange tijd in het donker ligt.
-2. Als de DND-modus aanstaat."</string>
+    <string name="summary">Om het stroomverbruik te verminderen, worden items niet weergegeven als uw apparaat lange tijd in het donker ligt.</string>
     <string name="temporary_style">Gedurende 10 seconden na het tikken</string>
     <string name="text_color">Tekstkleur</string>
     <string name="text_length_exceed_limit_alert">*De ingevoerde tekst is te lang</string>
     <string name="text_size">Tekstgrootte</string>
+    <string name="time_location">Klok positie</string>
     <string name="time_style">Stijl</string>
     <string name="time_style_layout">Lay-out</string>
+    <string name="disable_aod_in_power_save_mode">Schakel uit wanneer Batterijbesparing is ingeschakeld</string>
+    <string name="disable_aod_in_power_save_mode_summary">Geen items weergeven om energie te besparen</string>
 </resources>
