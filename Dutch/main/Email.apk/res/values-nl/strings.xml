@@ -179,7 +179,6 @@
     <string name="add_pre_message_attachments_no">Niet toevoegen</string>
     <string name="add_pre_message_attachments_yes">Toevoegen</string>
     <string name="add_star">Met ster</string>
-    <string name="all_purpose">Welkom bij Mail! Deze e-mailclient is gemaakt door Kingsoft voor Xiaomi. U kunt deze app gebruiken om e-mails te verzenden en ontvangen.</string>
     <string name="allread">Alles lezen</string>
     <string name="always_bcc_myself">Altijd mezelf bcc-en</string>
     <string name="always_show_images">Altijd afbeeldingen van deze afzender weergeven</string>
@@ -240,6 +239,7 @@
     <string name="battery_saver">Batterijbesparing</string>
     <string name="battery_saver_keywords">batterijbespaarder;e-mail batterij</string>
     <string name="bcc">Bcc</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Instellingen voor facturering</string>
     <string name="bill_center_setting_head">Informatie uit deze accounts importeren</string>
     <string name="bill_cycle_text">Factureringscyclus</string>
@@ -260,6 +260,7 @@
     <string name="cancel_pop3_attchemt_downloading">Kan lopende downloads voor bijlagen in POP3-account niet annuleren</string>
     <string name="cant_move_or_change_labels">Kan geen items uit meerdere accounts verplaatsen.</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">Kon niet toevoegen \"%s\" certificaat</string>
@@ -286,6 +287,7 @@
     <string name="click_download_all_content">[ Tik om de inhoud te downloaden ]</string>
     <string name="click_to_reload">Tik op het scherm om te verversen</string>
     <string name="collapse_recipient_details">Gegevens van ontvanger inklappen</string>
+    <string name="colon">:</string>
     <string name="compose">Opstellen</string>
     <string name="compose_attachment_number_limit">Kan niet meer dan 10 bijlages toevoegen</string>
     <string name="compose_paste_address_oob">Teveel karakters</string>
@@ -519,6 +521,7 @@
     <string name="gmail_web_login_required_message">Aanmelden bij Gmail</string>
     <string name="have_auth_code">Ik heb een code</string>
     <string name="header_category_account">Accounts</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">Feedback</string>
     <string name="header_label_general_preferences">Algemeen</string>
     <string name="help_and_info">Help</string>
@@ -542,6 +545,7 @@
     <string name="invalid_recipient">Het adres %s is ongeldig.</string>
     <string name="invalid_recipient_title">Fout bij de ontvanger</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nog geen e-mails.</string>
     <string name="load_from_remote">Postvak op de server zoeken</string>
     <string name="load_more">Meer laden</string>
@@ -807,10 +811,7 @@ Probeer een ander postvak."</string>
     <string name="permission_access_provider_label">Toegang tot gebruikersgegevens</string>
     <string name="permission_des_calendar">Om kalendergebeurtenissen te synchroniseren</string>
     <string name="permission_des_contact">Voor toegang tot e-mails van uw contacten om ontvangers automatisch aan te vullen</string>
-    <string name="permission_des_detail">Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze app niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.</string>
     <string name="permission_des_external_storage">Voor het maken van nieuwe e-mails, evenals het opslaan en toevoegen van bijlagen</string>
-    <string name="permission_des_phone_status">Voor toegang tot IMEI om uw apparaat te identificeren</string>
-    <string name="permission_des_storage">Voor het maken van nieuwe e-mails, evenals het opslaan en toevoegen van bijlagen</string>
     <string name="permission_read_attachment_desc">Staat app toe om bijlagen van uw e-mails te lezen</string>
     <string name="permission_read_attachment_label">Bijlagen lezen</string>
     <string name="personal_data_collection_summary">Wanneer de schakelaar is ingeschakeld, gaat u ermee akkoord dat we uw persoonlijke gegevens kunnen verzamelen. U kunt de schakelaar op elk gewenst moment uitschakelen, uw autorisatie intrekken en uw gegevens van onze servers verwijderen.</string>
@@ -1056,8 +1057,10 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
     <string name="silent_ringtone">Stil</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">Wachtwoord voor de server voor uitgaande e-mail is onjuist</string>
     <string name="sort_attachment">Sorteren op</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">Opslag</string>
     <string name="str_select_all">Alles selecteren</string>
     <string name="str_select_none">Alles deselecteren</string>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_CallLog_Desc">Belgeschiedenis schrijven en verwijderen</string>
+    <string name="HIPS_Perm_Call_Desc">Rechtstreeks telefoonnummers bellen</string>
+    <string name="HIPS_Perm_Contact_Desc">Contacten bewerken en verwijderen</string>
+    <string name="HIPS_Perm_PhoneID_Desc">Toegang tot telefoonnummer, IMEI en IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Desc_Q">Toegang tot telefoonnummer en apparaatstatus</string>
+    <string name="HIPS_Perm_Read_Call_Log_Desc">Lees gesprek geschiedenis</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Uw contacten lezen</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Lees uw SMS berichten</string>
+    <string name="HIPS_Perm_SendSMS_Desc">Rechtstreeks sms-berichten verzenden</string>
+    <string name="HIPS_Perm_add_voicemail_Desc">Systeem spraakberichten toevoegen</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Toegang tot alle accounts die op het apparaat zijn opgeslagen</string>
+    <string name="HIPS_Perm_use_sip_Desc">Gebruik Sessie initiatie protocol om video te streamen</string>
     <string name="Phonepass">Oproepen toestaan</string>
     <string name="SMS_and_MMS">SMS en MMS</string>
     <string name="SMSpass">Sta sms toe</string>
@@ -13,16 +25,20 @@
     <string name="ac_enter_applock">Appvergrendeling gebruiken</string>
     <string name="ac_firstUseApplock_subTitle">Gebruik betere beveiligingsgereedschappen op systeemniveau</string>
     <string name="ac_firstUseApplock_title">Stel een wachtwoord in om uw apps te beschermen</string>
-    <string name="ac_mask_all_apps">Verberg alle apps</string>
+    <string name="ac_mask_all_apps">Alles verbergen</string>
     <string name="ac_notification_contentText">Tik om in te schakelen</string>
     <string name="ac_notification_contentTitle">Bescherm apps met Appvergrendeling</string>
     <string name="ac_post_notification_contentText">Krijg bescherming op systeemniveau</string>
     <string name="ac_post_notification_contentTitle">Appvergrendeling inschakelen</string>
     <string name="ac_pre_notification_contentText">Bescherm je persoonlijke info</string>
     <string name="ac_pre_notification_contentTitle">Probeer Appvergrendeling</string>
+    <string name="ac_recommend_guide_dialog_app_content">Gebruik Appvergrendeling met deze app om uw persoonlijke informatie te beschermen en datalekken te voorkomen.</string>
+    <string name="ac_recommend_guide_dialog_content">U kunt uw persoonlijke gegevens beschermen en datalekken voorkomen met behulp van Appvergrendeling.</string>
+    <string name="ac_recommend_guide_dialog_ignore">Niet opnieuw tonen</string>
+    <string name="ac_recommend_guide_dialog_open">Inschakelen</string>
     <string name="ac_summaryOff">Uitgeschakeld, er is geen wachtwoord vereist om apps te openen</string>
     <string name="ac_summaryOn">Voer wachtwoord in om beschermde apps te openen</string>
-    <string name="ac_unmask_all_apps">Maak alle apps zichtbaar</string>
+    <string name="ac_unmask_all_apps">Toon alles</string>
     <string name="access_control_app_is_launching">App wordt gestart</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">Voer wachtwoord in voordat u met een nieuwe vingerafdruk kunt ontgrendelen</string>
     <string name="access_control_fingerprint_not_identified_msg">Kon vingerafdruk niet lezen.</string>
@@ -68,10 +84,10 @@
     <string name="add_done">Met succes toegevoegd</string>
     <string name="add_game">Game toevoegen</string>
     <string name="add_game_notification_summary">Tik om te starten en de snelheid te boosten</string>
-    <string name="add_miservice_dialog_content">"%s vereist dat je het MIUI-servicekader toevoegt aan uitzonderingen. Je kunt meldingen ontvangen van MIUI's ingebouwde apps en andere apps van derden."</string>
+    <string name="add_miservice_dialog_content">"%s vereist dat u het MIUI servicekader toevoegt aan uitzonderingen. U kunt meldingen ontvangen van MIUI's ingebouwde apps en andere apps van derden."</string>
     <string name="add_miservice_dialog_title">MIUI-servicekader</string>
     <string name="add_to_whitelist_button">Uitzonderingen voor dataroaming</string>
-    <string name="add_whitelist">Toevoegen aan uitzonderingen</string>
+    <string name="add_whitelist">Voeg toe aan uitzonderingen</string>
     <string name="address">Adres</string>
     <string name="address_choose_hint">%1$s, %2$s en %3$d andere locaties</string>
     <string name="adjust_sms_cmd"><u>Bewerk een sjabloon voor kalibratie van sms</u></string>
@@ -126,8 +142,10 @@
     <string name="antivirus_update_btn_contiue">Doorgaan</string>
     <string name="antivirus_update_btn_open">Toestaan</string>
     <string name="antivirus_update_btn_update">Bijwerken</string>
+    <string name="apn_exception_modify_summary">Standaard provider access-point wordt niet gebruikt of aangepast</string>
     <string name="apn_exception_summary">De configuratie van access-point-namen van de provider testen</string>
     <string name="apn_exception_title">Controleer APN-configuraties</string>
+    <string name="apn_exception_wap_summary">WAP is nu onstabiel. Schakel over naar NET.</string>
     <string name="app_bg_restrict_dialog_message">Door de achtergrondnetwerkverbinding te beperken, kan de app mogelijk niet normaal werken. Het is bijvoorbeeld mogelijk dat de app niet langer berichten kan ontvangen of inhoud kan bijwerken.</string>
     <string name="app_check_no_issue">Het ziet ernaar uit dat er geen problemen met de batterij zijn. Prima!</string>
     <string name="app_detail">Details</string>
@@ -216,7 +234,7 @@
     <string name="app_manager_permission_startself_title">Autostart</string>
     <string name="app_manager_permission_summary_reject">Alles beperken</string>
     <string name="app_manager_power_consume">%.1f%%</string>
-    <string name="app_manager_powerkeeper_miui_auto">MIUI batterijbesparing</string>
+    <string name="app_manager_powerkeeper_miui_auto">MIUI Batterijbesparing</string>
     <string name="app_manager_powerkeeper_no_bg">Beperk achtergrondactiviteit</string>
     <string name="app_manager_powerkeeper_no_restrict">Geen beperkingen</string>
     <string name="app_manager_powerkeeper_restrict_bg">Beperk achtergrond-apps</string>
@@ -288,6 +306,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="applock_add_account">Toevoegen</string>
     <string name="applock_add_account_info">Voeg uw Mi Account toe om uw wachtwoord te kunnen resetten, mocht u deze vergeten.</string>
     <string name="applock_add_account_setting">Account en privacy</string>
+    <string name="applock_app_recommend_lock_title">U kunt de volgende apps vergrendelen</string>
     <string name="applock_bind_account_title">Wachtwoord vergeten</string>
     <string name="applock_close_dialog_summary">Alle verborgen apps worden zichtbaar, hun snelkoppelingen op het Startscherm worden hersteld en uw wachtwoord voor appvergrendeling wordt verwijderd. Appvergrendeling uitschakelen?</string>
     <string name="applock_close_dialog_title">Appvergrendeling uitschakelen?</string>
@@ -296,12 +315,30 @@ U zult geen app-gegevens verliezen."</string>
     <string name="applock_face_unlock_title">Gezichtsontgrendeling</string>
     <string name="applock_function_base_settings">Appvergrendeling</string>
     <string name="applock_function_pwd_settings">Wachtwoord</string>
+    <string name="applock_go_to">Instellingen</string>
+    <string name="applock_guide_open_applock">Inschakelen</string>
+    <string name="applock_guide_tip1">Meerdere wachtwoord type opties zijn beschikbaar. Ontgrendel apps met uw vingerafdruk, gezicht of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_global">Ontgrendel apps met uw vingerafdruk, gezicht of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_global_without_face">Ontgrendel apps met uw vingerafdruk of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_global_without_finger">Ontgrendel apps met uw gezicht of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_global_without_finger_face">Meerdere wachtwoord type opties zijn beschikbaar.</string>
+    <string name="applock_guide_tip1_without_face">Meerdere wachtwoord type opties zijn beschikbaar. Ontgrendel apps met uw vingerafdruk of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_without_finger">Meerdere wachtwoord type opties zijn beschikbaar. Ontgrendel apps met uw gezicht of voer wachtwoord in.</string>
+    <string name="applock_guide_tip1_without_finger_face">Meerdere wachtwoord type opties zijn beschikbaar.</string>
+    <string name="applock_guide_tip2">Voeg uw Mi Account toe om uw wachtwoord te kunnen resetten.</string>
+    <string name="applock_guide_tip3">Meldingsinhoud verbergen.</string>
+    <string name="applock_guide_tip3_global">Meldingsinhoud verbergen.</string>
+    <string name="applock_guide_title">Bescherm uw privacy met Appvergrendeling</string>
     <string name="applock_header_text_less_than_half">Te klein. Versleep een beetje verder.</string>
+    <string name="applock_lock_all">Alles vergrendelen</string>
     <string name="applock_login_and_add_account">Aanmelden en toevoegen</string>
     <string name="applock_not_add_account"><u>Niet nu</u></string>
     <string name="applock_not_login_account">Je bent niet aangemeld</string>
+    <string name="applock_set_password_title">Wachtwoordtype wijzigen</string>
+    <string name="applock_settings_unlock_all_toast">Ontgrendeld alle apps</string>
     <string name="applock_toast_tip">Appvergrendeling succesvol geverifieerd</string>
-    <string name="apps_item_sign_dialog_content">%ss handtekening verschilt met de versie in de App Store. Deze app verwijderen en de officiële versie installeren? Let op: een app installeren met een tegenstrijdige handtekening kan het verlies van app-gegevens tot gevolg hebben.</string>
+    <string name="applock_unlock_all">Alles ontgrendelen</string>
+    <string name="apps_item_sign_dialog_content">%ss handtekening verschilt met de versie in de App Store. Deze app verwijderen en de officiële versie installeren? Opmerking: een app installeren met een tegenstrijdige handtekening kan het verlies van app-gegevens tot gevolg hebben.</string>
     <string name="apps_item_sign_dialog_title">Officiële app installeren</string>
     <string name="apps_item_sign_install_button_text">Vervangen</string>
     <string name="apps_item_sms_default_set_success">Succesvol ingesteld</string>
@@ -437,7 +474,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="battery_stats_phone_signal_label">Mobiel netwerksignaal</string>
     <string name="battery_stats_screen_on_label">Scherm aan</string>
     <string name="battery_stats_wake_lock_label">Wakker</string>
-    <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
+    <string name="battery_stats_wifi_running_label">Wifi</string>
     <string name="battery_status_good">Werkt normaal</string>
     <string name="battery_status_overheat">Oververhit</string>
     <string name="battery_status_unknown">Onbekende fout</string>
@@ -557,6 +594,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Aanmaken</string>
     <string name="card_main_xspace_summary">Maak dubbele accounts aan voor elke app</string>
     <string name="card_main_xspace_title">Dubbele apps</string>
@@ -689,7 +727,7 @@ Alle gegevens op uw apparaat kunnen worden gewist en uw Vergrendelscherm wachtwo
     <string name="dialog_title_attention">Attentie</string>
     <string name="dialog_title_auto_start_declare">Over autostart</string>
     <string name="dialog_title_stop_virus_scan">Beveiligingsscan stoppen</string>
-    <string name="disable_air_mode">Schakel eerst de vliegtuigmodus uit</string>
+    <string name="disable_air_mode">Schakel eerst de Vliegtuigmodus uit</string>
     <string name="dlg_add_blacklist">Dit nummer blokkeren?</string>
     <string name="dlg_add_blacklist_title">Toevoegen aan blokkeerlijst</string>
     <string name="dlg_add_keyword">Voeg trefwoorden toe</string>
@@ -749,6 +787,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="doze_optimization_title">Geoptimaliseerde touch-bediening</string>
     <string name="dual_setting_simcard1">sim 1</string>
     <string name="dual_setting_simcard2">sim 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Geen apps</string>
     <string name="empty_title_auto_start_list">Er zijn geen apps die automatisch gestart kunnen worden.</string>
@@ -798,7 +837,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -809,7 +850,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_track_surround_5_point_1">5.1 surroundgeluid</string>
     <string name="exo_track_surround_7_point_1">7.1 surroundgeluid</string>
     <string name="exo_track_unknown">Onbekend</string>
-    <string name="extreme_power_save_mode_card_summary">Schakel Extreme batterijbesparingsmodus in om energie te besparen wanneer de batterij bijna leeg is.</string>
+    <string name="extreme_power_save_mode_card_summary">Schakel Extreme batterijbesparing in om energie te besparen wanneer de batterij bijna leeg is.</string>
     <string name="extreme_power_save_mode_title">Extreme batterijbesparing</string>
     <string name="face_unlock_be_on_the_screen">Houd het apparaat voor uw gezicht</string>
     <string name="face_unlock_check_failed">Kon u niet herkennen</string>
@@ -862,7 +903,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="firewall_wifi_dialog_message">De geïnstalleerde app kan geen verbinding maken met internet via wifi wanneer deze schakelaar is uitgeschakeld.</string>
     <string name="first_aid_activity_title">Problemen oplossen</string>
     <string name="first_aid_card_airplane_button">Uitschakelen</string>
-    <string name="first_aid_card_airplane_summary">Schakel vliegmodus uit om te bellen en verbinding te kunnen maken met een netwerk</string>
+    <string name="first_aid_card_airplane_summary">Schakel Vliegtuigmodus uit om te bellen en verbinding te kunnen maken met een netwerk</string>
     <string name="first_aid_card_airplane_title">Kan niet bellen of verbinding maken met een netwerk</string>
     <string name="first_aid_card_consume_power_button1">Beperken</string>
     <string name="first_aid_card_consume_power_button2">Uitschakelen</string>
@@ -962,7 +1003,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="game_more_improve">Beperk achtergrondactiviteiten en downloadsnelheid om batterij en bandbreedte te sparen voor het gamen</string>
     <string name="game_setting">Game-instellingen</string>
     <string name="game_video_net_data">Mobiele data</string>
-    <string name="game_video_network_eror">Kan geen verbinding met het netwerk maken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="game_video_network_eror">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="game_wid_viewpoint_buttom">Neem een korte pauze.</string>
     <string name="gamebooster_lowbattery_notification_summary">Laad je toestel voordat hij uitschakelt.</string>
     <string name="gamebooster_lowbattery_notification_title">Batterij is minder dan 5%%</string>
@@ -1049,11 +1090,11 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_first_guide_handsfree_des">Beantwoord oproepen op de achtergrond</string>
     <string name="gb_first_guide_shortcut_des">Er is een Startscherm snelkoppeling gecreëerd voor Game Turbo</string>
     <string name="gb_first_guide_title">Boost snelheid en prestatie op systeem-niveau</string>
-    <string name="gb_first_window_antimsg_summary_quick_answer">Gebruik snel antwoorden</string>
+    <string name="gb_first_window_antimsg_summary_quick_answer">Gebruik snelle antwoorden</string>
     <string name="gb_first_window_antimsg_summary_transparent_show">Zie tekst op het doorzichtige achtergrond</string>
     <string name="gb_first_window_antimsg_title">Eenvoudige meldingen</string>
     <string name="gb_first_window_gamebox_summary_four">Cache wissen, schermopnamen en schermafbeeldingen maken</string>
-    <string name="gb_first_window_gamebox_summary_six">Gebruik snelle antwoorden, maak schermopnamen en schermafbeeldingen</string>
+    <string name="gb_first_window_gamebox_summary_six">Gebruik snelle antwoorden, maak schermopnames en screenshots</string>
     <string name="gb_first_window_handsfree_summary">Schakel speaker automatisch in</string>
     <string name="gb_first_window_handsfree_title">Handsfree oproepen</string>
     <string name="gb_first_window_start">Start met afspelen</string>
@@ -1075,8 +1116,8 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_msg_completely_shielded">Berichten verbergen</string>
     <string name="gb_msg_completely_shielded_summary">Verbergen</string>
     <string name="gb_msg_not_shielded_summary">Tonen</string>
-    <string name="gb_msg_quickly_answer">Snel antwoorden toestaan</string>
-    <string name="gb_msg_quickly_answer_summary">Snel antwoorden</string>
+    <string name="gb_msg_quickly_answer">Snelle antwoorden toestaan</string>
+    <string name="gb_msg_quickly_answer_summary">Snelle antwoorden</string>
     <string name="gb_msg_transparent_dispaly">Meldingen met transparante achtergrond</string>
     <string name="gb_msg_transparent_dispaly_summary">Transparant</string>
     <string name="gb_network_status_bad">Er deed zich een verbindingsfout voor.</string>
@@ -1150,7 +1191,7 @@ Video's worden opgeslagen in Game Turbo > Belangrijke momenten."</string>
     <string name="gs_game_performance">Prestatie</string>
     <string name="gs_game_record_intro_tips">*Het opnemen van gamesessies is alleen beschikbaar voor geselecteerde compatibele games</string>
     <string name="gs_game_shortcut">Verbeter je spelbeleving</string>
-    <string name="gs_gamebox">Snelkoppelingen in het spel</string>
+    <string name="gs_gamebox">Sneltoetsen in het spel</string>
     <string name="gs_gamebox_detail">Veeg vanaf de boven zijkant van het scherm om te bekijken</string>
     <string name="gs_gamebox_slip">Druk het scherm naar beneden om te opnen</string>
     <string name="gs_only_self_start_for_list">Beperk achtergrondprocessen om de batterij te sparen voor gamen</string>
@@ -1180,7 +1221,7 @@ Video's worden opgeslagen in Game Turbo > Belangrijke momenten."</string>
     <string name="hide_mode_app_background_setting_text">Batterijbesparing app</string>
     <string name="hide_mode_result_summary_text">Pas de instellingen van Batterijbesparing aan voor individuele apps</string>
     <string name="hide_mode_summary_text">Beheer de achtergrondactiviteit van apps om de batterij te sparen</string>
-    <string name="hide_system_app">Verberg systeem-apps</string>
+    <string name="hide_system_app">Systeem-apps verbergen</string>
     <string name="hint_antispam_mode_edit">Aangepaste modus</string>
     <string name="hints_handle_item_text_virus">Gevaar</string>
     <string name="hints_input_roaming_daily_limit">Invoeren datalimiet</string>
@@ -1249,6 +1290,7 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="load_only_under_wlan">Alleen via Wifi laden</string>
     <string name="loading">Een ogenblik geduld…</string>
     <string name="local_ip_exception_summary">Kan geen lokaal IP-adres krijgen. Om dit probleem te melden bij MIUI, ga je naar de Feedback-app en verzend je een log-bestand van je apparaat.</string>
+    <string name="lock_all_title">Vergrendel alle apps</string>
     <string name="lock_mode_title">Vergrendelinstellingen</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s gebruikt op vergrendelscherm</string>
     <string name="lock_screen_traffic_guide_notification_title">Tik om datagebruik te beheren.</string>
@@ -1425,9 +1467,11 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_antispam">Blokkeerlijst</string>
     <string name="menu_text_antivirus">Beveiligingsscan</string>
     <string name="menu_text_garbage_cleanup">Opruimer</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1435,7 +1479,8 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Boost snelheid</string>
     <string name="menu_text_power_manager">Batterij &amp; prestaties</string>
-    <string name="menu_wh_remove">Uit uitzonderingen verwijderen</string>
+    <string name="menu_text_power_percent_title">%s</string>
+    <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_service_app_detail">Datagebruik details</string>
     <string name="mi_service_traffic_detail">Framework details</string>
@@ -1457,6 +1502,11 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="more_lock">Meer</string>
     <string name="more_settings">Meer</string>
     <string name="name">Naam</string>
+    <string name="nd_result_button_optimize">Optimaliseren</string>
+    <string name="nd_result_summary_optimize">Probeer de netwerkverbinding te optimaliseren wanneer deze onstabiel is</string>
+    <string name="nd_result_title_auxiliary">Netwerk configuratie</string>
+    <string name="nd_result_title_network">Netwerkconnectiviteit</string>
+    <string name="nd_result_title_optimize">Netwerk optimalisatie</string>
     <string name="net_booster">Netwerk snelheidsboost</string>
     <string name="net_booster_expire_notification">Netwerk snelheidsboost-sessie eindigt binnenkort</string>
     <string name="net_booster_overdue_notification">Netwerk snelheidsboost-sessie eindigt binnenkort</string>
@@ -1537,8 +1587,8 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="notification_garbage_cleanup_title">Rommelbestanden wissen</string>
     <string name="notification_mask_summary">Geef meldingsinhoud weergeven voor beschermde apps</string>
     <string name="notification_mask_title">Meldingsinhoud verbergen</string>
-    <string name="notification_masked_item">Meldingen verbergen</string>
-    <string name="notification_masked_subtitle">Verberg meldingen van apps die beschermd worden met Appvergrendeling</string>
+    <string name="notification_masked_item">Hoe meldingsinhoud verbergen?</string>
+    <string name="notification_masked_subtitle">Gebruik Appvergrendeling om meldingsinhoud voor geselecteerde apps te verbergen</string>
     <string name="notification_summary_cmcc_app_check">Tik om details weer te geven.</string>
     <string name="notify_channel_mipush">Beveiligings push-meldingen</string>
     <string name="notify_channel_name_security">Systeem beveiliging</string>
@@ -1600,7 +1650,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="operator_number_unicom">10010</string>
     <string name="optimize_manage_title">Verhoog de snelheid</string>
     <string name="optimize_result_available_memory_info">Beschikbaar geheugen</string>
-    <string name="optimize_result_button_cloudspace">Cloud opslag toevoegen</string>
+    <string name="optimize_result_button_cloudspace">Krijg meer cloudopslagruimte</string>
     <string name="optimize_result_button_consume_power_analysis">Batterij scannen</string>
     <string name="optimize_result_button_cooldown_now">Afkoelen</string>
     <string name="optimize_result_button_correct_now">Aanpassen</string>
@@ -1695,6 +1745,8 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="percentage">%d%%</string>
     <string name="perfermance_optimization_summary">Voorkom oververhitting en hardware-gerelateerde problemen</string>
     <string name="perfermance_optimization_title">Prestatie optimalisatie</string>
+    <string name="permdesc_in_calls">Inkomende gesprekken zien</string>
+    <string name="permdesc_out_calls">Uitgaande gesprekken zien</string>
     <string name="permgroupdesc_calendar">Toegang tot kalendergebeurtenissen</string>
     <string name="permgroupdesc_calllog">Toegang tot en het opslaan van items in de belgeschiedenis</string>
     <string name="permgroupdesc_camera">"Foto's maken en video's opnemen"</string>
@@ -1748,7 +1800,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_btn_analyze">Analyseer het batterijgebruik</string>
     <string name="power_cell">Telefoon stand-by</string>
-    <string name="power_center_5g_save_close_detail">De 5G-batterijbespaarder verbetert de levensduur van de batterij zonder 5G-connectiviteit te beïnvloeden. Toch uitschakelen?</string>
+    <string name="power_center_5g_save_close_detail">De 5G-batterijbesparing verbetert de batterijduur zonder 5G-connectiviteit te beïnvloeden. Toch uitschakelen?</string>
     <string name="power_center_5g_save_close_later">Niet uitschakelen</string>
     <string name="power_center_5g_save_close_title">5G-batterijbesparing uitschakelen</string>
     <string name="power_center_5g_save_summary_text">"Zorg dat 5G-connectiviteit in bepaalde scenario's minder energie gebruikt"</string>
@@ -1758,9 +1810,14 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_battery_last">%s resterend</string>
     <string name="power_center_charge_time">%1$s tot vol</string>
     <string name="power_center_dialog_msg_bottom">U kunt de batterijduur verlengen tot %1$du %2$dm. Batterijbesparing inschakelen?</string>
-    <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is zal MIUI de volgende optimalisaties uitvoeren:</string>
+    <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is, zal MIUI de volgende optimalisaties uitvoeren:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid scherm automatisch aan</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -1773,6 +1830,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_power_save_summary_text">Verhoog de resterende tijd tot %1$du %2$dm</string>
     <string name="power_center_power_save_title_text">Batterijbesparing</string>
     <string name="power_center_repeat">Herhalen</string>
+    <string name="power_center_scan_item_title_5g">5G-connectiviteit</string>
     <string name="power_center_scan_item_title_GPS">Pas GPS-nauwkeurigheid aan</string>
     <string name="power_center_scan_item_title_abnormal">Batterijproblemen</string>
     <string name="power_center_scan_item_title_abnormal_apps">Apps die de batterij leegtrekken</string>
@@ -1802,7 +1860,8 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_customize_giveup_change">Veranderingen ongedaan maken?</string>
     <string name="power_dialog_cancel">Annuleren</string>
     <string name="power_dialog_ok">OK</string>
-    <string name="power_dialog_super_save_msg">Ultra batterijbesparing blokkeert functies die de meeste stroom verbruiken en vermindert de prestaties van uw apparaat om de basis functionaliteiten (bijv. oproepen, sms en netwerkverbinding) zo lang mogelijk beschikbaar te houden. Ultra batterijbesparing inschakelen?</string>
+    <string name="power_dialog_super_save_msg">Ultra batterijbesparing beperkt de meeste energieverbruikende functies en vermindert de prestaties van uw apparaat om de basisfunctionaliteit te behouden (bijv. oproepen, sms en verbinden met het netwerk) zo lang mogelijk beschikbaar te houden. Ultra batterijbesparing inschakelen?</string>
+    <string name="power_dialog_super_save_msg_5g">Ultra batterijbesparing beperkt de meeste stroomverbruikende functies (bijv. 5G-connectiviteit) en verlaagt de prestaties van uw apparaat. Alleen oproepen, berichten en netwerkverbindingen worden niet beïnvloed. Ultra batterijbesparing inschakelen?</string>
     <string name="power_dialog_super_save_title">Ultra batterijbesparing</string>
     <string name="power_idle">Telefoon niet in gebruik</string>
     <string name="power_main_battery_last_day_hour">%1$sd %2$su resterend</string>
@@ -1814,6 +1873,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_optimize_btn_text_fixed">Geoptimaliseerd</string>
     <string name="power_optimize_catagory_fixed_title">Geoptimaliseerd</string>
     <string name="power_optimize_close_app">Sluit apps die overmatig veel energie verbruiken</string>
+    <string name="power_optimize_disable_5g">Beperk 5G-connectiviteit</string>
     <string name="power_optimize_disable_app_autostart">Voorkomen dat apps automatisch worden geopend</string>
     <string name="power_optimize_disable_gps">GPS uitschakelen</string>
     <string name="power_optimize_disable_start_other_app">Voorkomen dat apps andere apps openen</string>
@@ -1825,7 +1885,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_save_mode">Batterijbesparing</string>
     <string name="power_save_mode_auto_exit_summary">Schakel uit wanneer de batterij 60% of volledig is opgeladen</string>
     <string name="power_save_mode_auto_exit_title">Schakel uit wanneer opgeladen</string>
-    <string name="power_save_mode_close_warn_text">Batterijbesparing beperkt achtergrondactiviteit en synchronisatie. Als je ervoor kiest om het te gebruiken wanneer je apparaat is opgeladen, werken sommige functies mogelijk niet correct. Batterijbesparing inschakelen wanneer je apparaat is opgeladen?</string>
+    <string name="power_save_mode_close_warn_text">Batterijbesparing beperkt achtergrondactiviteit en synchronisatie. Als u ervoor kiest om het te gebruiken wanneer uw apparaat is opgeladen, werken sommige functies mogelijk niet correct. Batterijbesparing inschakelen wanneer uw apparaat is opgeladen?</string>
     <string name="power_save_mode_close_warn_title">Batterijbesparing</string>
     <string name="power_save_mode_enable">Batterijbesparing</string>
     <string name="power_save_mode_end_time">Einde</string>
@@ -1835,7 +1895,8 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_save_on_time_end_time_summary_na">Naar</string>
     <string name="power_save_on_time_start_time_summary_na">Van</string>
     <string name="power_save_ps_clean">Cache wissen wanneer het apparaat vergrendeld is</string>
-    <string name="power_save_ps_close_setting">Achtergrondservices (synchronisatie, GPS) uitschakelen om batterij te besparen</string>
+    <string name="power_save_ps_close_setting">Schakel services en functies met een hoog stroomverbruik uit (synchronisatie, GPS, haptische feedback, \"Pak op om te wekken\", \"Dubbeltik om het scherm te activeren of uit te schakelen\", \"Toon vingerafdruk icoon wanneer het scherm is uitgeschakeld\") om de batterij te sparen</string>
+    <string name="power_save_ps_close_setting_5g">Schakel services en functies met hoog stroomverbruik uit (synchronisatie, 5G-netwerkconnectiviteit, GPS, haptische feedback, \"Pak op om te wekken\", \"Dubbeltik om het scherm te activeren of uit te schakelen\", \"Toon vingerafdruk icoon wanneer het scherm is uitgeschakeld\") om batterij te sparen</string>
     <string name="power_save_ps_freeze">Apps in de achtergrond stilzetten</string>
     <string name="power_save_ps_limit">Activiteit van systeem-apps beperken</string>
     <string name="power_save_settings">Batterij instellingen</string>
@@ -1907,6 +1968,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_normal_traffic_limit">Wanneer het dataplan verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Wanneer je over je dataplan gaat</string>
     <string name="pref_package_traffic_settings">Dataplan</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
@@ -1975,6 +2037,9 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
 
 Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemplate te ontvangen."</string>
     <string name="privacy_prompt_upload">Uploaden</string>
+    <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
+    <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="promotion">Advertentie</string>
     <string name="prompt_all">Vraag om alles</string>
@@ -2108,6 +2173,8 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="shield_keyboard_detail">Tik twee keer op de knoppen om ze weer in te schakelen</string>
     <string name="shield_keyboard_summary">Knoppen en volledig scherm gebaren blokkeren tijdens games</string>
     <string name="shield_keyboard_title">Knoppen en gebaren blokkeren</string>
+    <string name="shortcut_title_scan">Scannen</string>
+    <string name="shortcut_title_whatsapp_clean">Whatsapp opruimer</string>
     <string name="show_system_app">Toon systeem-apps</string>
     <string name="show_traffic_dialog_message">Uw datagebruik wordt weergegeven in het Meldingenpaneel. U kunt deze functie op elk gewenst moment in- of uitschakelen in Datagebruik > Instellingen.</string>
     <string name="show_traffic_dialog_title">Toon gebruik in meldingenpaneel</string>
@@ -2115,6 +2182,8 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="shutdown_cancel_reminder">Niet uitgeschakeld</string>
     <string name="shutdown_cancel_reminder_detail">Het apparaat is niet uitgeschakeld omdat je midden in een gesprek zat</string>
     <string name="shutdown_cancel_reminder_detail2">Het lijkt erop dat je nu een spel speelt. Geplande uitschakeling is geannuleerd.</string>
+    <string name="signal_exception_4g_bad_rsrq">Huidige signaalontvangst is slecht. Verbindingssnelheid kan laag zijn.</string>
+    <string name="signal_exception_none_4g_5g_network">U gebruikt 2G/3G mobiele netwerken. Verbindingssnelheid kan laag zijn.</string>
     <string name="signal_exception_summary">Kan geen verbinding maken met het netwerk in dit gebied.</string>
     <string name="signal_exception_title">Test signaalsterkte</string>
     <string name="signed_rule">Regels</string>
@@ -2158,7 +2227,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="sp_background_risk_type_virus">Virus draait op de achtergrond</string>
     <string name="sp_background_risk_type_wifi">Dit Wifi-netwerk is gevaarlijk</string>
     <string name="sp_button_text_ignore_alert_title">Dit item negeren？</string>
-    <string name="sp_empty_title_sign_exception">Houd de app ingedrukt om hem aan uitzonderingen toe te voegen</string>
+    <string name="sp_empty_title_sign_exception">Houd de app ingedrukt om deze aan uitzonderingen toe te voegen</string>
     <string name="sp_monitored_apps_count_zero">Er worden geen betalings-apps beschermd</string>
     <string name="sp_monitored_apps_list_title">Toezicht op instellingen</string>
     <string name="sp_network_privacy_dialog_message">Beveiliging kan niet goed functioneren, omdat u internetverbinding hebt geblokkeerd. Beveiliging toestaan om verbinding te maken met het internet?</string>
@@ -2202,7 +2271,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
     <string name="st_antispam_mode_only_contacts_sum">Alleen gesprekken en berichten van contacten toestaan</string>
     <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
-    <string name="st_antispam_mode_only_whitelist_sum">Alleen gesprekken en berichten van nummers in de lijst van uitzonderingen toestaan</string>
+    <string name="st_antispam_mode_only_whitelist_sum">Alleen oproepen en berichten van nummers in de lijst van uitzonderingen toestaan</string>
     <string name="st_antispam_mode_smart">Gerapporteerde nummers</string>
     <string name="st_antispam_mode_smart_sum">Nummers blokkeren die je handmatig hebt toegevoegd en blokkeer nummers die zijn gemeld door andere gebruikers</string>
     <string name="st_antispam_title_anoy_incoming">Oproepen van vreemden</string>
@@ -2273,7 +2342,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="st_title_call_wait">Aankondiging in de wacht</string>
     <string name="st_title_call_wait_setting">Wachtfunctie</string>
     <string name="st_title_editblacklist">Bewerk blokkeerlijst</string>
-    <string name="st_title_editwhitelist">Bewerk uitzonderingen</string>
+    <string name="st_title_editwhitelist">Uitzonderingen bewerken</string>
     <string name="st_title_keywords_blacklist">Trefwoord-blokkeerlijst</string>
     <string name="st_title_keywords_whitelist">Trefwoorden uitzonderingen</string>
     <string name="st_title_man_addblacklist">Nummer toevoegen aan blokkeerlijst</string>
@@ -2305,7 +2374,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="still_retain_btn">Bewaren</string>
     <string name="stop_milink_connect">Casten gestopt</string>
     <string name="suggest_app_tolock">Suggesties</string>
-    <string name="suggest_app_tolock_masked">Verborgen</string>
+    <string name="suggest_app_tolock_masked">Inhoud verborgen</string>
     <string name="suggest_app_tolock_unmasked">Zichtbare meldingen</string>
     <string name="suggest_scan_again">"Voltooi de scan om veiligheidsrisico's te vermijden."</string>
     <string name="summary_app_lock_disable">Bescherm uw gegevens met Appvergrendeling</string>
@@ -2355,7 +2424,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="summary_xiaomi_roaming">CNY 0,01/MB voor mobiele data-roaming.</string>
     <string name="superpower_dialog_button_disable_dialog">Niet meer tonen</string>
     <string name="superpower_dialog_button_ok">OК</string>
-    <string name="superpower_dialog_massage">Ultra batterijbesparing blokkeert functies die de meeste stroom verbruiken en vermindert de prestaties van uw apparaat om de basis functionaliteiten (bijv. oproepen, sms en netwerkverbinding) zo lang mogelijk beschikbaar te houden. Ultra batterijbesparing inschakelen?</string>
+    <string name="superpower_dialog_massage">Ultra batterijbesparing beperkt de meeste energieverbruikende functies en vermindert de prestaties van uw apparaat om de basisfunctionaliteit te behouden (bijv. oproepen, sms en verbinden met het netwerk) zo lang mogelijk beschikbaar te houden. Ultra batterijbesparing inschakelen?</string>
     <string name="superpower_dialog_title">Ultra batterijbesparing</string>
     <string name="superpower_notification_hint_enter">Inschakelen</string>
     <string name="superpower_notification_new_title">Minder dan %d%% batterij resterend</string>
@@ -2397,8 +2466,8 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="system_permission_declare_no_say_no">Als u ervoor kiest de vereiste toestemmingen niet te geven of ons niet toestaat uw gegevens te verzamelen en gebruiken, dan kan deze app niet normaal werken.</string>
     <string name="system_permission_declare_no_say_no_analytics">Als u deze toestemmingen niet wilt verlenen, kunt u zich afmelden in Instellingen > Aanvullende instellingen > Privacy > Gebruikerservaringprogramma.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">Als u ervoor kiest de vereiste toestemmingen niet te geven of ons niet toestaat uw gegevens te verzamelen en gebruiken, dan kan deze app deels niet werken.</string>
-    <string name="system_permission_declare_privacy_declare">We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Houd er rekening mee dat Beveiliging verbinding moet maken met internet en de volgende machtigingen vereist om uw persoonlijke gegevens te verzamelen:</string>
-    <string name="system_permission_declare_privacy_no_permission">Merk op dat Security verbinding moet maken met internet en de vereiste persoonlijke informatie moet verzamelen om u diensten te kunnen verlenen. We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.</string>
+    <string name="system_permission_declare_privacy_declare">We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Houd er rekening mee dat deze app verbinding moet maken met internet en de volgende toestemmingen vereist om uw persoonlijke gegevens te verzamelen:</string>
+    <string name="system_permission_declare_privacy_no_permission">Merk op dat deze app verbinding moet maken met internet en de vereiste persoonlijke informatie moet verzamelen om u diensten te kunnen verlenen. We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.</string>
     <string name="system_permission_declare_privacy_policy">&lt;Data>Lees en ga akkoord met onze &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u deze functie gebruikt.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">U kunt deze app verlaten.</string>
     <string name="system_permission_declare_revoke_uninstallable">U kunt zich afmelden, deze app verwijderen of uw toestemming intrekken in Beveiliging > Apps beheren > Toestemmingen > Toestemmingen.</string>
@@ -2406,6 +2475,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="system_permission_declare_use_network_no_permission">Verbinden met het netwerk</string>
     <string name="system_permission_declare_user_agreement">&lt;Data>Lees en ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> voordat u deze functie gebruikt.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">Bellen</string>
+    <string name="system_permission_perm_optional">" (optioneel)"</string>
     <string name="system_permission_perm_read_mms">MMS lezen</string>
     <string name="system_permission_perm_read_numbers">Telefoonnummers lezen</string>
     <string name="system_permission_perm_send_mms">MMS versturen</string>
@@ -2508,7 +2578,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="text_button">Begrepen</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
-    <string name="thermal_tips_message">Het spelen van games in de Prestatie-modus kan tot problemen met oververhitting leiden.</string>
+    <string name="thermal_tips_message">Het spelen van games in de Prestatiemodus kan tot problemen met oververhitting leiden.</string>
     <string name="thermal_tips_title">Attentie</string>
     <string name="third_application">Geïnstalleerde apps</string>
     <string name="third_desktop_dialog_content">Omdat launcher apps van derden problemen kunnen veroorzaken zoals gegevenslekken, abnormaal batterijgebruik, lag etc., kunnen alleen de launchers die geverifieerd zijn door MIUI ingesteld worden als uw standaardlauncher.</string>

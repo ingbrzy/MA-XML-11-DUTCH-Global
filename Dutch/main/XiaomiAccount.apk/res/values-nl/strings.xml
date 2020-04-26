@@ -120,6 +120,7 @@
     <string name="passport_change_phone_number">Wissel nummers</string>
     <string name="passport_forget_password"><u>Wachtwoord vergeten</u></string>
     <string name="passport_forget_password_no_underline">Wachtwoord vergeten</string>
+    <string name="passport_can_not_receive_verification_code">Kan geen verificatiecode ontvangen?</string>
     <string name="passport_reg_type_email">E-mailadres</string>
     <string name="passport_register_by_email"><u>Account aanmaken met een mailadres</u></string>
     <string name="passport_international_register_by_email">Account creëren met e-mailadres</string>
@@ -204,7 +205,7 @@ Om je account te activeren, volg je de
     <string name="passport_user_agreement_link">"&lt;Data>Ik heb Xiaomi's &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data>"</string>
     <string name="passport_privacy_policy">Privacybeleid</string>
     <string name="passport_user_agreement">Gebruikersovereenkomst</string>
-    <string name="passport_license_host_unreachable">Kan geen verbinding maken met het netwerk. Je kunt deze pagina bekijken op %s.</string>
+    <string name="passport_license_host_unreachable">Kan geen verbinding maken met het netwerk. U kunt deze pagina bekijken op %s.</string>
     <string name="passport_login_failed">Kan niet aanmelden</string>
     <string name="passport_reg_failed">Kan account niet aanmaken</string>
     <string name="passport_verification_failed">Account kon niet geverifieerd worden</string>
@@ -447,7 +448,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="two_factor_auth_need_code">Voer code in</string>
     <string name="two_factor_auth_need_code_summary">U zult een code zien op andere verbonden Mi-apparaten. Voer deze code in op een nieuw apparaat om u aan te melden.</string>
     <string name="completed">Helemaal klaar!</string>
-    <string name="no_network_title">Kan geen verbinding maken met netwerk</string>
+    <string name="no_network_title">Kan geen verbinding maken met het netwerk.</string>
     <string name="no_network_btn">Vernieuwen</string>
     <string name="get_device_list_failed">Kan apparaten niet verkrijgen</string>
     <string name="delete_device_failed">Kan apparaat niet verwijderen</string>
@@ -463,7 +464,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="find_device_request_prepare_error">Kan status niet verkrijgen, probeer later opnieuw</string>
     <string name="find_device_request_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
     <string name="find_device_bad_response_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
-    <string name="find_device_io_error">Kan niet verbinden met het netwerk</string>
+    <string name="find_device_io_error">Kan geen verbinding maken met het netwerk</string>
     <string name="find_device_interrupted">Actie is onderbroken, wacht twee minuten en probeer opnieuw</string>
     <string name="find_device_operation_failed_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
     <string name="find_device_unknown_error">Apparaatstatus kan niet worden verkregen, wacht twee minuten en probeer opnieuw</string>
@@ -506,7 +507,9 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="input_new_pwd">Voer uw nieuwe wachtwoord in</string>
     <string name="confirm_new_pwd">Bevestig nieuwe wachtwoord</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
-    <string name="same_new_and_old_pwd">Kan niet hetzelfde zijn als huidige wachtwoord</string>
+    <string name="same_new_and_old_pwd">Het nieuwe wachtwoord moet verschillen van het oude</string>
+    <string name="pwd_width_phone_number_or_mail_num">Wachtwoord mag uw telefoonnummer, e-mailadres of Mi-account-ID niet bevatten</string>
+    <string name="risky_pwd_not_allow">Nieuw wachtwoord is niet veilig. Stel een andere in.</string>
     <string name="account_security_info_pref_title">Beveiligingsinfo</string>
     <string name="account_bind_settings">Accounts</string>
     <string name="account_bind_devices">Apparaten</string>

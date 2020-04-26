@@ -26,6 +26,24 @@
         <item>%1$s</item>
         <item>%1$s</item>
     </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
@@ -93,7 +111,10 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>Optionele Codecs Inschakelen</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
+        <item>Optionele Codecs inschakelen</item>
         <item>Optionele Codecs Uitschakelen</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
@@ -105,6 +126,9 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Optionele Codecs Inschakelen</item>
         <item>Optionele Codecs Uitschakelen</item>
     </string-array>
@@ -130,8 +154,8 @@
         <item>Uitgeschakeld</item>
         <item>Filteren ingeschakeld</item>
         <item>Ingeschakeld</item>
-        <item>Ingeschakeld Koppen filteren</item>
-        <item>Ingeschakeld Mediapakketten gefilterd</item>
+        <item>Ingeschakeld \"Koppen filteren\"</item>
+        <item>Ingeschakeld \"Mediapakketten gefilterd\"</item>
     </string-array>
     <string-array name="clock_options">
         <item>Geef uren, minuten en seconden weer</item>
@@ -231,13 +255,13 @@
         <item>Uit</item>
         <item>Alle logbuffers</item>
         <item>Alles behalve radio log buffers</item>
-        <item>Alleen kernel log buffer</item>
+        <item>alleen kernel log buffer</item>
     </string-array>
     <string-array name="select_logpersist_titles">
         <item>Uit</item>
         <item>Alle</item>
         <item>Alles behalve radio</item>
-        <item>Alleen kernel</item>
+        <item>alleen kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Uit</item>

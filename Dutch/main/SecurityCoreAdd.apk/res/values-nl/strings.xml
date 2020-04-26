@@ -66,7 +66,7 @@ om ze altijd te kunnen bekijken"</string>
     <string name="create_app_icon_failed">Kan geen icoontje maken</string>
     <string name="create_app_icon_success">Icoontje met succes gemaakt</string>
     <string name="create_second_space">Succesvol aangemaakt</string>
-    <string name="create_space_loading">Tweede ruimte wordt gemaakt…</string>
+    <string name="create_space_loading">Tweede ruimte wordt aangemaakt…</string>
     <string name="create_work_space">Werkruimte aanmaken</string>
     <string name="creating_app_icon">Icoontje maken…</string>
     <string name="cta_declaration_agree_and_continue">Akkoord</string>
@@ -77,7 +77,7 @@ om ze altijd te kunnen bekijken"</string>
     <string name="declare_dialog_title">Over dubbele apps</string>
     <string name="deleteAll">Alles verwijderen</string>
     <string name="deleteDataConfirm">Alle items zullen worden verwijderd</string>
-    <string name="deleteDataDes">Je hebt geen items geselecteerd om te verplaatsen. Je kunt de items niet meer herstellen nadat ze zijn verwijderd.</string>
+    <string name="deleteDataDes">U heeft geen items geselecteerd om te verplaatsen. U kunt de items niet meer herstellen nadat ze zijn verwijderd.</string>
     <string name="delete_fingerprint">Vingerafdruk verwijderen</string>
     <string name="delete_fingerprint_desc">Tweede ruimte vingerafdruk zal samen met het wachtwoord worden verwijderd</string>
     <string name="delete_phone_fingerprint">Tweede ruimte vingerafdruk verwijderen</string>
@@ -130,7 +130,7 @@ Zorg dat de naam van uw organisatie correct is. Lees het privacybeleid en ga erm
     <string name="ent_licence_code_hint">Licentiecode invoeren</string>
     <string name="ent_licence_code_invalid">De door u ingevoerde licentiecode is ongeldig.</string>
     <string name="ent_mode_activated">Bedrijfsmodus is geactiveerd</string>
-    <string name="ent_network_error">Kon geen verbinding met het netwerk maken. Controleer je netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="ent_network_error">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="ent_next_step">Volgende</string>
     <string name="ent_privacy_policy_notice">* Persoonlijke gegevens in deze modus worden verzameld volgens het beleid dat door uw bedrijf is vastgesteld. Xiaomi verzamelt geen persoonlijke gegevens in deze modus.</string>
     <string name="enter_air_space">Naar werkruimte gaan</string>
@@ -174,6 +174,10 @@ Zorg dat de naam van uw organisatie correct is. Lees het privacybeleid en ga erm
     <string name="greenguard_child_des_title">Scan QR-code om apparaat toe te voegen</string>
     <string name="greenguard_functional_description">"Beheer apparaten op afstand, bekijk locatie info,
  gebruik geïnstalleerde apps en blokkeer gebruik"</string>
+    <string name="greenguard_install_cancle">Nee, bedankt</string>
+    <string name="greenguard_install_confirm">Installeren</string>
+    <string name="greenguard_install_message">Ouderlijk toezicht is een systeem-app. U heeft geen internet nodig om het te installeren.</string>
+    <string name="greenguard_install_title">Ouderlijk toezicht installeren</string>
     <string name="greenguard_parent_des">Beheer de apparaten van uw vrienden en familie</string>
     <string name="greenguard_parent_des_title">Gebruik Kite Guard om apparaten toe te voegen</string>
     <string name="guide_contact_sub_title_desc">"Contacten die aan Tweede ruimte zijn toegevoegd, zullen privé zijn.
@@ -198,7 +202,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="import_contacts_suc">Geïmporteerde privécontacten</string>
     <string name="import_file_suc">Items geïmporteerd naar mappen</string>
     <string name="import_now">Importeer</string>
-    <string name="import_photo">"Importeer foto's"</string>
+    <string name="import_photo">"Foto's importeren"</string>
     <string name="import_photo_desc">Bekijk gedeelde items in Tweede ruimte</string>
     <string name="import_photo_suc">"Geïmporteerde foto's"</string>
     <string name="input_space_finger">Nu instellen</string>
@@ -268,8 +272,8 @@ Anders verliest u mogelijk toegang tot Tweede ruimte vanaf het Vergrendelscherm.
     <string name="public_app">Beide spaces</string>
     <string name="qq_login">Log in op QQ</string>
     <string name="qq_send">Naar QQ vrienden/computer gestuurd</string>
-    <string name="radio_button_icon_switch_title">Er wordt een snelkoppeling gebruikt</string>
-    <string name="radio_button_password_switch_title">Er wordt een wachtwoord gebruikt</string>
+    <string name="radio_button_icon_switch_title">Een snelkoppeling gebruiken</string>
+    <string name="radio_button_password_switch_title">Een wachtwoord gebruiken</string>
     <string name="removeSuccess">Met succes verwijderd</string>
     <string name="remove_button">Verwijderen</string>
     <string name="remove_button_time">Verwijderen (%ds)</string>
@@ -370,7 +374,7 @@ Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed meer."
     <string name="space_create_guide_desc_2">Helemaal klaar om aparte ruimte te gebruiken</string>
     <string name="space_create_guide_desc_3">Tweede ruimte heeft geen invloed op andere items op uw apparaat</string>
     <string name="space_create_guide_switchmode_title">Schakel tussen ruimtes</string>
-    <string name="space_create_guide_title_1">Bescherm je privacy</string>
+    <string name="space_create_guide_title_1">Bescherm uw privacy</string>
     <string name="space_create_guide_title_2">Op elk gewenst moment aanmaken</string>
     <string name="space_create_guide_title_3">Absoluut zonder risico</string>
     <string name="space_created_success">Tweede ruimte is met succes aangemaakt</string>
@@ -392,7 +396,7 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="support_desc">Beveiligingsdiensten geleverd door Spaces Mobile</string>
     <string name="sure_to_use">Bevestigen</string>
     <string name="switchDataSummary">Verplaats items tussen ruimtes</string>
-    <string name="switch_apps_settings">Appinstellingen</string>
+    <string name="switch_apps_settings">App instellingen</string>
     <string name="switch_data_app">Verplaats items naar Tweede ruimte</string>
     <string name="switch_data_settings">Gegevens verplaatsen</string>
     <string name="switch_download_space">Schakel van werkruimte</string>
@@ -401,7 +405,7 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="switch_in_contacts">Contacten importeren</string>
     <string name="switch_in_files">Bestanden importeren</string>
     <string name="switch_in_hidden_space">Importeren naar de huidige ruimte</string>
-    <string name="switch_in_photos">"Importeer foto's"</string>
+    <string name="switch_in_photos">"Foto's importeren"</string>
     <string name="switch_in_privacy_contacts">Importeer privé contacten</string>
     <string name="switch_out_contacts">Contactpersonen exporteren</string>
     <string name="switch_out_files">Bestanden exporteren</string>
@@ -424,7 +428,7 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="transferApp">Apps die geïnstalleerd zijn in Tweede ruimte zullen worden verplaatst naar Eerste ruimte. Alle app-gegevens zullen echter verloren gaan.</string>
     <string name="transferContact">Contacten van Tweede ruimte zullen naar Eerste ruimte worden verplaatst</string>
     <string name="transferDataConfirm">De resterende items zullen worden verwijderd</string>
-    <string name="transferDataConfirmDes">Je zult de items niet meer kunnen herstellen, nadat ze zijn verwijderd.</string>
+    <string name="transferDataConfirmDes">U zult de items niet meer kunnen herstellen, nadat ze zijn verwijderd.</string>
     <string name="transferDataLable">Selecteer items om te verplaatsen</string>
     <string name="transferFile">Selecteer andere bestanden handmatig</string>
     <string name="transferImage">"Foto's van Tweede ruimte zullen naar het album \"Tweede ruimte\" in Eerste ruimte worden verplaatst"</string>

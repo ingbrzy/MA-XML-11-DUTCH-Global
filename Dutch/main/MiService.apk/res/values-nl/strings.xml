@@ -30,8 +30,12 @@
     <string name="mi_service_app_name">Services &amp; feedback</string>
     <string name="miservice_channel_update_notification_info">\"Services &amp; feedback\" verzoekt online data…</string>
     <string name="miservice_notification_boot_content">Meer informatie over wat MIUI kan doen</string>
+    <string name="miservice_notification_huanji_content">Breng ze over met Mi Mover</string>
+    <string name="miservice_notification_huanji_title">Heeft u belangrijke items op uw oude telefoon?</string>
     <string name="miservice_notification_open_feedback_content">Alle feedback functies zijn verplaatst naar de nieuwe app</string>
     <string name="miservice_notification_open_feedback_title">Introducerend: \"Services &amp; feedback\"</string>
+    <string name="miservice_notification_scan_content">Gebruik Scanner om woorden en zinnen te vertalen</string>
+    <string name="miservice_notification_scan_title">Vertaal in een handomdraai</string>
     <string name="miui_feedback_answer_detail_community">Je kunt antwoorden op je vragen vinden in Mi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Ja</string>
     <string name="miui_feedback_answer_detail_feedback_result">Bedankt voor uw feedback!</string>
@@ -46,6 +50,7 @@
     <string name="miui_feedback_edit_add_original_images_dialog_content">Als het probleem dat u rapporteert te maken heeft met de fotokwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet bijgesneden) om ons te helpen het probleem te vinden. Foto nu toevoegen?</string>
     <string name="miui_feedback_edit_choose_module">Selecteer item</string>
     <string name="miui_feedback_edit_choose_module_hint">Vereist</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Tijd</string>
     <string name="miui_feedback_edit_choose_reproductivity">Reproduceerbaarheid</string>
     <string name="miui_feedback_edit_choose_third_app_name">App-naam selecteren</string>
     <string name="miui_feedback_edit_contact_info_hint">Telefoonnummer/e-mailadres</string>
@@ -58,6 +63,7 @@
     <string name="miui_feedback_edit_discard_draft_dialog_title">Concept weggooien?</string>
     <string name="miui_feedback_edit_hint">Meld bugs, iedere keer wanneer u problemen ondervindt, zodat we ze sneller kunnen oplossen</string>
     <string name="miui_feedback_edit_hint_gone">Gesloten bericht</string>
+    <string name="miui_feedback_edit_hint_optional">Selecteren</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wachten op Wifi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Uploaden</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Het lijkt erop dat u met een betaald netwerk verbonden bent. Het uploaden van logbestanden kan aanvullende kosten genereren.</string>
@@ -92,6 +98,7 @@
     <string name="miui_feedback_edit_submit_dialog_not_show_again">Niet meer tonen</string>
     <string name="miui_feedback_edit_submit_dialog_title">Rapport versturen</string>
     <string name="miui_feedback_edit_submit_directly">Indienen</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Tijd selecteren</string>
     <string name="miui_feedback_edit_title_reproductivity">Reproduceerbaarheid selecteren</string>
     <string name="miui_feedback_edit_toast_description_required">Omschrijving is vereist</string>
     <string name="miui_feedback_edit_toast_module_required">Selecteer item</string>

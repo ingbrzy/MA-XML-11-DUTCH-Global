@@ -26,17 +26,17 @@
         <item>Back-up systeeminstellingen</item>
         <item>Apparaat zoeken</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
-        <item>For identifying your device</item>
-        <item>For locating your device and switching to the lost mode</item>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
+        <item>Om uw apparaat te identificeren</item>
+        <item>Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus</item>
     </string-array>
-    <string-array name="priv_dialog_sync_runtime_perm_desc">
-        <item>For syncing events</item>
-        <item>For syncing messages</item>
-        <item>For syncing messages</item>
-        <item>For syncing contacts</item>
-        <item>For syncing contacts</item>
-        <item>For saving items on your device (e.g. images, videos, songs)</item>
+    <string-array name="privacy_dialog_sync_runtime_perm_desc">
+        <item>Om evenementen te synchroniseren</item>
+        <item>Om berichten te synchroniseren</item>
+        <item>Om berichten te synchroniseren</item>
+        <item>Om contacten te synchroniseren</item>
+        <item>Om contacten te synchroniseren</item>
+        <item>"Voor het opslaan van items op uw apparaat (bijv. Afbeeldingen, video's, liedjes)"</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Back-ups</item>

@@ -22,12 +22,13 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="find_device_error_access_denied">Toegang geweigerd.</string>
     <string name="find_device_error_account_sys_timeout">"Kon geen verbinding maken met Mi Account. "</string>
     <string name="find_device_error_account_unknown_error">Mi Account fout (%s).</string>
+    <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Netwerkfout.</string>
     <string name="find_device_error_password_changed">Account wachtwoord is recent gewijzigd.</string>
     <string name="find_device_error_server">Serverfout (%s).</string>
     <string name="find_device_error_unknown">Onbekende fout (%s).</string>
     <string name="find_device_noise_title">Apparaat zoeken alarm</string>
-    <string name="find_device_notice">Ga naar&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />om uw apparaat te lokaliseren, te vergrendelen of te herstellen.</string>
+    <string name="find_device_notice">Ga naar &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> om uw apparaat te lokaliseren, te vergrendelen of te herstellen.</string>
     <string name="find_device_notice_sms_alert">Als u van SIM-kaart wisselt, kan automatisch een ander SMS-bericht worden verzonden om deze functie opnieuw te activeren.</string>
     <string name="find_device_stop_noise">Tik op OK om de dempen</string>
     <string name="find_device_storage_corrupted">Opslag Apparaat zoeken beschadigd. Uw apparaat is nu onveilig.</string>

@@ -111,6 +111,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
     <string name="cast_notification_connecting_message">Verbinden met %1$s</string>
@@ -546,6 +547,7 @@ voor video's"</string>
     <string name="notice_title">Berichten</string>
     <string name="notify_apk_installed">Succesvol gedownload</string>
     <string name="ok">OK</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="ovp_alert_dialog_download_install_task">HD plug-in downloaden…</string>
@@ -949,6 +951,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>

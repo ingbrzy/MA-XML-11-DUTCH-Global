@@ -9,8 +9,8 @@
         <item quantity="one">De geselecteerde actie is niet beschikbaar in noodoproepmodus. De telefoon zal %s minuut in deze modus zijn. Wilt u deze modus nu verlaten?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">vertraging: %s seconden</item>
-        <item quantity="one">vertraging: %s seconde</item>
+        <item quantity="other">vertraging: %d seconden</item>
+        <item quantity="one">vertraging: %d seconde</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">U kunt maximaal %s personen toevoegen, opnieuw selecteren.</item>

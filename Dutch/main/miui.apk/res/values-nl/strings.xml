@@ -46,6 +46,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Gereed</string>
     <string name="date_picker_dialog_title">Datum instellen</string>
     <string name="time_picker_dialog_title">Tijd instellen</string>
@@ -53,7 +54,7 @@
     <string name="perm_payment_lab">Mi Pay</string>
     <string name="perm_payment_dspt">App toestaan om te betalen met Mi Pay Service</string>
     <string name="check_phone_error_title">Synchronisatie is uitgeschakeld</string>
-    <string name="check_phone_io_error">Kan geen netwerkverbinding maken</string>
+    <string name="check_phone_io_error">Kan geen verbinding maken met het netwerk</string>
     <string name="send_sms_for_sync_title">Waarschuwing dataverbruik</string>
     <string name="send_sms_for_sync_notice">Mogelijk is een uitgaand sms-bericht vereist om deze service te activeren. Uw provider brengt u dit bericht in rekening.</string>
     <string name="activate">Activeren</string>
@@ -65,6 +66,7 @@
     <string name="error_forbidden">Synchroniseren is uitgeschakeld vanwege problemen met uw Mi Account.</string>
     <string name="error_not_acceptable">Synchronisatie is uitgeschakeld.</string>
     <string name="more">Meer</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>
@@ -579,7 +581,7 @@
     <string name="permdesc_sendSmsNoConfirmation">App kan SMS berichten versturen zonder om uw toestemming te vragen. Uw provider kan u kosten aanrekenen voor deze berichten.</string>
     <string name="web_sso_login_message">Bezig met inloggen…</string>
     <string name="web_sso_login_fail">U moet opnieuw inloggen</string>
-    <string name="no_network">Kan geen netwerkverbinding maken</string>
+    <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="webview_reload">Opnieuw proberen</string>
     <string name="hybrid_provider">Mogelijk gemaakt door %1$s</string>
     <string name="xiaomi_mobile">Mi Mobile</string>

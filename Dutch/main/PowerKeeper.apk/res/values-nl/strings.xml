@@ -19,7 +19,7 @@
     <string name="cloud_international_addr">Internationale servergegevens updaten</string>
     <string name="cloud_staging_addr">Stagingservergegevens updaten</string>
     <string name="config_classify">Sorteer bij app instellingen</string>
-    <string name="config_description">MIUI can apps detecteren met specifieke achtergrondprocessen (bijv. berichten-, navigatieapps en mediaspelers), en Batterijbesparing zal geen invloed hebben op belangrijke activiteiten in de achtergrond.</string>
+    <string name="config_description">MIUI kan apps identificeren met specifieke achtergrondprocessen (bijv. berichten- en navigatieapps, mediaspelers) en Batterijbesparing toepassen op een manier die geen belangrijke achtergrondactiviteit beïnvloedt.</string>
     <string name="config_mode_title">Achtergrondinstellingen</string>
     <string name="config_no_restrict_description">Batterijbesparing beperkt de activiteit van de app niet</string>
     <string name="config_no_restrict_title">Geen beperkingen</string>
@@ -35,7 +35,7 @@ Batterijbesparing zal belangrijke apps selectief behandelen."</string>
     <string name="confirm">OК</string>
     <string name="current_cloud_addr_is">Cloud control3 serveradres is:</string>
     <string name="empty_title_apps_container_list">Geen apps</string>
-    <string name="enable_sleep_mode">"Schakel de slaapmodus in om het batterijgebruik 's nachts te optimaliseren"</string>
+    <string name="enable_sleep_mode">Schakel de Slaapmodus in om het batterijgebruik in de nacht te optimaliseren</string>
     <string name="error_filename_too_long">De ingegeven bestandsnaam is te lang.</string>
     <string name="extreme_add_white_list_summary">Voeg tot 4 apps toe</string>
     <string name="extreme_add_white_list_title">Achtergrond uitzonderingen</string>
@@ -64,6 +64,8 @@ Batterijbesparing zal belangrijke apps selectief behandelen."</string>
     <string name="notification_exit_extreme_mode_title">Extreme batterijbesparing uitgeschakeld</string>
     <string name="notification_open_extreme_mode_text">Extreme batterijbesparing ingeschakeld</string>
     <string name="performance_category">Prestaties</string>
+    <string name="permstep_description">Allow this app to access your step count</string>
+    <string name="permstep_label">Access step count</string>
     <string name="power_center">Batterijoptimalisatie</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s functioneert abnormaal</string>
     <string name="power_checker_background_cpu_title">%1$s functioneert abnormaal</string>

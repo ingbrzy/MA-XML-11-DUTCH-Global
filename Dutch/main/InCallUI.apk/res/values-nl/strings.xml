@@ -91,7 +91,6 @@
     <string name="description_image_button_four">vier</string>
     <string name="description_image_button_hangup">Einde</string>
     <string name="description_image_button_message_enter">Antwoorden met bericht</string>
-    <string name="description_image_button_message_exit">Berichten verbergen</string>
     <string name="description_image_button_nine">negen</string>
     <string name="description_image_button_one">één</string>
     <string name="description_image_button_pound">pond</string>
@@ -206,4 +205,5 @@
     <string name="volume_boost_text">Volume met succes verhoogd</string>
     <string name="wait_prompt_str">Volgende beltoon versturen?</string>
     <string name="waiting_close_airplane_mode">Een ogenblik geduld…</string>
+    <string name="wifi_call">VoWifi-oproep</string>
 </resources>

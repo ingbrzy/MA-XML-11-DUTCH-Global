@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">Camera</string>
     <string name="accessibility_carrier_network_change_mode">Wijzig netwerkprovider.</string>
     <string name="accessibility_cast_name">Verbonden met %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Scherm casting gestopt.</string>
     <string name="accessibility_cell_data">Mobiele data</string>
     <string name="accessibility_cell_data_off">Mobiele data uit</string>
@@ -312,6 +313,8 @@
     <string name="available_via_carrier">Beschikbaar via %1$s</string>
     <string name="available_via_passpoint">Beschikbaar via %1$s</string>
     <string name="back">Terug</string>
+    <string name="band_24G">" (2.4 GHz band)"</string>
+    <string name="band_5G">" (5 GHz band)"</string>
     <string name="battery">Batterij</string>
     <string name="battery_can_use_time">Ongeveer %s resterend</string>
     <string name="battery_detail_charging_summary">Batterijbesparing is niet beschikbaar tijdens het opladen</string>
@@ -773,26 +776,6 @@ Als u doorgaat, kunnen er kosten in rekening worden gebracht voor datagebruik."<
     <string name="gxzw_area">Vingerafdrukscanner</string>
     <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Druk een beetje harder</string>
-    <string name="gxzw_quick_open_add_event">Gebeurtenis toevoegen</string>
-    <string name="gxzw_quick_open_add_event_sub">Kalender</string>
-    <string name="gxzw_quick_open_alipay_pay">Betalingscode</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
-    <string name="gxzw_quick_open_alipay_scan">Scanner</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
-    <string name="gxzw_quick_open_qr_code">QR-code</string>
-    <string name="gxzw_quick_open_qr_code_sub">Scanner</string>
-    <string name="gxzw_quick_open_search">Zoeken</string>
-    <string name="gxzw_quick_open_search_sub">Browser</string>
-    <string name="gxzw_quick_open_skip_teach">Tutorial overslaan</string>
-    <string name="gxzw_quick_open_wechat_pay">Betalingscode</string>
-    <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
-    <string name="gxzw_quick_open_wechat_scan">Scanner</string>
-    <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi-Ai</string>
-    <string name="gxzw_quick_open_xiaoai_title1">Zeg de naam van de app die u wilt openen</string>
-    <string name="gxzw_quick_open_xiaoai_title2">Zeg de naam van de functie die u wilt gebruiken</string>
-    <string name="gxzw_quick_tip_press">Blijf indrukken…</string>
-    <string name="gxzw_quick_tip_slide">Haal uw vinger niet van het scherm af. Swipe om te selecteren.</string>
     <string name="gxzw_try_again">Opnieuw proberen</string>
     <string name="gxzw_try_more_again">Opnieuw proberen</string>
     <string name="gxzw_use_password">Gebruik uw wachtwoord om te ontgrendelen</string>
@@ -915,6 +898,10 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_charging_back_to_lockscreen">Terug naar vergrendelscherm</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Gebruikt</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
@@ -942,6 +929,7 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of is niet leesbaar. Plaats alstublieft een simkaart.</string>
     <string name="keyguard_missing_sim_message">Geen simkaart in telefoon.</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Netwerk is vergrendeld</string>
     <string name="keyguard_password_enter_password_code">Voer wachtwoord in om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_code">Voer pincode in</string>
@@ -1025,6 +1013,7 @@ Probeer opnieuw in %2$d seconden."</string>
     <string name="left_keycode">Linker sleutelcode</string>
     <string name="left_nav_bar_button_type">Extra linkerknop type</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">Laden…</string>
     <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van het Startscherm</string>
     <string name="local_backup_password_summary_none">Volledige Startscherm back-ups zijn momenteel niet beveiligd</string>
@@ -1100,6 +1089,7 @@ scrollende screenshot te maken"</string>
     <string name="miui_guide_dialog_message">"Media geluiden (muziek, video's, etc.) worden nog steeds afgespeeld in de stilte-modus. U kunt dit in de instellingen veranderen."</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door bluetooth-apparaat</string>
     <string name="miui_ringer_count_down">Aftellen</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Stil</string>
     <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
     <string name="miui_ringer_total">Niet storen</string>
@@ -1127,12 +1117,14 @@ U bent ook verbonden met %3$s, die uw persoonlijke netwerk kan controleren activ
 
 Neem voor meer informatie contact op met uw beheerder."</string>
     <string name="monitoring_description_ca_cert_settings">Open vertrouwde referenties</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Er is een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_do_body">Uw beheerder kan instellingen, zakelijke toegang, apps, gegevens die aan uw apparaat zijn gekoppeld en de locatiegegevens van uw apparaat controleren en beheren.</string>
     <string name="monitoring_description_do_body_vpn">U bent verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_do_header_generic">Dit apparaar wordt beheerd door %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om uw apparaat te beheren.</string>
     <string name="monitoring_description_do_learn_more">Kom meer te weten</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Uw organisatie heeft een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Uw werkprofiel is verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_management">Uw apparaat wordt beheerd door uw organisatie. Uw beheerder kan instellingen bekijken en beheren, alsmede zakelijke toegang, apps, gegevens op uw apparaat en de locatie-informatie van uw apparaat. Neem contact op met uw beheerder voor meer informatie.</string>
@@ -1156,6 +1148,7 @@ Neem voor meer informatie contact op met uw beheerder.
 
 U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA-certificaten</string>
     <string name="monitoring_subtitle_network_logging">Netwerklogging</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1194,6 +1187,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="nav_guide_message">Gebruik gebaren om schermknoppen te verbergen/tonen.</string>
     <string name="nav_guide_ok">Instellen</string>
     <string name="nav_guide_title">Verberg softknoppen</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Niets</string>
     <string name="no_multi_window_app">Geen apps die split-screen ondersteunen</string>
     <string name="no_notification_tips">Geen meldingen</string>
@@ -1272,7 +1266,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="open_remote_center_hint_text">Veeg naar rechts om de besturing te bekijken</string>
     <string name="osu_completing_sign_up">Registratie voltooien…</string>
     <string name="osu_connect_failed">Kon niet verbinden</string>
-    <string name="osu_opening_provider">%1$s aan het openen</string>
+    <string name="osu_opening_provider">Aan het openen %1$s</string>
     <string name="osu_sign_up_complete">Registratie voltooid. Verbinden…</string>
     <string name="osu_sign_up_failed">Kon registratie niet voltooien. Tik om het opnieuw te proberen.</string>
     <string name="other">Overige</string>
@@ -1346,7 +1340,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="power_remaining_charging_duration_only">%1$s resterend tot volledig opgeladen</string>
     <string name="power_remaining_duration_only">Nog ongeveer %1$s over</string>
     <string name="power_remaining_duration_only_enhanced">Ongeveer %1$s over op basis van uw gebruik</string>
-    <string name="power_remaining_duration_only_short">%1$s over</string>
+    <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Telefoon kan binnenkort uitgeschakeld worden</string>
     <string name="power_remaining_duration_shutdown_imminent">Telefoon kan binnenkort uitgeschakeld worden (%1$s)</string>
     <string name="power_remaining_less_than_duration">Minder dan%1$s resterend (%2$s)</string>
@@ -1366,6 +1360,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="private_dns_mode_provider">Hostnaam van de particuliere DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kon niet verbinden</string>
     <string name="private_dns_mode_provider_hostname_hint">Voer de hostnaam van de DNS-provider in</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_owned_footer">Profiel wordt mogelijk in de gaten gehouden</string>
     <string name="prompt_danger">Gevaar</string>
     <string name="prompt_detecting">Detecteren</string>
@@ -1482,6 +1477,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="quick_settings_wifi_not_connected">Niet verbonden</string>
     <string name="quick_settings_wifi_off_label">Wifi is uitgeschakeld</string>
     <string name="quick_settings_wifi_on_label">Wifi is uitgeschakeld</string>
+    <string name="quick_settings_wireless_label">Omgekeerd draadloos opladen</string>
     <string name="quick_settings_work_mode_label">Werk modus</string>
     <string name="rapid_charge_mode_tip">Snel opladen</string>
     <string name="recent_cannot_dock">Kan Split-screen niet gebruiken in Tweede Ruimte</string>
@@ -1567,7 +1563,9 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="screenshot_edit">Bewerken</string>
     <string name="screenshot_failed_title">Kan geen screenshot maken.</string>
     <string name="screenshot_failed_to_capture_text">Het maken van screenshots is niet toegestaan ​​door de app of uw organisatie</string>
+    <string name="screenshot_failed_to_capture_title">Deze app staat geen screenshots toe</string>
     <string name="screenshot_failed_to_save_text">Kan screenshot niet opslaan vanwege beperkte opslagruimte.</string>
+    <string name="screenshot_failed_to_save_title">Onvoldoende opslagruimte voor nieuwe screenshots</string>
     <string name="screenshot_failed_to_save_unknown_text">Er is een fout opgetreden tijdens het opslaan van de screenshot.</string>
     <string name="screenshot_feedback_txt">Feedback</string>
     <string name="screenshot_insert_failed">Kon de screenshot niet laden. Maak een nieuwe screenshot of bekijk de afbeelding in de Galerij.</string>
@@ -1606,7 +1604,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="show_demo_mode">Demo-modus tonen</string>
     <string name="show_hw_layers_updates">Hardware level-updates tonen</string>
     <string name="show_hw_layers_updates_summary">Hardware-items die worden bijgewerkt, knipperen groen</string>
-    <string name="show_hw_screen_updates">GPU-rendering visualiseren</string>
+    <string name="show_hw_screen_updates">Weergave-updates weergeven</string>
     <string name="show_hw_screen_updates_summary">"Schermen laten flitsen waar video's worden weergegeven door GPU"</string>
     <string name="show_non_rect_clip">Niet-rechthoekige clip-operaties debuggen</string>
     <string name="show_notification_channel_warnings">Waarschuwingen voor meldingskanalen weergeven</string>
@@ -1952,6 +1950,7 @@ Elke gebruiker kan apps updaten voor alle andere gebruikers."</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimaal</string>
     <string name="wapi_yes">Ja</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">%1$s geüpdated</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt is tijdelijk vol</string>
     <string name="wifi_auto_sel_wapi_cert">Automatisch selecteren</string>
@@ -1975,12 +1974,12 @@ Elke gebruiker kan apps updaten voor alle andere gebruikers."</string>
     <string name="wifi_is_off">Wifi is uitgeschakeld</string>
     <string name="wifi_limited_connection">Beperkte verbinding</string>
     <string name="wifi_metered_label">Gemeten</string>
-    <string name="wifi_no_internet">Kan geen verbinding maken met het internet</string>
+    <string name="wifi_no_internet">Kan geen verbinding maken met internet</string>
     <string name="wifi_no_internet_no_reconnect">Kan geen verbinding maken met het internet</string>
     <string name="wifi_not_in_range">Buiten bereik</string>
     <string name="wifi_remembered">Opgeslagen</string>
     <string name="wifi_scan_throttling">Wifi scan reguleren</string>
-    <string name="wifi_scan_throttling_summary">Vermindert batterijgebruik &amp; verbetert netwerkprestaties</string>
+    <string name="wifi_scan_throttling_summary">Vermindert batterijgebruik en verbetert netwerkprestaties</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_none">Geen</string>
@@ -2015,6 +2014,15 @@ Het lijkt erop dat de credentie-opslag niet ingeschakeld is."</string>
     <string name="wireless_charge_reset_device">Het opladen gaat langzaam. Pas uw apparaat aan.</string>
     <string name="wireless_charge_reset_device_detail">Zorg ervoor dat de positie van uw apparaat op de oplaadbasis correct is</string>
     <string name="wireless_charge_stop">Draadloos opladen gestopt</string>
+    <string name="wireless_charging_connected_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer uw apparaat draadloos aan het opladen is.</string>
+    <string name="wireless_charging_low_battery_level_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer de batterij minder dan 30% opgeladen is.</string>
+    <string name="wireless_charging_ok">Begrepen</string>
+    <string name="wireless_charging_saver_cancel">Uitschakelen</string>
+    <string name="wireless_charging_saver_message">Batterijbesparing is nu ingeschakeld. Omgekeerd draadloos opladen beschikbaar houden?</string>
+    <string name="wireless_charging_saver_ok">Beschikbaar houden</string>
+    <string name="wireless_charging_tips_disable">Niet meer weergeven</string>
+    <string name="wireless_charging_tips_message">Plaats apparaten die Qi draadloos opladen ondersteunen (telefoons, accessoires etc.) op de achterkant van dit apparaat.</string>
+    <string name="wireless_charging_tips_title">Omgekeerd draadloos opladen</string>
     <string name="wrong_password">Onjuist wachtwoord</string>
     <string name="zen_alarm_warning">U zult uw volgende alarm niet horen %1$s</string>
     <string name="zen_alarm_warning_indef">U zult uw volgende alarm niet horen %1$s tenzij u dit van te voren uitschakelt</string>

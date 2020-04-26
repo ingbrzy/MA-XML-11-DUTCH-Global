@@ -41,7 +41,6 @@
     <string name="agree_camera_permission">"Voor het maken van foto's en het opnemen van video's"</string>
     <string name="agree_storage_permission">"Voor toegang tot foto's en bestanden die opgeslagen zijn op uw apparaat"</string>
     <string name="always">Altijd</string>
-    <string name="amazon_assistant_shopping_title">Zoeken op Amazon</string>
     <string name="app_description_content">Met Scanner kunt u QR-codes, documenten, visitekaartjes en meer scannen. Vergewis u ervan dat u zonder deze functies kunt voordat u de app deïnstalleert.</string>
     <string name="app_description_title">Over Scanner</string>
     <string name="app_details">App:</string>
@@ -74,6 +73,7 @@
     <string name="choose_open_code_app">Selecteer een app</string>
     <string name="choose_pay_title">Selecteer betaalmethode</string>
     <string name="choose_picture">Selecteer QR-code afbeelding</string>
+    <string name="choosed_title">Geselecteerd</string>
     <string name="classesNameNull_toast">Klassennaam mag niet leeg zijn</string>
     <string name="classes_canfirmTitle">Bevestig de resultaten en begin met importeren</string>
     <string name="classes_company">Importeren</string>
@@ -100,10 +100,16 @@
     <string name="copy_text">Tekst kopiëren</string>
     <string name="copy_text_success">Tekst gekopiëerd</string>
     <string name="copy_tracknum">Kopieer de trackingcode</string>
+    <string name="create">QR-code genereren</string>
+    <string name="createFail">Kon geen QR-code genereren. Uw bericht is te lang.</string>
+    <string name="createQRCode_hint">Tekst invoeren</string>
+    <string name="createQRCode_save">Opslaan</string>
+    <string name="create_again">Vernieuwen</string>
     <string name="crop_cancel_description">Annuleren</string>
     <string name="crop_done_description">Gereed</string>
     <string name="crop_title_study">Foto bijsnijden</string>
     <string name="crop_title_translation">Selecteer tekst om te vertalen</string>
+    <string name="delete">Verwijderen</string>
     <string name="document_color_picture">Kleur</string>
     <string name="document_color_picture_tip">Naar kleur converteren…</string>
     <string name="document_crop_title">Document bijsnijden</string>
@@ -158,6 +164,8 @@
     <string name="food_module_title_food">Calorieën</string>
     <string name="got_it">Begrepen</string>
     <string name="gps">Navigeren</string>
+    <string name="history">Geschiedenis</string>
+    <string name="importFailed">Kon niet importeren</string>
     <string name="import_contact">Importeer contact</string>
     <string name="impunity_declaration_content">"Scanner moet uw camera gebruiken en de afbeeldingen verwerken die u maakt terwijl u de app gebruikt. Gebruik Scanner niet om foto's te maken van de objecten die uw persoonlijke gegevens bevatten. Door op \"Akkoord\" te tikken, gaat u akkoord met onze &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Privacybeleid&lt;/a>&lt;/font> en Scanner toestaan om verbinding te maken met het internet."</string>
     <string name="impunity_declaration_negative_text">Sluiten</string>
@@ -228,6 +236,11 @@
     <string name="recognize">Scan</string>
     <string name="recognize_fail">Kon de code niet lezen</string>
     <string name="request_server_failed">Kon niet verbinden met server</string>
+    <string name="saveDone">Succesvol opgeslagen</string>
+    <string name="scanHistory">Scanner geschiedenis</string>
+    <string name="scanHistory_close">Uitschakelen</string>
+    <string name="scanHistory_isOpen">Beginnen met het bijhouden van de geschiedenis van gescande items nu?</string>
+    <string name="scanHistory_open">Inschakelen</string>
     <string name="scan_result">Resultaat</string>
     <string name="scan_support_type">WeChat, Alipay, QR-codes, barcodes</string>
     <string name="sdk_not_ready">SDK voorbereiden. Probeer het later opnieuw.</string>

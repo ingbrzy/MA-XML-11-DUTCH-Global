@@ -301,7 +301,7 @@ Selectie"</string>
     <string name="inactive_app_inactive_summary">Inactief. Tik om te schakelen.</string>
     <string name="inactive_apps_title">Stand-by-apps</string>
     <string name="incall_error_call_failed">Kan niet bellen.</string>
-    <string name="incall_error_power_off">Schakel vliegtuigmodus uit om te bellen.</string>
+    <string name="incall_error_power_off">Schakel Vliegtuigmodus uit om te bellen.</string>
     <string name="incall_error_supp_service_unknown">Deze dienst wordt niet ondersteund.</string>
     <string name="install_other_apps">Onbekende apps installeren</string>
     <string name="keep_screen_on">Stand-by</string>
@@ -419,6 +419,7 @@ Selectie"</string>
     <string name="private_dns_mode_provider">Hostnaam van privé-DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
+    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="remaining_length_format">Nog %1$s</string>
     <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is er?</string>
     <string name="respond_via_sms_canned_response_2">Ik bel je zo meteen terug.</string>

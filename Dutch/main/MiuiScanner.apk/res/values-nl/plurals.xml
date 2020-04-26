@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="choosed">
+        <item quantity="other">Geselecteerd %1$d items</item>
+        <item quantity="one">Geselecteerd %1$d item</item>
+    </plurals>
+</resources>

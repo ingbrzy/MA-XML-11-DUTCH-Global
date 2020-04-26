@@ -34,7 +34,7 @@
 *  Alarm, klok en tijdsinstellingen 
 *  Notificatie-instellingen 
 *  MIUI en systeeminstellingen 
-\"Let op: er zal geen back-up van gegevens van apps die u heeft geïnstalleerd gemaakt worden naar Xiaomi Cloud."</string>
+\"Opmerking: er zal geen back-up van gegevens van apps die u heeft geïnstalleerd gemaakt worden naar Xiaomi Cloud."</string>
     <string name="cloud_app_no_data">Geen back-ups</string>
     <string name="cloud_app_restore_error">Kon niet herstellen</string>
     <string name="cloud_app_restore_success">Apps hersteld</string>
@@ -49,6 +49,8 @@
     <string name="self_device_second_space">Deze telefoons Tweede ruimte</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
     <string name="size_unknown">Onbekende grootte</string>
     <string name="recovering">%s herstellen</string>
@@ -57,6 +59,7 @@
     <string name="start_backup_to_micloud">Apps back-uppen naar Xiaomi Cloud</string>
     <string name="backing_up_to_micloud">Bezig met back-up…</string>
     <string name="restore_from_cloud">Herstellen van de cloud back-up</string>
+    <string name="restore_from_mimover">Overzetten van uw oude apparaat met behulp van Mi Mover</string>
     <string name="backup_to_cloud">Back-up app</string>
     <string name="restoring_file_title_no_progress">Bestanden herstellen…</string>
     <string name="menu_item_sort">Sorteren op</string>
@@ -80,7 +83,7 @@
     <string name="download_settings">Startscherm instellingen downloaden %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd-MM-yyyy</string>
     <string name="recover_home_settings">Herstel Startscherm instellingen</string>
-    <string name="cancel_recover_settings"><u>Annuleren</u></string>
+    <string name="cancel_recover_settings">Annuleren</string>
     <string name="recover_settings_description">Laat uw apparaat aan staan</string>
     <string name="recover_miui_settings">Systeeminstellingen herstellen</string>
     <string name="wait_icon_download">App iconen downloaden</string>
@@ -106,6 +109,7 @@
     <string name="restore_data_summary">Voor deze functie is een internetverbinding nodig.</string>
     <string name="query_restore_summary">Er is een Xiaomi Cloud back-up van dit apparaat gevonden. Wilt u Startscherm apps en instellingen herstellen of wilt u het als nieuw apparaat gebruiken en eerdere Xiaomi Cloud back-ups verwijderen?</string>
     <string name="restore_home_screen_apps">Herstellen van de cloud back-up</string>
+    <string name="restoring_home_screen_apps">Herstellen vanuit Xiaomi Cloud…</string>
     <string name="query_restore_description">Herstel Startscherm apps en instellingen met deze back-up. Hierbij worden alle app data voor dubbele apps die al op dit apparaat geïnstalleerd zijn overschreven. Apps die niet in deze back-up zitten zullen verplaatst worden naar het laatste Startscherm.</string>
     <string name="restore_from_this_device">Herstellen vanuit deze backup</string>
     <string name="confirm_cancel_restore_title">Herstellen annuleren?</string>
@@ -132,7 +136,7 @@
     <string name="provision_error_connect_msg">Test het netwerk en probeer het opnieuw. Back-ups zijn niet beschikbaar wanneer uw apparaat offline is.</string>
     <string name="provision_error_connect_title">Verbinden is mislukt</string>
     <string name="loading_user_backup">Back-ups laden van gebruiker…</string>
-    <string name="loading_progress_num">(%s%%)</string>
+    <string name="loading_progress_num">Geladen %s%%</string>
     <string name="error_num_placeholder">--</string>
     <string name="doing_calc_backup_data_size">Grootte berekenen…</string>
     <string name="authentication_failed">Account kon niet geverifieerd worden.</string>
@@ -165,7 +169,7 @@
     <string name="cloud_backup">Cloud back-ups</string>
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
     <string name="restore_cloud_backup_to_phone">Items van de cloud herstellen</string>
-    <string name="cloud_backup_in_process">Bezig met back-up…</string>
+    <string name="cloud_backup_in_process">Back-up maken</string>
     <string name="cloud_backup_in_cancel">Annuleren</string>
     <string name="dialog_cancel_backup_title">Lopende back-up annuleren?</string>
     <string name="dialog_cancel_backup_msg">Schakeling van de schakelaar zal lopende back-ups beëindigen.</string>
@@ -207,7 +211,7 @@
     <string name="restore_app_order_search_normal">Normale prioriteit apps</string>
     <string name="restore_app_order_search_installed">Apps op dit apparaat</string>
     <string name="restore_app_order_retry">Opnieuw proberen</string>
-    <string name="restore_app_order_retry_desc">"Kon geen verbinding met het netwerk maken.
+    <string name="restore_app_order_retry_desc">"Kon niet verbinden met het netwerk.
 Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_app_order_loading">Een ogenblik geduld…</string>
     <string name="restore_app_order_finish">Voltooid</string>
@@ -221,5 +225,6 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_task_unfinished">Kon niet herstellen</string>
     <string name="restore_failed_reason_network_error">Netwerkfout. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="restore_failed_reason_disk_space_not_enough">Niet genoeg opslagruimte. Maak eerst opslagruimte vrij.</string>
-    <string name="cloud_app_restore_app_and_data">Stel uw apparaat in</string>
+    <string name="storage_unit_mb">%s MB</string>
+    <string name="storage_unit_gb">%s GB</string>
 </resources>

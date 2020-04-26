@@ -132,6 +132,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="dialog_backup_password_change_machine_tips">U zult wachtwoord-beschermde back-ups niet over kunnen zetten. Schakel back-up wachtwoord uit voordat u Mi Mover gebruikt.</string>
     <string name="dialog_backup_password_restore_tips">Kan geen items herstellen wanneer back-up wachtwoord ingeschakeld is. Schakel back-up wachtwoord eerst uit.</string>
     <string name="dialog_backup_password_to_settings">Instellingen</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Niet versleutelen</string>
     <string name="disable_encrypt_title">Versleuteling uitschakelen</string>
@@ -219,9 +220,10 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="icloud_need_wifi_title">Maak verbinding met wifi</string>
     <string name="import_again">Opnieuw importeren</string>
     <string name="import_data_from_icloud">Gegevens importeren uit iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">\"1.\u0009Download de MiTalk app en log in. \u0009http://www.miliao.com 2.\u0009Ga naar MiTalk Instellingen en selecteer ”Back-up contacten naar Mi Account”\"</string>
+    <string name="import_from_xiaomi_account_hint1">\"1.\u0009Download de Mi Talk app en log in. \u0009http://www.miliao.com 2.\u0009Ga naar Mi Talk Instellingen en selecteer ”Back-up contacten naar Mi Account”\"</string>
     <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
-    <string name="import_from_xiaomi_account_hint_title">Gebruik MiTalk voor back-up van contacten op andere apparaten.</string>
+    <string name="import_from_xiaomi_account_hint_title">Gebruik Mi Talk voor back-up van contacten op andere apparaten.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kunt u alleen gedeeltelijke gegevens overbrengen van iOS-apparaten. Zorg ervoor dat u een iCloud back-up maakt voordat u de overdracht start.</string>
     <string name="lack_perm_msg">Mi Mover heeft de volgende toestemingen nodig: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Toestemmingen vereist</string>
@@ -244,7 +246,7 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="login_failed">Kon niet inloggen. Probeer het opnieuw.</string>
     <string name="logining">Inloggen…</string>
     <string name="miliao_account_guide">Gebruik uw Mi Account om u waar dan ook om aan te melden op Xiaomi Cloud, MIUI Themes en andere Mi Services.</string>
-    <string name="miliao_account_login">Login bij MiTalk</string>
+    <string name="miliao_account_login">Login bij Mi Talk</string>
     <string name="mms_title">Multimedia Berichten</string>
     <string name="multi_select_title">%1$s geselecteerd</string>
     <string name="multi_user_mode_backup_message">Kan back-up niet gebruiken in Multi-gebruiker modus. Schakel Multi-gebruiker modus uit om door te gaan.</string>
@@ -254,7 +256,7 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="never">Nooit</string>
     <string name="new_backup">Back-up</string>
     <string name="no_encrypt_password">Geen wachtwoord</string>
-    <string name="no_network">Kan niet verbinden met netwerk</string>
+    <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="note_title">Notities</string>
     <string name="nothing_searched">Geen zoek resultaten gevonden</string>
     <string name="notif_backup_complete_title">Back-up voltooid</string>
@@ -385,9 +387,9 @@ Maak minstens %s vrij."</string>
     <string name="succ_description">Succesvol</string>
     <string name="succeed">Voltooid</string>
     <string name="summary_err_backup_encrypting">Meld u aan op uw Mi Account.</string>
-    <string name="summary_err_backup_no_network">Kan niet verbinden met het netwerk</string>
+    <string name="summary_err_backup_no_network">Kon niet verbinden met het netwerk</string>
     <string name="summary_err_restore_encrypting">Kan niet herstellen. De back-up moet gemaakt zijn via uw Mi Account.</string>
-    <string name="summary_err_restore_no_network">Kan niet verbinden met het netwerk</string>
+    <string name="summary_err_restore_no_network">Kon niet verbinden met het netwerk</string>
     <string name="system_backup">Back-up</string>
     <string name="system_backup_info">Systeeminstellingen voor Startscherm lay-out</string>
     <string name="task_backup_cancel_progress">Stoppen…</string>
@@ -643,8 +645,11 @@ tik op \"Ik ben een verzender\" en selecteer een hotspot om verbinding mee te ma
 Sluit de pagina niet, voordat er verbinding is gemaakt."</string>
     <string name="waiting">Een ogenblik geduld…</string>
     <string name="wifi_title">wifi Instellingen</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Download kon niet worden gestart. Zorg ervoor dat de Download Manager goed werkt.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Wij introduceren versie %1$s

@@ -128,12 +128,12 @@
     <string name="downloading_empty">Leeg</string>
     <string name="downloads_operating">Bezig…</string>
     <string name="durationDayHour">%1$d dag %2$d uur</string>
-    <string name="durationDayHours">%1$d dag %2$d uren</string>
-    <string name="durationHourMinute">%1$d uur %2$d min</string>
-    <string name="durationHourMinutes">%1$d uur %2$d min</string>
+    <string name="durationDayHours">%1$d dag %2$d uur</string>
+    <string name="durationHourMinute">%1$d uur %2$d min.</string>
+    <string name="durationHourMinutes">%1$d uur %2$d min.</string>
     <string name="durationMinute">%1$d min</string>
-    <string name="durationMinuteSecond">%1$d min %2$d sec</string>
-    <string name="durationMinuteSeconds">%1$d min %2$d sec</string>
+    <string name="durationMinuteSecond">%1$d min. %2$d sec</string>
+    <string name="durationMinuteSeconds">%1$d min. %2$d sec</string>
     <string name="durationMinutes">%1$d min</string>
     <string name="durationSecond">%1$d sec</string>
     <string name="durationSeconds">%1$d sec</string>
@@ -205,7 +205,7 @@
     <string name="pref_download_settings_title">Limiet downloadgrootte</string>
     <string name="pref_summary_any_bytes_popup">Altijd wachten op Wifi-verbinding om bestanden te downloaden</string>
     <string name="pref_summary_enable_max_bytes_popup">Toon pop-upmelding wanneer mobiele gevensverbinding gebruikt wordt om inhoud te downloaden</string>
-    <string name="pref_summary_max_bytes_limit_format">Wacht op wifi als het bestand groter is dan %s</string>
+    <string name="pref_summary_max_bytes_limit_format">Wacht op wifi als het bestand groter is dan%s</string>
     <string name="pref_summary_no_limit_popup">Onbeperkt</string>
     <string name="pref_title_enable_max_bytes_popup">Melding dataverbruik weergeven</string>
     <string name="preferences_title">Instellingen</string>
@@ -223,7 +223,7 @@
     <string name="recommend_prepare">… in de wacht</string>
     <string name="restart_download">Herstarten</string>
     <string name="resume_download">Hervatten</string>
-    <string name="retry_after_network_available">Kan geen verbinding met het netwerk maken. Controleer uw dataverbinding en probeer het opnieuw.</string>
+    <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer uw dataverbinding en probeer het opnieuw.</string>
     <string name="revert_default">Standaardinstellingen herstellen</string>
     <string name="revert_download_path">Standaard downloadlocatie gebruiken?</string>
     <string name="save_path">"Downloads opslaan naar "</string>
@@ -249,4 +249,5 @@
     <string name="toast_only_wifi_download">Verbind met wifi om dit item te downloaden</string>
     <string name="total_speedup">Opgevoerde snelheid (totaal)</string>
     <string name="version">Versie %s</string>
+    <string name="security_ui_title">Beveiligingsadvertenties</string>
 </resources>

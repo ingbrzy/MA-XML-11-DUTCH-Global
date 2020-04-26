@@ -28,6 +28,10 @@
         <item quantity="other">%d jaar geleden gebruikt</item>
         <item quantity="one">%d jaar geleden gebruikt</item>
     </plurals>
+    <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">U kunt ten minste %s apps beschermen</item>
+        <item quantity="one">U kunt ten minste %s app beschermen</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d-apps kunnen op de achtergrond verbinding maken met het netwerk</item>
         <item quantity="one">%d-app kan op de achtergrond verbinding maken met het netwerk</item>
@@ -99,6 +103,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="gb_ad_ten_thousand_people_play">
         <item quantity="other">%1$d personen spelen</item>
         <item quantity="one">%1$d persoon speelt</item>
+    </plurals>
+    <plurals name="gb_record_time_title">
+        <item quantity="other">%d secs</item>
+        <item quantity="one">%d sec</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d dagen op rij ingecheckt</item>
@@ -455,6 +463,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="uninstall_game_count_title">
         <item quantity="other">Heb geen %d games toegevoegd</item>
         <item quantity="one">Heb geen %d game toegevoegd</item>
+    </plurals>
+    <plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d weergaves</item>

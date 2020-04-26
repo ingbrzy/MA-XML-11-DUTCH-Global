@@ -38,7 +38,7 @@
     <string name="data_traffic_enable_dialog_title">Als u nu niet bent verbonden met wifi, gebruikt uw apparaat mobiele gegevens. Het gebruik van mobiele gegevens kan extra providerskosten genereren.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
-    <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te vergrendelen, Mi Pay-betalingen te verifiëren, of om aan te melden bij apps en services.</string>
+    <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te vergrendelen, Mi Pay betalingen te verifiëren, of om aan te melden bij apps en services.</string>
     <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, of om aan te melden bij apps en services.</string>
     <string name="diagnose_report">Het versturen van diagnostische gegevens om problemen in het systeem te vinden en analyseren en om de gebruikerservaring te verbeteren. Zulke gegevens kunnen persoonlijke gegevens bevatten (bijv. IP, locatie, enz.)</string>
     <string name="disageement_abnormal_download">Als u niet akkoord gaat om deze toestemmingen te verlenen en uw persoonlijke informatie te delen en te uploaden, kunt u deze dienst niet gebruiken.</string>
@@ -75,7 +75,7 @@
     <string name="locale_picker_other_locale_title">"Meer regio's"</string>
     <string name="locale_picker_title">Kies uw regio</string>
     <string name="location_introduction">Services op basis van locatie vinden producten en diensten bij u in de buurt.</string>
-    <string name="lockscreen_introduction">Met Achtergrondcarrousel kunt u dageljks nieuwe afbeeldingen op uw vergrendelscherm ontvangen.</string>
+    <string name="lockscreen_introduction">Met Achtergrondcarrousel kunt u dagelijks nieuwe afbeeldingen op uw Vergrendelscherm ontvangen.</string>
     <string name="miui_privacy_policy_no_network">U heeft geen internetverbinding nodig. Bekijk het Privacybeleid op %s.</string>
     <string name="miui_terms_no_network">U heeft geen internetverbinding. Bekijk de Gebruikersovereenkomst op %s.</string>
     <string name="multisim_settings_category">SIM kaart instellingen</string>
@@ -95,6 +95,7 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="other_settings_auto_update">Automatische systeemupdates</string>
     <string name="other_settings_auto_update_summary">MIUI zal de beste tijd selecteren om updates te downloaden en te installeren. Uw apparaat zal automatisch opnieuw opgestart worden om wijzigingen toe te passen.</string>
     <string name="other_settings_enhanced_lockscreen">Achtergrondcarrousel</string>
+    <string name="other_settings_enhanced_lockscreen_for_india">Glance voor Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Privacybeleid</string>
     <string name="other_settings_enhanced_lockscreen_summary">Krijg dagelijks aanbevolen afbeeldingen en verhalen op uw Vergrendelscherm. %1$s en %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Eindgebruiker Licentieovereenkomst</string>
@@ -146,7 +147,7 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="permission_user_record_introduction">Om audio op te nemen</string>
     <string name="permission_virusscan_introduction">Om een virusscan uit te voeren en uw apparaat te optimaliseren</string>
     <string name="permission_xunlei_introduction">Om in te loggen en systeemaccounts te beheren om diensten van Xunlei aan te bieden</string>
-    <string name="poco_agree_terms_other">(Inclusief het privacybeleid en de gebruikersovereenkomst van POCO Launcher)</string>
+    <string name="poco_agree_terms_other">(Inclusief het Privacybeleid en de Gebruikersovereenkomst van POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher Privacybeleid</string>
     <string name="poco_launcher_user_agreement">POCO Launcher Gebruikersovereenkomst</string>
     <string name="pref_title_data_slot">Voorkeur SIM-kaart data</string>
@@ -160,7 +161,7 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="require_authority_statement">Om u de basisservices te kunnen bieden, moet u de volgende toestemmingen verlenen zodat we uw persoonlijke informatie kunnen verzamelen:</string>
     <string name="require_network_authority_statement">Om u de basisservices te kunnen bieden, moet u verbinding maken met internet en de volgende toestemmingen verlenen zodat we uw persoonlijke informatie kunnen verzamelen:</string>
     <string name="screen_recording_introduction">Met deze app kunt u opnemen wat er op uw scherm gebeurt.</string>
-    <string name="security_introduction">U kunt deze app gebruiken om uw apparaat op te schonen, virussen te vinden en te neutraliseren, gameprestaties te optimaliseren, energie te besparen, apps te beheren en meer.</string>
+    <string name="security_introduction">U kunt deze app gebruiken om uw apparaat op te schonen, virussen te vinden en te neutraliseren, gameprestaties te optimaliseren, energie te besparen, apps te beheren, toestemmingen en meer.</string>
     <string name="security_mobile_account_introduction">On in te loggen en systeemaccounts te beheren</string>
     <string name="service_agreement">Ik heb de algemene voorwaarden gelezen en ga er akkoord mee.</string>
     <string name="service_name_album">Galerij</string>
@@ -206,7 +207,7 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="summary_not_set">Niet ingesteld</string>
     <string name="system_navigation_mode">Systeemnavigatiemodus</string>
     <string name="terms_of_use">Algemene voorwaarden</string>
-    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTMLViewer</string>
+    <string name="terms_of_use_ble_htmlViewer">, Fused Location Provider, HTML Viewer</string>
     <string name="terms_of_use_label">"Lees onze Servicevoorwaarden en ons Privacybeleid om te begrijpen welke informatie wij verzamelen, hoe we het gebruiken en welke keuzes u kunt maken.
 U moet met onze Servicevoorwaarden en ons Privacybeleid akkoord gaan voordat u MIUI kunt gebruiken.
 %s en Mi Account componenten zullen verbinding met het internet maken en toegang tot uw locatie krijgen."</string>
