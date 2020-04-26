@@ -148,12 +148,10 @@
     <string name="daily_forecast_add_city_message">Volg het weer in %1$s s voor een meer gedetailleerde voorspelling.</string>
     <string name="daily_forecast_add_city_title">Het weer volgen in %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Kan geen weersinformatie ophalen
 Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string>
     <string name="data_provided_by">Gegevens gedeeltelijk verstrekt door</string>
     <string name="edit_city">Steden beheren</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Updaten…</string>
     <string name="empty_view_net_unavailable">Kon niet verbinden met het netwerk</string>
     <string name="empty_view_refresh">Opnieuw proberen</string>
@@ -175,8 +173,6 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
     <string name="first_start_network_title">Internetverbinding en locatietoegang</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">Nu</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s%2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title_24_hours_desc">24-uurs voorspelling</string>
     <string name="hourly_forecast_title_hourly_desc">Weersverwachting per uur</string>
@@ -190,15 +186,11 @@ Veeg naar beneden om te vernieuwen of controleer de netwerkinstellingen"</string
     <string name="indices_title_feel">Gevoelstemperatuur</string>
     <string name="indices_title_pressure">Luchtdruk</string>
     <string name="install">Installeren</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">DRUK</string>
     <string name="international_details_title">Details</string>
     <string name="international_details_uv_index_title">UV INDEX</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">WIND</string>
     <string name="it_is_going_to_rain">Het gaat regenen</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="life_index_title">Weer-index</string>
     <string name="locate_fail_detail_err">"Apparaat kan niet worden gelokaliseerd
 Tik op het scherm om een stad handmatig toe te voegen of te verplaatsen"</string>
@@ -296,7 +288,6 @@ Tik op het scherm om een stad handmatig toe te voegen of te verplaatsen"</string
     <string name="share_menu_title">Delen</string>
     <string name="share_subject">Delen</string>
     <string name="share_weather_desc">\#MIUI Weer#Vandaag %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Kan geen screenshot maken</string>
     <string name="shortcut_short_label_24_hour_forecast">24-uurs voorspelling</string>
