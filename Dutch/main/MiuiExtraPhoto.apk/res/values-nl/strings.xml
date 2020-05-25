@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="extra_photo_common_save_fail">Kon niet opslaan</string>
     <string name="extra_photo_common_saving">Opslaan…</string>
-    <string name="motion_photo_re_pick_title">Selecteer de beste foto</string>
+    <string name="motion_photo_cancel">Annuleren</string>
+    <string name="motion_photo_re_pick_title">Live foto</string>
+    <string name="motion_photo_save_fail">Kon niet opslaan</string>
+    <string name="motion_photo_save_gif">Opslaan als GIF</string>
+    <string name="motion_photo_save_gif_ing">Opslaan GIF…</string>
+    <string name="motion_photo_save_image">Beste afbeelding opslaan</string>
+    <string name="motion_photo_save_image_ing">Opslaan beste afbeelding…</string>
+    <string name="motion_photo_save_video">Opslaan als video</string>
+    <string name="motion_photo_save_video_ing">Video wordt opgeslagen…</string>
     <string name="motion_photo_toast_default">Standaard</string>
+    <string name="motion_photo_toast_long_press_play">Houd de foto ingedrukt om af te spelen</string>
     <string name="motion_photo_toast_suggest">Aanbevolen</string>
     <string name="refocus_discard_confirm_message">Wijzigingen opslaan?</string>
     <string name="refocus_discard_negative_btn">Annuleren</string>

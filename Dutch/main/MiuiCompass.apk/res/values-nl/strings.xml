@@ -51,8 +51,10 @@
     <string name="cannot_get_location">--</string>
     <string name="compass_settings">Instellingen</string>
     <string name="copy">Kopiëren</string>
+    <string name="cta_agree_desc">Sta toe dat deze app verbinding maakt met het internet en optionele rechten verleent om alle functies te kunnen gebruiken.</string>
     <string name="cta_v2_app_purpose">met aanwijzingen, coördinaten, atmosfeer druk en huidige hoogte</string>
     <string name="dialog_body_no_network">Verbind met de wifi of schakel mobiele data in.</string>
+    <string name="dialog_body_no_network_china">Connect to WLAN or turn on mobile data.</string>
     <string name="dialog_calibrat_altitude">Kalibreren…</string>
     <string name="dialog_title_no_network">Kon niet verbinden met het netwerk</string>
     <string name="direction_east">O</string>
@@ -86,8 +88,8 @@
     <string name="not_set">Niet ingesteld</string>
     <string name="open_perm_msg">Kompas heeft toegang tot locatie info en Camera nodig. Dit is nodig om coördinaten te bepalen en live voorbeelden te geven. Toestaan?</string>
     <string name="open_perm_title">Toestemmingen vereist</string>
-    <string name="permission_camera_desc">De waterpas gebruiken</string>
-    <string name="permission_location_desc">Coördinaten en atmosfeer druk weergeven</string>
+    <string name="permission_camera_desc">Voor het weergeven van azimut in de live voorbeeld</string>
+    <string name="permission_location_desc">Voor het weergeven van coördinaten</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preference_other">Overig</string>
     <string name="preference_privacy_title">Privacybeleid</string>

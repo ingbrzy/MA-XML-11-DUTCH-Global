@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="agree_description">Sta toe dat deze app verbinding maakt met internet om alle functies te kunnen gebruiken.</string>
     <string name="alert_message_clear_records">Geselecteerde opnames verwijderen?</string>
     <string name="alert_message_delete_local_record">Deze opname verwijderen?</string>
     <string name="alert_message_delete_record">Verwijderen van de opname van het apparaat zal deze opname ook verwijderen van Xiaomi Cloud. Nu verwijderen?</string>
@@ -48,6 +49,7 @@
     <string name="cloud_status_full_dialog_msg">Uw opslagruimte in de cloud is vol, opnames kunnen niet gesynchroniseerd worden. Upgrade uw account om meer opslagruimte te krijgen.</string>
     <string name="cloud_status_full_dialog_ok">Upgrade</string>
     <string name="cloud_status_full_dialog_title">Xiaomi Cloud opslag is vol</string>
+    <string name="copy">Kopiëren</string>
     <string name="data_connection_body">Het gebruik van mobiele dataverbinding om dit bestand te downloaden zal uw dataverbruik verhogen. Als u een datalimiet hebt, kan uw provider extra kosten in rekening brengen.</string>
     <string name="data_connection_button_text">OK</string>
     <string name="data_connection_title">Waarschuwing dataverbruik</string>
@@ -88,6 +90,7 @@
     <string name="error_filename_too_long">Bestandsnaam is te lang.</string>
     <string name="error_sdcard_access">Kan geen toegang tot de SD-kaart krijgen</string>
     <string name="error_sdcard_unmounted">SD-kaart nu plaatsen</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="export_to_note">Exporteren</string>
     <string name="head_set_tip_dialog_msg">Ontkoppel uw oortelefoon om geluid op te nemen met specifieke presets (bijv. Muziek, Stem).</string>
     <string name="head_set_tip_dialog_ok">Begrepen</string>
@@ -122,6 +125,7 @@
     <string name="network_unavailable_tip">Maak verbinding met het netwerk en probeer het opnieuw.</string>
     <string name="new_record_name">Nieuwe opname</string>
     <string name="no_file">Leeg</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="notification_message_all_paused">Wachten op Wi-Fi verbinding.</string>
     <string name="notification_playback">Afspelen…</string>
     <string name="notification_recording">Aan het opnemen…</string>
@@ -164,6 +168,7 @@
     <string name="pay_error_unknown">Onbekende fout</string>
     <string name="playback_delete_records">Opname verwijderen</string>
     <string name="playback_share_records">Opname delen</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preference_enable_earpiece_summary">Gebruik luidspreker ontvanger voor extern afspelen</string>
     <string name="preference_enable_earpiece_title">Gebruik de ontvanger om audio af te spelen</string>
     <string name="preference_led_indicator">Vergrendelscherm-meldingen</string>
@@ -292,6 +297,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Aan het opnemen…</string>
     <string name="status_bar_recording_pause">Opname gepauzeerd</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="text_btn_backward_3_seconds">3 seconden terug</string>
     <string name="text_btn_complete">Stop</string>
     <string name="text_btn_forward_3_seconds">3 seconden verder</string>
@@ -314,6 +320,8 @@
     <string name="toast_max_record_time">%1$s kan voor ongeveer %2$s opnemen</string>
     <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd</string>
     <string name="usage_description">Audio omzetten en items synchroniseren met de cloud</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="webview_check_network">Netwerkinstellingen</string>
     <string name="webview_data_error">Er is een fout opgetreden</string>
     <string name="webview_locating_fail">Kon uw locatie niet vinden</string>

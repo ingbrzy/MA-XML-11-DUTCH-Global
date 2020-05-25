@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ai_assistant">Slimme gesprekken</string>
+    <string name="ai_assistant_not_installed">Installeer eerst AI oproep-assistent</string>
     <string name="antispam_local_marked">Lokaal gemarkeerd</string>
     <string name="antispam_notification_title">Onbekend nummer</string>
     <string name="antispam_provider">Geïdentificeerd door %s</string>
@@ -50,14 +52,10 @@
     <string name="can_not_use">Kan niet gebruiken</string>
     <string name="cancel">Annuleren</string>
     <string name="card_title_answering">Beantwoorden oproep</string>
-    <string name="card_title_answering_time_out">Gesprek kon niet worden beantwoord, probeer het opnieuw.</string>
     <string name="card_title_call_ended">"Oproep beëindigd "</string>
     <string name="card_title_conf_call">Groepsgesprek</string>
     <string name="card_title_dialing">Bellen</string>
     <string name="card_title_hanging_up">Ophangen…</string>
-    <string name="card_title_hanging_up_fail">Gesprek kon niet worden beëindigd, probeer het opnieuw.</string>
-    <string name="card_title_hanging_up_restart">Gesprek kan niet worden beëindigd. Start uw apparaat opnieuw op.</string>
-    <string name="card_title_hanging_up_weak_signal">Zwak signaal mobiel netwerk. Gesprek wordt beëindigd.…</string>
     <string name="card_title_in_call">In gesprek</string>
     <string name="card_title_in_call_short">In gesprek</string>
     <string name="card_title_in_video">Video</string>
@@ -117,6 +115,8 @@
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Videogesprekken worden op het andere apparaat niet ondersteund</string>
     <string name="emergency_call_dialog_number_for_display">Noodnummer</string>
+    <string name="enter_ai_assistant">Gebruiken</string>
+    <string name="enter_ai_assistant_tip">Als het u niet uitkomt om te praten, kunt u AI oproep-assistent gebruiken om uw berichten tijdens dit gesprek om te zetten in spraak. AI oproep-assistent gebruiken?</string>
     <string name="inCallLabel">Telefoon</string>
     <string name="incall_bubble_hangup_click_hint">Tik opnieuw om terug te gaan naar de oproep</string>
     <string name="incall_call_type_label_sip">Internet gesprek</string>

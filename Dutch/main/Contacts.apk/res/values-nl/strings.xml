@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="accessibility_calllog_detail">Belgeschiedenis details</string>
     <string name="accessibility_contact_detail">Contactgegevens</string>
     <string name="account_container_title">Geïmporteerd van</string>
@@ -106,6 +133,7 @@
     <string name="call_sim_menu_title_suffix">(Primair)</string>
     <string name="call_telex">Telex bellen</string>
     <string name="call_tty_tdd">TTY/TDD bellen</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Werk bellen</string>
     <string name="call_work_mobile">Mobiel nummer werk bellen</string>
@@ -125,6 +153,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">Uitgaand:</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Notitie toevoegen</string>
+    <string name="callrecordview_menu_aiphone">AI gesprekken</string>
     <string name="callrecordview_menu_batch_delete">Batch wissen</string>
     <string name="callrecordview_menu_blocklist">Blokkeerlijst</string>
     <string name="callrecordview_menu_conference">Groepsgesprek</string>
@@ -189,7 +218,7 @@
     <string name="cloud_antispam_marked">Gemarkeerd</string>
     <string name="cloud_antispam_title">Beller ID</string>
     <string name="cloud_recommend_msg">Tik om contacten meet de cloud te synchroniseren.</string>
-    <string name="cloud_state_disabled">Contacten synchroniseren met de cloud</string>
+    <string name="cloud_state_disabled">Synchroniseer contacten met Xiaomi Cloud</string>
     <string name="cloud_state_loading">Een ogenblik geduld…</string>
     <string name="cloud_state_sync_finished">Gesynchroniseerd met de cloud</string>
     <string name="cloud_state_syncing">Aan het synchroniseren met de cloud</string>
@@ -262,7 +291,7 @@ Contact kaarten zijn uitgeschakeld"</string>
     <string name="contact_editor_prompt_one_account">Nieuwe contactpersoon wordt gesynchroniseerd met %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Er wordt geen back-up van uw nieuwe contactpersoon gemaakt. Een account toevoegen waarmee online een back-up van contacten wordt gemaakt?</string>
     <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-    <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+    <string name="contact_import_methods_dialog_mi_mover">Importeren met behulp van Mi Mover</string>
     <string name="contact_import_methods_dialog_title">Selecteer importeermethode</string>
     <string name="contact_is_deleted">Dit contact is verwijderd</string>
     <string name="contact_is_readOnly">Kan alleen lezen contacten niet bewerken</string>
@@ -287,6 +316,7 @@ Contact kaarten zijn uitgeschakeld"</string>
     <string name="contacts_unavailable_import_from_old_device">Importeren vanaf een ouder apparaat</string>
     <string name="contacts_unavailable_import_sim_contacts">Importeer contactpersonen van SIM-kaart</string>
     <string name="convenient_service">Diensten</string>
+    <string name="copy">Kopiëren</string>
     <string name="copy_number">Kopiëren</string>
     <string name="copy_text">Kopiëren naar klembord</string>
     <string name="createContactShortcutSuccessful">Contact widget toegevoegd aan het Startscherm</string>
@@ -467,6 +497,7 @@ Om frequente aanvragen te voorkomen updaten we saldo-informatie 1x per dag."</st
     <string name="event_edit_field_hint_text">Datum</string>
     <string name="expandCloseViewDescription">Inklappen</string>
     <string name="expandOpenViewDescription">Uitbreiden</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="export_sim_contact_finish">Contacten geëxporteerd</string>
     <string name="export_sim_contact_finish_msg">%1$d overgedragen | %2$d gedupliceerd | %3$d resterend %4$s</string>
     <string name="export_to_sdcard">Exporteren naar opslag</string>
@@ -507,6 +538,7 @@ Reden: \"%s\""</string>
     <string name="force_touch_new_contact">Nieuw contact</string>
     <string name="four_letter">GHI</string>
     <string name="frequentList">Vaak</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="generic_no_account_prompt">Zorg dat uw contacten veilig zijn, zelfs wanneer u uw telefoon verliest: synchroniseer met een online service.</string>
@@ -690,6 +722,7 @@ Reden: \"%s\""</string>
     <string name="miprofile_contact_header">Contacten met contactkaarten</string>
     <string name="miprofile_contact_meaasge">Lokale contacten</string>
     <string name="miprofile_contact_verifying">Verifiëren</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_error_accept_self">U kunt uw eigen contactpersoonkaart niet uitwisselen</string>
     <string name="miprofile_error_no_miaccount">Meld u aan op uw Mi Account</string>
@@ -787,6 +820,7 @@ Reden: \"%s\""</string>
     <string name="non_phone_close">Sluiten</string>
     <string name="none_paired">Er zijn momenteel geen apparaten gekoppeld</string>
     <string name="not_applied">Kan niet toepassen</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="notification_action_voicemail_play">Afspelen</string>
     <string name="notification_new_voicemail_ticker">Nieuwe voicemail van %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
@@ -834,7 +868,10 @@ Reden: \"%s\""</string>
     <string name="path_wipe_data">Systeem-apps/Contactpersonen/Organiseer contactpersonen/Verwijder gegevens</string>
     <string name="payphone">Betaal telefoon</string>
     <string name="people">Contacten</string>
+    <string name="percent_sign">%1$s</string>
+    <string name="percentage">%1$s%2$s</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -888,6 +925,7 @@ Reden: \"%s\""</string>
     <string name="preference_contacts_filter">Contactlijsten configureren</string>
     <string name="preference_contacts_more">Organiseer contacten</string>
     <string name="preference_contacts_moresetting">Meer</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preference_dial_pad_touch_tone_default">Standaard</string>
     <string name="preference_dial_pad_touch_tone_human">Stem</string>
     <string name="preference_dial_pad_touch_tone_piano">Piano toetsen</string>
@@ -1024,6 +1062,7 @@ Reden: \"%s\""</string>
     <string name="search_key_photo_word">"Toewijzen;contact;foto's;Contacten"</string>
     <string name="search_key_rebuild_t9_index_title">Organiseren;Contactpersonen;t9</string>
     <string name="search_key_sim_manage">Organiseren;Contacten</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="search_preference_contacts_filter">Contacten;Weergave</string>
     <string name="search_quick_dial_setting">Telefoon</string>
     <string name="search_remove_duplicate">Organiseren;Contacten</string>
@@ -1097,6 +1136,7 @@ Reden: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1142,9 +1182,11 @@ Reden: \"%s\""</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_kind_title">Samenvatting</string>
     <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Nieuwe contactpersoon</string>
@@ -1152,7 +1194,7 @@ Reden: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Verstuur bericht</string>
     <string name="t9_search_empty_video_call">Videogesprek</string>
     <string name="t9_search_guide_pinyin_title1">Voer nummers in om contactpersonen te zoeken</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"<font fgcolor="">D</font>ebbie <font fgcolor="">S</font>mith\"</string>
     <string name="t9_search_guide_zhuyin_title1">Voer nummers in om contactpersonen te zoeken</string>
     <string name="t9_search_guide_zhuyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
     <string name="take_new_photo">Nieuwe foto nemen</string>
@@ -1204,6 +1246,8 @@ Kies een van de volgende opties:"</string>
     <string name="use_photo_as_primary2">"Gebruik %1$s's contact foto"</string>
     <string name="useful_numbers">Handige nummers</string>
     <string name="user_profile_contacts_list_header">Ik</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="vcard_export_request_rejected_message">Verzoek voor vCard-export is geweigerd. Probeer het later opnieuw.</string>
     <string name="vcard_export_will_start_message">%s wordt binnenkort geëxporteerd.</string>
     <string name="vcard_import_failed">Kon vCard %s niet importeren.</string>
@@ -1235,6 +1279,7 @@ Kies een van de volgende opties:"</string>
     <string name="voip_audio_description">VoIP gesprek</string>
     <string name="voip_video_description">VoIP video oproep</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Verwijder data</string>
     <string name="yellowPageNavigationIconLabel">Telefoonboek</string>
     <string name="yellowPageNavigationLabel">Telefoonboek</string>

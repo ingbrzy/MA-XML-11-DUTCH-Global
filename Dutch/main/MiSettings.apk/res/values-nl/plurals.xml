@@ -4,6 +4,14 @@
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
     </plurals>
+    <plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">U heeft uw apparaat gebruikt voor %d minuten zonder onderbrekingen</item>
+        <item quantity="one">U heeft uw apparaat gebruikt voor %d minuut zonder onderbrekingen</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
         <item quantity="one">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
@@ -23,6 +31,26 @@
     <plurals name="usage_days">
         <item quantity="other">%d dagen</item>
         <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="usage_new_home_avg_unlockc">
+        <item quantity="other">%.2f keren per dag gemiddeld</item>
+        <item quantity="one">%.2f keer per dag gemiddeld</item>
+    </plurals>
+    <plurals name="usage_new_home_total_unlocks">
+        <item quantity="other">%d keren ontgrendeld</item>
+        <item quantity="one">%d keer ontgrendeld</item>
+    </plurals>
+    <plurals name="usage_new_home_total_week_unlocks">
+        <item quantity="other">%d keren ontgrendeld</item>
+        <item quantity="one">%d keer ontgrendeld</item>
+    </plurals>
+    <plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s uren</item>
+        <item quantity="one">≈%s uur</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s minuten</item>
+        <item quantity="one">≈%s min.</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">%d keer ontgrendeld</item>
@@ -87,6 +115,14 @@
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">Weekdagen: %d minuten</item>
         <item quantity="one">Weekdagen: %d minuut</item>
+    </plurals>
+    <plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s uren</item>
+        <item quantity="one">%s uur</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s minuten</item>
+        <item quantity="one">%s min.</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" u"</item>

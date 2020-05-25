@@ -181,9 +181,6 @@ Selectie"</string>
     <string name="bugreport_in_power">Snelle link naar bugrapport</string>
     <string name="bugreport_in_power_summary">Een knop in het voedingsmenu weergeven om een bugrapport te maken</string>
     <string name="button_convert_fbe">Wissen en converteren…</string>
-    <string name="callFailed_simError">Fout met de simkaart</string>
-    <string name="can_not_dial_vt_while_voice_prompt">Kan geen videogesprek voeren terwijl er een telefoonoproep actief is</string>
-    <string name="can_not_dial_while_vt_prompt">Kan geen nummer kiezen terwijl er een videogesprek actief is</string>
     <string name="cancel">Annuleren</string>
     <string name="cant_call_due_to_no_supported_service">Gesprek kan niet worden geplaatst omdat er geen gespreksaccounts zijn die gesprekken van dit type ondersteunen.</string>
     <string name="cant_call_due_to_ongoing_call">Kan geen oproep plaatsen. %1$s andere oproep is aan de gang.</string>
@@ -203,7 +200,6 @@ Selectie"</string>
     <string name="charge_length_format">%1$s geleden</string>
     <string name="choose_profile">Profiel kiezen</string>
     <string name="clear_adb_keys">Autorisatie USB-foutopsporing intrekken</string>
-    <string name="close">Uitschakelen</string>
     <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: De apparaatbeveiligingsfuncties werken niet op dit apparaat wanneer deze instelling is ingeschakeld.</string>
     <string name="confirm_enable_oem_unlock_title">OEM-ontgrendeling toestaan?</string>
     <string name="connected_via_app">Verbonden via %1$s</string>
@@ -254,8 +250,6 @@ Selectie"</string>
     <string name="development_settings_not_available">Ontwikkelaarsopties zijn niet beschikbaar voor deze gebruiker</string>
     <string name="development_settings_summary">Opties instellen voor appontwikkeling</string>
     <string name="development_settings_title">Ontwikkelaarsopties</string>
-    <string name="dial_conference_fail_prompt">Kan geen conferentiegesprek voeren omdat het huidige netwerk geen VoLTE ondersteunt.</string>
-    <string name="dial_vt_fail_prompt">Huidige netwerk ondersteunt geen VoLTE. Wisselen naar normale spraakoproep?</string>
     <string name="direct_boot_unaware_dialog_message">Opmerking: Wanneer je telefoon opnieuw is opgestart, kan deze app pas worden gestart nadat je je telefoon hebt ontgrendeld</string>
     <string name="disable_overlays">HW-overlays uitschakelen</string>
     <string name="disable_overlays_summary">GPU altijd gebruiken voor schermcompositing</string>
@@ -300,9 +294,6 @@ Selectie"</string>
     <string name="inactive_app_active_summary">Actief. Tik om te schakelen.</string>
     <string name="inactive_app_inactive_summary">Inactief. Tik om te schakelen.</string>
     <string name="inactive_apps_title">Stand-by-apps</string>
-    <string name="incall_error_call_failed">Kan niet bellen.</string>
-    <string name="incall_error_power_off">Schakel Vliegtuigmodus uit om te bellen.</string>
-    <string name="incall_error_supp_service_unknown">Deze dienst wordt niet ondersteund.</string>
     <string name="install_other_apps">Onbekende apps installeren</string>
     <string name="keep_screen_on">Stand-by</string>
     <string name="keep_screen_on_summary">Scherm gaat nooit uit tijdens het opladen</string>
@@ -318,7 +309,6 @@ Selectie"</string>
     <string name="managed_user_title">Alle werk-apps</string>
     <string name="media_category">Media</string>
     <string name="media_transfer_this_device_name">Dit apparaat</string>
-    <string name="missedcall_notification_public_version_title">Telefoon</string>
     <string name="mobile_data_always_on">Mobiele data altijd actief</string>
     <string name="mobile_data_always_on_summary">Mobiele data altijd actief houden, ook als wifi actief is (voor sneller schakelen tussen netwerken).</string>
     <string name="mock_location_app">App voor neplocatie selecteren</string>
@@ -353,7 +343,6 @@ Selectie"</string>
     <string name="no_vm_number_msg">Er is geen voicemailnummer op de SIM-kaart opgeslagen.</string>
     <string name="non_primary_user">Alleen de eigenaar van het apparaat kan geblokkeerde nummers zien en beheren.</string>
     <string name="not_set">Niet ingesteld</string>
-    <string name="notification_AllMissedCallTitle">Alle gemiste oproepen</string>
     <string name="notification_channel_call_blocking">Gesprekken blokkeren</string>
     <string name="notification_channel_incoming_call">Inkomende oproepen</string>
     <string name="notification_channel_missed_call">Gemiste oproepen</string>
@@ -362,7 +351,6 @@ Selectie"</string>
     <string name="notification_missedCallTicker">Gemiste oproep van %s</string>
     <string name="notification_missedCallTitle">Gemiste oproep</string>
     <string name="notification_missedCall_call_back">Terugbellen</string>
-    <string name="notification_missedCall_call_back_miui">Bellen</string>
     <string name="notification_missedCall_message">Bericht</string>
     <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
     <string name="notification_missedCallsTitle">Gemiste gesprekken</string>
@@ -419,6 +407,7 @@ Selectie"</string>
     <string name="private_dns_mode_provider">Hostnaam van privé-DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
+    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="remaining_length_format">Nog %1$s</string>
     <string name="respond_via_sms_canned_response_1">Kan nu niet praten. Wat is er?</string>
     <string name="respond_via_sms_canned_response_2">Ik bel je zo meteen terug.</string>
@@ -546,9 +535,6 @@ Selectie"</string>
     <string name="v7_preference_on">AAN</string>
     <string name="verify_apps_over_usb_summary">Apps die zijn geïnstalleerd via ADB/ADT, controleren op schadelijk gedrag</string>
     <string name="verify_apps_over_usb_title">Apps verifiëren via USB</string>
-    <string name="voice_dial_out">Spraakgesprek</string>
-    <string name="voice_report_incoming_call">Inkomende oproep</string>
-    <string name="voice_report_unknown_num">Onbekend nummer</string>
     <string name="vpn_settings_not_available">Instellingen voor VPN zijn niet beschikbaar voor deze gebruiker</string>
     <string name="wait_for_debugger">Wachten op debugger</string>
     <string name="wait_for_debugger_summary">Gedebugde app wacht op koppelen van debugger vóór uitvoering</string>

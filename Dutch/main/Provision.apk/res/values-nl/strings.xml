@@ -14,7 +14,7 @@
     <string name="ai_button_single_press">Druk</string>
     <string name="ai_button_single_press_desc">Druk op de AI-knop om Mi AI-snelkoppelingen te bekijken</string>
     <string name="ai_button_title">AI-knop</string>
-    <string name="album_introduction">"Met de galerij kunt u foto's en video's op uw apparaat beheren, optimaliseren en bewerken en deze ook met Xiaomi Cloud synchroniseren."</string>
+    <string name="album_introduction">"Met de Galerij kunt u foto's en video's op uw apparaat beheren, optimaliseren en bewerken en deze ook met Xiaomi Cloud synchroniseren."</string>
     <string name="app_name">Provision</string>
     <string name="application_package_introduction">Met deze app kunt u apps van derden installeren, ze scannen voordat u ze installeert en er daarna aanbevelingen over geven.</string>
     <string name="application_permissions">App toestemmingen</string>
@@ -31,7 +31,7 @@
     <string name="congratulation_swipe">Swipe omhoog om het systeem te openen</string>
     <string name="congratulation_title">Setup voltooid</string>
     <string name="content_description_complete">Voltooid</string>
-    <string name="content_description_miui_version">MIUI 11</string>
+    <string name="content_description_miui_version">MIUI 12</string>
     <string name="content_description_start">Start</string>
     <string name="content_introduction">"Het Contentcentrum voegt content en diensten uit verschillende kanalen samen. Hier kunt u artikelen lezen, video's bekijken, dagelijks uitgelichte items zien en aanbevelingen voor content ontvangen."</string>
     <string name="continue_to_enable_accessibility">Blijf twee vingers ingedrukt houden om toegankelijkheid in te schakelen.</string>
@@ -60,9 +60,9 @@
     <string name="font_hint_large">Standaard tekstgrootte</string>
     <string name="font_hint_normal">Tekst vergroten</string>
     <string name="framework_introduction">Dankzij het Mi Services Framework kunt u Mi Account, Mi Push, Mi Stats en MIUI BI gebruiken.</string>
-    <string name="framwork_base_service">Om u deze diensten aan te kunnen bieden, moet het Mi Services Framework (MiAccount, Mi Push, Mi Stats, MIUI BI) verbinding met internet maken en toegang hebben tot uw locatie, telefoonnummer, IMEI en IMSI. Uw apparaat moet ook pushmeldingen kunnen ontvangen</string>
+    <string name="framwork_base_service">Om u deze diensten te kunnen bieden, moet Mi Services Framework (Mi Account, Mi Push, Mi Stats, MIUI BI) verbinding maken met het internet, toegang krijgen tot uw locatie, telefoonnummer, IMEI en IMSI en uw apparaat toestaan pushmeldingen te ontvangen</string>
     <string name="game_introduction">Met de plug-in voor games kunt u inloggen, bestellingen en betalingen doen, coupons gebruiken en meedoen met promotie-evenementen.</string>
-    <string name="google_service_introduction">Om normaal te kunnen werken heeft Google Play toegang tot internet en uw locatie nodig, moet audio kunnen opnemen, kunnen bellen en toegang hebben tot kalenderevenementen, sensors, opslag, camera, apparaatinformatie en accounts.</string>
+    <string name="google_service_introduction">Om normaal te kunnen werken heeft Google Play toegang tot internet en uw locatie nodig, moet audio kunnen opnemen, kunnen bellen en toegang hebben tot kalendergebeurtenissen, belgeschiedenis, sensors, opslag, camera, apparaatinformatie en accounts.</string>
     <string name="ime_privacy_policy">Privacybeleid van geselecteerde toestenbord</string>
     <string name="ime_privacy_policy_no_network">Geen netwerkverbinding. Bekijk het privacybeleid voor dit toetsenbord op %s.</string>
     <string name="input_method_category">"Kies het standaard toetsenbord dat u gaat gebruiken om berichten, notities en zo'n beetje alle andere dingen te schrijven. Merk op dat u later andere toetsenborden van derden kunt installeren."</string>
@@ -76,6 +76,8 @@
     <string name="locale_picker_title">Kies uw regio</string>
     <string name="location_introduction">Services op basis van locatie vinden producten en diensten bij u in de buurt.</string>
     <string name="lockscreen_introduction">Met Achtergrondcarrousel kunt u dagelijks nieuwe afbeeldingen op uw Vergrendelscherm ontvangen.</string>
+    <string name="mint_keyboard_oobe_checkbox">Ik heb het Mint Toetsenbord Privacybeleid gelezen en ga hiermee akkoord</string>
+    <string name="mint_keyboard_oobe_terms">Mint Toetsenbord Privacybeleid</string>
     <string name="miui_privacy_policy_no_network">U heeft geen internetverbinding nodig. Bekijk het Privacybeleid op %s.</string>
     <string name="miui_terms_no_network">U heeft geen internetverbinding. Bekijk de Gebruikersovereenkomst op %s.</string>
     <string name="multisim_settings_category">SIM kaart instellingen</string>
@@ -114,11 +116,11 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="permission_call_state_introduction">Voor toegang tot telefoonstatus, om oproepen op te nemen en om opnames tijdens Inkomende oproepen te pauzeren</string>
     <string name="permission_clock_info_introduction">Om gegevens van de wekker op te slaan</string>
     <string name="permission_contact">Toegang tot contacten:</string>
-    <string name="permission_contact_introduction">Om zwarte lijst-functionaliteit te bieden en om contactpersonen voor noodgevallen te bellen</string>
+    <string name="permission_contact_introduction">Om Blokkeerlijst-functionaliteit te bieden en om contactpersonen voor noodgevallen te bellen</string>
     <string name="permission_different_device_introduction">Om diensten te identificeren die aan verschillende apparaten zijn gekoppeld</string>
     <string name="permission_different_info_introduction">Om verschillende apparaten te identificeren</string>
     <string name="permission_direct_call">Bellen:</string>
-    <string name="permission_direct_call_introduction">Om items aan de zwarte lijst toe te voegen</string>
+    <string name="permission_direct_call_introduction">Om items aan de Blokkeerlijst toe te voegen</string>
     <string name="permission_download_introduction">Om gedownloade items te cachen en ze op uw apparaat op te slaan</string>
     <string name="permission_imei_service">Voor toegang tot de IMEI om diensten aan te bieden die aan uw apparaat zijn gekoppeld</string>
     <string name="permission_interaction_introduction">"Om foto's en video's op het apparaat op te slaan"</string>
@@ -203,7 +205,7 @@ Gepersonaliseerde advertenties toch uitschakelen?"</string>
     <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
     <string name="skip_gesture_guide_dialog_title">Volledig scherm gebaren</string>
     <string name="skip_underline">Deze stap overslaan</string>
-    <string name="start_up_slogan">Het leven wordt eenvoudiger</string>
+    <string name="start_up_slogan">Alleen van u</string>
     <string name="summary_not_set">Niet ingesteld</string>
     <string name="system_navigation_mode">Systeemnavigatiemodus</string>
     <string name="terms_of_use">Algemene voorwaarden</string>
@@ -224,6 +226,9 @@ U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebru
     <string name="terms_of_use_lable_default_input_method_kika">"
 
 U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebruik kan maken."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
+
+U moet akkoord gaan met het Privacybeleid van Mint Toetsenbord voordat u deze functie gebruikt."</string>
     <string name="terms_of_use_lable_gms">, Google Play diensten</string>
     <string name="terms_of_use_lable_smart_cards">, Smartcards</string>
     <string name="terms_of_use_lable_vsimcore">, MConnService</string>
@@ -231,7 +236,7 @@ U moet met de Facemoji privacybeleid akkoord gaan voordat u van deze optie gebru
     <string name="terms_privacy_policy_input_method_kika">Kika Privacybeleid</string>
     <string name="title_fingerprint">Wachtwoord instellen</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
-    <string name="user_agreement_declare">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en Privacybeleid lezen en ermee akkoord gaan. Terwijl uw apparaat wordt geactiveerd, zullen Mi SIM activatieservices, Xiaomi Cloud, Apparaat zoeken, Startscherm, Veel gebruikte zinnen, Vertaalservice, MIUI Daemon, HTML Viewer, AI Assistent, Batterij en prestaties, Power Detector, Joyose, OS AI Instelling en Updater verbinden met het netwerk. Smart services zal verbinding met het netwerk maken en toegang tot uw locatie krijgen.</string>
+    <string name="user_agreement_declare">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en Privacybeleid lezen en ermee akkoord gaan. Terwijl uw apparaat wordt geactiveerd, zullen Mi SIM activatieservices, Xiaomi Cloud, Apparaat zoeken, Startscherm, Veel gebruikte zinnen, Vertaalservice, MIUI Daemon, HTML Viewer, AI Assistent, Batterij en prestaties, Power Detector, Joyose, OS AI Instelling, Toestemmingsbeheer en Updater verbinden met het netwerk. Smart services zal verbinding met het netwerk maken en toegang tot uw locatie krijgen.</string>
     <string name="voice_assist_advice">Mi AI maakt het voor u mogelijk om spraakbesturing te gebruiken, maar verbruikt meer batterij (+1% per uur).</string>
     <string name="voice_assist_condition">"U kunt Mi AI in al deze gevallen gebruiken: r
 1. Wanneer het scherm aanstaat. Wanneer u naar muziek luistert met uw scherm aan."</string>

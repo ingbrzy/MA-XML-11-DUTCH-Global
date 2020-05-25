@@ -37,8 +37,8 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">Hallo wereld!</string>
     <string name="menu_settings">Instellingen</string>
-    <string name="tencent_dialog_cloudscan">Upload en scan namen van apps en details door online virusdefinities te gebruiken.</string>
-    <string name="tencent_dialog_dbupdate">Virusdefinities automatisch updaten</string>
+    <string name="tencent_dialog_cloudscan">App-namen en details uploaden en scannen met behulp van online virusdefinities.</string>
+    <string name="tencent_dialog_dbupdate">Virusdefinities automatisch bijwerken</string>
     <string name="tencent_dialog_header">Deze functie versleutelt en upload het ID van uw apparaat naar de server van Tencent (%s).</string>
     <string name="tencent_dialog_policy">Privacybeleid</string>
     <string name="tencent_dialog_title">Privacybeleid van Tencent</string>

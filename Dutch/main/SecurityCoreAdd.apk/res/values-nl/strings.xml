@@ -6,6 +6,33 @@
 Berichten zullen alleen in Tweede ruimte verschijnen."</string>
     <string name="PrivacyContactDes2">"Als u privéberichten gebruikt heeft in Eerste ruimte,
 zal deze functie automatisch ook aan Tweede ruimte worden toegevoegd."</string>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="about_ent_mode">Over bedrijfsmodus</string>
     <string name="activate_ent_mode">Activeer bedrijfsmodus</string>
     <string name="add_finger_print">Vingerafdruk toevoegen</string>
@@ -61,6 +88,7 @@ zal deze functie automatisch ook aan Tweede ruimte worden toegevoegd."</string>
 om ze altijd te kunnen bekijken"</string>
     <string name="contact_us">Neem contact met ons op</string>
     <string name="continueButton">Doorgaan</string>
+    <string name="copy">Kopiëren</string>
     <string name="createANewSpace">Maak een aparte ruimte op je telefoon.</string>
     <string name="createUserFail">Kon niet aanmaken</string>
     <string name="create_app_icon_failed">Kan geen icoontje maken</string>
@@ -149,6 +177,7 @@ Zorg dat de naam van uw organisatie correct is. Lees het privacybeleid en ga erm
     <string name="err_unknown">Onbekende fout</string>
     <string name="err_volume_not_enough">Niet genoeg opslagruimte</string>
     <string name="exit_private_space">Schakel</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="experience_more_features">Voeg een toestel toe om alle functies te bekijken</string>
     <string name="facebook_login">Aanmelden met Facebook</string>
     <string name="facebook_send">Delen met Facebook</string>
@@ -223,6 +252,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="master_clear_apply_step_2">"Zorg dat u op uw pc een back-up gemaakt hebt van alle belangrijke bestanden. Nadat u op \"OK\" tikt zal er een fabrieksreset uitgevoerd worden op uw apparaat, waarbij alle bestanden en gegevens permanent verwijderd worden, inclusief accounts, contacten, foto's en apps."</string>
     <string name="master_clear_apply_title">Let op</string>
     <string name="master_clear_not_available">Fabrieksreset is geblokkeerd door uw bedrijf.</string>
+    <string name="master_clear_not_available_ep">U mag nu geen fabrieksreset uitvoeren of uw autorisatie intrekken. Neem contact op met uw supervisor.</string>
     <string name="menu_item_about_privacy_title">Privacybeleid</string>
     <string name="messageData">Berichten</string>
     <string name="more_settings">Meer</string>
@@ -240,6 +270,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="next_setp">Volgende</string>
     <string name="no_match_repate_scanner">Kon geen passende vingerafdrukken vinden, scan opnieuw</string>
     <string name="normal_app">Eerste ruimte</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="not_support_air_space">Deze functie wordt niet ondersteund op je telefoon</string>
     <string name="not_support_multiple_users">Meerdere ruimtes worden niet ondersteund</string>
     <string name="notificationSetPassword">Wachtwoord instellen</string>
@@ -262,6 +293,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="passwordProtect">Wachtwoord</string>
     <string name="please_diff_finger_print">"Zorg ervoor dat er verschillende vingerafdrukken worden gebruikt in Eerste ruimte en Tweede ruimte.
 Anders verliest u mogelijk toegang tot Tweede ruimte vanaf het Vergrendelscherm."</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacyContactsSummary">Toon privé-items in Tweede ruimte</string>
     <string name="privacyContactsTitle">Privéberichten en contacten</string>
     <string name="privacy_password_fingerprint_dialog_message">Plaats uw vinger op de sensor</string>
@@ -312,6 +344,7 @@ Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed."</str
 Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed meer."</string>
     <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="search_result_text">Kon geen apps vinden</string>
     <string name="secondSpace">Tweede ruimte</string>
     <string name="second_owner_finger_print">Tweede ruimte vingerafdruk</string>
@@ -392,6 +425,7 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">Verwijder alle dubbele apps met bijbehorende accounts en app-gegevens? Uw apparaat wordt opnieuw opgestart om deze wijzigingen door te voeren.</string>
     <string name="stop_xspace_alert_title">Dubbele app-accounts verwijderen</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Selecteer apps die in de huidige ruimte worden gebruikt</string>
     <string name="support_desc">Beveiligingsdiensten geleverd door Spaces Mobile</string>
     <string name="sure_to_use">Bevestigen</string>
@@ -441,6 +475,8 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="undo_success">Succesvol ingetrokken</string>
     <string name="use_google_open">Wekken met Google Assistent</string>
     <string name="use_xiaoai_open">Wekken met Mi AI</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="wating">Een ogenblik geduld…</string>
     <string name="weibo_send">Naar Weibo gestuurd</string>
     <string name="weixin_pay">WeChat Pay</string>
@@ -460,6 +496,8 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="xspace_description">"Dubbele apps zijn app-kopieën die gescheiden kunnen worden gebruikt met verschillende accounts.
 
 Voor sommige dubbele apps is ondersteuning door Google Services Framework vereist. In dergelijke gevallen wordt een duaal Google Services Framework gemaakt."</string>
+    <string name="xspace_disable">Niet aangemaakt</string>
+    <string name="xspace_enable">Aangemaakt</string>
     <string name="xspace_facebook_title">Facebook</string>
     <string name="xspace_guide_des">Gebruik 2 accounts zonder te schakelen</string>
     <string name="xspace_guide_title">Maak een duale app</string>
@@ -472,9 +510,12 @@ Voor sommige dubbele apps is ondersteuning door Google Services Framework vereis
     <string name="xspace_introduce">Aanbevolen</string>
     <string name="xspace_label">Dubbele apps</string>
     <string name="xspace_loading_msg">Apps laden…</string>
+    <string name="xspace_notification">Dubbele App-meldingen</string>
+    <string name="xspace_notification_error">Meld u aan bij duale WeChat en probeer het opnieuw</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Dubbele app-accounts verwijderen</string>
     <string name="xspace_setting_label">Dubbele app-instellingen</string>
+    <string name="xspace_settins">Instellen</string>
     <string name="xspace_uninstall_completed">Dubbele app succesvol verwijderd</string>
     <string name="xspace_uninstall_dialog_content">Bij het verwijderen van de dubbele app worden alle app-gegevens verwijderd.</string>
     <string name="xspace_uninstall_dialog_title">Dubbele app verwijderen</string>

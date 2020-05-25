@@ -16,6 +16,22 @@
         <item quantity="other">%d items</item>
         <item quantity="one">%d item</item>
     </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d items</item>
+        <item quantity="one">%1$d/%2$d item</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s back-ups (%2$s)</item>
+        <item quantity="one">%1$s back-up (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">Succesvol een back-up gemaakt. Kon geen back-up maken %d items.</item>
+        <item quantity="one">Succesvol een back-up gemaakt. Kon geen back-up maken %d item.</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">Succesvol hersteld. Kon niet herstellen %d items.</item>
+        <item quantity="one">Succesvol hersteld. Kon niet herstellen %d item.</item>
+    </plurals>
     <plurals name="save_item_failed_summary_seg1">
         <item quantity="other">Geïmporteerd %d items.</item>
         <item quantity="one">Geïmporteerd %d item.</item>

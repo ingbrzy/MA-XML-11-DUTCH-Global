@@ -28,6 +28,10 @@
         <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>
         <item quantity="one">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dag tot %3$s.</item>
     </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Deze functie wordt uitgeschakeld voor %s dagen</item>
+        <item quantity="one">Deze functie wordt uitgeschakeld voor %s day</item>
+    </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">"%d video's"</item>
         <item quantity="one">%d video</item>

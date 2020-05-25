@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="access_denied">Toegang geweigerd</string>
     <string name="account_related">Uw apparaat is geassocieerd met een bestaande Mi Account (%s). Maak verbinding met het netwerk om het apparaat te verifiëren.</string>
     <string name="activate_find_device_success">Apparaat zoeken is geactiveerd.</string>
@@ -8,7 +35,7 @@
     <string name="add_short_cut">Toevoegen</string>
     <string name="added_successfully">Succesvol toegevoegd</string>
     <string name="antispam_sync">Niet storen instellingen</string>
-    <string name="app_name">Cloud</string>
+    <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
     <string name="btn_return">Vorige</string>
     <string name="button_cancel">Annuleren</string>
@@ -24,6 +51,7 @@
     <string name="cloud_storage_default_title">Cloud-opslag</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
+    <string name="cloud_storage_info_type_family">Familie</string>
     <string name="cloud_storage_info_type_others">Ander</string>
     <string name="cloud_storage_info_type_pdc">Systeeminstellingen</string>
     <string name="cloud_storage_loading_data">Een momentje…</string>
@@ -34,20 +62,22 @@
     <string name="confirm_save">Bewaren</string>
     <string name="connect_network">Verbind met wifi of plaats een SIM kaart</string>
     <string name="connect_wlan">Verbinden met wifi</string>
+    <string name="copy">Kopiëren</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Dit account wordt ook op een ander apparaat gebruikt. Voeg de items van meerdere apps samen (inclusief %1$s en %2$s) met de items op dit apparaat?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Dit account wordt ook op een ander apparaat gebruikt. De items van %s samenvoegen met de items op dit apparaat?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Dit account wordt ook op een ander apparaat gebruikt. Voeg de items samen van %1$s en %2$s met de items op dit apparaat?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two">De items van meerdere apps (inclusief %1$s en %2$s) op dit apparaat wordt samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
-    <string name="data_merge_dialog_alert_msg_more_than_two_pad">De items van meerdere apps (inclusief %1$s en %2$s) op dit apparaat wordt samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
-    <string name="data_merge_dialog_alert_msg_one">De items van %s op dit apparaat worden samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
-    <string name="data_merge_dialog_alert_msg_one_pad">De items van %s op dit apparaat worden samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
-    <string name="data_merge_dialog_alert_msg_two">De items van %1$s en %2$s op dit apparaat wordt samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
-    <string name="data_merge_dialog_alert_msg_two_pad">De items van %1$s en %2$s op dit apparaat wordt samengevoegd met de items in de cloud. Items nu samenvoegen?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two">Items uit meerdere bronnen, waaronder %1$s en %2$s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
+    <string name="data_merge_dialog_alert_msg_more_than_two_pad">Items uit meerdere bronnen, waaronder %1$s en %2$s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
+    <string name="data_merge_dialog_alert_msg_one">Items uit %s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
+    <string name="data_merge_dialog_alert_msg_one_pad">Items uit %s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
+    <string name="data_merge_dialog_alert_msg_two">Items uit %1$s en %2$s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
+    <string name="data_merge_dialog_alert_msg_two_pad">Items uit %1$s en %2$s worden opgeslagen in Xiaomi Cloud. Synchroniseren en deze samenvoegen met de items op dit apparaat?</string>
     <string name="data_merge_dialog_loading">Gegevens verifiëren…</string>
+    <string name="data_merge_dialog_title">Items samenvoegen</string>
     <string name="data_protection_title">Gegevens beschermen</string>
     <string name="detect_sim_card">Zoeken naar SIM kaart</string>
     <string name="disable_find_device_error">\"Kan Apparaat zoeken niet uitschakelen. \"%1$s</string>
-    <string name="do_not_merge">Niet samenvoegen</string>
+    <string name="do_not_merge">Annuleren</string>
     <string name="enable_find_device_error">\"Kan Apparaat zoeken niet inschakelen. \"%1$s</string>
     <string name="enable_find_device_success">Apparaat zoeken is ingeschakeld.</string>
     <string name="enable_micloud">Meld u aan om Xiaomi Cloud te gebruiken</string>
@@ -57,8 +87,12 @@
     <string name="error_network">Kan geen verbinding maken met netwerk</string>
     <string name="error_server">Server fout</string>
     <string name="error_unknown">Kan niet inloggen</string>
+    <string name="expand_button_title">Geavanceerd</string>
+    <string name="feedback_custom_hint">Beschrijf de problemen die u hier bent tegengekomen. Als u suggesties geeft, stellen we meer details op prijs!</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#0097FF>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
     <string name="find_device_error_server">Server fout</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <a href="app://com.miui.cloudservice.gdpr.license"><u>Privacybeleid</u></a>. Als u toestemming in moet trekken, schakel deze functie dan uit.</string>
@@ -115,6 +149,9 @@
     <string name="menu_add_feedback">Feedback</string>
     <string name="menu_add_short_cut">Een Startscherm snelkoppeling creëren</string>
     <string name="merge">Samenvoegen</string>
+    <string name="mi_drive_not_publish_toast">Mi Drive is binnenkort beschikbaar</string>
+    <string name="mi_drive_summary">Toegang tot documenten van Xiaomi Cloud op meerdere apparaten</string>
+    <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">OК</string>
     <string name="micloud_all_sub_1_intl_sms">Een internationale SMS zal verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
     <string name="micloud_all_sub_1_sms">Een gewone SMS zal verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
@@ -195,15 +232,18 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_find_device_open_fail">Kon Apparaat zoeken niet uitschakelen</string>
     <string name="micloud_find_device_opened">Apparaat zoeken is ingeschakeld</string>
     <string name="micloud_find_device_opened_content">Zoek uw apparaat op %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Mogelijk is een uitgaand SMS-bericht vereist om deze service te activeren. Uw koerier brengt u dit bericht in rekening. Wanneer u van SIM-kaart wisselt, wordt mogelijk automatisch een bericht verzonden om deze functie opnieuw te activeren.</string>
     <string name="micloud_find_device_verify_button">Heractiveer Apparaat zoeken</string>
     <string name="micloud_find_device_verify_close">Apparaat zoeken uitschakelen</string>
     <string name="micloud_find_device_verify_fail">Apparaat zoeken kon niet geheractiveerd worden</string>
     <string name="micloud_find_device_verify_progress">Apparaat zoeken heractiveren…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Synchroniseren is geannuleerd. Probeer het opnieuw.</string>
     <string name="micloud_main_head_menu_cloud_backup">Startscherm back-up</string>
-    <string name="micloud_main_head_menu_cloud_backup_summary">Startscherm lay-out en systeeminstellingen</string>
-    <string name="micloud_main_head_menu_finddevice_summary">Lokaliseer en vergrendel uw apparaat als u deze verloren bent</string>
+    <string name="micloud_main_head_menu_cloud_backup_summary">Systeeminstellingen en Startscherm lay-out</string>
+    <string name="micloud_main_head_menu_finddevice_summary">Lokaliseer en vergrendel uw apparaat</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">Apparaat zoeken is niet beschikbaar in Tweede ruimte, u kunt dit gebruiken in Eerste ruimte.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Verwijderde items herstellen</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Verwijderde items</string>
@@ -364,6 +404,7 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="mx_sub_dspt_provision_with_voip">Internetbellen</string>
     <string name="mx_voip_dspt">Mi Voice</string>
     <string name="no_sim">Kon simkaart niet vinden</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="pay_info_dialog_confirm_to_pay">Betaal %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Gebruik resterende Mi Credits: %s</string>
     <string name="pay_info_dialog_title">Selecteer betaalmethode</string>
@@ -373,6 +414,7 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Alleen contacten synchroniseren(profiel foto's) wanneer u bent verbonden met wifi"</string>
     <string name="pref_title_sync_contacts_title">Contacten synchroniseren</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">"Foto's alleen met wifi synchroniseren"</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_and_agreement">Algemene voorwaarden</string>
     <string name="privacy_dialog_finddevice_all_purpose_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
     <string name="privacy_dialog_finddevice_all_purpose_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te lokaliseren, te vergrendelen of te wissen als deze verloren zijn.</string>
@@ -394,6 +436,7 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="search_finddevice_pref_desc">Apparaat zoeken in- of uitschakelen</string>
     <string name="search_finddevice_pref_key_words">zoek apparaat, apparaat zoeken</string>
     <string name="search_finddevice_pref_path">Mi Account/Xiaomi Cloud/Apparaat zoeken</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="share_cancel">Delen geannuleerd</string>
     <string name="share_failed">Kon niet delen</string>
     <string name="share_miliao_not_installed">Mi Talk is niet geïnstalleerd.</string>
@@ -404,16 +447,21 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="soundrecorder_sync_only_in_wifi">Alleen wifi gebruiken om te synchroniseren</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">Opnemen zal geen mobiele data gebruiken om opnamen te downloaden of uploaden</string>
     <string name="soundrecorder_sync_records">Synchroniseer met Xiaomi Cloud</string>
+    <string name="special_func_title">Speciale functies</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_expansion">Krijg meer</string>
     <string name="storage_manage_list_title">Cloud gegevens</string>
     <string name="storage_manage_list_title_action">Meer bekijken</string>
     <string name="storage_manage_renewal">Verlengen</string>
     <string name="storage_manage_title">Cloud opslagabonnement wijzigen</string>
     <string name="storage_manage_upgrade">Upgrade</string>
+    <string name="storage_upgrade_card_summary">Krijg meer cloudopslagruimte</string>
+    <string name="storage_upgrade_card_title">Upgrade uw abonnement</string>
     <string name="sub_alert_notif_content">Schakel Xiaomi Cloud in</string>
     <string name="sub_alert_notif_title">Synchroniseer met Xiaomi Cloud</string>
     <string name="sub_sync_item_sms_summary">"Synchroniseer alleen berichten met foto's, audio of andere media over wifi-netwerk "</string>
     <string name="sub_sync_item_sms_title_wifi_only">Enkel wifi gebruiken om MMS te synchroniseren</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sync_detail_summary_master_sync_off">Synchronisatie is uitgeschakeld</string>
     <string name="sync_detail_summary_off">Synchronisatie is uitgeschakeld</string>
     <string name="sync_detail_text">Synchronisatie details</string>
@@ -426,6 +474,8 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="sync_dspt_entrance_provision_network">Deze app moet verbonden zijn met het internet om normaal te werken. Het synchroniseren van gegevens kan een mobiele dataverbinding vereisten en het aanzetten van wifi.</string>
     <string name="sync_dspt_entrance_provision_skip">Deze stap overslaan</string>
     <string name="sync_dspt_provision">"Synchroniseer uw foto's, contacten, notities, en meer op al uw apparaten of bereik ze op "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". U kunt deze functie op elk moment in- of uitschakelen in Instellingen.
 "</string>
     <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
@@ -455,6 +505,8 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
 "</string>
     <string name="user_agreement_title">"Xiaomi Cloud's Servicevoorwaarden"</string>
     <string name="user_storage_info_available_text_prefix">%s beschikbaar</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="waiting_for_sync">Wachten…</string>
     <string name="warning_bar_action_add_short_cut">Toevoegen</string>
     <string name="warning_bar_action_close">Sluiten</string>
@@ -475,6 +527,6 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="wipe_data_dialog_title">Items zijn niet gesynchroniseerd</string>
     <string name="wipe_data_query_progress_title">Controleren…</string>
     <string name="wipe_secret_photo_dialog_title">"Verborgen foto's zijn niet gesynchroniseerd"</string>
-    <string name="xiaomi_cloud_service">Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op één plek</string>
 </resources>

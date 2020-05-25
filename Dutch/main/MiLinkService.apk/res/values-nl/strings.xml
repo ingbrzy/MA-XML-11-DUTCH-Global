@@ -17,6 +17,7 @@
     <string name="dialog_connect_verify_perssion_fail">Kon geen toestemming verlenen voor casten op uw tv. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="dialog_connected">Verbonden</string>
     <string name="dialog_connecting">Aan het verbinden…</string>
+    <string name="dialog_nfc_cast_wifi_off">Schakel wifi in om te kunnen casten met NFC. Nu inschakelen?</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_only_suport_content">"Stream foto's, video's of muziek"</string>
     <string name="dialog_open_wifi_bt">Inschakelen</string>
@@ -41,6 +42,11 @@ Bekijk help als u problemen ondervindt bij het maken van een verbinding."</strin
     <string name="help_page_text_05">Stap 1: Controleer uw apparaten en netwerkomgeving</string>
     <string name="help_page_text_06">"1. U heeft geen internetverbinding nodig als u iets van een Mi telefoon naar een Mi TV wilt casten.
 2. Als u geen verbinding tussen de twee apparaten kunt leggen, probeer ze dan beide met hetzelfde wifi-netwerk te verbinden."</string>
+    <string name="help_page_text_06_global">"1. Mi TV's, Mi Boxes, and Mi Projectors:
+Verbind uw telefoon en externe monitor met hetzelfde wifi-netwerk voor het beste effect. Als ze zijn verbonden met verschillende netwerken, kan het langer duren om de externe monitor te vinden en verbinding te maken.
+Opmerking: Oudere Mi TV's bieden mogelijk geen ondersteuning voor casten via verschillende netwerken.
+2. Als u tv's, settopboxen of projectoren van andere merken gebruikt, verbindt u zowel uw telefoon als externe monitor met hetzelfde wifi-netwerk.
+Als de twee apparaten niet op hetzelfde netwerk kunnen worden aangesloten, schakelt u Miracast in op uw externe monitor. De benoeming van Miracast-functionaliteit kan variëren."</string>
     <string name="help_page_text_08">Stap 2: Schakel casten in</string>
     <string name="help_page_text_09">Tik op de \"Cast\"-schakelaar op het meldingenpaneel van uw telefoon. Schakel voor een stabielere verbinding zowel wifi als bluetooth in.</string>
     <string name="help_page_text_10">Als u items vanuit de galerij of Mi Video wilt casten, kunt u de ingebouwde castingfuncties uit deze apps gebruiken.</string>
@@ -87,7 +93,7 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="help_page_text_40">Controleer eerst of Miracast-functionaliteit op uw apparaat wordt ondersteund. Op sommige modellen kunt u Apps > Scherm spiegelen selecteren.</string>
     <string name="help_page_text_41">Panasonic klantenservice: 400-881-1315</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">Controleer eerst of Miracast-functionaliteit op uw apparaat wordt ondersteund. Op sommige modellen kunt u Systeem > Systeemtools > Meerdere schermen > Scherm spiegelen selecteren.</string>
+    <string name="help_page_text_43">Controleer de instellingen van uw tv om te controleren of uw externe monitor de Miracast-functionaliteit ondersteunt.</string>
     <string name="help_page_text_44">Changhong klantenservice: 400-811-1666</string>
     <string name="help_page_text_45">TCL</string>
     <string name="help_page_text_46">Controleer eerst of Miracast-functionaliteit op uw apparaat wordt ondersteund. Op sommige modellen kunt u Apps > Draadloos scherm selecteren.</string>
@@ -99,10 +105,11 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="help_page_text_52">Controleer eerst of Miracast-functionaliteit op uw apparaat wordt ondersteund. Op sommige modellen kunt u deze functie inschakelen in Instellingen > Netwerken > Meerdere schermen > Draadloos scherm.</string>
     <string name="help_page_text_53">LeEco klantenservice: 10109000</string>
     <string name="help_page_text_55">"Als u geen verbinding met het netwerk kunt maken, controleer dan of uw externe monitor Miracast-functionaliteit ondersteunt en of Miracast is ingeschakeld. Op sommige modellen heet deze functie Wireless Display (draadloos scherm), Screen Mirroring (scherm spiegelen) of Multiple screens (meerdere schermen). Gebruik de onderstaande informatie om te zien hoe u Miracast kunt inschakelen.
-4. Als u problemen ondervindt, kunt u deze melden met behulp van onze app \"Services &amp; feedback\"."</string>
+4. Als u problemen ondervindt, kunt u deze melden met behulp van onze app \"Services en feedback\"."</string>
     <string name="help_page_text_55_global">"Als u geen verbinding met het netwerk kunt maken, controleer dan of uw externe monitor Miracast-functionaliteit ondersteunt en of Miracast is ingeschakeld. Op sommige modellen heet deze functie Wireless Display (draadloos scherm), Screen Mirroring (scherm spiegelen) of Multiple screens (meerdere schermen).
-4. Als u problemen ondervindt, kunt u deze melden met behulp van onze app \"Services &amp; feedback\"."</string>
+4. Als u problemen ondervindt, kunt u deze melden met behulp van onze app \"Services en feedback\"."</string>
     <string name="help_page_text_end">Als uw merk apparaat hier niet genoemd is, neem dan contact op met de producent voor meer informatie over casten.</string>
+    <string name="nfc_connect_failed_toast">Kon niet casten. Probeer opnieuw.</string>
     <string name="notification_rc_title">XiaoMi TV Assistant</string>
     <string name="notification_show_more">Tik om meer functies te bekijken</string>
     <string name="privacy_agree">Akkoord</string>
@@ -121,13 +128,15 @@ Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en ons
     <string name="san_wait_msg_3">Externe apparaten zijn eenvoudiger te vinden als ze met hetzelfde netwerk als uw telefoon zijn verbonden</string>
     <string name="san_wait_msg_4">Ga naar \"Help\" als u geen apparaten kunt vinden</string>
     <string name="small_window">Venster minimaliseren</string>
+    <string name="small_window_not_supported">Kan deze app niet minimaliseren tijdens het casten</string>
     <string name="status_bar_in_casting">Aan het casten…</string>
     <string name="status_bar_in_casting_long">Tik om meer casting-functies te bekijken</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tile_label">Casten</string>
     <string name="toast_guide_show_more">Meer informatie</string>
     <string name="toast_guide_title">Verken hier onze nieuwe functies</string>
     <string name="toast_msg_for_multi_window">Deze functie kan niet met gesplitst scherm worden gebruikt</string>
     <string name="toast_msg_for_small_window">U kunt het scherm dat wordt gecast niet minimaliseren om andere functies op uw telefoon te gebruiken zonder het casten te onderbreken.</string>
+    <string name="toast_nfc_dont_move">Verplaats uw telefoon niet weg</string>
     <string name="toast_title_for_small_window">Selecteer \"Scherm minimaliseren\" in de app</string>
+    <string name="toast_turn_off_hotspot_before_cast">Schakel draagbare hotspot uit voor casten</string>
 </resources>

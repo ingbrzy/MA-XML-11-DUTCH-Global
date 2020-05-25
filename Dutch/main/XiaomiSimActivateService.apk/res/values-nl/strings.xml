@@ -18,8 +18,8 @@
     <string name="activate_feature_verify_mx_token">Mi Accountverificatie</string>
     <string name="activate_feature_voip">Mi Message VoIP</string>
     <string name="activate_history_canceled_overview">Activering simkaart is geannuleerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
-    <string name="activate_history_multisim_canceled_overview">Activering van simkaart %2$d is geannuleerd. Activering wordt uitgevoerd voor %1$s\".</string>
-    <string name="activate_history_multisim_success_overview">Simkaart %2$d succesvol geactiveerd. Activering wordt uitgevoerd voor %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">Activering van simkaart %2$d is geannuleerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">Simkaart %2$d succesvol geactiveerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
     <string name="activate_history_sms">Er is tijdens de activering een sms verzonden.</string>
     <string name="activate_history_success_overview">Simkaart succesvol geactiveerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
     <string name="activate_history_title">Activering simkaart</string>

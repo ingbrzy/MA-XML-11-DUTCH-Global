@@ -83,6 +83,7 @@ Ga naar id.mi.com om uw wachtwoord te resetten.
 Andere redenen
 Meld u aan op i.mi.com en probeer uw apparaat vanaf daar te ontgrendelen."</string>
     <string name="unlock_help_title">Ontgrendel help:</string>
+    <string name="unlock_number">Ontgrendel code: %s</string>
     <string name="unlock_wrong_captcha">De code die u hebt ingevoerd is incorrect</string>
     <string name="unlocking">Activeren…</string>
     <string name="verifing_account">Wachtwoord verifiëren…</string>

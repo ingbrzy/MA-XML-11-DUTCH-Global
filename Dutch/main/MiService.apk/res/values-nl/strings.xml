@@ -10,8 +10,8 @@
     <string name="abc_capital_on">AAN</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Functie +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
     <string name="abc_menu_shift_shortcut_label">Shift +</string>
@@ -27,13 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
-    <string name="mi_service_app_name">Services &amp; feedback</string>
-    <string name="miservice_channel_update_notification_info">\"Services &amp; feedback\" verzoekt online data…</string>
+    <string name="mi_service_app_name">Services en feedback</string>
+    <string name="miservice_channel_update_notification_info">\"Services en feedback\" verzoekt online data…</string>
     <string name="miservice_notification_boot_content">Meer informatie over wat MIUI kan doen</string>
     <string name="miservice_notification_huanji_content">Breng ze over met Mi Mover</string>
     <string name="miservice_notification_huanji_title">Heeft u belangrijke items op uw oude telefoon?</string>
     <string name="miservice_notification_open_feedback_content">Alle feedback functies zijn verplaatst naar de nieuwe app</string>
-    <string name="miservice_notification_open_feedback_title">Introducerend: \"Services &amp; feedback\"</string>
+    <string name="miservice_notification_open_feedback_title">Introductie van \"Services en feedback\"</string>
     <string name="miservice_notification_scan_content">Gebruik Scanner om woorden en zinnen te vertalen</string>
     <string name="miservice_notification_scan_title">Vertaal in een handomdraai</string>
     <string name="miui_feedback_answer_detail_community">Je kunt antwoorden op je vragen vinden in Mi Community</string>
@@ -43,7 +43,7 @@
     <string name="miui_feedback_answer_detail_feedback_unresolved">Nee</string>
     <string name="miui_feedback_answer_detail_menu_online_service">Krijg online hulp</string>
     <string name="miui_feedback_answer_detail_menu_phone_service">Customer support bellen</string>
-    <string name="miui_feedback_answer_detail_relative_tip">Dit zou kunnen helpen:</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Dit zou kunnen helpen</string>
     <string name="miui_feedback_answer_detail_title">Details</string>
     <string name="miui_feedback_edit_action_submit">Verzenden</string>
     <string name="miui_feedback_edit_add_original_images">Foto toevoegen</string>
@@ -111,13 +111,14 @@
     <string name="miui_feedback_main_menu_catch_full_log">Logbestanden genereren</string>
     <string name="miui_feedback_main_menu_feedback_list">Bekijk feedbackgeschiedenis</string>
     <string name="miui_feedback_main_search_footer">Dit zijn niet de vragen die je wilt stellen?</string>
+    <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
     <string name="miui_feedback_main_search_issue">Vul trefwoorden in om te zoeken</string>
     <string name="miui_feedback_main_start_submit">Feedback verzenden</string>
     <string name="miui_feedback_main_submit_dialog_confirm">Indienen</string>
     <string name="miui_feedback_main_submit_dialog_content">Het lijkt erop dat we geen oplossing voor uw probleem hebben kunnen vinden. U kunt ons uw feedback sturen.</string>
     <string name="miui_feedback_main_submit_dialog_title">Feedback verzenden</string>
     <string name="miui_feedback_main_title">Feedback</string>
-    <string name="miui_guide_clear_db_service">\"Services &amp; feedback\" wissen de taalcache…</string>
+    <string name="miui_guide_clear_db_service">\"Services en feedback\" wissen de taalcache…</string>
     <string name="miui_guide_footer_desc">"Beginnershandleiding is ontworpen om u te helpen meer te weten te komen over uw apparaat en MIUI. Sommige afbeeldingen en video/'s in de handleiding zijn alleen ter referentie gemaakt en kunnen afwijken van het daadwerkelijke product. De functies die in deze handleiding worden beschreven, kunnen verschillen, afhankelijk van uw apparaatmodel, MIUI-versie en gebruiksomgeving."</string>
     <string name="miui_guide_item_complete">Voltooid</string>
     <string name="miui_guide_item_new">Nieuw</string>
@@ -135,8 +136,9 @@
     <string name="miui_main_update_start">Nu bijwerken</string>
     <string name="miui_main_update_success_sub_title">Ontdek de nieuwe MIUI</string>
     <string name="miui_main_update_success_title">Het leven wordt eenvoudiger</string>
+    <string name="miui_main_update_success_title_12">Alleen van u</string>
     <string name="permission_agree">Akkoord</string>
-    <string name="permission_china_version_msg">&lt;Data>Voordat u \"Services &amp;amp; feedback\" gebruikt, dient u onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en ons &lt;a href=%2$s>Privacybeleid&lt;/a>te lezen en hiermee akkoord te gaan. Deze app heeft ook verbinding met het internet nodig om normaal te functioneren.&lt;/Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Voordat u \"Services en feedback\" gebruikt, moet u lezen en ermee akkoord gaan met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>. Deze app heeft ook verbinding met het internet nodig om normaal te functioneren.&lt;/Data></string>
     <string name="permission_complete">Gereed</string>
     <string name="permission_contacts_info">Toegang tot account info</string>
     <string name="permission_contacts_introduce">Om aan te melden met Mi Account</string>
@@ -146,7 +148,7 @@
     <string name="permission_first_start_network_title">Algemene voorwaarden</string>
     <string name="permission_main_purpose">"MIUI functie demo's weergeven, feedback indienen, services na verkoop aanvragen."</string>
     <string name="permission_privacy">Privacybeleid (vereist)</string>
-    <string name="permission_region_version_msg">&lt;Data>Voordat u \"Services &amp;amp; feedback\" gebruikt, dient u onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en ons &lt;a href=%2$s>Privacybeleid&lt;/a>te lezen en hiermee akkoord te gaan.&lt;/Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Voordat u \"Services en feedback\" gebruikt, moet u lezen en ermee akkoord gaan met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Alles selecteren</string>
     <string name="permission_storage">Opslag</string>
     <string name="permission_storage_introduce">Voor het opslaan van bestanden op uw apparaat</string>

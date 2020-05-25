@@ -4,4 +4,12 @@
         <item quantity="other">Houd de knop op de box %1$d seconden ingedrukt</item>
         <item quantity="one">Houd de knop op de box %1$d seconde ingedrukt</item>
     </plurals>
+    <plurals name="fast_connect_reset_air2_se">
+        <item quantity="other">Druk en houd elk aanraakgevoelig gebied op de oortelefoons %1$d seconden in</item>
+        <item quantity="one">Druk en houd elk aanraakgevoelig gebied op de oortelefoons %1$d seconde in</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
+    </plurals>
 </resources>

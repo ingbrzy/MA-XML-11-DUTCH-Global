@@ -10,8 +10,8 @@
     <string name="abc_capital_on">AAN</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Functie +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
     <string name="abc_menu_shift_shortcut_label">Shift +</string>
@@ -170,9 +170,13 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">De dubbele apps worden samen met deze verwijderd.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">De dubbele app wordt samen met deze verwijderd.</string>
     <string name="confirm_uninstall_dialog_title">Dubbele apps worden verwijderd</string>
+    <string name="content_description_button_add">Tik om toe te voegen aan huidige apps</string>
+    <string name="content_description_button_disable">Kan niet meer huidige apps toevoegen</string>
+    <string name="content_description_button_remove">Tik om te verwijderen uit huidige apps</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, gecontroleerd</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, niet gecontroleerd</string>
     <string name="content_description_workspace_thumbnail_item">Schermvoorbeeld, pagina %1$s</string>
+    <string name="copy">Kopiëren</string>
     <string name="current_preview">Voorbeeld</string>
     <string name="current_wallpaper">Huidig</string>
     <string name="custom_wallpaper_picker">Bladeren</string>
@@ -226,6 +230,7 @@
     <string name="emptyplaylist">Tik om nummers toe te voegen</string>
     <string name="enable_wallpaper_scroll">Achtergrond scrollen inschakelen</string>
     <string name="encryption">Encryptie</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="failed_to_delete_temporary">Kan niet verwijderen</string>
     <string name="failed_to_drop">Kan niet verplaatsen</string>
     <string name="failed_to_drop_widget_invalid">Deze widget is ongeldig</string>
@@ -355,6 +360,7 @@
     <string name="no_space_toast">Niet genoeg ruimte</string>
     <string name="no_space_toast_when_click_widget">Niet genoeg ruimte op deze pagina. Probeer dit item naar een andere pagina te verslepen.</string>
     <string name="normal_wallpaper">Achtergrond</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="notification_installed">Succesvol geïnstalleerd</string>
     <string name="notification_open_button">Openen</string>
     <string name="notification_reset_title">Pictogrammen correct gerangschikt</string>
@@ -367,11 +373,13 @@
     <string name="open_personal_assistant_dialog_title">App-kluis uitschakelen</string>
     <string name="open_personal_assistant_title">App-kluis</string>
     <string name="out_of_space">Geen ruimte meer op dit Startscherm</string>
+    <string name="perfect_icons_switch_summary">Render animaties op app-iconen van derden</string>
+    <string name="perfect_icons_switch_title">Wereldwijde icoon-animaties</string>
     <string name="permdesc_install_shortcut">Een app toestaan snelkoppelingen toe te voegen zonder actie van de gebruiker.</string>
-    <string name="permdesc_install_widget">Een app toestaan widgets toe te voegen zonder actie van de gebruiker.</string>
+    <string name="permdesc_install_widget">Hiermee kan een app widgets toevoegen zonder dat de gebruiker aanvullende acties hoeft te ondernemen.</string>
     <string name="permdesc_read_settings">Hiermee kan een app de instellingen en snelkoppelingen van het Startscherm lezen.</string>
     <string name="permdesc_uninstall_shortcut">Een app toestaan snelkoppelingen te verwijderen zonder actie van de gebruiker.</string>
-    <string name="permdesc_uninstall_widget">Hiermee kan een app verwijderen widgets zonder tussenkomst van de gebruiker.</string>
+    <string name="permdesc_uninstall_widget">Hiermee kan een app widgets verwijderen zonder dat de gebruiker aanvullende acties hoeft te ondernemen.</string>
     <string name="permdesc_write_settings">Hiermee kan een app de instellingen en snelkoppelingen van het Startscherm wijzigen.</string>
     <string name="permlab_install_shortcut">Snelkoppelingen installeren</string>
     <string name="permlab_install_widget">Widgets installeren</string>
@@ -396,6 +404,7 @@
     <string name="pref_render_in_truecolor_title">Hoge kwaliteit graphics</string>
     <string name="pref_screen_transformation_type_title">Selecteer schermovergangseffect</string>
     <string name="pref_wallpaper_scroll_type_title">Achtergrond scroll optie</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preferences_general_title">Aanvullende instellingen</string>
     <string name="preferences_title">Launcher instellingen</string>
     <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
@@ -416,6 +425,7 @@
     <string name="recents_exit_multi_window_mode">Sluiten</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Kan Gesplitst scherm niet gebruiken tijdens het casten</string>
     <string name="recents_incompatible_app_message">Deze app ondersteunt geen Gesplitst scherm.</string>
+    <string name="recents_smallwindow_text">Laat los om toe te voegen</string>
     <string name="recents_task_screening">Casten</string>
     <string name="recents_title_app_manager">Apps beheren</string>
     <string name="recents_title_game">Games</string>
@@ -423,6 +433,7 @@
     <string name="recents_title_garbage_deepclean">Diep reinigen</string>
     <string name="recents_title_market">Apps zoeken</string>
     <string name="recents_title_security_scan">Veiligheidsscan</string>
+    <string name="recents_tv_small_window_text">Zwevende vensters</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">App-suggesties</string>
     <string name="recommend_apps_default_title">Leeg</string>
@@ -467,11 +478,19 @@
     <string name="show_most_popular_apps_you_used">Toon de meest gebruikte apps in de lade</string>
     <string name="show_recents_recommend_title">Suggesties weergeven</string>
     <string name="slide_to_open_newhome">Veeg omhoog om Inhoudscentrum te openen</string>
+    <string name="small_window_button_complete">Voltooid</string>
+    <string name="small_window_edit_content">U kunt tot maximaal %d apps toevoegen</string>
+    <string name="small_window_edit_title">Huidige apps</string>
+    <string name="small_window_empty">Selecteer vanuit de beschikbare apps</string>
+    <string name="small_window_select_title">Beschikbare apps</string>
+    <string name="small_window_title_text">Tik om een zwevend venster te openen</string>
+    <string name="small_window_toast">U kunt tot maximaal %d apps toevoegen</string>
     <string name="sort_by_abc">Sorteren op naam</string>
     <string name="sort_by_frequency">Sorteren op gebruik</string>
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_info1">%1$sB van %2$sB beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="status_downloaded">Gedownload</string>
@@ -479,6 +498,7 @@
     <string name="status_installing">Aan het installeren</string>
     <string name="status_paused">Gepauzeerd</string>
     <string name="status_pending">In afwachting</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="switch_personal_assistant_app_vault">App-kluis</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Geen</string>
@@ -510,6 +530,8 @@
     <string name="uninstall_xspace_dialog_title_format">Dubbele \"%s\" verwijderen?</string>
     <string name="unknown_artist_name">Artiest onbekend</string>
     <string name="unnamed_folder_name">Map</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="wallpaper">Achtergrond</string>
     <string name="wallpaper_auto_change_title">Vergrendelscherm</string>
     <string name="wallpaper_failed_message">Kan achtergrond niet instellen</string>

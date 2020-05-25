@@ -28,6 +28,14 @@
         <item quantity="other">%d opnames gedownload</item>
         <item quantity="one">%d opname gedownload</item>
     </plurals>
+    <plurals name="search_alll_records_hint">
+        <item quantity="other">Zoek tussen %d opnames</item>
+        <item quantity="one">Zoek tussen %d opname</item>
+    </plurals>
+    <plurals name="search_call_records_hint">
+        <item quantity="other">Zoek tussen %d gesprekopnames</item>
+        <item quantity="one">Zoek tussen %d gesprekopname</item>
+    </plurals>
     <plurals name="search_result">
         <item quantity="other">%d opnames gevonden</item>
         <item quantity="one">%d opname gevonden</item>

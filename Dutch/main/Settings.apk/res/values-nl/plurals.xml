@@ -88,6 +88,10 @@
         <item quantity="other">Nog %d dagen</item>
         <item quantity="one">Nog %d dag</item>
     </plurals>
+    <plurals name="bt_usable_device_title">
+        <item quantity="other">%d beschikbare apparaten</item>
+        <item quantity="one">%d beschikbaar apparaat</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d apparaten</item>
         <item quantity="one">%d apparaat</item>
@@ -189,8 +193,8 @@
         <item quantity="one">Voer minstens %d teken in</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">Pincode moet %d getallen bevatten</item>
-        <item quantity="one">Pincode moet %d getal bevatten</item>
+        <item quantity="other">Pincode moet %d cijfers bevatten</item>
+        <item quantity="one">Pincode moet %d cijfer bevatten</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
         <item quantity="other">U kunt maximaal %d cijfers invoeren</item>
@@ -303,6 +307,10 @@
     <plurals name="runtime_permissions_summary">
         <item quantity="other">%1$d van %2$d rechten verleend</item>
         <item quantity="one">%1$d van %2$d recht verleend</item>
+    </plurals>
+    <plurals name="saved_network_checked_num">
+        <item quantity="other">Geselecteerd %d items</item>
+        <item quantity="one">Geselecteerd %d item</item>
     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s seconden</item>

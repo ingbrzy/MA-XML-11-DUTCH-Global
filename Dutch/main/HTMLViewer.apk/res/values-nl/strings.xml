@@ -16,9 +16,10 @@ ga naar %s op een ander verbonden apparaat."</string>
     <string name="permdesc_accessDrm">Geef de app toestemming voor toegang tot DRM-beveiligde inhoud.</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher Privacybeleid</string>
     <string name="poco_launcher_user_agreement">POCO Launcher Gebruikersovereenkomst</string>
-    <string name="poco_privacy_policy">POCO Launcher Privacybeleid &amp; POCO Launcher Gebruikersovereenkomst</string>
+    <string name="poco_privacy_policy">POCO Launcher Privacybeleid en POCO Launcher Gebruikersovereenkomst</string>
     <string name="policy_name">Protocol: %s</string>
     <string name="pre_installed_apps">Voorgeïnstalleerde apps</string>
+    <string name="privacy_station_title">Privacy bij Xiaomi</string>
     <string name="settings_ad_loading">Even geduld…</string>
     <string name="settings_ad_loading_unavailable">Kon informatie niet laden.</string>
     <string name="settings_license_activity_loading">Een ogenblik geduld…</string>
@@ -28,4 +29,5 @@ ga naar %s op een ander verbonden apparaat."</string>
     <string name="settings_safetylegal_activity_title">Veiligheidsinformatie</string>
     <string name="settings_safetylegal_activity_unreachable">Kon niet verbinden met het netwerk. Om deze informatie nu te kunnen bekijken, gaat u naar %s vanaf elke computer die met internet is verbonden.</string>
     <string name="settings_safetylegal_title">Veiligheidsinformatie</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>
