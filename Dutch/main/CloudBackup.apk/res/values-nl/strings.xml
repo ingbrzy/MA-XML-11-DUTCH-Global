@@ -184,8 +184,6 @@
     <string name="open_wifi_setting">Wifi-instellingen</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
