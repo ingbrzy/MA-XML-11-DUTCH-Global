@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Aarde</item>
+        <item>Achtergrond/Super achtergronden/Aarde</item>
+        <item>Aarde;Super achtergronden;Aarde-editie;Achtergrond</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>De rode planeet</item>
+        <item>Achtergrond/Super achtergronden/De rode planeet</item>
+        <item>Mars;Mars-editie;Super achtergronden;Achtergrond</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super achtergronden</item>
+        <item>Achtergrond/Super achtergronden</item>
+        <item>Super achtergronden;Achtergrond;Dynamische achtergrond;3D-achtergrond</item>
+    </string-array>
+</resources>

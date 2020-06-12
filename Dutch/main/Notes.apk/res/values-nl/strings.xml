@@ -140,8 +140,11 @@
     <string name="first_enter_custom_folder_hint">U kunt hier mappen hernoemen of verwijderen</string>
     <string name="float_todo_guide_cancel">Annuleren</string>
     <string name="float_todo_guide_message">De snelkoppeling op het Startscherm staat u toe vanaf de rand van het scherm te vegen om taken te bekijken en te maken. Nu de snelkoppeling aanmaken?</string>
+    <string name="float_todo_guide_message_v2">Met de snelkoppeling voor gebaren kunt u taken bekijken en maken door vanaf de rand van het scherm te vegen. U kunt deze functie in- en uitschakelen in de Instellingen.</string>
     <string name="float_todo_guide_ok">Aanmaken</string>
+    <string name="float_todo_guide_ok_v2">Aanzetten</string>
     <string name="float_todo_guide_title">Snelkoppeling naar Startscherm</string>
+    <string name="float_todo_guide_title_v2">Snelkoppeling voor gebaren</string>
     <string name="fmt_chinese_date">N e</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -294,6 +297,7 @@
     <string name="note_sort_way">Selecteer hoe u uw notities wilt sorteren</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
+    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
     <string name="notify_alarm_title">Notitie herinnering</string>
     <string name="permdesc_accessNote">Kwaadaardige apps kunnen dit gebruiken om toegang te krijgen tot uw persoonlijke gegevens.</string>
@@ -313,7 +317,9 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">Veeg met 2 vingers omhoog om notities zonder bevestiging te verwijderen</string>
     <string name="pref_desc_todo_float_mode">Veeg vanaf de rand van het scherm om de taken toolbox te openen</string>
     <string name="pref_remind_type_summary">Speel herinneringsgeluid af in Stille modus</string>
+    <string name="pref_remind_type_summary_new">Negeer Stille modus en blijf geluid spelen totdat het alarm is uitgeschakeld</string>
     <string name="pref_remind_type_title">Stille modus negeren</string>
+    <string name="pref_remind_type_title_new">Herinneringen met hoge prioriteit</string>
     <string name="pref_title_cloud_trash_bin">Verwijderde notities in de cloud</string>
     <string name="pref_title_common">Aanvullende instellingen</string>
     <string name="pref_title_font_size">Lettertypegrootte</string>
@@ -473,6 +479,7 @@
     <string name="toast_reach_text_limit_truncate">Deze notitie is te lang. Sommige tekst is aan het einde afgekapt.</string>
     <string name="toast_refuse_to_record_when_in_call">Kan deze functie niet gebruiken tijdens gesprekken</string>
     <string name="toast_refuse_to_record_when_in_multi_window">Kan deze functie niet met gesplitst scherm gebruiken</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">Kan deze functie niet gebruiken in Gesplitst scherm of zwevende vensters</string>
     <string name="toast_refuse_to_use_contact">"Contactpersonen toestemmingen zijn beperkt.
 Sta Notities toe om uw contacten te lezen en accounts te vinden op het apparaat."</string>
     <string name="toast_refuse_to_use_external_storage">"Opslag toestemmingen zijn beperkt.
@@ -556,6 +563,7 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="toolbar_voice_description">Stem</string>
     <string name="trash_folder_name">Prullenbak</string>
     <string name="trash_folder_reminder">De notities die u verwijdert zullen na 30 dagen permanent verwijderd worden.</string>
+    <string name="trash_folder_reminder_new">Notes are kept in the trash for 30 days before being permanently deleted</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>

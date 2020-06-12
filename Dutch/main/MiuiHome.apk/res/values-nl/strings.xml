@@ -27,6 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="accessibility_all_app_custom_category_finish">Done</string>
+    <string name="accessibility_all_app_custom_category_item_remove">Remove \"%1$s\" from categories</string>
+    <string name="accessibility_clear_search_bar_text">Clear search bar</string>
+    <string name="accessibility_enter_all_app_mode">Open App drawer</string>
+    <string name="accessibility_enter_all_app_settings">Open App drawer settings</string>
+    <string name="accessibility_menu_item_smallwindow_disable">Deze app ondersteunt geen zwevende vensters</string>
+    <string name="accessibility_menu_item_smallwindow_enable">Deze app ondersteunt zwevende vensters</string>
     <string name="accessibility_menu_item_split_disable">App ondersteunt geen Gesplitst scherm.</string>
     <string name="accessibility_menu_item_split_enable">App ondersteunt Gesplitst scherm</string>
     <string name="accessibility_recent_task_enter">Geopend Recent</string>
@@ -60,6 +67,7 @@
     <string name="all_apps_no_search_results">Kon geen resultaten vinden</string>
     <string name="all_apps_search_app">Zoeken naar apps</string>
     <string name="all_apps_search_market_message">Online zoeken</string>
+    <string name="all_apps_setting_classic_title">Klassiek</string>
     <string name="all_apps_setting_desktop_desc">Geef all geïnstalleerde apps weer op het Startscherm. Houd een app-icoon ingedrukt om beschikbare snelkoppelingen te bekijken, of de app te beheren of te deïnstalleren.</string>
     <string name="all_apps_setting_desktop_title">Normaal</string>
     <string name="all_apps_setting_drawer_desc">Plaats alle geïnstalleerde apps in de App lade die geopend kan worden door omhoog te vegen op het Startscherm. U zult de apps die u naar het Startscherm verplaatst heeft nog steeds in de App lade kunnen vinden.</string>
@@ -141,6 +149,7 @@
     <string name="auto_add_app_shortcut">Plaats nieuwe apps op het Startscherm</string>
     <string name="auto_delete_category_dialog_content">Huidige apps worden uit deze categorie verwijderd en de categorie wordt verwijderd. Deze categorie nu verwijderen?</string>
     <string name="auto_delete_category_dialog_title">Categorie verwijderen</string>
+    <string name="back">Back</string>
     <string name="backup_fail">Kon geen back-up maken van de launcher</string>
     <string name="bad_wallpaper_source_prompt">Kan achtergrond niet laden</string>
     <string name="buffering">Bufferen…</string>
@@ -165,6 +174,10 @@
     <string name="choose_wallpaper">Achtergrond kiezen</string>
     <string name="chooser_wallpaper">Nieuwe achtergrond kiezen</string>
     <string name="cloud_app_restore_title">In afwachting</string>
+    <string name="common_home_search_delete">Zoekbalk op Startscherm verwijderen</string>
+    <string name="common_home_search_delete_cancle">Annuleren</string>
+    <string name="common_home_search_delete_confirm">Verwijderen</string>
+    <string name="common_home_search_delete_content">U kunt geen items zoeken met de zoekbalk van het Startscherm nadat u deze hebt verwijderd. Toch verwijderen?</string>
     <string name="configure_wallpaper">Instellingen</string>
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">De dubbele apps worden samen met deze verwijderd.</string>
@@ -490,8 +503,11 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
-    <string name="status_bar_recent_memory_info1">%1$sB van %2$sB beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_recent_memory_giga">%1$s GB</string>
+    <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="status_bar_recent_memory_mega">%1$s MB</string>
     <string name="status_downloaded">Gedownload</string>
     <string name="status_downloading">Aan het downloaden</string>
     <string name="status_installing">Aan het installeren</string>

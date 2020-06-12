@@ -32,6 +32,10 @@
         <item quantity="other">Zoek tussen %d opnames</item>
         <item quantity="one">Zoek tussen %d opname</item>
     </plurals>
+    <plurals name="search_app_records_hint">
+        <item quantity="other">Search among %d recordings</item>
+        <item quantity="one">Search among %d recording</item>
+    </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Zoek tussen %d gesprekopnames</item>
         <item quantity="one">Zoek tussen %d gesprekopname</item>

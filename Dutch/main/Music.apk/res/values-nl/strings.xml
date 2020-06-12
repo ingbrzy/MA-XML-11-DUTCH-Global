@@ -51,7 +51,7 @@
     <string name="action_item_download">Downloaden</string>
     <string name="action_item_favorite">Favoriet</string>
     <string name="action_item_hide">Verbergen</string>
-    <string name="action_item_hifi">Hoofdtelefoons &amp; audio-effecten</string>
+    <string name="action_item_hifi">Hoofdtelefoons en audio-effecten</string>
     <string name="action_item_play_all">Shuffle alles</string>
     <string name="action_item_play_next">Later afspelen</string>
     <string name="action_item_play_video">Speel muziekvideo af</string>
@@ -128,6 +128,7 @@
     <string name="button_sort_by_date">Sorteren op datum</string>
     <string name="button_sort_by_size">Sorteren op grootte</string>
     <string name="button_wait_for_wifi">Wachten</string>
+    <string name="buy_vip_skip_ad">Verwijder advertenties</string>
     <string name="cancel">Annuleren</string>
     <string name="cancel_running_download">Annuleren</string>
     <string name="cannot_download_to_sdcard_hint">Kan geen items downloaden naar SD-kaart vanwege copyrightbeperkingen. Items worden in plaats daarvan naar de interne opslag gedownload.</string>
@@ -271,7 +272,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -352,7 +355,9 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -410,9 +415,9 @@
     <string name="goto_online_search">Online zoeken</string>
     <string name="handle_later">Nu niet</string>
     <string name="hd_quality_audio">Hoge kwaliteit audio</string>
-    <string name="headset_and_audio_effect_category">Hoofdtelefoons &amp; audio-effecten</string>
-    <string name="headset_and_audio_effect_summary">Hoofdtelefoon &amp; equalizer</string>
-    <string name="headset_and_audio_effect_title">Hoofdtelefoons &amp; audio-effecten</string>
+    <string name="headset_and_audio_effect_category">Hoofdtelefoons en audio-effecten</string>
+    <string name="headset_and_audio_effect_summary">Hoofdtelefoons en equalizer</string>
+    <string name="headset_and_audio_effect_title">Hoofdtelefoons en audio-effecten</string>
     <string name="hide_album">Albumcover verbergen</string>
     <string name="hide_lyric">Songteksten verbergen</string>
     <string name="high_sound_quality">Hoog</string>
@@ -437,7 +442,7 @@
     <string name="hungama_subscribe_title">PRO-lidmaatschap</string>
     <string name="i_know">OК</string>
     <string name="impunity_declaration_content">U moet onze &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=nl_NL\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=nl_NL\">Privacybeleid&lt;/a> lezen en ermee akkoord gaan voordat u ons product gaat gebruiken.</string>
-    <string name="impunity_declaration_ignore">Niet opnieuw weergeven</string>
+    <string name="impunity_declaration_ignore">Niet meer tonen</string>
     <string name="impunity_declaration_negative_text">Afsluiten</string>
     <string name="impunity_declaration_positive_text">Akkoord</string>
     <string name="impunity_declaration_settings">Servicevoorwaarden tonen</string>
@@ -457,6 +462,46 @@
     <string name="is_scanning">Opslag controleren…</string>
     <string name="is_scanning_support_online">"Opslag controleren…
 (in de tussentijd kunt u muziek online streamen)"</string>
+    <string name="joox_account_bind_mi_account">Mi Account toevoegen</string>
+    <string name="joox_account_cancel_login">Annuleren</string>
+    <string name="joox_account_continue_login">Inloggen</string>
+    <string name="joox_account_fans_center">Fan Centrum</string>
+    <string name="joox_account_login_conflict_message">Het lijkt erop dat u bent ingelogd op een ander apparaat. Meld u hier aan?</string>
+    <string name="joox_account_login_exception">Opnieuw inloggen</string>
+    <string name="joox_account_multi_device_login">Meerdere apparaten</string>
+    <string name="joox_area_check_failed">Het lijkt erop dat u zich in het gebied bevindt waar onze services niet beschikbaar zijn. Maak verbinding met een ander netwerk en start de app opnieuw.</string>
+    <string name="joox_auth_button_acquire_vip_instantly">Verkrijg VIP-lidmaatschap</string>
+    <string name="joox_auth_button_login_to_acquire_vip">Log in om een VIP-lidmaatschap te verkrijgen</string>
+    <string name="joox_auth_dialog_message">We hebben enkele nummers voor u aanbevolen. Verkrijg een VIP-lidmaatschap om beperkingen op te heffen.</string>
+    <string name="joox_auth_message_connect_network">Al een tijdje geen verbinding met de server. Maak verbinding met het netwerk om gedownloade nummers af te spelen.</string>
+    <string name="joox_auth_message_content_for_vip_only">Dit item is alleen beschikbaar voor VIP-leden</string>
+    <string name="joox_auth_message_content_offline">Online services zijn nu niet beschikbaar. We zullen een aantal dingen verbeteren en de toegang binnenkort heropenen. Blijf op de hoogte!</string>
+    <string name="joox_auth_message_login_status_expired">Aanmeldingssessie is verlopen. Opnieuw inloggen.</string>
+    <string name="joox_auth_message_one_hour_limit_for_one_company">U kunt elk uur maximaal zes nummers van hetzelfde platenlabel afspelen. Luister nu naar enkele aanbevolen nummers.</string>
+    <string name="joox_auth_message_recommend_for_you">Aanbevolen</string>
+    <string name="joox_auth_message_update_vip_to_change_playlist">Verkrijg een VIP-lidmaatschap om afspeellijsten te bewerken</string>
+    <string name="joox_auth_message_update_vip_to_download">Verkrijg VIP-lidmaatschap om te downloaden</string>
+    <string name="joox_auth_message_update_vip_to_listen_offline">Uw VIP-lidmaatschap is verlopen. U kunt nu online naar liedjes luisteren. Word VIP-lid om liedjes te kunnen downloaden.</string>
+    <string name="joox_auth_message_update_vip_to_play_on_demand">Kan dit nummer niet afspelen vanwege auteursrechtbeperkingen. Probeer te schuifelen om naar andere nummers te luisteren of neem een VIP-lidmaatschap om deze af te spelen.</string>
+    <string name="joox_auth_message_update_vip_to_seek_progress">Kan de voortgang van het afspelen niet aanpassen vanwege auteursrechtbeperkingen. Verkrijg een VIP-lidmaatschap om beperkingen op te heffen.</string>
+    <string name="joox_auth_message_update_vip_to_switch_songs">Verkrijg een VIP-lidmaatschap om tussen nummers te wisselen</string>
+    <string name="joox_auth_message_update_vip_to_use_function">Verkrijg VIP-lidmaatschap om deze functie te gebruiken</string>
+    <string name="joox_auth_title_download_song">Download liedjes</string>
+    <string name="joox_auth_title_login_again">Inloggen</string>
+    <string name="joox_auth_title_long_time_no_network">Het lijkt erop dat u al een tijdje geen verbinding met het netwerk hebt gemaakt</string>
+    <string name="joox_auth_title_shuffle_play">Shuffle</string>
+    <string name="joox_auth_title_vip_content">VIP-inhoud</string>
+    <string name="joox_auth_title_vip_expired">Lidmaatschap is verlopen</string>
+    <string name="joox_auth_title_vip_function">VIP-functies</string>
+    <string name="joox_download_title">JOOX downloads</string>
+    <string name="joox_privacy_desc">JOOX Privacybeleid (optioneel)</string>
+    <string name="joox_privacy_tips_content">Lees en ga akkoord met <a href="/link/click">JOOX Privacybeleid</a> voordat u online services gebruikt.</string>
+    <string name="joox_privacy_tips_title">JOOX Privacybeleid</string>
+    <string name="joox_recommend_artist_title">Aanbevolen artiesten</string>
+    <string name="joox_recommend_playlist_title">Aanbevolen afspeellijsten</string>
+    <string name="joox_search_result_more">Meer</string>
+    <string name="joox_vip_check_to_pay">Kopen</string>
+    <string name="joox_vip_expired_hint">Uw VIP-lidmaatschap is verlopen. De nummers gedownload van JOOX worden alleen weergegeven in uw downloads.</string>
     <string name="keep_queued_download">Bewaren</string>
     <string name="ktv_playlist">KTV-afspeellijst</string>
     <string name="language_page_confirm">Bevestigen</string>
@@ -479,7 +524,7 @@
     <string name="local_page_song_download_history">Downloads</string>
     <string name="login_instantly">Aanmelden</string>
     <string name="login_mi_account_and_gain_more_rights">Meld u aan met uw Mi-account voor toegang tot meer functies.</string>
-    <string name="long_press_to_select_lyric">Druk &amp; houd ingedrukt om lokaal songtekstenbestand te selecteren</string>
+    <string name="long_press_to_select_lyric">Druk en houd ingedrukt om lokaal songtekstenbestand te selecteren</string>
     <string name="low_sound_quality">Laag</string>
     <string name="lrc_search_failed">Kon songteksten niet vinden</string>
     <string name="lrc_searching">Zoeken…</string>
@@ -523,7 +568,7 @@
     <string name="modify_song_info_success">Informatie nummer is bijgewerkt</string>
     <string name="more">Meer</string>
     <string name="more_add_song_list">Nummers toevoegen aan wachtrij</string>
-    <string name="more_milink_and_bluetooth">Mi Link &amp; Bluetooth</string>
+    <string name="more_milink_and_bluetooth">Mi Link en Bluetooth</string>
     <string name="more_settings">Geavanceerde instellingen</string>
     <string name="more_settings_summary">Slaaptimer, filter bestanden en meer</string>
     <string name="more_share">Delen</string>
@@ -673,6 +718,7 @@
     <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart wanneer beschikbaar</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="pro_member">PRO-lid</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Wijziging systeeminstellingen toestaan</string>
@@ -801,12 +847,14 @@
     <string name="start_to_check_new_version">Controleren op updates…</string>
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
     <string name="storage_usb">USB-opslag</string>
     <string name="streamloadingtext">Verbinden met %s</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="supplementary_songs">Extra liedjes</string>
     <string name="switch_success">Succesvol overgeschakeld</string>
     <string name="tab_album">Albums</string>
     <string name="tab_album_list">Albums</string>
@@ -877,6 +925,7 @@
     <string name="upgrade_music_message">Updates zijn klaar. Start opnieuw op om te updaten.</string>
     <string name="upgrading_in_backstage">Updaten in de achtergrond…</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version_info">Versie</string>

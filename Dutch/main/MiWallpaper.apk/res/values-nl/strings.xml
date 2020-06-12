@@ -29,14 +29,20 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="afternoon">Middag</string>
+    <string name="already_newest_version">De huidige versie is up-to-date</string>
     <string name="am">AM</string>
+    <string name="cancel_download">Download geannuleerd</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="copy">Kopiëren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="download_failed">Kon niet downloaden</string>
     <string name="early_morning">Ochtend</string>
+    <string name="earth_summary">De aarde is de bakermat van de menselijke beschaving</string>
+    <string name="earth_super_wallpaper_label">earth</string>
+    <string name="earth_title">Aarde</string>
     <string name="empty" />
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
@@ -81,6 +87,24 @@
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="install_failed">Kon niet installeren</string>
+    <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_1">"Taken when the Mars rover Curiosity is exploring the Pahrump Hills in Gale Crater. The region contains sedimentary rocks that scientists believe formed in the presence of water, and the dark areas are sand.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_content_2">"Mawrth Vallis is an ancient water outflow channel with light-colored clay-rich rocks. Clay minerals easily preserve microscopic life on Earth, so perhaps traces of ancient life may be found at Mawrth.
+
+NASA/JPL/University of Arizona"</string>
+    <string name="mars_position_title_0">"Nilosyrtis
+Mensae Regio"</string>
+    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_2">"Crater in
+Mawrth Vallis"</string>
+    <string name="mars_summary">Uitgestrekte woestijnen van Mars hebben de mensheid altijd onder de indruk gehouden</string>
+    <string name="mars_super_wallpaper_label">mars</string>
+    <string name="mars_title">De rode planeet</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_appcompat_cloud_state_disabled">Synchroniseren met de cloud is uitgeschakeld</string>
     <string name="miuix_appcompat_cloud_state_finished">Succesvol gesynchroniseerd met de cloud</string>
@@ -127,6 +151,8 @@
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
     <string name="night">Avond</string>
+    <string name="no_cta_agreed">GetApps heeft geen CTA toestemmingen</string>
+    <string name="no_install_permission">U heeft geen toestemming om dit item te installeren</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="pm">PM</string>
@@ -134,12 +160,22 @@
     <string name="saturday">Zaterdag</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
+    <string name="saturn_summary">De ringen van Saturnus vormen het meest ongelooflijke spektakel in het Zonnestelsel</string>
+    <string name="saturn_super_wallpaper_label">saturn</string>
+    <string name="saturn_title">Afgelegen ringen</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="super_wallpaper_list_label">Super achtergronden</string>
+    <string name="super_wallpaper_setting_apply_success_toast">Succesvol toegepast</string>
+    <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Toepassen</string>
+    <string name="super_wallpaper_setting_choose_position_btn_text">Selecteer locatie</string>
+    <string name="super_wallpaper_setting_coordinate_title">Coördinaten</string>
+    <string name="super_wallpaper_setting_view_height_title">Hoogte</string>
+    <string name="task_already_exist">Deze taak bestaat al</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -191,8 +227,19 @@
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
+    <string name="update">Bijwerken</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Altijd-aan-display</string>
+    <string name="wallpaper_setting_find_more_text">Meer online achtergronden</string>
+    <string name="wallpaper_setting_home_wallpaper_banner_button_text">Startscherm</string>
+    <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Schermvergrendeling</string>
+    <string name="wallpaper_setting_online_wallpaper_actionbar_title">Online achtergronden</string>
+    <string name="wallpaper_setting_online_wallpaper_none_title">Ontdek achtergronden</string>
+    <string name="wallpaper_setting_online_wallpaper_title">Online achtergronden</string>
+    <string name="wallpaper_setting_super_wallpaper_banner_title">Super achtergronden</string>
+    <string name="wallpaper_setting_super_wallpaper_more_button_text">Meer</string>
+    <string name="wallpaper_setting_title">Achtergrond</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
