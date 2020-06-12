@@ -937,7 +937,6 @@ U heeft nog %d resterende pogingen."</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
     <string name="private_num">Privé nummer</string>
-    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="progress_dialog_exiting_ecm">De noodoproepmodus afsluiten</string>
     <string name="proxy_address_title">Uitgaand proxy adres</string>
     <string name="pstn_connection_service_label">Ingebouwde SIM kaarten</string>
@@ -1173,7 +1172,6 @@ Volgende periode start over %2$d dagen (%3$s)"</string>
     <string name="time_end_minute">time end minute</string>
     <string name="time_formate_am">AM</string>
     <string name="time_formate_pm">PM</string>
-    <string name="time_interval_char">:</string>
     <string name="time_next_day">" volgende dag "</string>
     <string name="time_start">" Van "</string>
     <string name="time_start_hour">time start hour</string>
@@ -1211,7 +1209,6 @@ Volgende periode start over %2$d dagen (%3$s)"</string>
     <string name="tts_status_ok">%1$s wordt volledig ondersteund</string>
     <string name="tts_status_requires_network">%1$s heeft een netwerkverbinding nodig</string>
     <string name="tts_status_title">Status van standaardtaal</string>
-    <string name="tty_mode_key">button_tty_mode_key</string>
     <string name="tty_mode_not_allowed_video_call">Wijzigen van TTY-modus is niet toegestaan tijdens een videogesprek</string>
     <string name="tty_mode_option_summary">Stel TTY modus in</string>
     <string name="tty_mode_option_title">TTY modus</string>
@@ -1251,7 +1248,6 @@ Neem contact op met uw provider als dit probleem zich blijft voordoen."</string>
     <string name="voicemail">Voicemail</string>
     <string name="voicemail_abbreviated">VM:</string>
     <string name="voicemail_change_pin_dialog_title">Pincode wijzigen</string>
-    <string name="voicemail_change_pin_key">voicemail_change_pin_key</string>
     <string name="voicemail_default">Uw provider</string>
     <string name="voicemail_notifications_preference_title">Meldingen</string>
     <string name="voicemail_number_not_set">&lt;Niet ingesteld></string>
@@ -1260,7 +1256,6 @@ Neem contact op met uw provider als dit probleem zich blijft voordoen."</string>
     <string name="voicemail_settings">Instellingen</string>
     <string name="voicemail_settings_number_label">Voicemail nummer</string>
     <string name="voicemail_settings_with_label">Voicemail (%s)</string>
-    <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
     <string name="voicemail_visual_voicemail_switch_title">Visuele voicemail</string>
     <string name="vpn_settings_not_available">Instellingen voor VPN zijn niet beschikbaar voor deze gebruiker</string>
     <string name="vvm_unsupported_message_format">Niet-ondersteund berichttype, bel %s om te luisteren.</string>
@@ -1270,7 +1265,6 @@ Neem contact op met uw provider als dit probleem zich blijft voordoen."</string>
 "</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt tijdelijk vol</string>
     <string name="wifi_calling">Wifi-bellen</string>
-    <string name="wifi_calling_settings_key">button_wifi_calling_settings_key</string>
     <string name="wifi_calling_settings_title">Wifi-bellen</string>
     <string name="wifi_cant_connect">Kan geen verbinding maken</string>
     <string name="wifi_cant_connect_to_ap">"Kan geen verbinding maken met '%1$s'"</string>

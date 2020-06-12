@@ -118,7 +118,6 @@ dd.MM"</string>
 moois op het punt staat te gebeuren"</string>
     <string name="standard_clock_panel">Standaard</string>
     <string name="standard_style">Standaard</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary">Om het stroomverbruik te verminderen, worden items niet weergegeven als uw apparaat lange tijd in het donker ligt.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="temporary_style">Gedurende 10 seconden na het tikken</string>
