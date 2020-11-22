@@ -61,7 +61,7 @@
     <string name="action_settings">Instellingen</string>
     <string name="ad_close">Sluiten</string>
     <string name="ad_data_exception">Fout advertentiegegevens</string>
-    <string name="ad_recommend">Aanbevelingen ontvangen</string>
+    <string name="ad_recommend">Advertenties weergeven</string>
     <string name="ad_setting">Aanvullende instellingen</string>
     <string name="add_music">Nummers toevoegen</string>
     <string name="add_to_last_of_playlist">Toevoegen onderaan de afspeellijst</string>
@@ -110,6 +110,8 @@
     <string name="artist_home_search_hint">Naar artiesten zoeken</string>
     <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
     <string name="artist_name">Artiest</string>
+    <string name="audio_ad_countdown">Sla advertentie over in %ss</string>
+    <string name="audio_ad_pass">Advertentie overslaan</string>
     <string name="audio_picker_title">Kies een nummer</string>
     <string name="auto_recommend">Automatisch (aanbevolen)</string>
     <string name="auto_sound_quality">Automatisch</string>
@@ -131,7 +133,7 @@
     <string name="buy_vip_skip_ad">Verwijder advertenties</string>
     <string name="cancel">Annuleren</string>
     <string name="cancel_running_download">Annuleren</string>
-    <string name="cannot_download_to_sdcard_hint">Kan geen items downloaden naar SD-kaart vanwege copyrightbeperkingen. Items worden in plaats daarvan naar de interne opslag gedownload.</string>
+    <string name="cannot_download_to_sdcard_hint">Kan geen items downloaden naar SD-kaart vanwege auteursrechtbeperkingen. Items worden in plaats daarvan naar de interne opslag gedownload.</string>
     <string name="change_download_quality">Downloadkwaliteit veranderen</string>
     <string name="checking_new_version">Controleren op updates…</string>
     <string name="choose_download_quality">Downloadkwaliteit kiezen</string>
@@ -216,9 +218,14 @@
     <string name="dialog_renew_positive_text">Gaaf! Ik wil rocken als een pro</string>
     <string name="dialog_renew_success">Bedankt voor uw bevestiging</string>
     <string name="dialog_score_btn_good">Beoordelen</string>
+    <string name="dialog_score_msg_score_explorer">Vindt u Mi Music leuk?</string>
+    <string name="dialog_score_msg_score_not_good">Kunt u ons ook uw feedback geven?</string>
+    <string name="dialog_score_msg_score_perfect">Mooi! Beoordeel onze app ook in de Play Store?</string>
     <string name="dialog_score_prompt_bad">Bedankt voor uw feedback! We zullen ons best doen om onze app en services te verbeteren.</string>
     <string name="dialog_score_prompt_good">Bedankt voor uw steun! Beoordeel onze app ook in Google Play?</string>
     <string name="dialog_score_title">Beoordeel onze app</string>
+    <string name="dialog_score_toast_rate">Beoordeel eerst onze app</string>
+    <string name="dialog_score_toast_scroll_down_score_midrop">Scroll naar beneden om onze app te beoordelen</string>
     <string name="dialog_song_sort_type">Nummers sorteren</string>
     <string name="dialog_song_sort_type_name">Op naam</string>
     <string name="dialog_song_sort_type_playing_times">Op aantal keer afgespeeld</string>
@@ -235,6 +242,7 @@
     <string name="dialog_title_queued_body">Bestand nog niet beschikbaar</string>
     <string name="dialog_title_remove_tracks">Verwijderen</string>
     <string name="disallow_add_to_fm">Kan geen nummers aan FM-radio toevoegen</string>
+    <string name="discover_more_music">Ontdek meer liedjes</string>
     <string name="do_not_remind_this_version">Herinner me niet aan deze versie</string>
     <string name="do_not_support_google_voice_search">Google Voice Search wordt niet ondersteund op uw apparaat.</string>
     <string name="download">Downloaden</string>
@@ -272,7 +280,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -336,6 +346,7 @@
     <string name="error_not_support">Niet ondersteund</string>
     <string name="exo_controls_fastforward_description">Vooruitspoelen</string>
     <string name="exo_controls_fullscreen_description">"Modus 'Volledig scherm'"</string>
+    <string name="exo_controls_hide">Afspeelbediening verbergen</string>
     <string name="exo_controls_next_description">Volgende track</string>
     <string name="exo_controls_pause_description">Pauzeren</string>
     <string name="exo_controls_play_description">Afspelen</string>
@@ -344,8 +355,11 @@
     <string name="exo_controls_repeat_off_description">Niets herhalen</string>
     <string name="exo_controls_repeat_one_description">Eén herhalen</string>
     <string name="exo_controls_rewind_description">Terugspoelen</string>
-    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_show">Afspeelbediening weergeven</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle uit</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle aan</string>
     <string name="exo_controls_stop_description">Stoppen</string>
+    <string name="exo_controls_vr_description">VR-modus</string>
     <string name="exo_download_completed">Downloaden voltooid</string>
     <string name="exo_download_description">Downloaden</string>
     <string name="exo_download_downloading">Downloaden</string>
@@ -353,7 +367,16 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
+    <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
+    <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatief</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentaar</string>
+    <string name="exo_track_role_supplementary">Aanvullend</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -451,6 +474,8 @@
     <string name="individuation_cart_login_title">Wilt u meer aanbevelingen zien?</string>
     <string name="individuation_recommend_switch_message">Het uitzetten van deze functie zal effect hebben op gepersonaliseerde Mi Music-services. Toch uitzetten?</string>
     <string name="individuation_recommend_title">Aanbevelingen</string>
+    <string name="individuation_setting_summary">Ontvang inhoudsaanbevelingen op basis van uw interesses</string>
+    <string name="individuation_setting_title">Gepersonaliseerde aanbevelingen</string>
     <string name="input_hint_prefix">Voer %1$s in</string>
     <string name="installing_apk">Installeren…</string>
     <string name="insufficient_space">Niet genoeg ruimte op de interne opslag van uw apparaat</string>
@@ -537,7 +562,7 @@
     <string name="metered_allow">Afspelen</string>
     <string name="metered_beyond_alert">Datagebruik overschreden</string>
     <string name="metered_disallow">Nu niet</string>
-    <string name="metered_play_and_download_summary">Geen waarschuwingen voor data gebruik weergeven tijdens het streamen en downloaden van nummers met behulp van mobiele data.</string>
+    <string name="metered_play_and_download_summary">Geen waarschuwingen datagebruik weergeven tijdens het streamen en downloaden van nummers met behulp van mobiele data.</string>
     <string name="metered_play_and_download_title">Stream en download nummers met behulp van mobiele data</string>
     <string name="metered_play_toast">Gebruik mobiele data om nummers af te spelen</string>
     <string name="metered_play_toast_with_beyond_data">Gebruik mobiele data om nummers af te spelen. Limiet is overschreden met %s</string>
@@ -575,7 +600,7 @@
     <string name="music_recommendation">Lied aanbevelingen</string>
     <string name="music_service">Muziek service</string>
     <string name="music_settings">Muziek</string>
-    <string name="mv_metered_play_summary">Toon geen data gebruiksgegevens meer</string>
+    <string name="mv_metered_play_summary">Toon geen waarschuwing datagebruik meer</string>
     <string name="mv_metered_play_title">"Speel video's online af met mobiele data"</string>
     <string name="my_account">Mi Account</string>
     <string name="my_music_empty">Afspeellijst is leeg.</string>
@@ -584,6 +609,7 @@
     <string name="my_playlist_create_self_playlist">Creëer afspeellijsten met uw favoriete nummers</string>
     <string name="my_playlist_set_to_private">Privé maken</string>
     <string name="my_playlist_set_to_public">Openbaar maken</string>
+    <string name="network_disable">Kon niet verbinden met het netwerk</string>
     <string name="network_error_and_retry">Kon niet verbinden, tik om opnieuw te proberen</string>
     <string name="network_request_error">Kan geen verbinding maken met het netwerk</string>
     <string name="network_settings_error">Kan geen verbinding maken met het netwerk</string>
@@ -712,8 +738,22 @@
     <string name="preset_music_playlist">Mi Music-afspeellijst</string>
     <string name="priority_storage">Gebruik een externe SD-kaart</string>
     <string name="priority_storage_summary">Automatisch downloaden naar externe SD-kaart wanneer beschikbaar</string>
+    <string name="privacy_authorize_network_error">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="privacy_authorize_revoke_failed">Kon toestemming niet intrekken</string>
+    <string name="privacy_authorize_revoke_success">Toestemming succesvol ingetrokken</string>
+    <string name="privacy_authorize_revoking">Toestemming intrekken</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
+    <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
+Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
+Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
+    <string name="privacy_request_subtitle">"Welkom bij Mi Music! Deze app biedt de volgende diensten:
+
+- Een lokale audiospeler
+
+- Online streamingdiensten"</string>
+    <string name="privacy_request_title">Algemene voorwaarden</string>
     <string name="pro_member">PRO-lid</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Wijziging systeeminstellingen toestaan</string>
@@ -729,15 +769,20 @@
     <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
     <string name="remove">Verwijderen</string>
     <string name="remove_download">Verwijderen</string>
+    <string name="remove_user_privacy_dialog_message">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Music in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Mi Music moet de nodige persoonlijke informatie verzamelen om u basisdiensten te kunnen bieden. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om haar diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="remove_user_privacy_dialog_message_canuse">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Music in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om de bovengenoemde online services te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="remove_user_privacy_dialog_title">Intrekking van toestemming</string>
     <string name="repeat_all_notif">Alle nummers worden herhaald.</string>
     <string name="repeat_current_notif">Huidig nummer wordt herhaald.</string>
     <string name="request_overlay_permission_desc">Sta Mi Music toe om zwevende vensters te weergeven om deze functie te gebruiken.</string>
+    <string name="request_privacy_permission_title">Lees en ga akkoord met de onderstaande algemene voorwaarden om toegang te krijgen tot al onze diensten.</string>
     <string name="request_share_info">Een ogenblik geduld…</string>
     <string name="request_subscription_status">Een ogenblik geduld…</string>
     <string name="restart_immediate">Herstart</string>
     <string name="retry">Opnieuw proberen</string>
     <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer de verbinding en probeer het opnieuw.</string>
     <string name="retry_download">Opnieuw proberen</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">Online nummers worden niet gesynchroniseerd met Hungama</string>
     <string name="ringtone_editing">Beltoon bewerker</string>
     <string name="ringtone_not_support">Het formaat van dit nummer wordt niet ondersteund</string>
     <string name="ringtone_selected">Geselecteerd</string>
@@ -815,14 +860,16 @@
     <string name="shuffle_music">Geshuffled afspelen</string>
     <string name="shuffle_off_notif">Shuffle staat uit.</string>
     <string name="shuffle_on_notif">Shuffle staat aan.</string>
+    <string name="shuffle_play_toast_text">Nummers in willekeurige volgorde afspelen…</string>
     <string name="similar_albums">Vergelijkbare albums</string>
     <string name="similar_playlists">Vergelijkbare playlists</string>
     <string name="similar_songs">Vergelijkbare nummers</string>
     <string name="similar_videos">"Soortgelijke video/'s"</string>
-    <string name="sleep_mode">Slaap timer</string>
+    <string name="skip">Overslaan</string>
+    <string name="sleep_mode">Slaaptimer</string>
     <string name="sleep_mode_canceled">Slaapmodus uitgeschakeld</string>
     <string name="sleep_mode_summary">Stop de player na een bepaalde tijd</string>
-    <string name="sleep_mode_title">Slaap timer</string>
+    <string name="sleep_mode_title">Slaaptimer</string>
     <string name="sliding_pro_center">PRO-centrum</string>
     <string name="song_already_in_playlist">Dit nummer staat al in de afspeellijst</string>
     <string name="song_exist_in_playlist">Dit nummer staat al in de wachtrij</string>
@@ -842,6 +889,8 @@
     <string name="start_to_check_new_version">Controleren op updates…</string>
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
+    <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -890,6 +939,7 @@
     <string name="title_online_recommend">Uitgelichte afspeellijsten</string>
     <string name="title_search_history">Zoekgeschiedenis</string>
     <string name="title_search_hot">Populair</string>
+    <string name="toast_cant_commit_without_title">Voer de titel van het nummer in</string>
     <string name="toast_download_error_by_count_limit">U hebt uw downloadquota voor deze maand verbruikt.</string>
     <string name="toast_download_error_by_not_login">Meld u aan op uw Mi Account en probeer het opnieuw.</string>
     <string name="toast_download_error_by_vip_required">Gebruik het Premium Nummerspakket om dit nummer te downloaden.</string>
@@ -904,8 +954,13 @@
     <string name="toast_normal_songs_for_download">Downloadkwaliteit ingesteld op Standaard</string>
     <string name="toast_normal_songs_for_stream">Streaming kwaliteit ingesteld op Standaard</string>
     <string name="toast_not_pro">Deze functie is alleen beschikbaar voor PRO-leden.</string>
+    <string name="toast_playmode_loop_playback">De huidige afspeellijst wordt herhaald</string>
+    <string name="toast_playmode_shuffle_play">Het afspelen wordt in willekeurige volgorde afgespeeld</string>
+    <string name="toast_playmode_single_cycle">Het huidige nummer wordt herhaald</string>
     <string name="toast_uhd_songs_for_download">Downloadkwaliteit ingesteld op Hoog</string>
     <string name="toast_uhd_songs_for_stream">Streaming kwaliteit ingesteld op Hoog</string>
+    <string name="toast_will_play_list_when_ad_pause">Na advertenties wordt de afspeellijst afgespeeld</string>
+    <string name="toast_will_play_song_when_ad_pause">Dit nummer wordt afgespeeld na advertenties</string>
     <string name="today">Vandaag</string>
     <string name="top_chart_title">Hitlijsten</string>
     <string name="track_play_history_after_login">Log in om de afspeelgeschiedenis te bekijken</string>
@@ -918,7 +973,20 @@
     <string name="upgrade_music">Muziek updaten</string>
     <string name="upgrade_music_message">Updates zijn klaar. Start opnieuw op om te updaten.</string>
     <string name="upgrading_in_backstage">Updaten in de achtergrond…</string>
+    <string name="upload_favorite_dialog_title">Upload uw nummers naar de cloud zodat u ze op andere gesynchroniseerde apparaten kunt openen. U kunt deze functie uitschakelen in de Instellingen.</string>
+    <string name="upload_favorite_setting_summary">Door online nummers aan favorieten toe te voegen, worden ze geüpload naar de cloud en kunt u ze op andere apparaten openen</string>
+    <string name="upload_favorite_setting_title">Nummers synchroniseren</string>
+    <string name="upload_playlist_to_hungama_negative_text">Niet synchroniseren</string>
+    <string name="upload_playlist_to_hungama_positive_text">Synchroniseren</string>
+    <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Mi Account gebruikt.</string>
+    <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
+    <string name="user_privacy_dialog_negative_text">Annuleren</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Intrekken (%s s)</string>
+    <string name="user_privacy_dialog_positive_text">Intrekken</string>
+    <string name="user_privacy_setting_group_title">Intrekking van toestemming</string>
+    <string name="user_privacy_setting_title">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Music in.</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version_info">Versie</string>

@@ -28,13 +28,17 @@
         <item quantity="other">%d opnames gedownload</item>
         <item quantity="one">%d opname gedownload</item>
     </plurals>
+    <plurals name="recovery_failed_dialog_message">
+        <item quantity="other">Kon %d items niet herstellen vanwege een onbekende fout.</item>
+        <item quantity="one">Kon %d item niet herstellen vanwege een onbekende fout.</item>
+    </plurals>
     <plurals name="search_alll_records_hint">
         <item quantity="other">Zoek tussen %d opnames</item>
         <item quantity="one">Zoek tussen %d opname</item>
     </plurals>
     <plurals name="search_app_records_hint">
-        <item quantity="other">Search among %d recordings</item>
-        <item quantity="one">Search among %d recording</item>
+        <item quantity="other">Zoek tussen %d opnames</item>
+        <item quantity="one">Zoek tussen %d opname</item>
     </plurals>
     <plurals name="search_call_records_hint">
         <item quantity="other">Zoek tussen %d gesprekopnames</item>
@@ -43,6 +47,18 @@
     <plurals name="search_result">
         <item quantity="other">%d opnames gevonden</item>
         <item quantity="one">%d opname gevonden</item>
+    </plurals>
+    <plurals name="time_left_for_clear_file">
+        <item quantity="other">%d dagen over</item>
+        <item quantity="one">%d dag over</item>
+    </plurals>
+    <plurals name="trash_box_delete_items">
+        <item quantity="other">%d geselecteerde opnames definitief verwijderen?</item>
+        <item quantity="one">%d geselecteerde opname definitief verwijderen?</item>
+    </plurals>
+    <plurals name="trash_box_tip">
+        <item quantity="other">Verwijderde items kunnen maximaal %d dagen in de prullenbak worden bewaard</item>
+        <item quantity="one">Verwijderde items kunnen maximaal %d dag in de prullenbak worden bewaard</item>
     </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d niet gesynchroniseerd</item>

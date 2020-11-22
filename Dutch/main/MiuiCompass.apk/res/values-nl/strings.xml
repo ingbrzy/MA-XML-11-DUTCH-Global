@@ -79,12 +79,13 @@
     <string name="location_enabled">U kunt locatieservices op elk gewenst moment uitschakelen in Instellingen.</string>
     <string name="location_north">NL</string>
     <string name="location_not_enabled_summary">Kompas heeft toegang tot uw locatie nodig om coördinaten en hoogtegraad weer te geven.</string>
+    <string name="location_not_enabled_summary_no_pressure_sensor">Kompas heeft toegang tot uw locatie nodig om uw huidige coördinaten weer te geven.</string>
     <string name="location_not_enabled_title">Locatieservices</string>
     <string name="location_south">ZL</string>
     <string name="location_west">WL</string>
     <string name="longitude">LON</string>
     <string name="mobiledata_alert_dialog_message">Met het internet verbinden om hoogte te kalibreren?</string>
-    <string name="mobiledata_alert_dialog_title">Datagebruik waarschuwing</string>
+    <string name="mobiledata_alert_dialog_title">Waarschuwing datagebruik</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="open_perm_msg">Kompas heeft toegang tot locatie info en Camera nodig. Dit is nodig om coördinaten te bepalen en live voorbeelden te geven. Toestaan?</string>
     <string name="open_perm_title">Toestemmingen vereist</string>

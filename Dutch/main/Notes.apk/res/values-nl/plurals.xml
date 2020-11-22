@@ -120,6 +120,10 @@
         <item quantity="other">Over %1$d dagen</item>
         <item quantity="one">Over %1$d dag</item>
     </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s taken</item>
+        <item quantity="one">%1$s taak</item>
+    </plurals>
     <plurals name="word_count">
         <item quantity="other">%d tekens</item>
         <item quantity="one">%d teken</item>

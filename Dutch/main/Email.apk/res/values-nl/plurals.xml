@@ -25,8 +25,8 @@
         <item quantity="one">%1$d concept verwijderen?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d geselecteerd</item>
-        <item quantity="one">%d geselecteerd</item>
+        <item quantity="other">%d contacten toegevoegd</item>
+        <item quantity="one">%d contact toegevoegd</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> gearchiveerd.</item>
@@ -115,6 +115,46 @@
     <plurals name="num_selected">
         <item quantity="other">%d geselecteerd</item>
         <item quantity="one">%d geselecteerd</item>
+    </plurals>
+    <plurals name="number_of_day_after">
+        <item quantity="other">%1$d dagen daarna</item>
+        <item quantity="one">%1$d dag daarna</item>
+    </plurals>
+    <plurals name="number_of_day_before">
+        <item quantity="other">%1$d dagen ervoor</item>
+        <item quantity="one">%1$d dag ervoor</item>
+    </plurals>
+    <plurals name="number_of_hour_after">
+        <item quantity="other">%1$d uur daarna</item>
+        <item quantity="one">%1$d uur daarna</item>
+    </plurals>
+    <plurals name="number_of_hour_before">
+        <item quantity="other">%1$d uur ervoor</item>
+        <item quantity="one">%1$d uur ervoor</item>
+    </plurals>
+    <plurals name="number_of_minute_after">
+        <item quantity="other">%1$d minuten daarna</item>
+        <item quantity="one">%1$d minuut daarna</item>
+    </plurals>
+    <plurals name="number_of_minute_before">
+        <item quantity="other">%1$d minuten ervoor</item>
+        <item quantity="one">%1$d minuut ervoor</item>
+    </plurals>
+    <plurals name="number_of_second_after">
+        <item quantity="other">%1$d seconden daarna</item>
+        <item quantity="one">%1$d seconde daarna</item>
+    </plurals>
+    <plurals name="number_of_second_before">
+        <item quantity="other">%1$d seconden ervoor</item>
+        <item quantity="one">%1$d seconde ervoor</item>
+    </plurals>
+    <plurals name="number_of_week_after">
+        <item quantity="other">%1$d weken daarna</item>
+        <item quantity="one">%1$d week daarna</item>
+    </plurals>
+    <plurals name="number_of_week_before">
+        <item quantity="other">%1$d weken ervoor</item>
+        <item quantity="one">%1$d week ervoor</item>
     </plurals>
     <plurals name="quick_reply_hint">
         <item quantity="other">%1$d mensen beantwoorden</item>

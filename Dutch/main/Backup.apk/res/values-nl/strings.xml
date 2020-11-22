@@ -160,6 +160,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="dialog_backup_password_change_machine_tips">U zult wachtwoord-beschermde back-ups niet over kunnen zetten. Schakel back-up wachtwoord uit voordat u Mi Mover gebruikt.</string>
     <string name="dialog_backup_password_restore_tips">Kan geen items herstellen wanneer back-up wachtwoord ingeschakeld is. Schakel back-up wachtwoord eerst uit.</string>
     <string name="dialog_backup_password_to_settings">Instellingen</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Niet versleutelen</string>
     <string name="disable_encrypt_title">Versleuteling uitschakelen</string>
@@ -251,6 +252,7 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="import_from_xiaomi_account_hint1">\"1.\u0009Download de Mi Talk app en log in. \u0009http://www.miliao.com 2.\u0009Ga naar Mi Talk Instellingen en selecteer ”Back-up contacten naar Mi Account”\"</string>
     <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
     <string name="import_from_xiaomi_account_hint_title">Gebruik Mi Talk voor back-up van contacten op andere apparaten.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kunt u alleen gedeeltelijke gegevens overbrengen van iOS-apparaten. Zorg ervoor dat u een iCloud back-up maakt voordat u de overdracht start.</string>
     <string name="lack_perm_msg">Mi Mover heeft de volgende toestemingen nodig: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Toestemmingen vereist</string>
@@ -302,6 +304,14 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="logining">Inloggen…</string>
     <string name="miliao_account_guide">Gebruik uw Mi Account om u waar dan ook om aan te melden op Xiaomi Cloud, MIUI Themes en andere Mi Services.</string>
     <string name="miliao_account_login">Login bij Mi Talk</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
     <string name="mms_title">Multimedia Berichten</string>
     <string name="multi_select_title">%1$s geselecteerd</string>
     <string name="multi_user_mode_backup_message">Kan back-up niet gebruiken in Multi-gebruiker modus. Schakel Multi-gebruiker modus uit om door te gaan.</string>
@@ -323,8 +333,8 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="new_local_detail_description">"Opmerking:
 %1$d. Kopieer back-ups naar uw computer om gegevensverlies te voorkomen. %2$s.
 %3$d. Back-ups worden opgeslagen in MIUI-Backup-AllBackup."</string>
-    <string name="new_local_tab_backup">Back-up op mobiel apparaat</string>
-    <string name="new_local_tab_restore">Herstellen vanaf mobiel apparaat</string>
+    <string name="new_local_tab_backup">Back-up maken</string>
+    <string name="new_local_tab_restore">Herstellen</string>
     <string name="new_low_storage_title">Onvoldoende opslagruimte</string>
     <string name="new_more_settings_label">Aanvullende instellingen</string>
     <string name="new_pc_backup_content1">%1$d. Open \"%2$s\".</string>
@@ -347,8 +357,8 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="new_select_third">Apps van derden en app-gegevens</string>
     <string name="new_select_third_apk">Apps van derden</string>
     <string name="new_select_third_data">Gegevens van apps van derden</string>
-    <string name="new_tab_pc_backup">Maak een back-up op de computer</string>
-    <string name="new_tab_pc_restore">Herstel van computer</string>
+    <string name="new_tab_pc_backup">Back-up maken</string>
+    <string name="new_tab_pc_restore">Herstellen</string>
     <string name="new_task_finished">Voltooid</string>
     <string name="new_usb_detail_description">"Opmerking:
 %1$d. Met deze methode kunt u een back-up maken van apps en app-gegevens van derden.
@@ -356,8 +366,8 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="new_usb_disconnect_dialog_message">Sluit eerst een USB-stick aan.</string>
     <string name="new_usb_disconnect_dialog_title">Kon USB-stick niet vinden</string>
     <string name="new_usb_select_data_no_space">Er is slechts %s opslag beschikbaar op uw USB-stick. Maak opslagruimte vrij.</string>
-    <string name="new_usb_tab_backup">Back-up naar USB-stick</string>
-    <string name="new_usb_tab_restore">Herstellen van USB-stick</string>
+    <string name="new_usb_tab_backup">Back-up maken</string>
+    <string name="new_usb_tab_restore">Herstellen</string>
     <string name="no_encrypt_password">Geen wachtwoord</string>
     <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="not_set">Niet ingesteld</string>
@@ -754,8 +764,11 @@ tik op \"Ik ben een verzender\" en selecteer een hotspot om verbinding mee te ma
 Sluit de pagina niet, voordat er verbinding is gemaakt."</string>
     <string name="waiting">Een ogenblik geduld…</string>
     <string name="wifi_title">wifi Instellingen</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Download kon niet worden gestart. Zorg ervoor dat de Download Manager goed werkt.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Wij introduceren versie %1$s

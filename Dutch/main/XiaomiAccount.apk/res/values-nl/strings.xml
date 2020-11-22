@@ -158,6 +158,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="confirm_unbundled_phone_dialog_message">Het telefoonnummer %1$s is gekoppeld aan Mi Account %2$s. Als u doorgaat, zal deze niet meer gekoppeld zijn aan Mi Account %3$s. Doorgaan?</string>
     <string name="continue_action">Doorgaan</string>
     <string name="copy">Kopiëren</string>
+    <string name="copy_to_clipboard_successful">Succesvol gekopieerd</string>
     <string name="delete_action">Verwijderen</string>
     <string name="delete_bank_card_message">Mi Pay bankkaarten en NFC kaarten zullen verwijderd worden wanneer u uitlogt.</string>
     <string name="delete_bank_card_title">Attentie</string>
@@ -358,6 +359,10 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_get_verify_code">Haal code op</string>
     <string name="passport_getting_activator_phone">Sim-informatie ontvangen…</string>
     <string name="passport_getting_verify_code">Halen</string>
+    <string name="passport_google_login">Inloggen met het eerder gebruikte Google Account?</string>
+    <string name="passport_google_login_agree">Google Account</string>
+    <string name="passport_google_login_disagree">Mi Account</string>
+    <string name="passport_google_login_failed">Kon niet inloggen met Google. Log rechtstreeks in op uw Mi Account.</string>
     <string name="passport_i_know">Begrepen</string>
     <string name="passport_identification_expired">Verificatiecode is verlopen, opnieuw beginnen</string>
     <string name="passport_imei_permission_denied_message">We vragen toestemming om de IMEI van uw apparaat op te halen. Mi Account gebruikt IMEI om het apparaat waarop u zich aanmeldt/registreert te identificeren en uw Mi Account veilig te houden.</string>

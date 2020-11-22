@@ -46,8 +46,8 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="passport_trust_device">Dit apparaat vertrouwen</string>
     <string name="passport_vcode_prompt_long">Voer de verificatiecode in</string>
     <string name="passport_verify">Verifieer</string>
-    <string name="password">Wachtwoord</string>
-    <string name="phone_locked">Dit apparaat kan gekoppeld zijn aan een bestaande Mi Account (%s). Meld u aan om dit apparaat te activeren.</string>
+    <string name="password">Voer wachtwoord in</string>
+    <string name="phone_locked">Dit apparaat is gekoppeld aan een Mi Account (%s). Voer wachtwoord in om apparaat te activeren.</string>
     <string name="phone_locked_account_email">, gekoppeld e-mailadres: %s</string>
     <string name="phone_locked_account_phone">, gekoppeld telefoonnummer: %s</string>
     <string name="return_to_call">Terug naar oproep</string>
@@ -74,14 +74,14 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="unlock_error_unknown">Kan niet aanmelden</string>
     <string name="unlock_error_user_name">Ongeldige gebruikersnaam</string>
     <string name="unlock_error_wrong_vcode">De code die u heeft ingevoerd is incorrect</string>
-    <string name="unlock_help">"Blijf verbonden met het netwerk
-Zorg ervoor dat u een werkende SIM kaart heeft geplaatst (als uw apparaat dat ondersteunt) en dat uw apparaat met een geldig wifi-netwerk verbonden is.
+    <string name="unlock_help">"Maak verbinding met het netwerk.
+Plaats een werkende simkaart en maak geen verbinding met ongeldige wifi-netwerken.
 
 Wachtwoord vergeten?
-Ga naar id.mi.com om uw wachtwoord te resetten.
+Ga naar id.mi.com, selecteer \"Wachtwoord vergeten?\" en volg de instructies.
 
-Andere redenen
-Meld u aan op i.mi.com en probeer uw apparaat vanaf daar te ontgrendelen."</string>
+Kunt u het apparaat niet activeren?
+Ga naar i.mi.com/ss en dien uw aanvraag in om het apparaat te ontgrendelen."</string>
     <string name="unlock_help_title">Ontgrendel help:</string>
     <string name="unlock_number">Ontgrendel code: %s</string>
     <string name="unlock_wrong_captcha">De code die u hebt ingevoerd is incorrect</string>

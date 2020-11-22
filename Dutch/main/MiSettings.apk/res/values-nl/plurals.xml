@@ -40,6 +40,10 @@
         <item quantity="other">%d keren ontgrendeld</item>
         <item quantity="one">%d keer ontgrendeld</item>
     </plurals>
+    <plurals name="usage_new_home_total_unlocks_new">
+        <item quantity="other">Ontgrendeld %1$d keren op %2$s</item>
+        <item quantity="one">Ontgrendeld %1$d keer op %2$s</item>
+    </plurals>
     <plurals name="usage_new_home_total_week_unlocks">
         <item quantity="other">%d keren ontgrendeld</item>
         <item quantity="one">%d keer ontgrendeld</item>

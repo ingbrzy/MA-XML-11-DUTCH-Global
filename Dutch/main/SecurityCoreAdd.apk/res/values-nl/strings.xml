@@ -126,13 +126,6 @@ om ze altijd te kunnen bekijken"</string>
     <string name="dual_animation">Animatie starten</string>
     <string name="dual_animation_description">Animatie weergeven wanneer dubbele apps gestart worden</string>
     <string name="enable">Aanzetten</string>
-    <string name="encrypt_space_delete_dialog_click_message">*Als u geen gegevens hoeft te verplaatsen, %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">verwijder en maak Tweede ruimte nu aan.</string>
-    <string name="encrypt_space_delete_dialog_message">U staat op het punt Android te updaten. Na de update worden gegevens in Tweede ruimte incompatibel. Om dit te voorkomen, verplaatst u alle gegevens naar Eerste ruimte, verwijdert u Tweede ruimte en maakt u deze opnieuw.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Gegevens verplaatsen</string>
-    <string name="encrypt_space_delete_dialog_title">Attentie</string>
-    <string name="encrypt_space_delete_notification_message">Verwijder uw Tweede ruimte en maak een nieuwe om uw apparaat succesvol bij te werken.</string>
-    <string name="encrypt_space_delete_notification_title">Tweede ruimte</string>
     <string name="ent_activating">Activeren…</string>
     <string name="ent_activation">Activeren</string>
     <string name="ent_activation_hint">Voer uw bedrijfscode en de licentiecode in om de bedrijfsmodus te activeren. Hierna worden aangepaste bedrijfsdiensten ingeschakeld.</string>
@@ -217,7 +210,6 @@ Berichten zullen alleen in Tweede ruimte verschijnen."</string>
     <string name="guide_pwd_detail_title">"Bescherm uw data
 Open Tweede ruimte vanaf het Vergrendelscherm"</string>
     <string name="guide_setting_guide_title">Tweede ruimte beheren</string>
-    <string name="guide_start_ads_text">Een compleet nieuw beveiligingsniveau</string>
     <string name="guide_start_text">Twee ruimtes. Een toestel.</string>
     <string name="has_created_second_space">"U kunt Tweede ruimte nu openen.
 Twee ruimtes. Een apparaat."</string>
@@ -255,6 +247,14 @@ U kunt ze ook apart downloaden."</string>
     <string name="master_clear_not_available_ep">U mag nu geen fabrieksreset uitvoeren of uw autorisatie intrekken. Neem contact op met uw supervisor.</string>
     <string name="menu_item_about_privacy_title">Privacybeleid</string>
     <string name="messageData">Berichten</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
     <string name="more_settings">Meer</string>
     <string name="msg_switch_file">Deze bestanden in Eerste ruimte verwijderen nadat ze zijn verplaatst?</string>
     <string name="msg_switch_file_second">Verwijder deze bestanden in Tweede ruimte nadat ze zijn verplaatst?</string>
@@ -286,7 +286,6 @@ U kunt ze ook apart downloaden."</string>
     <string name="openPasswordGuard">Stel wachtwoord voor Tweede ruimte in</string>
     <string name="openSuccess">Ingeschakeld</string>
     <string name="opened">Aan</string>
-    <string name="optimize_now">Optimaliseren</string>
     <string name="other">Overig</string>
     <string name="otherSettings">Overige instellingen</string>
     <string name="passWordGuardSummary">Open Tweede ruimte vanaf het Vergrendelscherm met behulp van een wachtwoord</string>
@@ -310,8 +309,6 @@ Anders verliest u mogelijk toegang tot Tweede ruimte vanaf het Vergrendelscherm.
     <string name="remove_button">Verwijderen</string>
     <string name="remove_button_time">Verwijderen (%ds)</string>
     <string name="remove_second_space_msg">Alle app-gegevens van Tweede ruimte zullen verloren gaan als u Tweede ruimte verwijdert. Tweede ruimte nu verwijderen?</string>
-    <string name="remove_user_click_message">*Als u geen belangrijke items hebt in Tweede ruimte, %s</string>
-    <string name="remove_user_click_message_action">u kunt Tweede ruimte nu verwijderen en uw apparaat opnieuw opstarten.</string>
     <string name="removingSpace">Verwijderen…</string>
     <string name="repeat_scanner_fingerprint">Opnieuw toevoegen</string>
     <string name="reset_passwd_success">Wachtwoord is succesvol gereset</string>
@@ -335,14 +332,6 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="scanner_fingerprint_tips_desc">Selecteer bestaande vingerafdruk om Tweede ruimte te openen. U zult deze niet kunnen gebruiken voor Eerste ruimte.</string>
     <string name="scanner_fingerprint_tips_title">Open Tweede ruimte met behulp van bestaande vingerafdruk</string>
     <string name="scanner_second_space_fingerprint">Tweede ruimte vingerafdruk scannen</string>
-    <string name="sdcardfs_dialog_message">In deze update wordt een nieuw bestandssysteem geïntroduceerd. Oude gegevens zijn hier mogelijk niet compatibel mee. Om dit probleem op te lossen, volgt u de stappen om een ​​update te installeren. Uw apparaat zal tijdens deze update twee keer opnieuw opstarten.</string>
-    <string name="sdcardfs_dialog_title">Belangrijke update</string>
-    <string name="sdcradfs_dialog_in_owner_message">"In deze update wordt een nieuw bestandssysteem geïntroduceerd. Oude gegevens zijn hier mogelijk niet compatibel mee. Verplaats voor een update items vanuit Tweede ruimte, start uw apparaat opnieuw op en maak Tweede ruimte opnieuw aan.
-Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed."</string>
-    <string name="sdcradfs_dialog_in_owner_title">Tweede ruimte</string>
-    <string name="sdcradfs_dialog_in_sec_message">"Voor een update moet u uw Tweede ruimte verwijderen en vervolgens weer aanmaken. Verplaats de gegevens van Tweede ruimte naar Eerste ruimte en start uw apparaat opnieuw op om de update te voltooien.
-Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed meer."</string>
-    <string name="sdcradfs_dialog_in_sec_title">Belangrijke update</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="search_result_text">Kon geen apps vinden</string>
@@ -353,6 +342,8 @@ Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed meer."
     <string name="second_space_desktop_tips_dialog_title">Belangrijke update</string>
     <string name="second_space_finger_printf_desc">Voeg een vingerafdruk toe die specifiek wordt gebruikt om Tweede ruimte te openen</string>
     <string name="second_space_finger_printf_title">Tweede ruimte vingerafdruk</string>
+    <string name="secondspace_homepage">"Stel een aangewezen schermvergrendeling in voor de Tweede ruimte.
+Scheid en beveilig uw gegevens."</string>
     <string name="select_existed_fingerprint">Selecteer vingerafdruk</string>
     <string name="serNameSummary">Tweede ruimte</string>
     <string name="setSecondSpacePassword">Stel wachtwoord in voor Tweede ruimte</string>
@@ -410,7 +401,6 @@ Als u geen update uitvoert, werken de dubbele apps mogelijk ook niet goed meer."
     <string name="space_create_guide_title_1">Bescherm uw privacy</string>
     <string name="space_create_guide_title_2">Op elk gewenst moment aanmaken</string>
     <string name="space_create_guide_title_3">Absoluut zonder risico</string>
-    <string name="space_created_success">Tweede ruimte is met succes aangemaakt</string>
     <string name="space_deleted">Deze ruimte werd verwijderd</string>
     <string name="space_des_default">Geïsoleerde ruimte met versleutelde gegevens</string>
     <string name="space_finger_sub_text">Stel vingerafdruk voor Tweede ruimte in om sneller te kunnen wisselen</string>
@@ -427,7 +417,6 @@ om Tweede ruimte vanaf het Vergrendelscherm te openen"</string>
     <string name="stop_xspace_alert_title">Dubbele app-accounts verwijderen</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_switch_apps_settings">Selecteer apps die in de huidige ruimte worden gebruikt</string>
-    <string name="support_desc">Beveiligingsdiensten geleverd door Spaces Mobile</string>
     <string name="sure_to_use">Bevestigen</string>
     <string name="switchDataSummary">Verplaats items tussen ruimtes</string>
     <string name="switch_apps_settings">App instellingen</string>

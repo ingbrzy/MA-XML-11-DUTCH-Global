@@ -83,6 +83,14 @@ Batterijbesparing zal belangrijke apps selectief behandelen."</string>
     <string name="lasttime_applist_cloud">Bijgewerkte apps:</string>
     <string name="lasttime_feature_cloud">Bijgewerkte functies:</string>
     <string name="message_i_know">Begrepen</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
     <string name="nonui_mode_config_description">Het scherm niet oplichten voor meldingen, LED-licht, vingerafdruksensor en aanraakbesturing uitschakelen om batterij te besparen wanneer MIUI detecteert dat u uw apparaat niet gebruikt.</string>
     <string name="nonui_mode_config_title">Niet-interactieve modus</string>
     <string name="not_set">Niet ingesteld</string>

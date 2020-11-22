@@ -97,6 +97,14 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="just_a_second">Een ogenblik geduld…</string>
     <string name="loading">Een ogenblik geduld…</string>
     <string name="logout_account">Afmelden</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
     <string name="nick_name">Bijnaam</string>
     <string name="no_account">Niet aangemeld</string>
     <string name="no_phone">Geen telefoonnummer</string>
@@ -218,6 +226,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="sns_access_token_expired_warning">Sessie is verlopen. Meld u opnieuw aan om deze account opnieuw te koppelen.</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="temporary_not_available">Deze functie wordt nog niet ondersteund</string>
     <string name="ticket_hint">Verificatiecode</string>
     <string name="ticket_invalid">De code die u heeft ingevoerd is incorrect</string>

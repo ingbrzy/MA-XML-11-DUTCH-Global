@@ -30,8 +30,8 @@
     <string name="advanced_mode">Geavanceerde instellingen</string>
     <string name="anti_flicker_mode">Anti-flikker</string>
     <string name="anti_flicker_mode_categroy">Modi</string>
-    <string name="anti_flicker_mode_summary">Verminder flikkering bij weinig licht om vermoeidheid van de ogen te verminderen. Sommige elementen worden mogelijk niet correct weergegeven.</string>
-    <string name="anti_flicker_title">Anti-flikker modus</string>
+    <string name="anti_flicker_mode_summary">Voorkom langdurig flikkeren en verminder vermoeidheid van de ogen bij weinig licht</string>
+    <string name="anti_flicker_title">Anti-flikkermodus</string>
     <string name="app_name">Instellingen</string>
     <string name="application_sound">App-meldingen</string>
     <string name="back">Terug</string>
@@ -51,9 +51,13 @@
     <string name="created">Aangemaakt</string>
     <string name="created_successfully">Succesvol gecreëerd</string>
     <string name="cu_confirm">Instellen</string>
+    <string name="dc_light_hint_enable_title">Let op</string>
+    <string name="dc_light_hint_normal">DC-dimmen kan van invloed zijn op de manier waarop sommige items worden weergegeven.</string>
+    <string name="dc_light_hint_other">DC-dimmen kan van invloed zijn op de ververssnelheid en de manier waarop sommige items worden weergegeven.</string>
+    <string name="dc_lignt_enable_hint">Anti-flikkermodus stelt de ververssnelheid van het scherm in op 60 Hz. Overschakelen naar de Anti-flikkermodus?</string>
     <string name="display_description">Grotere iconen, grote tekst, minder visuele rommel</string>
     <string name="display_title">Grotere items</string>
-    <string name="exit_easymode">Lite modus uitschakelen</string>
+    <string name="exit_easymode">Lite-modus uitschakelen</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="first_unlock_time">"Eerst ontgrendeld: "</string>
     <string name="focus_mode_custom_time">Aangepaste duur</string>
@@ -66,6 +70,7 @@
     <string name="follow_sim1">Sim 1 instellingen toepassen</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Beheer schermtijd</string>
+    <string name="high_fps_description">Hoge schermvernieuwingssnelheid. Hoger stroomverbruik.</string>
     <string name="hsv_space_color">HSV-kleurruimte</string>
     <string name="hsv_space_color_hue">Tint</string>
     <string name="hsv_space_color_saturation">Verzadiging</string>
@@ -74,6 +79,7 @@
     <string name="intelligent_recognition_item_title">Services identificeren</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lock_summary">Bescherm uw persoonlijke info</string>
+    <string name="low_fps_description">Lage schermvernieuwingssnelheid. Lager stroomverbruik.</string>
     <string name="low_light_preview">Voorbeeld bij weinig licht</string>
     <string name="mms">Berichten</string>
     <string name="more_ringtone">Alle beltonen</string>
@@ -119,13 +125,14 @@
     <string name="search_menu_title">Zoeken</string>
     <string name="several_days_use_time">Schermtijd: %2$s</string>
     <string name="shortcut_created">Deze snelkoppeling bestaat al</string>
+    <string name="silent_ringtone_hint">Audio is nu stil. Zet het volume hoger en probeer het opnieuw.</string>
     <string name="sim_slot_1">" (Sim 1)"</string>
     <string name="sim_slot_2">" (Sim 2)"</string>
     <string name="sms_delivered_sound_title">Bericht afgeleverd</string>
     <string name="sms_received_sound_title">Inkomend bericht</string>
     <string name="srgb_color_region">sRGB</string>
     <string name="srgb_color_region_summary">Toon alle scherminhoud in sRGB-kleurengamma</string>
-    <string name="start_easymode">Lite modus inschakelen</string>
+    <string name="start_easymode">Lite-modus inschakelen</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="steady_on_screen_notification_title">Leg uw telefoon neer en neem een pauze</string>
     <string name="steady_on_screen_notify">Melden over ononderbroken gebruik</string>
@@ -139,7 +146,7 @@
     <string name="suggestion">Feedback</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="thememanager_not_found">"Kan Thema's niet openen. Zorg ervoor dat de app is geïnstalleerd op uw apparaat."</string>
-    <string name="title_activity_easy_mode">Lite modus</string>
+    <string name="title_activity_easy_mode">Lite-modus</string>
     <string name="to_authorize">Toestemmingen geven</string>
     <string name="today_usage_title">Vandaag</string>
     <string name="today_use_time">Schermtijd: %1$s</string>
@@ -158,7 +165,9 @@
     <string name="usage_app_limit_alter_title">Schermtijd limiet controleren</string>
     <string name="usage_app_limit_prelong">Tijd verlengen</string>
     <string name="usage_app_limit_reach_summay">%s resterend</string>
+    <string name="usage_app_limit_reach_summay_new">Tik om toe te voegen %d minuten</string>
     <string name="usage_app_limit_reach_title">%s staat op het punt de schermtijd limiet te bereiken</string>
+    <string name="usage_app_limit_reach_title_new" formatted="false">Resterende schermtijd voor %1s: %2s</string>
     <string name="usage_app_limit_summary">Geselecteerde apps zullen niet meer beschikbaar zijn wanneer de limiet bereikt is</string>
     <string name="usage_app_limit_title">Schermtijd beperken</string>
     <string name="usage_app_other_settings">Aanvullende instellingen</string>
@@ -210,8 +219,12 @@ Deze app moet ook verbinding maken met internet en heeft de volgende toestemming
     <string name="usage_home_premission_second_summary_double_link_prefix">We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze app niet gebruiken. U kunt uw autorisatie intrekken in Schermtijd > Instellingen > Schakel de Schermtijd uit.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>Voordat u deze app gebruikt, lees en ga akkoord met onze &lt;a href='%1s'>Gebruikersovereenkomst&lt;/a> en &lt;a href='%2s'>Privacybeleid&lt;/a>.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze app niet gebruiken. U kunt uw autorisatie intrekken in Schermtijd > Instellingen > Schakel de Schermtijd uit. Als u meer vragen heeft over privacy, kunt u contact met ons opnemen via privacy@xiaomi.com.</string>
+    <string name="usage_new_home_app_limit_summary">Stel een dagelijkse schermtijd limiet in voor deze app</string>
+    <string name="usage_new_home_app_limit_title">Schermtijd beperken</string>
     <string name="usage_new_home_average">"Gem. "</string>
+    <string name="usage_new_home_avg_usage_day">Gem. %s dagelijks</string>
     <string name="usage_new_home_category">Categorie</string>
+    <string name="usage_new_home_classify_manage">App-categorieën beheren</string>
     <string name="usage_new_home_compare_text1">%.2f meer dan de dag ervoor</string>
     <string name="usage_new_home_compare_text2">%.2f minder dan de dag ervoor</string>
     <string name="usage_new_home_compare_text3">Hetzelfde als de dag ervoor</string>
@@ -219,15 +232,19 @@ Deze app moet ook verbinding maken met internet en heeft de volgende toestemming
     <string name="usage_new_home_dashboard">Dashboard</string>
     <string name="usage_new_home_date_day_title">%s | Gebruiksduur</string>
     <string name="usage_new_home_day_category_title">App-categorieën</string>
+    <string name="usage_new_home_day_category_title_new">Schermtijd voor app-categorieën op %s</string>
     <string name="usage_new_home_day_title">Dag</string>
     <string name="usage_new_home_day_usage_title">Individuele apps</string>
+    <string name="usage_new_home_day_usage_title_new">Schermtijd op %s</string>
     <string name="usage_new_home_first_unlock">Ontgrendel eerst: %s</string>
     <string name="usage_new_home_name">Naam</string>
     <string name="usage_new_home_show_more_data_summary">U kunt ook de schermtijd voor individuele apps beperken</string>
     <string name="usage_new_home_show_more_data_title">Bekijk meer statistieken</string>
+    <string name="usage_new_home_sys_no_limit_summary">Kan schermtijd niet beperken voor systeemapps</string>
     <string name="usage_new_home_unlock_equals_text">Hetzelfde als de dag ervoor</string>
     <string name="usage_new_home_unused">Niet gebruikt</string>
     <string name="usage_new_home_update">Wijzigen</string>
+    <string name="usage_new_home_usage_detail">Gebruiksinformatie</string>
     <string name="usage_new_home_week_category_title">App-categorieën</string>
     <string name="usage_new_home_week_compare_text1">%.2f meer dan de week ervoor</string>
     <string name="usage_new_home_week_compare_text2">%.2f minder dan de week ervoor</string>
@@ -249,7 +266,7 @@ Deze app moet verbinding maken met het internet en heeft de volgende toestemming
     <string name="usage_reach_device_limit_warning_text">U heeft de schermtijd limiet voor vandaag bereikt</string>
     <string name="usage_refresh">Opnieuw proberen</string>
     <string name="usage_remain_about_hour_miunte">≈%1$s %2$s</string>
-    <string name="usage_remain_hour_miunte">%1$s%2$s</string>
+    <string name="usage_remain_hour_miunte">%1$s %2$s</string>
     <string name="usage_request_error_summary">Er is een onbekende fout opgetreden</string>
     <string name="usage_request_timeout_summary">Verzoek verlopen</string>
     <string name="usage_runtime_per_des_summary">Voor het opslaan van uw Schermtijdstatistieken</string>
@@ -363,6 +380,8 @@ Deze app moet verbinding maken met het internet en heeft de volgende toestemming
     <string name="usage_stats_week_day">Weekenden</string>
     <string name="usage_total_days">Totaal aantal dagen</string>
     <string name="usage_total_times">Totaal aantal sessies</string>
+    <string name="usage_week_avg_usage_title">Gem. deze week</string>
+    <string name="usage_week_avg_usage_title2">Gem. tijd</string>
     <string name="usage_weekly_report_summary">Ontdek hoe u tijd doorbrengt met uw apparaat</string>
     <string name="usage_weekly_report_title">Wekelijks verslag</string>
     <string name="usagestats_app_category_miui_education">Onderwijs</string>

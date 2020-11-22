@@ -104,14 +104,6 @@
         <item quantity="other">Certificeringsinstanties geïnstalleerd</item>
         <item quantity="one">Certificeringsinstantie geïnstalleerd</item>
     </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">Wifi-netwerken beschikbaar</item>
-        <item quantity="one">Wifi-netwerk beschikbaar</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">Open wifi-netwerken beschikbaar</item>
-        <item quantity="one">Open wifi-netwerk beschikbaar</item>
-    </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">Gedurende %d uur</item>
         <item quantity="one">Gedurende 1 uur</item>

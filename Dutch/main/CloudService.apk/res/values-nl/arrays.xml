@@ -20,6 +20,12 @@
         <item>Back-up belangrijke instellingen, inclusief wifi en weergave</item>
         <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Synchroniseer uw contacten, berichten, notities, kalender en meer</item>
+        <item>Back-up maken van apps, Startscherm lay-out en de achtergrond</item>
+        <item>Back-up belangrijke instellingen, inclusief WLAN en weergave</item>
+        <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>App-gegevens synchroniseren</item>
         <item>Back-up maken van Startscherm lay-out</item>
@@ -98,6 +104,11 @@
         <item>Synchronisatie inschakelen</item>
         <item>App-kluis;Kaarten;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
     </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Snelle antwoorden synchroniseren</item>
+        <item>Synchronisatie inschakelen</item>
+        <item>Snelle antwoorden;Klembord;Editor;Cloud;Synchroniseren;Cloud services</item>
+    </string-array>
     <string-array name="settings_search_recorder">
         <item>Opnames synchroniseren met Xiaomi Cloud</item>
         <item>Synchroniseren inschakelen/instellen</item>
@@ -114,9 +125,9 @@
         <item>Cloud;Back up;Back-up;Herstellen;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Beveiliging synchroniseren met Xiaomi Cloud</item>
+        <item>Beveiliging cloud synchronisatie</item>
         <item>Synchronisatie inschakelen</item>
-        <item>Beveiliging;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
+        <item>Beveiliging;Cloud;Xiaomi Cloud;Synchroniseren;Cloud services</item>
     </string-array>
     <string-array name="settings_search_sms">
         <item>Berichten synchroniseren met Xiaomi Cloud</item>
@@ -135,6 +146,11 @@
     </string-array>
     <string-array name="settings_search_wlan">
         <item>Wifi-instellingen synchroniseren met Xiaomi Cloud</item>
+        <item>Synchronisatie inschakelen</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>WLAN-instellingen synchroniseren met Xiaomi Cloud</item>
         <item>Synchronisatie inschakelen</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
     </string-array>

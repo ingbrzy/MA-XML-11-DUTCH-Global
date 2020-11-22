@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">Sleep om aan te passen</string>
+    <string name="doc_photo_cancel">Annuleren</string>
+    <string name="doc_photo_confirm">Afsluiten</string>
+    <string name="doc_photo_doc_photo_title">Document bewerken</string>
+    <string name="doc_photo_enhance_bin">Zwart-wit</string>
+    <string name="doc_photo_enhance_color">Geoptimaliseerd</string>
+    <string name="doc_photo_enhance_none">Origineel</string>
+    <string name="doc_photo_idcard_alert_msg">Alle wijzigingen negeren en de editor afsluiten?</string>
+    <string name="doc_photo_idcard_emblem">Achterkant</string>
+    <string name="doc_photo_idcard_mode_title">ID-kaart</string>
+    <string name="doc_photo_idcard_portrait">Voorkant</string>
+    <string name="doc_photo_not_support">Kan deze afbeelding niet als een document bewerken</string>
+    <string name="doc_photo_view_effect">Voorbeeld</string>
     <string name="extra_photo_common_save_fail">Kon niet opslaan</string>
     <string name="extra_photo_common_saving">Opslaan…</string>
     <string name="motion_photo_cancel">Annuleren</string>
@@ -25,6 +38,7 @@
     <string name="refocus_save_to_video">Opslaan als video</string>
     <string name="refocus_saving">Opslaan…</string>
     <string name="refocus_title">Vervaging</string>
+    <string name="refocus_type_movie_relighting">Filmisch</string>
     <string name="refocus_type_relighting">Studio verlichting</string>
     <string name="refocus_type_relighting_no_face">Kon gezicht niet vinden</string>
     <string name="refocus_type_relighting_small_face">"3D-verlichting werkt op foto's waar gezichten meer ruimte innemen dan hier"</string>

@@ -10,6 +10,7 @@
     <string name="download_queued">In wachtrij</string>
     <string name="download_remaining">%s resterend</string>
     <string name="download_running">Aan het downloaden</string>
+    <string name="download_running_percent">Downloaden, %s</string>
     <string name="download_unknown_title">&lt;Naamloos></string>
     <string name="notif_title_file_size">%1$d totaal</string>
     <string name="notif_title_single_downloading">%1$s downloaden</string>
@@ -34,12 +35,12 @@
     <string name="permlab_downloadWithoutNotification">Bestanden downloaden zonder melding</string>
     <string name="permlab_seeAllExternal">Bekijk alle downloads naar USB-opslag</string>
     <string name="root_downloads">Downloads</string>
-    <string name="wifi_recommended_body" formatted="false">"Het nu starten van deze %s download kan het leven van uw batterij verkorten en/of resulteren in een excessief gebruik van uw mobiele dataverbinding, wat, afhankelijk van uw abonnement, kan leiden tot kosten.
+    <string name="wifi_recommended_body">"Het nu starten van deze %1$s download kan het leven van uw batterij verkorten en/of resulteren in een excessief gebruik van uw mobiele dataverbinding, wat, afhankelijk van uw abonnement, kan leiden tot kosten.
 
-Tik %s om deze download te starten wanneer u de volgende keer met wifi bent verbonden."</string>
+Tik %2$s om deze download te starten wanneer u de volgende keer met wifi bent verbonden."</string>
     <string name="wifi_recommended_title">In de wachtrij om later te downloaden?</string>
-    <string name="wifi_required_body" formatted="false">"Verbind met wifi om deze %s download te voltooien. 
+    <string name="wifi_required_body">"Verbind met wifi om deze %1$s download te voltooien. 
 
-Tik%s om deze download te starten als u de volgende keer met een wifi-netwerk verbonden bent."</string>
+Tik%2$s om deze download te starten als u de volgende keer met een wifi-netwerk verbonden bent."</string>
     <string name="wifi_required_title">Dit bestand is te groot om te downloaden met behulp van mobiele data</string>
 </resources>

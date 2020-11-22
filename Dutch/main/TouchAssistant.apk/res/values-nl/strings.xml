@@ -35,6 +35,11 @@
     <string name="close_panel">Schakel Quick ball uit</string>
     <string name="copy">Kopiëren</string>
     <string name="customize_entries">Snelkoppelingen selecteren</string>
+    <string name="edge_distance_pref_summary">Tik op de activeringsgebieden in de buurt van de schermranden om Quick Ball te laten verschijnen</string>
+    <string name="edge_distance_pref_title">Activeringsgebieden</string>
+    <string name="edge_mode_custom_summary">Pas de grootte van de activeringsgebieden in de buurt van de schermranden aan</string>
+    <string name="edge_mode_custom_title">Aangepast</string>
+    <string name="edge_mode_default_title">Standaard</string>
     <string name="enable_touch_assistant">Schakel Quick ball in</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="function_settings">Snelkoppeling instellingen</string>
@@ -67,6 +72,7 @@
     <string name="name_trans_cards">Transport kaart</string>
     <string name="name_wechat_payment_code">WeChat betaling</string>
     <string name="name_wechat_scan">WeChat scanner</string>
+    <string name="name_xiao_ai">Mi AI</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay is niet geactiveerd</string>
     <string name="nfc_trans_card_not_in_use">Transport kaart is niet geactiveerd</string>
     <string name="not_set">Niet ingesteld</string>

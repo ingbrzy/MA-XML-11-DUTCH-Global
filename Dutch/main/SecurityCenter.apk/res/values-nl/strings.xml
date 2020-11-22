@@ -161,9 +161,9 @@
     <string name="antivirus_none_engine_dialog_ok">OK</string>
     <string name="antivirus_not_wlan">Je bent niet verbonden met Wifi. Het gebruik van mobiele data kan extra kosten opleveren. Toch doorgaan?</string>
     <string name="antivirus_privacy_dialog_cloudscan">Upload app-namen en details</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">App-namen en details uploaden en scannen met behulp van online virusdefinities.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">Om virussen effectiever te detecteren en te neutraliseren, uploaden we de pakketnamen en eigenschappen van de apps om ze te scannen met een cloud-engine.</string>
     <string name="antivirus_privacy_dialog_ok">OK</string>
-    <string name="antivirus_privacy_dialog_summary">Deze functie versleutelt en uploadt het ID van je toestel naar de servers van Avast, AVL en Tencent (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>Deze functie wordt mogelijk gemaakt door een antivirus-engine van de derde partij. Lees voor meer informatie de &lt;a href=\"%1$s\">Licentieovereenkomst&lt;/a> van de de derde partij.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">Privacybeleid</string>
     <string name="antivirus_privacy_dialog_title">Privacybeleid</string>
     <string name="antivirus_sec_network_unavailable">Beveiliging kan niet bijgewerkt worden, omdat u internetverbinding hebt geblokkeerd. Beveiliging toestaan om verbinding te maken met het internet?</string>
@@ -288,6 +288,8 @@
     <string name="app_behavior_start_from_notification_single">Deze app is gestart door een melding</string>
     <string name="app_behavior_start_from_recent">%1s is gestart vanuit Recent gebruikt</string>
     <string name="app_behavior_start_from_recent_single">Deze app is gestart vanuit Recent gebruikt</string>
+    <string name="app_behavior_start_from_widget">%1s was launched by a widget</string>
+    <string name="app_behavior_start_from_widget_single">Deze app is gestart door een widget</string>
     <string name="app_behavior_storage">%1s heeft bestanden geopend of opgeslagen</string>
     <string name="app_behavior_storage_bg">%1s heeft bestanden geopend of opgeslagen op de achtergrond</string>
     <string name="app_behavior_storage_bg_single">Deze app heeft bestanden geopend of opgeslagen op de achtergrond</string>
@@ -764,6 +766,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Aanmaken</string>
     <string name="card_main_xspace_summary">Maak dubbele accounts aan voor elke app</string>
     <string name="card_main_xspace_title">Dubbele apps</string>
@@ -966,6 +969,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="doze_optimization_title">Geoptimaliseerde touch-bediening</string>
     <string name="dual_setting_simcard1">sim 1</string>
     <string name="dual_setting_simcard2">sim 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Geen apps</string>
     <string name="empty_title_auto_start_list">Er zijn geen apps die automatisch gestart kunnen worden.</string>
@@ -1017,7 +1021,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1123,6 +1129,13 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="first_aid_scanning_item4">Controleren op problemen met de batterij…</string>
     <string name="first_aid_scanning_item5">Controleren op andere problemen…</string>
     <string name="first_aid_stop_scan">Stoppen met scannen</string>
+    <string name="first_settings_default_camera_title">Standaard delen zonder metadata</string>
+    <string name="first_settings_default_location_subtitle">"Locatie info verwijderen uit gedeelde foto's"</string>
+    <string name="first_settings_default_location_title">Standaard delen zonder locatie info</string>
+    <string name="first_settings_share_enable">Voeg de badge \"Veilig delen\" toe</string>
+    <string name="first_settings_share_enable_subtitle">De items die u op WeChat deelt, worden weergegeven met een MIUI badge</string>
+    <string name="first_settings_subtitle">Dit zijn de opties voor veilig delen die voor u beschikbaar zijn:</string>
+    <string name="first_settings_title">Bescherm uw privacy</string>
     <string name="five_percent_total_pkg">%s (5%% van maandelijkse data)</string>
     <string name="fod_authentication_shift_button">Annuleren</string>
     <string name="fod_button_finger">Gebruik vingerafdruk</string>
@@ -1149,10 +1162,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="free_traffic_settings">Instellingen voor datagebruik in daluren</string>
     <string name="function_close">Uit</string>
     <string name="function_gwsd_detail">"Over deze functie:
- 1. Inkomende oproepen naar uw data SIM zullen de mobiele data verbinding niet onderbreken. De verbinding zal alleen onderbroken worden wanneer u een oproep beantwoordt.
- 2. Wanneer deze functie is ingeschakeld, zal de beller geen wacht beltonen te horen krijgen. Inkomende oproepen zullen beëindigt worden tenzij u binnen 6 seconden opneemt.
- 3. Deze functie werkt alleen voor data simkaarten. Oproepen naar uw primaire simkaart zullen de mobiele dataverbinding onderbreken.
- 4. Deze functie wordt alleen ondersteund door China Mobile en China Unicom."</string>
+ 1. Als u mobiele data gebruikt op een data-simkaart of op een gewone simkaart die is aangesloten op een VoLTE-netwerk, wordt de verbinding van inkomende oproepen pas onderbroken als u de oproep beantwoordt.
+ 2. Als deze functie is ingeschakeld, kan de andere persoon uw terugbeltonen niet horen, tenzij u een gewone simkaart gebruikt. Inkomende oproepen wordend automatisch geweigerd na 7-10 seconden inactiviteit.
+ 3. Data-simkaarten uitgegeven door China Mobile en China Unicom worden ondersteund. Normale simkaarten uitgegeven door China Mobile, China Unicom en China Telecom worden ondersteund."</string>
     <string name="function_gwsd_title">Sta inkomende oproepen niet toe om data SIM verbinding te onderbreken</string>
     <string name="function_shield_auto_bright">Automatische helderheid uitschakelen</string>
     <string name="function_shield_eye_shield">Leesmodus uitschakelen</string>
@@ -1333,7 +1345,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_xunyou_gift_type_one">Xunyou 1-dag boost</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3-dagen boost</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2-dagen boost</string>
-    <string name="gdpr_msg">&lt;Data>Om de basisfuncties van Beveiliging te gebruiken, dient u ermee akkoord te gaan dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, inclusief informatie over hoe u functies van Beveiliging gebruikt (bijv. gebruiksgegevens van mobiele data, info over malware en basis info over uw toestel) en andere types informatie die worden gespecificeerd in ons &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Privacybeleid&lt;/a>.&lt;/Data></string>
+    <string name="gdpr_msg"><Data>"Om beveiligingsrisico's te kunnen detecteren en uw gegevens te beschermen, moeten we de benodigde hoeveelheid informatie over uw apparaat verzamelen. Lees en ga akkoord met onze &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Privacybeleid&lt;/a> voordat u onze services gebruikt. Als u ons niet toestaat om dergelijke informatie te verzamelen, kunt u deze app nog steeds gebruiken, maar sommige functies zijn niet voor u beschikbaar. "</Data></string>
     <string name="get_sys_info">Informatie ophalen…</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_setting_alert_dialog_content">U kunt tot %s vrijmaken</string>
@@ -1392,8 +1404,15 @@ Video's worden opgeslagen in Game Turbo > Belangrijke momenten."</string>
     <string name="gs_show_way_vertical">Verticaal</string>
     <string name="gs_sign_notification">Herinnering om elke dag om 20: 00 in te checken</string>
     <string name="gs_slip_gamebox_detail">Gebruik de slider of veeg bovenin vanaf de rand van het scherm om het snelkoppelingenpaneel te weergeven</string>
+    <string name="gtb_dialog_btn_close">Uitschakelen</string>
+    <string name="gtb_dialog_btn_open">Inschakelen</string>
+    <string name="gtb_dialog_hint_smart_5g">U kunt deze functie in- en uitschakelen in Game Turbo > Instellingen.</string>
+    <string name="gtb_dialog_summary_smart_5g">Telkens wanneer Game Turbo een 5G-netwerk detecteert, kan het uw apparaat verbinden met het beste beschikbare netwerk om netwerkvertraging te verminderen. Deze functie nu inschakelen?</string>
+    <string name="gtb_dialog_title_smart_5g">5G-netwerkoptimalisatie</string>
     <string name="gtb_exit_game_to_gtb">Gamebox openen</string>
     <string name="gtb_exit_game_to_home">Terug naar Startscherm</string>
+    <string name="gtb_setting_item_summary_smart_5g">Telkens wanneer Game Turbo een 5G-netwerk detecteert, kan het uw apparaat verbinden met het beste beschikbare netwerk om netwerkvertraging te verminderen</string>
+    <string name="gtb_setting_item_title_smart_5g">5G-netwerkoptimalisatie</string>
     <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Verkeerde provider?&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">Je huidige provider:</string>
     <string name="guide_quck_open">Aanzetten</string>
@@ -1484,6 +1503,7 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="list_empty_text">Leeg</string>
     <string name="load_only_under_wlan">Alleen via Wifi laden</string>
     <string name="loading">Een ogenblik geduld…</string>
+    <string name="loading_text_format" formatted="false">"Privégegevens van foto's verwijderen (%d/%d)…"</string>
     <string name="local_ip_exception_summary">Kan geen lokaal IP-adres krijgen. Om dit probleem te melden bij MIUI, ga je naar de Feedback-app en verzend je een log-bestand van je apparaat.</string>
     <string name="lock_all_title">Vergrendel alle apps</string>
     <string name="lock_mode_title">Vergrendelinstellingen</string>
@@ -1612,6 +1632,7 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="memory_check_content">%s vrijgemaakt</string>
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Alles ziet er goed uit</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">Vrijgemaakt %s. Uw apparaat is %d%% sneller nu.</string>
     <string name="memory_clear_unused">Cache wissen (%s)</string>
     <string name="memory_title">Beschikbaar: %1$s\u0009\u0009Totaal: %2$s</string>
     <string name="menu_add">Toevoegen</string>
@@ -1652,11 +1673,14 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_summary_antivirus">Zoek naar virussen op uw apparaat</string>
     <string name="menu_summary_app_manager">Apps bijwerken en verwijderen</string>
     <string name="menu_summary_garbage_cleanup">Geen rommel gevonden</string>
-    <string name="menu_summary_garbage_cleanup_ex">%s rommel opruimen</string>
+    <string name="menu_summary_garbage_cleanup_ex">Vrijmaken %s</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% van opslagruimte</string>
     <string name="menu_summary_networkassistants">Beheer uw datagebruik</string>
     <string name="menu_summary_networkassistants_2">Datalimiet overschreden</string>
     <string name="menu_summary_networkassistants_3">Genoeg data resterend</string>
     <string name="menu_summary_networkassistants_4">Data is bijna op</string>
+    <string name="menu_summary_optimize_manage">Geheugen wissen</string>
+    <string name="menu_summary_optimize_manage_1">Maak uw apparaat %d%% sneller</string>
     <string name="menu_summary_power_manager">Batterijbesparing geeft u meer tijd voordat u weer moet opladen</string>
     <string name="menu_summary_power_manager_1">Batterij volledig opgeladen</string>
     <string name="menu_summary_power_manager_2">%s resterend</string>
@@ -1665,16 +1689,20 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_antispam">Blokkeerlijst</string>
     <string name="menu_text_antivirus">Beveiligingsscan</string>
     <string name="menu_text_garbage_cleanup">Opruimer</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Boost snelheid</string>
+    <string name="menu_text_optimize_manage_1">Boost snelheid</string>
     <string name="menu_text_power_manager">Batterij en prestatie</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_service_app_detail">Datagebruik details</string>
@@ -1834,6 +1862,8 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="om_locked_apps_summary">Vergrendelde apps zullen genegeerd worden door de snelheidsboost.</string>
     <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_not_finish_speedboost">Snelheidsboost is benodigd</string>
+    <string name="om_optimzing_big_button_text">Boost snelheid</string>
+    <string name="om_running_app_info_summary">Vrijmaken %s</string>
     <string name="om_running_locked_apps">Actieve apps vergrendeld</string>
     <string name="om_running_system_apps">Actieve systeem-apps</string>
     <string name="om_running_third_apps">Actieve apps van derden</string>
@@ -1848,6 +1878,13 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="om_settings_notify_manage">Meldingen</string>
     <string name="om_settings_speed_up_auto">Auto speed boost</string>
     <string name="om_settings_title">Instellingen</string>
+    <string name="om_shortcut_added_toast_text">Succesvol toegevoegd</string>
+    <string name="om_shortcut_dialog_summary">Met RAM Jet kunt u het geheugen wissen en de snelheid van uw apparaat met één tik verhogen. RAM Jet toevoegen aan uw Startscherm?</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">Deel zonder metadata</string>
+    <string name="once_settings_location_title">Deel zonder locatie info</string>
+    <string name="once_settings_subtitle">Hoe wilt u de geselecteerde items delen?</string>
+    <string name="once_settings_title">Privacybescherming</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">De applicatie werd niet gevonden</string>
     <string name="open_app">Open</string>
@@ -1891,7 +1928,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="optional_permissions_desc">Deze toestemmingen zijn vereist wanneer u aanvullende functies gebruikt.</string>
     <string name="optmizingbar_optimize_done">Geoptimaliseerd</string>
     <string name="optmizingbar_ready">Optimaliseren…</string>
-    <string name="optmizingbar_stop_optmize">Stop</string>
+    <string name="optmizingbar_stop_optmize">Stoppen</string>
     <string name="optmizingbar_title_acceleration">Optimaliseren…</string>
     <string name="optmizingbar_title_clear">Cache wissen</string>
     <string name="optmizingbar_title_security">Veiligheid</string>
@@ -2054,6 +2091,11 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is, zal MIUI de volgende optimalisaties uitvoeren:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid scherm automatisch aan</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -2230,6 +2272,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_normal_traffic_limit">Wanneer het dataplan verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Wanneer je over je dataplan gaat</string>
     <string name="pref_package_traffic_settings">Dataplan</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
@@ -2393,6 +2436,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="privacy_using_record">Audio opnemen</string>
     <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
     <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Advertentie</string>
@@ -2531,10 +2575,18 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="settings">Datagebruik-instellingen</string>
     <string name="settings_battery_consume_abnormal_summary">Ontvang meldingen wanneer de batterij snel leegloopt</string>
     <string name="settings_battery_consume_abnormal_title">Meldingen over batterijgebruik</string>
+    <string name="settings_camera_subtitle_no">Geen metadata</string>
     <string name="settings_category_other">Overige instellingen</string>
     <string name="settings_category_overheat">Opwarmen</string>
     <string name="settings_choice_no_notification">Uit</string>
+    <string name="settings_image_camera_summary">Apparaatmodel, metadata, etc.</string>
+    <string name="settings_location_subtitle_no">Geen locatie info</string>
     <string name="settings_power_save_ontime_title">Schema</string>
+    <string name="settings_share_enable_summary">De items die u op WeChat deelt, worden weergegeven met een MIUI badge</string>
+    <string name="settings_share_info">Dit zijn de veilige opties voor delen die beschikbaar zijn voor de items die worden gedeeld vanuit Galerij en Bestandsbeheer:</string>
+    <string name="settings_show_detail">Details weergeven</string>
+    <string name="settings_tip">Ga naar Galerij > Instellingen om meer opties te bekijken</string>
+    <string name="settings_title">Veilig delen</string>
     <string name="shield_keyboard_detail">Tik twee keer op de knoppen om ze weer in te schakelen</string>
     <string name="shield_keyboard_summary">Knoppen en volledig scherm gebaren blokkeren tijdens games</string>
     <string name="shield_keyboard_title">Knoppen en gebaren blokkeren</string>
@@ -2994,6 +3046,8 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="text_button">Begrepen</string>
     <string name="text_cycle_day">%s</string>
     <string name="text_day" />
+    <string name="text_done">OК</string>
+    <string name="text_security">Privacy</string>
     <string name="thermal_tips_message">Het spelen van games in de Prestatiemodus kan tot problemen met oververhitting leiden.</string>
     <string name="thermal_tips_title">Attentie</string>
     <string name="third_application">Geïnstalleerde apps</string>

@@ -18,7 +18,7 @@
     <string name="bugreport_screenshot_action">Screenshot</string>
     <string name="bugreport_screenshot_failed">Screenshot kan niet worden gemaakt.</string>
     <string name="bugreport_screenshot_taken">Screenshot is gemaakt.</string>
-    <string name="bugreport_storage_title">Foutenrapporten</string>
+    <string name="bugreport_storage_title">Bugrapporten</string>
     <string name="bugreport_unnamed">naamloos</string>
     <string name="bugreport_unreadable_text">Bestand met bugrapport kan niet worden gelezen</string>
     <string name="bugreport_updating_title">Details toevoegen aan het bugrapport</string>

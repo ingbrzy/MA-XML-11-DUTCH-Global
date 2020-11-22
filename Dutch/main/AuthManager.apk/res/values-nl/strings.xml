@@ -83,6 +83,8 @@
     <string name="HIPS_Perm_get_tasks_Desc">taken ophalen</string>
     <string name="HIPS_Perm_install_shortcut">Startscherm snelkoppelingen</string>
     <string name="HIPS_Perm_install_shortcut_Desc">snelkoppelingen toevoegen aan het Startscherm</string>
+    <string name="HIPS_Perm_mediaVolume">Mediavolume aanpassen</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">Sta de app toe om het mediavolume aan te passen</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">toegang krijgen tot near field communication (NFC) hardware</string>
     <string name="HIPS_Perm_process_outgoing_calls">Open telefoon app</string>
@@ -117,6 +119,10 @@
     <string name="location_warning">%1$s is een aanbieder van locatieservices voor dit apparaat. Toegang tot locatie kan worden aangepast bij locatie-instellingen.</string>
     <string name="never_ask_again">Vraag niet opnieuw na beperking</string>
     <string name="ok">OK</string>
+    <string name="perm_action_allow">Toestaan</string>
+    <string name="perm_action_deny">Nooit toestaan</string>
+    <string name="perm_modem_location">Toegang tot uw locatie</string>
+    <string name="perm_modem_location_desc">Uw provider probeert toegang te krijgen tot uw locatie info. Locatie info delen met de provider?</string>
     <string name="permdesc_camera">"Foto's maken en video's opnemen"</string>
     <string name="permdesc_in_calls">Inkomende gesprekken zien</string>
     <string name="permdesc_location">Toegang tot locatie-Informatie</string>

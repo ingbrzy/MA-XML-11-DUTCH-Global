@@ -56,9 +56,9 @@
     <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
     <string name="first_using_mic_dialog_title">Toestemmingen vereist</string>
     <string name="fixed_frame_rate">Vaste frame rate</string>
-    <string name="fixed_frame_rate_summary">"Het opnemen van video's met een vaste frame frate verbetert het afspelen op sociale media platformen en verkort de levensduur van de batterij."</string>
-    <string name="frames">Frame rate</string>
-    <string name="frames_summary">Hogere frame rates verminderen wazigheid</string>
+    <string name="fixed_frame_rate_summary">"Het opnemen van video's met een vaste framesnelheid verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij."</string>
+    <string name="frames">Framesnelheid</string>
+    <string name="frames_summary">Hogere framesnelheden verminderen wazigheid</string>
     <string name="frequently_click_toast">Een ogenblik geduld…</string>
     <string name="gleam_led_while_recording">Knipperend meldingslampje tijdens opname</string>
     <string name="hint_back">Terug</string>

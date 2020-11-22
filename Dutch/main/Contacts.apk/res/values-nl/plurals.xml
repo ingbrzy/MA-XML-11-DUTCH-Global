@@ -48,6 +48,14 @@
         <item quantity="other">Ging %1$d keer over</item>
         <item quantity="one">Ging %1$d keer over</item>
     </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d telefoonnummers</item>
+        <item quantity="one">%d telefoonnummer</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d telefoonnummers verwijderen?</item>
+        <item quantity="one">%d telefoonnummer verwijderen?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"%1$d contactpersonen of foto's zijn niet gesynchroniseerd"</item>
         <item quantity="one">%1$d contactpersoon of foto is niet gesynchroniseerd</item>
@@ -100,10 +108,6 @@
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d items gevonden</item>
-        <item quantity="one">%1$d item gevonden</item>
-    </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactpersonen</item>
         <item quantity="one">%1$d contactpersoon</item>
@@ -148,10 +152,6 @@
         <item quantity="other">%1$d contacten met deels gelijke info</item>
         <item quantity="one">%1$d contacten met deels gelijke info</item>
     </plurals>
-    <plurals name="merge_info">
-        <item quantity="other">samengevoegd uit %0$d bronnen</item>
-        <item quantity="one">niet samengevoegd</item>
-    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>
@@ -160,17 +160,9 @@
         <item quantity="other">%1$d personen van %2$s</item>
         <item quantity="one">%1$d persoon van %2$s</item>
     </plurals>
-    <plurals name="num_groups_in_account">
-        <item quantity="other">%d groepen</item>
-        <item quantity="one">%d groep</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
-    </plurals>
-    <plurals name="number_of_items_available">
-        <item quantity="other">%1$d items resterend</item>
-        <item quantity="one">%1$d item resterend</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$dgeselecteerd</item>
@@ -195,6 +187,10 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d gevonden</item>
         <item quantity="one">%d gevonden</item>
+    </plurals>
+    <plurals name="search_group_contacts_result">
+        <item quantity="other">%s resultaten</item>
+        <item quantity="one">%s resultaat</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">Selecteer niet meer dan %1$d, kan niet alles selecteren</item>

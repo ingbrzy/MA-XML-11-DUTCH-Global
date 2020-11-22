@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="activity_convert_pdf_alert_message">Bestandsconversie wordt verzorgd door WPS Office</string>
+    <string name="activity_convert_pdf_alert_title">Bestand converteren voordat het wordt afgedrukt…</string>
+    <string name="activity_jump_market_alert_install_message">Installeer WPS Office om dit bestand te converteren en klaar te maken voor afdrukken. U moet opnieuw beginnen met afdrukken nadat de installatie is voltooid. Installeer nu?</string>
+    <string name="activity_jump_market_alert_install_positive_button">Installeren</string>
+    <string name="activity_jump_market_alert_title">Let op</string>
+    <string name="activity_jump_market_alert_update_message">Werk WPS Office bij om dit bestand te converteren en klaar te maken voor afdrukken. U moet opnieuw beginnen met afdrukken nadat de nieuwe versie is geïnstalleerd. Update nu?</string>
+    <string name="activity_jump_market_alert_update_positive_button">Bijwerken</string>
     <string name="add_print_service_label">Service toevoegen</string>
     <string name="all_printers">Alle printers…</string>
     <string name="all_printers_label">Alle printers</string>
@@ -16,7 +23,10 @@
     <string name="collapse_handle">Handgreep voor samenvouwen</string>
     <string name="connectio_delay_content">U moet wellicht de verbinding op uw printer bevestigen.</string>
     <string name="connectio_help_title">Verbinding maken met een printer</string>
+    <string name="copies_decrease">Min één kopie</string>
+    <string name="copies_increase">Plus één kopie</string>
     <string name="could_not_create_file">Kan bestand niet maken</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">Geselecteerde printers nu verwijderen?</string>
     <string name="destination_default_text">Printer selecteren</string>
     <string name="disabled_services_title">Uitgeschakelde services</string>
@@ -45,7 +55,7 @@
     <string name="open_print_service">Printen inschakelen</string>
     <string name="open_print_service_tips">Om deze functie te gebruiken, schakel printen eerst in in de Instellingen.</string>
     <string name="open_wlan">Wifi inschakelen</string>
-    <string name="open_wlan_tips">Schakel wifi in om printers sneller te vinden.</string>
+    <string name="open_wlan_tips">Schakel wifi in om printers te vinden</string>
     <string name="other_printer">Andere printers</string>
     <string name="page_description_template">Pagina %1$d van %2$d</string>
     <string name="pages_range_example">bijv. 1—5,8,11—13</string>
@@ -62,7 +72,7 @@
     <string name="print_fail_network_error">Kon niet printen. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="print_forget_printer">Printer vergeten</string>
     <string name="print_help_label">Help</string>
-    <string name="print_help_tip">Zorg dat zowel uw telefoon en de printer verbonden zijn met hetzelfde wifi-netwerk of dat Wi-Fi Direct ingeschakeld is. %1$s.</string>
+    <string name="print_help_tip">Zorg ervoor dat zowel de printer als uw telefoon zijn verbonden met hetzelfde Wi-Fi-netwerk of Wi-Fi Direct is ingeschakeld. %1$s.</string>
     <string name="print_help_tip_reg">Bekijk \"Help\"</string>
     <string name="print_no_print_services">Geen afdrukservices ingeschakeld</string>
     <string name="print_no_printers">Geen printers gevonden</string>
@@ -85,6 +95,7 @@
     <string name="printer_busy">Printer is bezet</string>
     <string name="printer_error">Printer fout</string>
     <string name="printer_error_msg">Printer fout: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Meer informatie over deze printer</string>
     <string name="printer_notification_error_title">Kon niet printen %1$s</string>
     <string name="printer_unavailable">Printer is niet beschikbaar</string>
@@ -109,4 +120,6 @@
     <string name="template_all_pages">Alle %1$s</string>
     <string name="template_page_range">Bereik van %1$s</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
+    <string name="wps_convert_error_toast_text">Kon bestand niet converteren vanwege een formaatfout</string>
+    <string name="wps_convert_too_large_and_wait_toast_text">De conversie kan langer duren vanwege een grotere bestandsgrootte. Converteren…</string>
 </resources>

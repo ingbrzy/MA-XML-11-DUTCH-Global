@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Gereed</string>
@@ -10,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
     <string name="abc_search_hint">Zoeken…</string>
     <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
     <string name="abc_searchview_description_query">Zoekopdracht</string>
@@ -19,6 +27,24 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="age_label_add_to_calendar">Toevoegen aan kalender</string>
@@ -61,9 +87,10 @@
     <string name="clear_history">Geschiedenis wissen</string>
     <string name="combine_loan">Gezamenlijk inkomen</string>
     <string name="commercial_loan">Commerciële lening</string>
-    <string name="convert_currency">Valuta omrekenen</string>
+    <string name="convert_currency">Koersconverter</string>
     <string name="convertion_unit">Eenheid omrekenen</string>
     <string name="convertion_unit_area">Oppervlakte omrekenen</string>
+    <string name="convertion_unit_data">Data-omzetter</string>
     <string name="convertion_unit_length">Lengte omrekenen</string>
     <string name="convertion_unit_radix">Numeriek systeem</string>
     <string name="convertion_unit_temperature">Temperatuur omrekenen</string>
@@ -73,6 +100,7 @@
     <string name="convertion_unit_weight">Massa omrekenen</string>
     <string name="cos">cos</string>
     <string name="cosDesc">cosinus</string>
+    <string name="currency_dialog_privacy_content">&lt;Data>Koersconverter moet verbinding maken met het internet om de laatste valutakoersen te krijgen. Lees en ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> voordat u deze functie gebruikt.&lt;/Data></string>
     <string name="currency_update_connect_to_get_data">Wisselkoersen worden verstrekt door Webull. Maak verbinding met het netwerk voor de meest recente informatie.</string>
     <string name="currency_update_support">Wisselkoersen worden verstrekt door Webull.</string>
     <string name="currency_update_time_format">Wisselkoersen worden verstrekt door Webull (%s)</string>
@@ -86,7 +114,7 @@
     <string name="description_content">Naast de basisfuncties, werkt Rekenmachine ook als een multifunctionele omzetter, hypotheek- en belastingcalculator. Wees er zeker van dat u zonder deze functies kunt voordat u de app deïnstalleert.</string>
     <string name="description_title">Over Rekenmachine</string>
     <string name="devided_by_zero_reminder_message">Kan niet door nul delen</string>
-    <string name="dialog_privacy_content">Buiten de standaardfuncties van een rekenmachine, bevat onze app ook een grafische rekenmachine en een multifunctionele omzetter. Sommige functies hebben verbinding met het internet nodig om normaal te functioneren. U moet onze %1$s en %2$s lezen en hiermee akkoord gaan voordat u de Rekenmachine gebruikt.</string>
+    <string name="dialog_privacy_content">&lt;Data>Naast de basisfuncties van een rekenmachine, bevat onze app ook een wetenschappelijke rekenmachine en een multifunctionele converter. Sommige functies hebben een internetverbinding nodig om normaal te kunnen werken. U moet onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> lezen en akkoord gaan voordat u de Rekenmachine gebruikt.&lt;/Data></string>
     <string name="dialog_privacy_title">Algemene voorwaarden</string>
     <string name="dialog_rating_desc_ask">Wat vindt u van Rekenmachine?</string>
     <string name="dialog_rating_desc_less">Kunt u ons ook uw feedback geven?</string>
@@ -104,6 +132,7 @@
     <string name="digit9">9</string>
     <string name="divDesc">delen</string>
     <string name="dob_selection_error">Geboortedatum moet vroeger zijn dan de datum van vandaag</string>
+    <string name="dont_allow">Niet akkoord</string>
     <string name="dotDesc">punt</string>
     <string name="e">e</string>
     <string name="eDesc">Het getal e</string>
@@ -119,11 +148,11 @@
     <string name="fund" />
     <string name="fund_loan">Fondslening</string>
     <string name="further_education">Verdere onderwijs</string>
-    <string name="global_network_confirm_content">De valuta omzetter moet met het internet verbonden zijn om normaal te kunnen functioneren.</string>
+    <string name="global_network_confirm_content">De Koersconverter moet met het internet verbonden zijn om normaal te kunnen functioneren.</string>
     <string name="global_search_key_area_convertion">Oppervlakte;Oppervlakte omzetter;Oppervlakte omzetten</string>
     <string name="global_search_key_calculation">Berekenen;Rekenmachine;Eenheid omzetting;Omzetter;Eenheidsomzetter</string>
     <string name="global_search_key_date_convertion">Tijd omzetter;Tijdseenheden;Tijds omzetting;Tijd</string>
-    <string name="global_search_key_exchange_rate">Wisselkoers;Wisselkoersconversie;Valuta omzetter;Valuta;Wisselkoersen</string>
+    <string name="global_search_key_exchange_rate">Wisselkoers;Wisselkoersconversie;Koersconverter;Valuta;Wisselkoersen</string>
     <string name="global_search_key_length_convertion">Lengte;Lengte omzetter;Lengteomzetter</string>
     <string name="global_search_key_mortgage">Hypotheekberekening;Hypotheekcalculator;Hypotheek</string>
     <string name="global_search_key_personal_tax">Individuele inkomstenbelasting;Netto inkomen;Belastingcalculator;Berekening van persoonlijke belasting;Inkomenscalculator;Netto inkomen calculator;belasting;belastingen</string>
@@ -148,17 +177,23 @@
     <string name="install">Installeren</string>
     <string name="install_scanner_to_continued_use">Scanner is gedeïnstalleerd. Opnieuw installeren?</string>
     <string name="interest_rate_hint">Rente invoeren</string>
+    <string name="investment_invalid_duration">De investeringsduur moet groter zijn dan nul</string>
+    <string name="investment_type_once">Eenmalig</string>
+    <string name="investment_type_recurring">Terugkerend</string>
+    <string name="item_page_title_investment">Investeringscalculator</string>
     <string name="item_title_aa_payment">De rekening delen</string>
     <string name="item_title_age">Leeftijd</string>
     <string name="item_title_area_conversion">Oppervlakte</string>
     <string name="item_title_bmi">BMI</string>
     <string name="item_title_calculator">Rekenmachine</string>
     <string name="item_title_currency">Valuta</string>
+    <string name="item_title_data_conversion">Data</string>
     <string name="item_title_date_calculator">Datum</string>
     <string name="item_title_discount">Korting</string>
     <string name="item_title_dress_size">Kledingmaat</string>
     <string name="item_title_emi">Leningberekenaar</string>
     <string name="item_title_gst">GST</string>
+    <string name="item_title_investment">Investering</string>
     <string name="item_title_length_conversion">Lengte</string>
     <string name="item_title_loan">Lening</string>
     <string name="item_title_mortgage">Hypotheek</string>
@@ -183,17 +218,21 @@
     <string name="label_from_date">Van</string>
     <string name="label_history">Geschiedenis</string>
     <string name="label_interest">Rente (percentage)</string>
+    <string name="label_investment_duration">Duur</string>
     <string name="label_loan_tenure">Ambtstermijn lening</string>
     <string name="label_months">Maanden</string>
     <string name="label_no_history">Nog geen items hier</string>
+    <string name="label_powered_by">Mogelijk gemaakt door Mi Calculator</string>
     <string name="label_principal">Hypotheek hoofdsom</string>
     <string name="label_share">Delen</string>
     <string name="label_start_date">Begindatum</string>
     <string name="label_statistics">Statistieken</string>
     <string name="label_to_date">Tot</string>
     <string name="label_total_interest">Totaal rente</string>
+    <string name="label_total_investment">Totale investering</string>
     <string name="label_total_payment">Totale betaling</string>
     <string name="label_total_principal">Totaal hypotheek hoofdsom</string>
+    <string name="label_total_value">Totale waarde</string>
     <string name="label_years">Jaren</string>
     <string name="leftParen">(</string>
     <string name="leftParenDesc">linkerhaakje</string>
@@ -285,7 +324,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="name_save">"U bespaart "</string>
     <string name="name_split">Bedrag gesplitst</string>
     <string name="negDesc">Schakelen tussen temperaturen onder en boven nul</string>
-    <string name="network_confirm_content">De valuta omzetter en belasting- en hypotheekcalculators moeten verbonden zijn met het internet en toegang hebben tot locatieservices om normaal te kunnen functioneren.</string>
+    <string name="network_confirm_content">Koersconverter, belasting- en hypotheekcalculators moeten verbonden zijn met het internet en toegang hebben tot locatie services om normaal te kunnen functioneren.</string>
     <string name="network_confirm_title">Toestemmingen vereist</string>
     <string name="network_purpose">"Welkom bij Rekenmachine! Met Rekenmachine kunt u valuta's omzetten, hypotheek terugbetalingen berekenen en meer."</string>
     <string name="none">Geen</string>
@@ -409,6 +448,9 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="tax_unemployment">Werkloosheid</string>
     <string name="tax_update_time_format">Gegevens verstrekt door HeXun (%s)</string>
     <string name="times" />
+    <string name="tv_recurrence_monthly">Maandelijks</string>
+    <string name="tv_recurrence_quaterly">Per kwartaal</string>
+    <string name="tv_recurrence_yearly">Jaarlijks</string>
     <string name="unKnow_error">Onbekende fout</string>
     <string name="unit_cm">Centimeters</string>
     <string name="unit_data_display_area_acre">Acre</string>
@@ -447,6 +489,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -538,6 +581,12 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_yer">Jemenitische rial</string>
     <string name="unit_data_display_currency_zar">Zuid-Afrikaanse rand</string>
     <string name="unit_data_display_currency_zmw">Zambiaanse kwacha</string>
+    <string name="unit_data_display_data_b">Byte</string>
+    <string name="unit_data_display_data_gb">Gigabyte</string>
+    <string name="unit_data_display_data_kb">Kilobyte</string>
+    <string name="unit_data_display_data_mb">Megabyte</string>
+    <string name="unit_data_display_data_pb">Petabyte</string>
+    <string name="unit_data_display_data_tb">Terabyte</string>
     <string name="unit_data_display_length_au">Astronomische eenheid</string>
     <string name="unit_data_display_length_chi">Chi</string>
     <string name="unit_data_display_length_cm">Centimeter</string>
@@ -646,6 +695,12 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_short_area_sq.rd">rd²</string>
     <string name="unit_data_short_area_sq.um">μm²</string>
     <string name="unit_data_short_area_sq.yd">yd²</string>
+    <string name="unit_data_short_data_b">B</string>
+    <string name="unit_data_short_data_gb">GB</string>
+    <string name="unit_data_short_data_kb">KB</string>
+    <string name="unit_data_short_data_mb">MB</string>
+    <string name="unit_data_short_data_pb">PB</string>
+    <string name="unit_data_short_data_tb">TB</string>
     <string name="unit_data_short_length_au">⊙</string>
     <string name="unit_data_short_length_chi">chi</string>
     <string name="unit_data_short_length_cm">cm</string>
@@ -770,8 +825,11 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Kon niet verbinden met Downloads. Controleer of de app de benodigde toestemmingen heeft in Instellingen > Geïnstalleerde apps.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar. Controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"De nieuwe versie %1$s
 Grootte: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"De nieuwe versie %1$s

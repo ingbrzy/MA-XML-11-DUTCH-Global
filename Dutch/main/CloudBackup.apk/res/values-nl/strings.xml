@@ -37,7 +37,6 @@
     <string name="back_up_task_in_process">Bezig met back-up…</string>
     <string name="back_up_task_unfinished">Kon geen back-up maken</string>
     <string name="backing_up_to_micloud">Bezig met back-up…</string>
-    <string name="backup_fail_wifi_needed">Back-up niet gelukt, wifi vereist.</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Niet genoeg opslagruimte in Xiaomi Cloud. Upgrade uw abonnement of maak opslagruimte vrij.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Niet genoeg opslagruimte. Maak eerst opslagruimte vrij.</string>
     <string name="backup_failed_reason_network_error">Netwerkfout. Wacht een paar minuten en probeer het opnieuw.</string>
@@ -58,6 +57,7 @@
     <string name="btn_restore_resume">Hervatten</string>
     <string name="btn_restore_retry">Opnieuw proberen</string>
     <string name="btn_restore_wait">Wachten op wifi</string>
+    <string name="btn_restore_wait_china">Wait for WLAN</string>
     <string name="btn_retry">Controleer opnieuw</string>
     <string name="btn_skip">Deze stap overslaan</string>
     <string name="button_cancel">Annuleren</string>
@@ -87,10 +87,15 @@
 *  Notificatie-instellingen 
 *  MIUI en systeeminstellingen 
 \"Opmerking: er zal geen back-up van gegevens van apps die u heeft geïnstalleerd gemaakt worden naar Xiaomi Cloud."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+*  Apps, Home screen layout, and wallpapers 
+*  Alarm, clock, and time settings 
+*  Notification settings 
+*  MIUI and system settings 
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Backup planning</string>
     <string name="cloud_back_up_frequence_long">Om de 7 dagen</string>
     <string name="cloud_back_up_frequence_short">Iedere dag</string>
-    <string name="cloud_back_up_no_network_warn">Kan niet verbinden met wifi</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Een ogenblik geduld…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
@@ -103,6 +108,7 @@
     <string name="cloud_backup_detail_manage">Backups beheren</string>
     <string name="cloud_backup_detail_state">Automatische back-ups</string>
     <string name="cloud_backup_detail_state_summary">Creëer automatisch Xiaomi Cloud back-ups wanneer u verbonden bent met wifi.</string>
+    <string name="cloud_backup_detail_state_summary_china">Create Xiaomi Cloud backups automatically when connected to WLAN.</string>
     <string name="cloud_backup_detail_time">Laatste backup: %1$s</string>
     <string name="cloud_backup_detail_title">Startscherm, apps en instellingen.</string>
     <string name="cloud_backup_have_data">Back-up gevonden in Xiaomi Cloud</string>
@@ -138,7 +144,9 @@
     <string name="dialog_cancel_backup_title">Lopende back-up annuleren?</string>
     <string name="dialog_msg_overwrite_backup">Lokale back-up is niet hetzelfde als die op Xiaomi Cloud. Als u verdergaat zal de huidige back-up de vorige overschrijven.</string>
     <string name="dialog_msg_restore_require_wlan">Herstellen van back-ups vereist verbinding met wifi.</string>
+    <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
     <string name="dialog_title_require_wlan">Verbinden met wifi</string>
+    <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Grootte berekenen…</string>
     <string name="doing_restore_home">Startscherm en instellingen herstellen…</string>
@@ -153,6 +161,7 @@
     <string name="error_unknown">Er is iets misgegaan</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="get_device_id_error">Apparaat-ID kan niet worden opgehaald</string>
+    <string name="help_and_feedback">Hulp en feedback</string>
     <string name="hint_restore_cross_space">Startscherm lay-out kan wellicht onjuist weergegeven worden als u items van plek verwisselt.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Andere launcher</string>
@@ -179,11 +188,10 @@
     <string name="notification_channel_remind">Herinnering</string>
     <string name="notification_channel_service">Service</string>
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
-    <string name="open_wifi">Wifi nu inschakelen</string>
-    <string name="open_wifi_description">Verbinding maken met een wifi-netwerk om app te herstellen</string>
-    <string name="open_wifi_setting">Wifi-instellingen</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
@@ -211,7 +219,6 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_app_order_search_prior">Hoge-prioriteit apps</string>
     <string name="restore_app_order_title">Prioriteer herstelde items</string>
     <string name="restore_cloud_backup_to_phone">Items van de cloud herstellen</string>
-    <string name="restore_data_summary">Voor deze functie is een internetverbinding nodig.</string>
     <string name="restore_data_title">Herstel gegevens</string>
     <string name="restore_detail_category_apps">Startscherm lay-out en apps</string>
     <string name="restore_detail_category_settings">Instellingen</string>
