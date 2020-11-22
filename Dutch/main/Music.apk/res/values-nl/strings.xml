@@ -280,9 +280,7 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -370,9 +368,7 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -744,7 +740,6 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
 Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
@@ -890,7 +885,6 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
     <string name="start_update">Nieuwe versie installeren…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -981,7 +975,6 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Mi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
     <string name="user_privacy_dialog_positive_count_down_text">Intrekken (%s s)</string>
     <string name="user_privacy_dialog_positive_text">Intrekken</string>

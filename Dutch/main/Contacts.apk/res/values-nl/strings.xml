@@ -467,7 +467,6 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -589,7 +588,6 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -718,7 +716,6 @@ Reden: \"%s\""</string>
     <string name="payphone">Betaal telefoon</string>
     <string name="people">Contacten</string>
     <string name="phoneLabelsGroup">Telefoon</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -918,7 +915,6 @@ Reden: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -960,7 +956,6 @@ Reden: \"%s\""</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
