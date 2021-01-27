@@ -94,6 +94,7 @@
     <string name="auth_fail_warning">Sessie verlopen. Meld u opnieuw aan.</string>
     <string name="auto_play_next_off">Automatisch afspelen is uitgeschakeld</string>
     <string name="auto_play_next_on">Automatisch afspelen is ingeschakeld</string>
+    <string name="back_to_mainpage">Ontdek</string>
     <string name="before_yestoday">2 dagen geleden</string>
     <string name="bind_sign_in_title">Mi Account toevoegen</string>
     <string name="cancel">Annuleren</string>
@@ -117,6 +118,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -233,7 +235,7 @@
 ID:%s
 Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_privacy_info_new2">Om gebruik te kunnen maken van deze services, moet u ermee akkoord gaan dat %1$s uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. U wordt geacht het &lt;a href=%2$s> Privacybeleid&lt;/a> te hebben gelezen en ermee akkoord te gaan als u hieronder op \"Akkoord\" tikt.</string>
-    <string name="dialog_privacy_info_new3">Om deze service te kunnen gebruiken, moet u %1$s toestaan toestemming te geven om uw persoonlijke gegevens te verzamelen, verwerken en gebruiken in overeenstemming met het Privacybeleid. Door hieronder op \"Akkoord\" te klikken, gaat u akkoord met &lt;a href=%2$s>Privacybeleid&lt;/a> en &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> van Xiaomi.</string>
+    <string name="dialog_privacy_info_new3">Om deze service te kunnen gebruiken, moet u %1$s toestemming geven om uw persoonlijke informatie te verzamelen, verwerken en gebruiken in overeenstemming met het Privacybeleid. Door hieronder op Akkoord te klikken, gaat u akkoord met het &lt;a href=%2$s>Privacybeleid&lt;/a> en &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> van Xiaomi. &lt;br/>&lt;br/>Door op Akkoord te klikken, krijgt Mi Video ook toegang tot de lijst met apps die op uw apparaat zijn geïnstalleerd. Met deze toestemming kan Mi Video items delen, begrijpen of een app op uw apparaat is geïnstalleerd, welke versie van een app is geïnstalleerd en of een app veilig is.</string>
     <string name="dialog_privacy_title">Toestemming</string>
     <string name="dialog_revoke_privacy_info_new2">Nadat u de toestemming intrekt zal de app stoppen met het verzamelen van gegevens en zullen alle gerelateerde gegevens van onze servers worden verwijderd. Dit kan ervoor zorgen dat de app zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
     <string name="dialog_revoke_privacy_title">Toestemming intrekken</string>
@@ -303,6 +305,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="favorite_fail">Kon niet aan favorieten toevoegen. Probeer het opnieuw.</string>
     <string name="favorite_success">Succesvol aan favorieten toegevoegd</string>
     <string name="fcm_fallback_notification_channel_label">Overige</string>
+    <string name="fcm_push_title">"Populaire video's"</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Voer uw contactinformatie in</string>
@@ -649,6 +652,9 @@ voor video's"</string>
     <string name="notification_bar_player_subtitle">Toon geminimaliseerde speler in het Meldingenpaneel</string>
     <string name="notification_bar_player_title">Speler minimaliseren</string>
     <string name="notification_open_tip">Schakel in om meldingen te ontvangen</string>
+    <string name="notification_recall_action">Inschakelen</string>
+    <string name="notification_recall_desc">"Mi Video kan u informeren over populaire video's en uw abonnementen."</string>
+    <string name="notification_recall_title">Meldingen inschakelen</string>
     <string name="notify_apk_installed">Succesvol gedownload</string>
     <string name="ok">OK</string>
     <string name="order_alphabet">A-Z</string>
@@ -694,7 +700,7 @@ voor video's"</string>
     <string name="ovp_home_item_folder">Bestanden</string>
     <string name="ovp_home_local">Lokaal</string>
     <string name="ovp_home_me">Account</string>
-    <string name="ovp_home_no_data_callback">Kon geen info verkrijgen, veeg naar beneden om te vernieuwen.</string>
+    <string name="ovp_home_no_data_callback">Kon geen info verkrijgen. Trek naar beneden om te vernieuwen.</string>
     <string name="ovp_home_online">Online</string>
     <string name="ovp_home_online_content_title">Online</string>
     <string name="ovp_info_video_loading">Een ogenblik geduld…</string>
@@ -709,7 +715,7 @@ voor video's"</string>
     <string name="ovp_navigation_home">Start</string>
     <string name="ovp_navigation_language">Taal</string>
     <string name="ovp_navigation_localvideo">Lokaal</string>
-    <string name="ovp_navigation_notice">Notificaties</string>
+    <string name="ovp_navigation_notice">Meldingen</string>
     <string name="ovp_navigation_setting">Instellingen</string>
     <string name="ovp_navigation_subscribe">Abonnement</string>
     <string name="ovp_player_cached_error_btn">"Online video's"</string>
@@ -847,6 +853,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="permission_storage">Opslag</string>
     <string name="permission_storage_desc">"Voor het openen en opslaan van bestanden en het weergeven en afspelen van lokale video's"</string>
     <string name="permission_title">Toestemmingen vereist</string>
+    <string name="pgc_push_title">Abonnementen</string>
     <string name="phone_bind_too_many">Deze telefoon is in korte tijd gekoppeld aan verschillende Mi-accounts. Probeer een ander telefoonnummer te gebruiken.</string>
     <string name="phone_hint">Telefoonnummer</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
@@ -985,7 +992,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Sleep omhoog te vernieuwen…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Een ogenblik geduld…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Laat los om te vernieuwen…</string>
-    <string name="pull_to_refresh_pull_label">Sleep omlaag om te vernieuwen…</string>
+    <string name="pull_to_refresh_pull_label">Trek naar beneden om te vernieuwen…</string>
     <string name="pull_to_refresh_refreshing_label">Een ogenblik geduld…</string>
     <string name="pull_to_refresh_release_label">Laat los om te vernieuwen…</string>
     <string name="push_message_switch">Push-meldingen</string>

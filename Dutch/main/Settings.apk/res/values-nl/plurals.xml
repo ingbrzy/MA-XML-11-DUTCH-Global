@@ -353,8 +353,8 @@
         <item quantity="one">%1$d opgeslagen gehoorapparaat</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">U bent %1$d stap weg van het openen van apparaatinformatie.</item>
-        <item quantity="one">U bent %1$d stap weg van het openen van apparaatinformatie.</item>
+        <item quantity="other">U bent %1$d stappen weg van het openen van apparaat info.</item>
+        <item quantity="one">U bent %1$d stap weg van het openen van apparaat info.</item>
     </plurals>
     <plurals name="show_rep_countdown">
         <item quantity="other">U bent %1$d stappen verwijderd van het melden van een systeemfout.</item>

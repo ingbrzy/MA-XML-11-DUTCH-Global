@@ -92,17 +92,9 @@
         <item quantity="other">%s resultaten in gesynchroniseerde berichten</item>
         <item quantity="one">%s resultaat in gesynchroniseerde berichten</item>
     </plurals>
-    <plurals name="month">
-        <item quantity="other">%d maanden</item>
-        <item quantity="one">%d maand</item>
-    </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d resterende bijlages</item>
         <item quantity="one">%1$d resterende bijlage</item>
-    </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">%1$d gesprekken verplaatsen</item>
-        <item quantity="one">Gesprek verplaatsen</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">Bekijk %1$d nieuwe berichten.</item>
@@ -155,10 +147,6 @@
     <plurals name="number_of_week_before">
         <item quantity="other">%1$d weken ervoor</item>
         <item quantity="one">%1$d week ervoor</item>
-    </plurals>
-    <plurals name="quick_reply_hint">
-        <item quantity="other">%1$d mensen beantwoorden</item>
-        <item quantity="one">%1$d persoon beantwoorden</item>
     </plurals>
     <plurals name="remote_search_result">
         <item quantity="other">%s resultaten in alle accounts</item>

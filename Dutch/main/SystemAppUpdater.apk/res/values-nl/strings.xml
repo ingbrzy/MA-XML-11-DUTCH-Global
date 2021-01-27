@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Gereed</string>
@@ -10,6 +8,16 @@
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
     <string name="abc_search_hint">Zoeken…</string>
     <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
     <string name="abc_searchview_description_query">Zoekopdracht</string>
@@ -19,9 +27,6 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
-    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
-    <string name="search_menu_title">Zoeken</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ad_tag">Advertentie</string>
     <string name="already_bottom">U hebt het einde van de pagina bereikt</string>
     <string name="app_name">Systeem-apps updater</string>
@@ -30,6 +35,24 @@
     <string name="cancel">Annuleren</string>
     <string name="collapse_update_apps_hint">Tik om alles te tonen</string>
     <string name="collapse_update_history_hint">Tik om alles te tonen</string>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
     <string name="connect_fail">Netwerkverbinding verloren</string>
     <string name="connect_no_enough_space_message">Er is onvoldoende opslagruimte beschikbaar op uw apparaat</string>
     <string name="connect_no_enough_space_title">Onvoldoende opslagruimte</string>
@@ -143,10 +166,12 @@
     <string name="remove_package_fail">Proces verlopen</string>
     <string name="resume">Hervatten</string>
     <string name="retry">Opnieuw proberen</string>
+    <string name="search_menu_title">Zoeken</string>
     <string name="send">Verzenden</string>
     <string name="show_report_data">Rapportgegevens weergeven</string>
     <string name="signature_inconsistent_apps">Inconsistente handtekening</string>
     <string name="signature_inconsistent_message">Deze app heeft een andere handtekening dan de app die beschikbaar is op onze markt, toch bijwerken?</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="system_app_sign_not_match_fail">App-handtekeningen komen niet overeen</string>
     <string name="updatable_apps">Updates beschikbaar</string>
     <string name="update">Bijwerken</string>

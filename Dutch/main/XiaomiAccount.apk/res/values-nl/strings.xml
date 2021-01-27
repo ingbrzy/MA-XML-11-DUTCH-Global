@@ -47,7 +47,7 @@
     <string name="account_has_been_set">Wijzigen</string>
     <string name="account_invalid_user_avatar">Deze foto is ongeldig. Probeer een andere.</string>
     <string name="account_limit_update_birthday">Kan verjaardagen momenteel niet updaten</string>
-    <string name="account_mibi_center">Mi Credits</string>
+    <string name="account_mibi_center">Mi Coins</string>
     <string name="account_mibi_charge">Opladen</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_no_set">Geen</string>
@@ -74,7 +74,7 @@
     <string name="account_user_name">Naam</string>
     <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
     <string name="account_user_other_info">Meer bronnen</string>
-    <string name="account_user_phone">Telefoonnummer voor herstel</string>
+    <string name="account_user_phone">Hersteltelefoon</string>
     <string name="account_user_region">Regio</string>
     <string name="account_xiaomi_service">Diensten</string>
     <string name="action_add_phone">Telefoonnummer toevoegen</string>
@@ -83,7 +83,7 @@
     <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
     <string name="activity_not_found_notice">App kan niet worden gevonden</string>
     <string name="add_account">Account verbinden</string>
-    <string name="agreement_and_privacy">Privacybeleid en Gebruikersovereenkomst</string>
+    <string name="agreement_and_privacy">Algemene voorwaarden</string>
     <string name="app_name">Mi Account</string>
     <string name="auth_fail_warning">Sessie is verlopen, probeer later opnieuw aan te melden</string>
     <string name="authorize_title">Autorisatie</string>
@@ -227,6 +227,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="health_state_not_activated">Niet geactiveerd</string>
     <string name="health_state_not_installed">Niet geïnstalleerd</string>
     <string name="health_state_not_support">Niet ondersteund in deze versie</string>
+    <string name="help_center">Help</string>
     <string name="i_agree">OК</string>
     <string name="i_agree_continue">Akkoord</string>
     <string name="identity">Identificatie</string>
@@ -310,7 +311,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_checking_input">Input controleren…</string>
     <string name="passport_click_email_to_valid">Om uw account te activeren, volg de link die we naar uw inbox hebben gestuurd.</string>
     <string name="passport_completed">Voltooid</string>
-    <string name="passport_confirm_login">Doorgaan</string>
+    <string name="passport_confirm_login">Inloggen</string>
     <string name="passport_confirm_recycle_account">Ja</string>
     <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Het lijkt erop dat&lt;/font> het nummer %s is gerecycled door uw provider en dat er een Mi Account aan is gekoppeld. Is deze account van u?</string>
     <string name="passport_continue">Doorgaan</string>
@@ -348,7 +349,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_error_verify_activator_phone_title">Kan telefoonnummer niet verifiëren</string>
     <string name="passport_failed_to_send_activate_email">Kon activerings-e-mail niet verzenden</string>
     <string name="passport_find_password_on_web_msg">Ga naar account.mi.com om uw wachtwoord te resetten.</string>
-    <string name="passport_first_login_prompt">Er wordt automatisch een Mi Account gecreëerd wanneer u zich voor het eerst aanmeldt.</string>
+    <string name="passport_first_login_prompt">Mi Account wordt automatisch aangemaakt wanneer u voor de eerste keer een telefoonnummer gebruikt.</string>
     <string name="passport_forget_password"><u>Wachtwoord vergeten</u></string>
     <string name="passport_forget_password_no_underline">Wachtwoord vergeten</string>
     <string name="passport_get_back_pwd">Account wachtwoord ophalen</string>
@@ -463,8 +464,8 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_setting">Voorbereiden…</string>
     <string name="passport_skip_login">Overslaan</string>
     <string name="passport_skip_register">Sla aanmelding over</string>
-    <string name="passport_skip_setup_account_msg">U kunt later een Mi Account instellen in Instellingen.</string>
-    <string name="passport_skip_setup_account_title">Xiaomi Cloud niet gebruiken?</string>
+    <string name="passport_skip_setup_account_msg">Als u zich aanmeldt bij Mi Account, kunt u Xiaomi Cloud services gebruiken. Deze stap toch overslaan?</string>
+    <string name="passport_skip_setup_account_title">Mi Account en Xiaomi Cloud</string>
     <string name="passport_sms_send_success">Verzonden</string>
     <string name="passport_sms_verification_code_login">Log in met behulp van sms</string>
     <string name="passport_sms_verification_code_login_or_register">Meld u aan of registreer met sms</string>
@@ -590,7 +591,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="update_email_address_dialog_title">E-mail updaten</string>
     <string name="update_phone_notice">Veiligheidsinstellingen wijzigen</string>
     <string name="update_phone_number_notice_message">U moet uw identiteit verifiëren voordat uw telefoonnummer kan updaten.</string>
-    <string name="used_cloud_storage_info">Gebruikte opslagruimte %s</string>
+    <string name="used_cloud_storage_info">Gebruikt %s</string>
     <string name="user_avatar_update_title">Verander profielfoto</string>
     <string name="user_avatar_uploading">Een ogenblik geduld…</string>
     <string name="v7_preference_off">UIT</string>

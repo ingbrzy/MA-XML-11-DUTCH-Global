@@ -42,7 +42,7 @@
     <string name="accessor_expires_text">Lease verloopt op %s</string>
     <string name="accessor_info_title">Apps die gegevens delen</string>
     <string name="accessor_no_description_text">Geen beschrijving verstrekt door de app.</string>
-    <string name="active_input_method_subtypes">Actieve invoermethoden</string>
+    <string name="active_input_method_subtypes">Actieve invoermethodes</string>
     <string name="adb_device_fingerprint_title_format">Vingerafdruk van apparaat: %1$s</string>
     <string name="adb_device_forget">Vergeten</string>
     <string name="adb_keys_warning_message">Toegang tot USB-debugging herroepen voor alle computers die u voorheen heeft geautoriseerd?</string>
@@ -81,6 +81,7 @@
     <string name="apn_settings_not_available">Instellingen voor Namen toegangspunten zijn niet beschikbaar voor deze gebruiker</string>
     <string name="app_name">MIUI Bluetooth</string>
     <string name="app_process_limit_title">Achtergrond proceslimiet</string>
+    <string name="audio_relay_default_device_name">Mi AI Speaker</string>
     <string name="auto_connect_disable">"'Automatisch verbinding maken' staat uit"</string>
     <string name="available_via_app">Beschikbaar via %1$s</string>
     <string name="available_via_carrier">Beschikbaar via %1$s</string>
@@ -197,7 +198,7 @@ Selectie"</string>
     <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP-versie</string>
     <string name="bluetooth_select_map_version_dialog_title">Selecteer Bluetooth MAP-versie</string>
     <string name="bluetooth_select_map_version_string">Bluetooth MAP-versie</string>
-    <string name="bluetooth_show_devices_without_names">Toon bluetooth-apparaten zonder naam</string>
+    <string name="bluetooth_show_devices_without_names">Toon Bluetooth-apparaten zonder naam</string>
     <string name="bluetooth_show_devices_without_names_summary">Bluetooth-apparaten zonder naam (alleen MAC-adressen) worden weergegeven</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Computer</string>
@@ -250,7 +251,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="debug_app_not_set">Debug-app is niet ingesteld</string>
     <string name="debug_app_set">Debug-app: %1$s</string>
     <string name="debug_applications_category">Apps</string>
-    <string name="debug_debugging_category">Fouten oplossen</string>
+    <string name="debug_debugging_category">Debugging</string>
     <string name="debug_drawing_category">Tekening</string>
     <string name="debug_hw_drawing_category">Hardwareversnelde rendering</string>
     <string name="debug_hw_overdraw">GPU-overdraw debuggen</string>
@@ -283,7 +284,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="enable_adb_wireless">Draadloos debuggen</string>
     <string name="enable_adb_wireless_summary">Foutopsporingsmodus wanneer wifi is verbonden</string>
     <string name="enable_freeform_support">Vrije-vormschermen inschakelen</string>
-    <string name="enable_freeform_support_summary">Ondersteuning inschakelen voor experimentele freeform-vensters.</string>
+    <string name="enable_freeform_support_summary">Ondersteuning inschakelen voor experimentele vrije-vormschermen.</string>
     <string name="enable_gpu_debug_layers">Schakel foutopsporingslagen voor GPU in</string>
     <string name="enable_gpu_debug_layers_summary">Sta het laden van GPU-foutopsporingslagen toe voor debug-apps</string>
     <string name="enable_opengl_traces_title">OpenGL-tracing inschakelen</string>
@@ -355,13 +356,18 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="local_backup_password_summary_none">Volledige back-ups van het Startscherm zijn momenteel niet beveiligd</string>
     <string name="local_backup_password_title">Startscherm back-up wachtwoord</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Wachtwoorden komen niet overeen</string>
-    <string name="local_backup_password_toast_success">Nieuw back-upwachtwoord ingesteld</string>
+    <string name="local_backup_password_toast_success">Nieuw back-up wachtwoord ingesteld</string>
     <string name="local_backup_password_toast_validation_failure">Kon geen back-up wachtwoord instellen</string>
     <string name="managed_user_title">Alle zakelijke apps</string>
     <string name="media_category">Media</string>
     <string name="media_transfer_this_device_name">Dit apparaat</string>
     <string name="media_transfer_wired_device_name">Bedraad audio-apparaat</string>
     <string name="media_transfer_wired_usb_device_name">Bedrade hoofdtelefoon</string>
+    <string name="mi_audio_relay_cancel">OK</string>
+    <string name="mi_audio_relay_connect_failed">Opnieuw proberen</string>
+    <string name="mi_audio_relay_localphone">Dit apparaat</string>
+    <string name="mi_audio_relay_phone_name">Mijn telefoon</string>
+    <string name="mi_audio_relay_title">Apparaat selecteren</string>
     <string name="mi_band_vibrate_alarm">Trillen bij alarm</string>
     <string name="mi_band_vibrate_incall">Trillen bij beltoon</string>
     <string name="mi_band_vibrate_incall_in_contacts">Gesprekken van contacten</string>
@@ -437,7 +443,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="okay">OК</string>
     <string name="osu_completing_sign_up">Registratie voltooien…</string>
     <string name="osu_connect_failed">Kan niet verbinden</string>
-    <string name="osu_opening_provider">Aan het openen %1$s</string>
+    <string name="osu_opening_provider">Openen van %1$s</string>
     <string name="osu_sign_up_complete">Registratie voltooid. Verbinden…</string>
     <string name="osu_sign_up_failed">Kon aanmelding niet voltooien. Tik om het opnieuw te proberen.</string>
     <string name="overlay_display_devices_title">Secundaire beeldschermen simuleren</string>
@@ -457,7 +463,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="power_remaining_duration_only_enhanced">Ongeveer %1$s over op basis van uw gebruik</string>
     <string name="power_remaining_duration_only_short">%1$s</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Uw apparaat wordt mogelijk binnenkort uitgeschakeld</string>
-    <string name="power_remaining_duration_shutdown_imminent">Apparaat kan binnenkort uitgeschakeld worden (%1$s)</string>
+    <string name="power_remaining_duration_shutdown_imminent">Apparaat wordt mogelijk binnenkort uitgeschakeld (%1$s)</string>
     <string name="power_remaining_less_than_duration">Minder dan %1$s resterend (%2$s)</string>
     <string name="power_remaining_less_than_duration_only">Minder dan %1$s resterend</string>
     <string name="power_remaining_more_than_subtext">Meer dan %1$s resterend (%2$s)</string>
@@ -511,7 +517,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="shared_data_query_failure_text">Er is een fout opgetreden bij het ophalen van gedeelde gegevens. Probeer het opnieuw.</string>
     <string name="shared_data_summary">Bekijk en wijzig gedeelde gegevens</string>
     <string name="shared_data_title">Gedeelde gegevens</string>
-    <string name="show_all_anrs">Alle ANRs tonen</string>
+    <string name="show_all_anrs">Achtergrond ANRs tonen</string>
     <string name="show_all_anrs_summary">Toon \"App reageert niet\" dialoog voor achtergrond apps</string>
     <string name="show_hw_layers_updates">Hardware level-updates tonen</string>
     <string name="show_hw_layers_updates_summary">Hardware-items die worden bijgewerkt, knipperen groen</string>
@@ -521,7 +527,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="show_notification_channel_warnings">Waarschuwingen voor meldingskanalen weergeven</string>
     <string name="show_notification_channel_warnings_summary">Geeft een waarschuwing op het scherm weer wanneer een app een melding plaatst zonder een geldig kanaal</string>
     <string name="show_screen_updates">Oppervlakte-updates tonen</string>
-    <string name="show_screen_updates_summary">Complete schermoppervlakken laten flitsen als ze worden geüpdated</string>
+    <string name="show_screen_updates_summary">Complete schermoppervlakken laten flitsen als ze worden bijgewerkt</string>
     <string name="show_touches">Tikken tonen</string>
     <string name="show_touches_summary">Visuele feedback voor tikken tonen</string>
     <string name="simulate_color_space">Kleurruimte simuleren</string>
@@ -546,9 +552,9 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="tether_settings_title_bluetooth">Bluetooth-tethering</string>
     <string name="tether_settings_title_usb">USB tethering</string>
     <string name="tether_settings_title_usb_bluetooth">Tethering</string>
-    <string name="tether_settings_title_wifi">Draagbare wifi-hotspot</string>
+    <string name="tether_settings_title_wifi">Draagbare hotspot</string>
     <string name="tethering_hardware_offload">Tethering hardwareversnelling</string>
-    <string name="tethering_hardware_offload_summary">Gebruik tetheringhardwareversnelling indien beschikbaar</string>
+    <string name="tethering_hardware_offload_summary">Gebruik tethering hardwareversnelling indien beschikbaar</string>
     <string name="tethering_settings_not_available">Tethering-instellingen zijn niet beschikbaar voor deze gebruiker</string>
     <string name="time_unit_just_now">Zojuist</string>
     <string name="title_convert_fbe">Converteren naar op bestanden gebaseerde codering…</string>
@@ -637,7 +643,7 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
     <string name="wapi_no_vaild_cert">Het lijkt erop dat de vereiste certificaten niet geïnstalleerd zijn. Nu installeren?</string>
     <string name="wapi_password_empty">Voer wachtwoord in</string>
     <string name="wapi_password_hex_format_add">U moet een even aantal hexadecimale tekens gebruiken</string>
-    <string name="wapi_password_hex_format_invalid">Ongeldige wachtwoord samenstelling</string>
+    <string name="wapi_password_hex_format_invalid">Ongeldig wachtwoord formaat</string>
     <string name="wapi_password_hex_length_invalid">Het aantal hexadecimale tekens moet even zijn</string>
     <string name="wapi_password_is_empty">Wachtwoord mag niet leeg zijn</string>
     <string name="wapi_password_is_not_hex_format">Ongeldige hexadecimale tekens</string>
@@ -652,7 +658,7 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt is tijdelijk vol</string>
     <string name="wifi_auto_sel_wapi_cert">Automatisch selecteren</string>
     <string name="wifi_cant_connect">Kan niet verbinden</string>
-    <string name="wifi_cant_connect_to_ap">"Kan geen verbinding maken met %1$s'"</string>
+    <string name="wifi_cant_connect_to_ap">"Kan geen verbinding maken met '%1$s'"</string>
     <string name="wifi_check_password_try_again">Controleer het wachtwoord en probeer het opnieuw</string>
     <string name="wifi_connected_mac_randomization">Verbonden MAC-randomisatie</string>
     <string name="wifi_connected_no_internet">Geen internet</string>
@@ -665,7 +671,7 @@ Elke gebruiker kan apps bijwerken voor alle andere gebruikers."</string>
     <string name="wifi_disabled_wifi_failure">Kon niet verbinden met wifi</string>
     <string name="wifi_disconnected">Verbinding verbroken</string>
     <string name="wifi_display_certification">Draadloos scherm certificering</string>
-    <string name="wifi_display_certification_summary">Toon opties voor draadloze display certificering</string>
+    <string name="wifi_display_certification_summary">Toon opties voor draadloos scherm certificering</string>
     <string name="wifi_enhanced_mac_randomization">Wifi verbeterde MAC-randomisatie</string>
     <string name="wifi_enhanced_mac_randomization_summary">Als deze modus is ingeschakeld, kan het MAC-adres van dit apparaat veranderen elke keer dat het verbinding maakt met een netwerk waarop MAC-randomisatie is ingeschakeld.</string>
     <string name="wifi_fail_to_scan">Kan niet scannen op netwerken</string>
@@ -713,7 +719,7 @@ Het lijkt erop dat de credentie-opslag niet ingeschakeld is."</string>
     <string name="zen_mode_duration_always_prompt_title">Altijd vragen</string>
     <string name="zen_mode_duration_settings_title">Duur</string>
     <string name="zen_mode_enable_dialog_turn_on">Inschakelen</string>
-    <string name="zen_mode_forever">Tot uitgeschakeld</string>
+    <string name="zen_mode_forever">Tot u uitschakelt</string>
     <string name="zen_mode_settings_summary_off">Nooit</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Niet Storen inschakelen</string>
 </resources>

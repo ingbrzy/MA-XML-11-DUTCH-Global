@@ -22,11 +22,6 @@
         <item>Volgende maand</item>
         <item>Kies datum</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Beantwoorden</item>
-        <item>Allen beantwoorden</item>
-        <item>Doorsturen</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Zeer klein</item>
         <item>Klein</item>

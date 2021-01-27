@@ -123,6 +123,10 @@
     <string name="call_record_text_auto_delete_half_year">Na %d maanden</string>
     <string name="call_record_text_auto_delete_never">Nooit</string>
     <string name="call_record_text_auto_delete_one_month">Na %d maand</string>
+    <string name="call_record_user_notice_all_purpose">Zoek de oproepen waarin bepaalde woorden werden genoemd</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Voor het opnemen van oproepen</string>
+    <string name="call_record_user_notice_permission_desc_storage">Voor het opslaan van opnames</string>
+    <string name="call_record_user_notice_title">Spraakoproep zoeken</string>
     <string name="call_record_whitelist_custom">Geselecteerde oproepen</string>
     <string name="call_recording_notification_summary">Ontvang een melding nadat een oproep is opgenomen</string>
     <string name="call_recording_notification_title">Waarschuw over opgenomen gesprekken</string>
@@ -173,6 +177,7 @@
     <string name="callrecordview_menu_show_missed">Gemiste gesprekken</string>
     <string name="callrecordview_menu_show_sim">%s gesprekken</string>
     <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
+    <string name="cancel">Annuleren</string>
     <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
     <string name="cancel_confirmation_dialog_title">Annuleren</string>
     <string name="cancel_export_confirmation_message">Export van %s annuleren?</string>
@@ -251,6 +256,15 @@
     <string name="contactsList">Contacten</string>
     <string name="contacts_default_notification_channel">Meldingen</string>
     <string name="contacts_hybrid_activity_label">Contacten herstellen</string>
+    <string name="contacts_trash_activity_hint">Selecteer contacten om te herstellen</string>
+    <string name="contacts_trash_activity_title">Onlangs verwijderde contacten</string>
+    <string name="contacts_trash_delete">Verwijderen</string>
+    <string name="contacts_trash_delete_dialog_continue">Verwijderen</string>
+    <string name="contacts_trash_delete_dialog_hint">U kunt dit niet meer ongedaan maken.</string>
+    <string name="contacts_trash_delete_dialog_loading">Verwijderen…</string>
+    <string name="contacts_trash_delete_dialog_title">Geselecteerde contacten verwijderen?</string>
+    <string name="contacts_trash_restore">Herstellen</string>
+    <string name="contacts_trash_restore_loading">Herstellen…</string>
     <string name="contacts_unavailable_add_account">Inloggen bij een account</string>
     <string name="contacts_unavailable_create_contact">Een nieuw contact maken</string>
     <string name="contacts_unavailable_import_contacts">Importeren vanaf een bestand</string>
@@ -260,7 +274,7 @@
     <string name="copy_number">Kopiëren</string>
     <string name="copy_text">Kopiëren naar klembord</string>
     <string name="create_group_dialog_title">Nieuwe groep maken</string>
-    <string name="create_qrcode_fail_message">Kan geen QR code aanmaken</string>
+    <string name="create_qrcode_fail_message">Kan geen QR-code aanmaken</string>
     <string name="customLabelPickerTitle">Aangepaste labelnaam</string>
     <string name="custom_list_filter">Aangepaste weergave definiëren</string>
     <string name="custom_nickname_hint">Bijnaam invoeren</string>
@@ -388,6 +402,7 @@
     <string name="email_work">Mailen naar werk</string>
     <string name="emergency_number_label">Noodnummer</string>
     <string name="empty" />
+    <string name="ensure">OK</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
@@ -467,6 +482,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -487,6 +503,8 @@ Reden: \"%s\""</string>
     <string name="group_sms_progress_msg">Groeperen…</string>
     <string name="groupsLabel">Groepen</string>
     <string name="groups_list_empty">Geen groepen</string>
+    <string name="hide_app_description_content">Contacten is een systeem-app. U kunt het nog steeds gebruiken via de Telefoon-app nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="hide_app_description_title">\"Contacten\" verwijderen van het Startscherm?</string>
     <string name="hint_distance" />
     <string name="hint_findContacts">Contacten vinden</string>
     <string name="hint_more_contact">Dubbele contacten samenvoegen</string>
@@ -588,6 +606,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -716,6 +735,7 @@ Reden: \"%s\""</string>
     <string name="payphone">Betaal telefoon</string>
     <string name="people">Contacten</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -801,8 +821,8 @@ Reden: \"%s\""</string>
     <string name="pull_to_refresh_pull_label">Trekken om te vernieuwen</string>
     <string name="pull_to_refresh_refreshing_label">Een ogenblik geduld…</string>
     <string name="pull_to_refresh_release_label">Laat los om te vernieuwen</string>
-    <string name="qr_card_card">QR code</string>
-    <string name="qrcode_card_title">QR code</string>
+    <string name="qr_card_card">QR-code</string>
+    <string name="qrcode_card_title">QR-code</string>
     <string name="quick_dial_setting_delete_dialog_message">Toegewezen snelkiesnummer verwijderen?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Verwijderen</string>
     <string name="quick_dial_setting_hint">Tik op een knop om een snelkiesnummer toe te wijzen of te verwijderen. Druk de knop met een toegewezen nummer in en houd deze vast om te kiezen.</string>
@@ -828,6 +848,10 @@ Reden: \"%s\""</string>
     <string name="remove_duplicate">"MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.
 
  Om te beginnen tikt u op het Samenvoeg icoon onderaan het scherm."</string>
+    <string name="restore_app_btn_cancel">Annuleren</string>
+    <string name="restore_app_btn_restore">OK</string>
+    <string name="restore_app_description_content">Voeg een Startscherm snelkoppeling toe om sneller toegang te krijgen tot uw contacten.</string>
+    <string name="restore_app_description_title">\"Contacten\" toevoegen aan het Startscherm?</string>
     <string name="restore_nickname">Herstellen</string>
     <string name="return_call">Tik om terug te gaan om te bellen</string>
     <string name="return_call_calling">Oproep bezig</string>
@@ -915,6 +939,7 @@ Reden: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -956,6 +981,7 @@ Reden: \"%s\""</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>

@@ -43,6 +43,8 @@
     <string name="call_record_list_group_connected">Verbonden</string>
     <string name="call_record_list_group_unconnected">Niet verbonden</string>
     <string name="cancel_rename">Annuleren</string>
+    <string name="clear_data_dialog_content">Items in de cache, app-gegevens en aangepaste instellingen worden verwijderd, maar uw opnamen blijven op hun plaats.</string>
+    <string name="clear_data_dialog_title">Nu gegevens wissen?</string>
     <string name="clear_records">Gesynchroniseerde opnames verwijderen</string>
     <string name="cloud_record_open">Sync opnames</string>
     <string name="cloud_record_tip">Opnames synchroniseren met Xiaomi Cloud.</string>
@@ -127,7 +129,7 @@
     <string name="network_unavailable_tip">Maak verbinding met het netwerk en probeer het opnieuw.</string>
     <string name="new_record_name">Nieuwe opname</string>
     <string name="no_file">Leeg</string>
-    <string name="no_network">"Couldn't connect to the network"</string>
+    <string name="no_network">Kon niet verbinden met het netwerk</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notification_message_all_paused">Wachten op Wi-Fi verbinding.</string>
     <string name="notification_playback">Afspelen…</string>
@@ -171,6 +173,7 @@
     <string name="pay_error_unknown">Onbekende fout</string>
     <string name="playback_delete_records">Opname verwijderen</string>
     <string name="playback_share_records">Opname delen</string>
+    <string name="preference_clear_data">Gegevens wissen</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preference_enable_earpiece_summary">Gebruik luidspreker ontvanger voor extern afspelen</string>
     <string name="preference_enable_earpiece_title">Gebruik de ontvanger om audio af te spelen</string>
@@ -329,6 +332,8 @@
     <string name="trash_box">Onlangs verwijderde items</string>
     <string name="trash_box_close_tip">Sluit prompt</string>
     <string name="trash_box_delete_all">Alle items definitief uit de prullenbak verwijderen?</string>
+    <string name="uninstall_warning_content">Recorder is een systeem-app. U kunt geen audio- en spraakoproepen opnemen en transcriberen nadat u deze hebt verwijderd.</string>
+    <string name="uninstall_warning_title">Recorder deïnstalleren?</string>
     <string name="usage_description">Audio omzetten en items synchroniseren met de cloud</string>
     <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">UIT</string>
@@ -341,5 +346,5 @@
     <string name="webview_service_unavailiable">Service niet beschikbaar</string>
     <string name="webview_try_again">Opnieuw proberen</string>
     <string name="wifi_recommended_body" formatted="false">Uw mobiele dataverbinding gebruiken om dit bestand (%s) te downloaden zal uw dataverbruik verhogen. Als u over de limiet van uw databundel gaat, kan uw provider extra kosten rekenen. Om te wachten tot u een Wi-Fi verbinding heeft, tik op %s.</string>
-    <string name="wifi_recommended_title">Waarschuwing dataverbruik</string>
+    <string name="wifi_recommended_title">Waarschuwing datagebruik</string>
 </resources>

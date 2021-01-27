@@ -72,6 +72,18 @@
         <item quantity="other">"%d video's"</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Dubbeltik om %d seconden terug te spoelen</item>
+        <item quantity="one">Dubbeltik om %d seconde terug te spoelen</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Dubbeltik om %d seconden vooruit te spoelen</item>
+        <item quantity="one">Dubbeltik om %d seconde vooruit te spoelen</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s sec</item>
+        <item quantity="one">%1$s sec</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s abonnees</item>
         <item quantity="one">%s abonnee</item>

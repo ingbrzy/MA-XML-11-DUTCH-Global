@@ -65,6 +65,10 @@
     <string name="about">Over</string>
     <string name="action_settings">Instellingen</string>
     <string name="ad_install">Installeren</string>
+    <string name="add_download_download">Downloaden</string>
+    <string name="add_download_error_not_support">Deze link wordt niet ondersteund</string>
+    <string name="add_download_text_hint">Voer een HTTP/HTTPS-link in</string>
+    <string name="add_download_title">URL toevoegen</string>
     <string name="all_downloads">Alle downloads</string>
     <string name="all_fileter">Alle</string>
     <string name="all_share_files_content">De door u geselecteerde bestanden zijn al verwijderd.</string>
@@ -89,6 +93,8 @@
     <string name="dialog_btn_cancel">Annuleren</string>
     <string name="dialog_btn_ok">OК</string>
     <string name="dialog_btn_ok_disabled_net">Netwerkinstellingen</string>
+    <string name="dialog_clipboard_permission_message">"Downloads toegang geven tot items op het klembord om gekopieerde URL's automatisch toe te voegen?"</string>
+    <string name="dialog_clipboard_permission_title">Toestemmingen vereist</string>
     <string name="dialog_confirm_delete_checkbox_message">Lokale bestanden ook verwijderen</string>
     <string name="dialog_confirm_delete_the_download_item_message">Deze taken verwijderen</string>
     <string name="dialog_file_missing_title">Kan bestand niet openen</string>
@@ -124,19 +130,13 @@
     <string name="download_when_network_connected">Downloaden met behulp van dataverbinding</string>
     <string name="downloaded">Download voltooid</string>
     <string name="downloaded_empty">Leeg</string>
+    <string name="downloaded_tab_hint">U kunt gedownloade items bekijken in Bestandsbeheer</string>
     <string name="downloading">Downloaden…</string>
     <string name="downloading_empty">Leeg</string>
     <string name="downloads_operating">Bezig…</string>
-    <string name="durationDayHour">%1$d dag %2$d uur</string>
-    <string name="durationDayHours">%1$d dag %2$d uur</string>
-    <string name="durationHourMinute">%1$d uur %2$d min.</string>
-    <string name="durationHourMinutes">%1$d uur %2$d min.</string>
-    <string name="durationMinute">%1$d min</string>
-    <string name="durationMinuteSecond">%1$d min. %2$d sec</string>
-    <string name="durationMinuteSeconds">%1$d min. %2$d sec</string>
-    <string name="durationMinutes">%1$d min</string>
-    <string name="durationSecond">%1$d sec</string>
-    <string name="durationSeconds">%1$d sec</string>
+    <string name="durationDayHours">%1$s %2$s</string>
+    <string name="durationHourMinutes">%1$s %2$s</string>
+    <string name="durationMinuteSeconds">%1$s %2$s</string>
     <string name="editmode_menu_delete">Verwijderen</string>
     <string name="editmode_menu_share">Delen</string>
     <string name="extend">Meer</string>
@@ -205,10 +205,20 @@
     <string name="pref_download_settings_title">Limiet downloadgrootte</string>
     <string name="pref_summary_any_bytes_popup">Altijd wachten op Wifi-verbinding om bestanden te downloaden</string>
     <string name="pref_summary_enable_max_bytes_popup">Toon pop-upmelding wanneer mobiele gevensverbinding gebruikt wordt om inhoud te downloaden</string>
-    <string name="pref_summary_max_bytes_limit_format">Wacht op wifi als het bestand groter is dan %s</string>
     <string name="pref_summary_no_limit_popup">Onbeperkt</string>
     <string name="pref_title_enable_max_bytes_popup">Melding dataverbruik weergeven</string>
     <string name="preferences_title">Instellingen</string>
+    <string name="privacy_agree_dialog_msg">&lt;Data>Welkom bij Downloads! U kunt deze app gebruiken om bestanden te downloaden.&lt;BR>Downloads moet de nodige persoonlijke informatie verzamelen om u de diensten te bieden die downloadstatistieken genereren. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>.&lt;BR>Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Downloads gebruikt.&lt;BR>U kunt uw toestemming voor het Privacybeleid van Downloads op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
+    <string name="privacy_agree_dialog_title">Algemene voorwaarden</string>
+    <string name="privacy_revoke_dialog_later">Annuleren</string>
+    <string name="privacy_revoke_dialog_msg">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Downloads in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Downloads moet de nodige persoonlijke informatie verzamelen om u de diensten te bieden die downloadstatistieken genereren. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om dergelijke diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="privacy_revoke_dialog_ok">Intrekken</string>
+    <string name="privacy_revoke_dialog_title">Intrekking van toestemming</string>
+    <string name="privacy_revoke_label">Intrekking van toestemming</string>
+    <string name="privacy_revoke_msg">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Downloads in.</string>
+    <string name="privacy_revoke_nonetwork_msg">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="privacy_revoke_nonetwork_ok">Begrepen</string>
+    <string name="privacy_revoke_nonetwork_title">Kan geen verbinding maken met het netwerk</string>
     <string name="privacy_tip_cancel">Annuleren</string>
     <string name="privacy_tip_ok">OК</string>
     <string name="rank">Ranglijsten</string>
@@ -249,5 +259,4 @@
     <string name="toast_only_wifi_download">Verbind met wifi om dit item te downloaden</string>
     <string name="total_speedup">Opgevoerde snelheid (totaal)</string>
     <string name="version">Versie %s</string>
-    <string name="security_ui_title">Beveiligingsadvertenties</string>
 </resources>

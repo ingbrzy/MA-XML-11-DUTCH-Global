@@ -4,6 +4,11 @@
         <item>Camera</item>
         <item>Galerij</item>
     </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
     <string-array name="contact_entries">
         <item>Naam</item>
         <item>Bijnaam</item>
@@ -48,5 +53,8 @@
     <string-array name="second_guide_contents_pad_or_inter">
         <item>Spraaknotities</item>
         <item>U kunt nu spraaknotities creëren. Tik gewoonweg op het pictogram en sla het audiobestand binnen de notitie op.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
     </string-array>
 </resources>

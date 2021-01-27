@@ -37,18 +37,32 @@
     <string name="back_up_task_in_process">Bezig met back-up…</string>
     <string name="back_up_task_unfinished">Kon geen back-up maken</string>
     <string name="backing_up_to_micloud">Bezig met back-up…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">Niet genoeg opslagruimte in Xiaomi Cloud. Upgrade uw abonnement of maak opslagruimte vrij.</string>
+    <string name="backup_action_buy_cloud_space">Verkrijg meer opslagruimte</string>
+    <string name="backup_action_check_network">Controleer netwerkinstellingen</string>
+    <string name="backup_action_clean_disk_space">Ruimte vrijmaken</string>
+    <string name="backup_action_retry_now">Opnieuw proberen</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">Er is niet genoeg cloudopslag over om deze back-up op te slaan. Upgrade uw abonnement of maak cloudopslagruimte vrij.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Niet genoeg opslagruimte. Maak eerst opslagruimte vrij.</string>
-    <string name="backup_failed_reason_network_error">Netwerkfout. Wacht een paar minuten en probeer het opnieuw.</string>
+    <string name="backup_failed_reason_network_error">Controleer uw netwerkinstellingen en probeer het opnieuw</string>
     <string name="backup_finished_notification_content">Startscherm apps, systeeminstellingen etc. gebackupt</string>
     <string name="backup_now">Nu back-uppen</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">Upgrade uw cloud opslagabonnement</string>
+    <string name="backup_remind_clean_disk_space">Maak opslagruimte vrij</string>
+    <string name="backup_remind_cloud_space_cost">Back-upgrootte: %s</string>
     <string name="backup_size">Grootte: %s</string>
     <string name="backup_stopped_msg">Huidige back-up zal de vorige overschrijven. Tik om te bekijken.</string>
     <string name="backup_stopped_title">Back-up is gepauzeerd</string>
     <string name="backup_success">Back-up voltooid</string>
     <string name="backup_successfully">Back-up voltooid</string>
     <string name="backup_to_cloud">Back-up app</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">Kan geen back-up maken</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"Onvoldoende opslagruimte
+Kan geen back-up maken"</string>
+    <string name="backup_warning_reason_network_error">"Netwerkfout
+Kan geen back-up maken"</string>
+    <string name="backup_warning_reason_no_server_response">"Verbinding was onderbroken
+Probeer het opnieuw"</string>
     <string name="btn_back">Terug</string>
     <string name="btn_continue">Doorgaan</string>
     <string name="btn_restore_abort">Annuleren</string>
@@ -94,8 +108,8 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">Backup planning</string>
-    <string name="cloud_back_up_frequence_long">Om de 7 dagen</string>
-    <string name="cloud_back_up_frequence_short">Iedere dag</string>
+    <string name="cloud_back_up_frequence_long">Elke %d dagen</string>
+    <string name="cloud_back_up_frequence_short">Elke dag</string>
     <string name="cloud_back_up_ok_btn">OK</string>
     <string name="cloud_back_up_opening">Een ogenblik geduld…</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Upgrade</string>
@@ -105,6 +119,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">Cloud back-ups</string>
     <string name="cloud_backup_derail_size_summary">Grootte: %s</string>
     <string name="cloud_backup_detail_frequence">Backup planning</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">Maak elke %d dagen een back-up</string>
+    <string name="cloud_backup_detail_frequence_every_day">Back-up iedere dag</string>
     <string name="cloud_backup_detail_manage">Backups beheren</string>
     <string name="cloud_backup_detail_state">Automatische back-ups</string>
     <string name="cloud_backup_detail_state_summary">Creëer automatisch Xiaomi Cloud back-ups wanneer u verbonden bent met wifi.</string>
@@ -190,6 +206,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>

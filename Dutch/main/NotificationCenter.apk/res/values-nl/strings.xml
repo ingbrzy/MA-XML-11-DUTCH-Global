@@ -31,6 +31,9 @@
     <string name="back">Terug</string>
     <string name="cancel">Annuleren</string>
     <string name="category_other">Overige</string>
+    <string name="channel_name_aggregation">Gegroepeerde meldingen</string>
+    <string name="channel_name_notification">App-meldingen</string>
+    <string name="channel_name_recovered">Herstelde meldingen</string>
     <string name="confirm">OK</string>
     <string name="copy">Kopiëren</string>
     <string name="default_list_type">Sorteer op ontvangsttijd</string>
@@ -59,10 +62,14 @@
     <string name="lock_screen_tip_toast">Sta Vergrendelscherm-meldingen toe in \"Format\"</string>
     <string name="lockscreen_notifications">Vergrendelscherm-meldingen</string>
     <string name="lockscreen_notifications_short">Vergrendelscherm</string>
+    <string name="menu_setting_aggregatation_feedback">Groeperingsopties</string>
+    <string name="menu_setting_feedback_donot_classify">Niet groeperen</string>
+    <string name="menu_setting_more_settings">Meer instellingen</string>
     <string name="menu_setting_show_in_home">Niet groeperen</string>
     <string name="menu_setting_tip_show_in_home">Meldingen van %s worden niet gegroepeerd</string>
     <string name="menu_setting_tip_unfold">Alle meldingen van deze app worden als belangrijk beschouwd</string>
     <string name="menu_setting_unfold">Belangrijk</string>
+    <string name="mune_setting_prefix_category">"Groeperen met "</string>
     <string name="not_sent_recently">Niet recent</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notch_and_status_bar_setting">Controlecentrum en statusbalk</string>
@@ -82,9 +89,11 @@
     <string name="on">Aan</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="setting_menu_success">Succesvol ingesteld</string>
     <string name="settings_guide_title">Andere instellingen nodig?</string>
     <string name="show_badge_notifications">Notificatiebadges</string>
     <string name="show_badge_notifications_short">Badges</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Statusbalk</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">Zwevende meldingen zijn niet toegestaan</string>
@@ -97,6 +106,7 @@
     <string name="summary_lock_screen_enable_notification_first">Sta meldingen toe om Vergrendelscherm-meldingen in te schakelen</string>
     <string name="summary_show_badge_enable_notification_first">Sta meldingen toe om notificatiebadges in te schakelen</string>
     <string name="swipe_to_delete">Veeg naar links of rechts om te verwijderen</string>
+    <string name="tip_feedback_thanks">Bedankt voor uw feedback!</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
 </resources>

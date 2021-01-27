@@ -65,6 +65,7 @@
     <string name="ad_setting">Aanvullende instellingen</string>
     <string name="add_music">Nummers toevoegen</string>
     <string name="add_to_last_of_playlist">Toevoegen onderaan de afspeellijst</string>
+    <string name="add_to_playlist">Aan de wachtrij toevoegen</string>
     <string name="add_to_playlist_successful">Succesvol toegevoegd</string>
     <string name="added_next_play">Toegevoegd om als volgende af te spelen</string>
     <string name="agreement_desc">Gebruikersovereenkomst (vereist)</string>
@@ -123,6 +124,7 @@
     <string name="back">Terug</string>
     <string name="back_confirm">Tik nogmaals om de app naar de achtergrond te drukken</string>
     <string name="bluetooth_device">Bluetooth audio-apparaat</string>
+    <string name="btn_text_edit">Bewerken</string>
     <string name="buffering">Bufferen…</string>
     <string name="button_cancel_download">Annuleren</string>
     <string name="button_download_now">Download nu</string>
@@ -208,6 +210,7 @@
     <string name="dialog_insufficient_space_on_cache">Kan download niet voltooien, niet genoeg interne opslagruimte over.</string>
     <string name="dialog_insufficient_space_on_external">Kan download niet voltooien. Niet genoeg ruimte op de SD-kaart.</string>
     <string name="dialog_media_not_found">Kan niet downloaden. SD-kaart niet beschikbaar.</string>
+    <string name="dialog_message_unfollow">Deze persoon niet meer volgen?</string>
     <string name="dialog_my_playlist_online_changed_merge">Bewaren</string>
     <string name="dialog_my_playlist_online_changed_message">Het lijkt erop dat de afspeellijst is gewijzigd. U kunt deze vervangen met de nieuwe versie of de oude behouden.</string>
     <string name="dialog_my_playlist_online_changed_replace">Vervangen</string>
@@ -235,6 +238,7 @@
     <string name="dialog_song_view_type_artist">Op artiest</string>
     <string name="dialog_song_view_type_folder">Op map</string>
     <string name="dialog_song_view_type_song">Op nummer</string>
+    <string name="dialog_subtitle_make_playlist_public">Openbare afspeellijsten zijn beschikbaar voor andere mensen. Privéafspeellijsten zijn alleen zichtbaar voor u op alle gesynchroniseerde apparaten.</string>
     <string name="dialog_title_clearlist_tracks">Uit wachtrij verwijderen</string>
     <string name="dialog_title_delete_tracks">Verwijderen</string>
     <string name="dialog_title_name_playlist">Naam afspeellijst</string>
@@ -280,7 +284,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -368,7 +374,9 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -390,11 +398,13 @@
     <string name="fail_to_play">Kan nummer niet afspelen</string>
     <string name="failed_not_access_sd_card">Verleen eerst toegang tot de SD-kaart</string>
     <string name="failed_obtain_permissions">Kon geen toestemmingen krijgen</string>
+    <string name="fans">Volgers</string>
     <string name="fav_login_msg">Meld u aan op uw Mi Account om nummers te downloaden</string>
     <string name="favorite_canceled">Verwijderd uit favorieten</string>
     <string name="favorite_playlist">Favorieten</string>
     <string name="favorite_singer">Favoriete artiesten</string>
     <string name="favorite_succeed">Toegevoegd aan favorieten</string>
+    <string name="favorite_to_playlist">Aan afspeellijst toevoegen</string>
     <string name="favorite_tracks">Favorieten</string>
     <string name="favorites">Favorieten</string>
     <string name="fcm_fallback_notification_channel_label">Overige</string>
@@ -615,8 +625,10 @@
     <string name="no_album_info">Geen album info</string>
     <string name="no_artist_info">Geen artiest info</string>
     <string name="no_downloads">Geen downloads</string>
+    <string name="no_fans_empty_title">U heeft nog geen volgers</string>
     <string name="no_favorites_songs">Leeg</string>
     <string name="no_file_picker_find">Bestandsbeheer is niet geïnstalleerd.</string>
+    <string name="no_follow_empty_title">U volgt nog niemand</string>
     <string name="no_local_songs">Leeg</string>
     <string name="no_local_songs_selected">Kan geen nummers verzenden, want ze zijn niet gedownload</string>
     <string name="no_local_source_find">Kon nummer niet vinden</string>
@@ -740,6 +752,7 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
 Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
@@ -848,6 +861,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="share_end_note">Van Mi Music</string>
     <string name="share_failed">Kon niet delen</string>
     <string name="share_image_error">Afbeelding kon niet worden gedeeld door een downloadfout</string>
+    <string name="share_song">Delen</string>
     <string name="share_text_list">"Afspeellijst van Mi Music: "</string>
     <string name="share_text_song">"Nummers in Mi Music: "</string>
     <string name="show_float_first_hint">Player minimaliseren</string>
@@ -885,6 +899,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -928,16 +943,19 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="terms_of_service">Servicevoorwaarden</string>
     <string name="ticket_summary">Koop tickets voor shows, concerten, toneelstukken en andere evenementen</string>
     <string name="ticket_title">Toon tickets</string>
-    <string name="time_to_upgrade">Een update is beschikbaar</string>
+    <string name="time_to_upgrade">Er is een update beschikbaar</string>
     <string name="title_online_fm_recommend">Uitgelichte FM</string>
     <string name="title_online_recommend">Uitgelichte afspeellijsten</string>
     <string name="title_search_history">Zoekgeschiedenis</string>
     <string name="title_search_hot">Populair</string>
+    <string name="toast_cant_collect_mine_playlist">Kan uw eigen afspeellijsten niet aan favorieten toevoegen</string>
     <string name="toast_cant_commit_without_title">Voer de titel van het nummer in</string>
     <string name="toast_download_error_by_count_limit">U hebt uw downloadquota voor deze maand verbruikt.</string>
     <string name="toast_download_error_by_not_login">Meld u aan op uw Mi Account en probeer het opnieuw.</string>
     <string name="toast_download_error_by_vip_required">Gebruik het Premium Nummerspakket om dit nummer te downloaden.</string>
     <string name="toast_download_in_process">Downloaden bezig</string>
+    <string name="toast_favorite_has_been_added">Succesvol toegevoegd aan afspeellijst</string>
+    <string name="toast_follow_success">Succesvol gevolgd</string>
     <string name="toast_is_pro">Je bent al een PRO-lid.</string>
     <string name="toast_my_playlist_illegal_name">De titel van deze afspeellijst is ongeldig. Hernoem de afspeellijst.</string>
     <string name="toast_my_playlist_set_to_private">Deze afspeellijst is nu privé. Anderen kunnen hem niet zien.</string>
@@ -948,6 +966,9 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="toast_normal_songs_for_download">Downloadkwaliteit ingesteld op Standaard</string>
     <string name="toast_normal_songs_for_stream">Streaming kwaliteit ingesteld op Standaard</string>
     <string name="toast_not_pro">Deze functie is alleen beschikbaar voor PRO-leden.</string>
+    <string name="toast_playlist_has_been_added">Succesvol toegevoegd aan wachtrij</string>
+    <string name="toast_playlist_has_been_private">Deze afspeellijst is privé</string>
+    <string name="toast_playlist_has_been_public">Deze afspeellijst is openbaar</string>
     <string name="toast_playmode_loop_playback">De huidige afspeellijst wordt herhaald</string>
     <string name="toast_playmode_shuffle_play">Het afspelen wordt in willekeurige volgorde afgespeeld</string>
     <string name="toast_playmode_single_cycle">Het huidige nummer wordt herhaald</string>
@@ -975,11 +996,16 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Mi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
+    <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
     <string name="user_privacy_dialog_positive_count_down_text">Intrekken (%s s)</string>
     <string name="user_privacy_dialog_positive_text">Intrekken</string>
     <string name="user_privacy_setting_group_title">Intrekking van toestemming</string>
     <string name="user_privacy_setting_title">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Music in.</string>
+    <string name="user_profile_created_playlist_title">Aangepaste afspeellijsten</string>
+    <string name="user_profile_fans_count">Volgers: %s</string>
+    <string name="user_profile_follow_count">Volgend: %s</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version_info">Versie</string>

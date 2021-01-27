@@ -69,6 +69,12 @@
         <item>U kunt uw scherminhoud op afstand controleren en opnemen.</item>
         <item>Het is mogelijk om toegang te krijgen tot de gedetailleerde informatie over uw apparaat.</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Wanneer het apparaat is vergrendeld</item>
         <item>Wanneer het apparaat is vergrendeld of na het afsluiten van de app</item>
@@ -87,10 +93,20 @@
         <item>Belangrijk: Meerdere systeem-apps werken mogelijk niet meer correct.</item>
         <item>Tekstlay-outs, accounts en inhoud worden mogelijk niet correct weergegeven.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -100,6 +116,10 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Waarschuwing weergeven</item>
         <item>Waarschuw en schakel mobiele gegevens uit</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Standaard</item>
@@ -120,7 +140,7 @@
         <item>Toegang tot uw netwerkgerelateerde en taalinstellingen, evenals andere details</item>
     </string-array>
     <string-array name="perm_intercept_unknown_source">
-        <item>Apps van derden die niet door GetApps zijn geverifieerd, kunnen meerdere problemen veroorzaken en de systeemstabiliteit verminderen.</item>
+        <item>Apps van derden die niet zijn geverifieerd, kunnen meerdere problemen veroorzaken en de systeemstabiliteit verminderen.</item>
         <item>Sommige apps van derden bevatten mogelijk malware die uw persoonlijke gegevens in gevaar brengt.</item>
     </string-array>
     <string-array name="priority_storage_entries">

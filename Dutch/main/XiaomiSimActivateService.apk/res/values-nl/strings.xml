@@ -121,7 +121,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="phone_verify_text">%1$s zal uw telefoonnummer niet krijgen. Deze app controleert alleen of het nummer geldig is. Gaat u hiermee akkoord?</string>
     <string name="phone_verify_title">%1$s toestaan om uw telefoonnummer te verifiëren</string>
     <string name="privacy_revoke_failed_msg">Om dit te activeren, dient u toestemming te verlenen zodat Berichten uw telefoonnummer kan verkrijgen.</string>
-    <string name="privacy_revoke_tips">Nadat u de toestemming intrekt, stopt de app met het verzamelen van uw gegevens en worden al uw gegevens van de servers verwijderd. Synchronisatie met Mi Cloud, Mi Message en andere berichtfuncties zijn niet langer beschikbaar. Toestemming intrekken?</string>
+    <string name="privacy_revoke_tips">Nadat u de toestemming intrekt, stopt de app met het verzamelen van uw gegevens en worden al uw gegevens van de servers verwijderd. Synchronisatie met Xiaomi Cloud, Mi Message en andere Berichtfuncties zijn niet langer beschikbaar. Toestemming toch intrekken?</string>
     <string name="sim_unactivated_title">Uw SIM kaart is niet geactiveerd</string>
     <string name="waiting_sim_in_service">Wachten op SIM voor activatie</string>
 </resources>

@@ -54,6 +54,7 @@
     <string name="dual_app_title">Dubbele apps</string>
     <string name="dual_app_words">Elke account verdient zijn eigen app</string>
     <string name="early_morning">Ochtend</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
@@ -161,11 +162,17 @@
     <string name="gb_advance_settings_vibration_4d_summary">Tril tijdens schieten in de game</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Tril tijdens het doden in de game</string>
     <string name="gb_alipays_can_not_complete">Kan betaling niet voltooien. Installeer om door te gaan.</string>
+    <string name="gb_dialog_game_speed_close">Lichtsnelheidsmodus uitschakelen…</string>
+    <string name="gb_dialog_game_speed_exist">U kunt maar één game gebruiken in de Lichtsnelheidsmodus. \"%s\" nu vervangen?</string>
     <string name="gb_game_control">GPU-instellingen</string>
     <string name="gb_game_settings">Aanvullende instellingen</string>
+    <string name="gb_game_speed_closed">Lichtsnelheidsmodus is uitgeschakeld</string>
+    <string name="gb_game_speed_closed_fail">Kon de Lichtsnelheidsmodus niet uitschakelen</string>
+    <string name="gb_game_speed_open">Lichtsnelheidsmodus is ingeschakeld</string>
+    <string name="gb_game_speed_open_fail">Kon de Lichtsnelheidsmodus niet inschakelen</string>
     <string name="gb_gpu_control_anisotropic_filtering">Anisotrope filtering</string>
     <string name="gb_gpu_control_anti_aliasing">Anti-aliasing</string>
-    <string name="gb_gpu_control_fps">Frame rate</string>
+    <string name="gb_gpu_control_fps">Framesnelheid</string>
     <string name="gb_gpu_control_optimization_graph">Afbeeldingen optimaliseren</string>
     <string name="gb_gpu_control_resolution">Resolutie</string>
     <string name="gb_gpu_control_texture_filtering_quality">Kwaliteit voor filteren van textuur</string>
@@ -174,13 +181,13 @@
     <string name="gb_gpu_dialog_message">De huidige GPU-instellingen worden toegepast op \"%s\". Start het spel opnieuw om instellingen toe te passen.</string>
     <string name="gb_gpu_dialog_titile">GPU-instellingen</string>
     <string name="gb_gpu_rader_graph">Fotokwaliteit</string>
-    <string name="gb_gpu_rader_maxfps">Hoogste frame rate</string>
+    <string name="gb_gpu_rader_maxfps">Hoogste framesnelheid</string>
     <string name="gb_gpu_rader_remain">Prestatie</string>
     <string name="gb_gpu_resolution_720">720p</string>
     <string name="gb_gpu_resolution_default">Standaard</string>
     <string name="gb_gpu_tips_anisotropic">Geef helderheid aan verre oppervlaktestructuren die onder een hoek worden gezien</string>
     <string name="gb_gpu_tips_anti">De hoogste beschikbare anti-aliasingsnelheid wordt bepaald door de specifieke game</string>
-    <string name="gb_gpu_tips_fps">De hoogst beschikbare frame rate wordt bepaald door de specifieke game</string>
+    <string name="gb_gpu_tips_fps">De hoogst beschikbare framesnelheid wordt bepaald door de specifieke game</string>
     <string name="gb_gpu_tips_graph">Afbeeldingen optimaliseren om de GPU-prestatie te verbeteren en stroom te besparen. Deze functie wordt ondersteund door geselecteerde games.</string>
     <string name="gb_gpu_tips_resolution">De standaardresolutie wordt bepaald door de specifieke game. Bij sommige games kan de resolutie niet worden aangepast.</string>
     <string name="gb_gpu_tips_texture">Geef prioriteit aan prestatie of beeldkwaliteit</string>
@@ -191,6 +198,7 @@
     <string name="gb_pannel_control_mode_power_saving">Stroom besparen</string>
     <string name="gb_weixinpay_can_not_complete">Kan betaling niet voltooien. Installeer om door te gaan.</string>
     <string name="gdpr_msg">&lt;Data>Om de basisfuncties van Beveiliging te gebruiken, dient u ermee akkoord te gaan dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt, waaronder informatie over hoe u functies van Beveiliging gebruikt (bijv. gebruiksgegevens van mobiele data, info over malware en basisinfo over uw apparaat) en andere types informatie die worden gespecificeerd in ons &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Privacybeleid&lt;/a>.&lt;/Data></string>
+    <string name="install_success">%s Installeren Succesvol</string>
     <string name="lucky_result_title">Rode enveloppen</string>
     <string name="main_toolbar_purchase">Opladen</string>
     <string name="midnight">Nacht</string>
@@ -263,6 +271,7 @@
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="share">Delen</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
@@ -341,6 +350,9 @@
     <string name="title_share_link">Deel URL</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
+    <string name="tool_box_active_loading">Een ogenblik geduld…</string>
+    <string name="tool_box_active_no_networ">Kon niet verbinden met het netwerk</string>
+    <string name="tool_box_active_reload">Vernieuwen</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>

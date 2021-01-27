@@ -253,7 +253,7 @@ Selectie"</string>
     <string name="connected_via_app">Verbonden via %1$s</string>
     <string name="connected_via_carrier">Verbonden via %1$s</string>
     <string name="connected_via_network_scorer">Automatisch verbonden via %1$s</string>
-    <string name="connected_via_network_scorer_default">Automatisch verbonden via netwerkbeoordelaar</string>
+    <string name="connected_via_network_scorer_default">Automatisch verbonden via provider van netwerkbeoordelingen</string>
     <string name="connected_via_passpoint">Verbonden via %1$s</string>
     <string name="content_description_menu_button">Menu</string>
     <string name="convert_to_fbe_warning">"Gegevenspartitie converteren naar versleuteling op basis van bestanden.
@@ -489,6 +489,7 @@ Selectie"</string>
     <string name="private_dns_mode_provider">Hostnaam van privé-DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
+    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinding maken. Schakel het apparaat uit en weer in.</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="remaining_length_format">Nog %1$s</string>

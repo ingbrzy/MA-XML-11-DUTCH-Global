@@ -88,6 +88,14 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">%1$s notities gevonden</item>
+        <item quantity="one">%1$s notitie gevonden</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">%1$s taken gevonden</item>
+        <item quantity="one">%1$s taak gevonden</item>
+    </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d seconden over</item>
         <item quantity="one">%d seconde over</item>

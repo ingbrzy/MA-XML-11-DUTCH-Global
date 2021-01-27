@@ -102,7 +102,7 @@
     <string name="activity_title_virus_settings">Instellingen</string>
     <string name="activity_title_white_list">Uitzonderingen</string>
     <string name="ad_btn_default_text">Meer informatie</string>
-    <string name="ad_split_screen_title">Sluit Split-screen om te ontgrendelen</string>
+    <string name="ad_split_screen_title">Sluit Gesplitst scherm om te ontgrendelen</string>
     <string name="ad_update_time">Laatst bijgewerkt %s</string>
     <string name="ad_update_time_unKnown">Laatste update onbekend</string>
     <string name="adb_install_no_network">Maak verbinding met het netwerk en probeer het opnieuw</string>
@@ -604,7 +604,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="banner_optimizemanage_summary">Geheugen vrijmaken</string>
     <string name="banner_red_money_assist_button">Inschakelen</string>
     <string name="banner_red_money_assist_summary">Open rode enveloppen sneller</string>
-    <string name="battery_and_property">Batterij en prestatie</string>
+    <string name="battery_and_property">Batterij</string>
     <string name="battery_can_use_time">%s resterend</string>
     <string name="battery_capacity_title">Batterijcapaciteit</string>
     <string name="battery_charge_estimating">Berekenen</string>
@@ -766,6 +766,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Aanmaken</string>
     <string name="card_main_xspace_summary">Maak dubbele accounts aan voor elke app</string>
     <string name="card_main_xspace_title">Dubbele apps</string>
@@ -777,6 +778,15 @@ U zult geen app-gegevens verliezen."</string>
     <string name="choose">Kiezen</string>
     <string name="choose_gs_show_way">Selecteer startpagina oriëntatie</string>
     <string name="clean_immediately">Wissen</string>
+    <string name="clean_master_icon_recall_button_text">Toevoegen</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">Nee, bedankt</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">Toevoegen</string>
+    <string name="clean_master_icon_recall_dialog_summary">Voeg een Startscherm snelkoppeling toe om rommel op elk gewenst moment te wissen.</string>
+    <string name="clean_master_icon_recall_dialog_title">Rommel sneller wissen</string>
+    <string name="clean_master_icon_recall_hint">Voeg een Startscherm snelkoppeling toe</string>
+    <string name="clean_master_icon_recall_summary">Voeg een Startscherm snelkoppeling toe om rommel op elk gewenst moment te wissen.</string>
+    <string name="clean_master_icon_recall_title">Rommel sneller wissen</string>
+    <string name="clean_master_icon_recall_toast_text">Een Startscherm snelkoppeling voor Opruimer succesvol toegevoegd</string>
     <string name="cleaned">Gewist</string>
     <string name="clear_garbage">Wis rommel om ruimte vrij te maken</string>
     <string name="clear_immediately">Nu opruimen</string>
@@ -968,6 +978,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="doze_optimization_title">Geoptimaliseerde touch-bediening</string>
     <string name="dual_setting_simcard1">sim 1</string>
     <string name="dual_setting_simcard2">sim 2</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Geen apps</string>
     <string name="empty_title_auto_start_list">Er zijn geen apps die automatisch gestart kunnen worden.</string>
@@ -1019,7 +1030,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1156,6 +1169,11 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="free_time_traffic_settings">Datalimiet in daluren</string>
     <string name="free_time_traffic_title">Voer datalimiet in daluren in</string>
     <string name="free_traffic_settings">Instellingen voor datagebruik in daluren</string>
+    <string name="function_auto_reject_detail">"Over deze functie:
+1. Terwijl u games speelt, worden alle inkomende oproepen naar de simkaart zonder mobiele gegevensservice automatisch geweigerd.
+2. U ziet meldingen over gemiste oproepen en de andere persoon hoort een audiobericht waarin staat dat u het momenteel druk hebt.
+3. Deze functie wordt alleen ondersteund door mobiele providers in China."</string>
+    <string name="function_auto_reject_title">Weiger VoLTE-oproepen naar simkaarten zonder datadienst</string>
     <string name="function_close">Uit</string>
     <string name="function_gwsd_detail">"Over deze functie:
  1. Als u mobiele data gebruikt op een data-simkaart of op een gewone simkaart die is aangesloten op een VoLTE-netwerk, wordt de verbinding van inkomende oproepen pas onderbroken als u de oproep beantwoordt.
@@ -1269,6 +1287,11 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_description_image_button_answer">Beantwoorden</string>
     <string name="gb_description_image_button_reject">Afwijzen</string>
     <string name="gb_description_image_button_video_answer">Videogesprek</string>
+    <string name="gb_dialog_game_uninstall_deleting">Deïnstalleren…</string>
+    <string name="gb_dialog_game_uninstall_loading">Games laden…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">Alle app-gegevens worden verwijderd.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">Alle app-gegevens en gerelateerde dubbele apps worden verwijderd.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">%s deïnstalleren</string>
     <string name="gb_dialog_record_way_ai">AI-opnamen worden opgeslagen in de gamebox en daar 7 dagen bewaard.</string>
     <string name="gb_dialog_record_way_finish">Gereed</string>
     <string name="gb_dialog_record_way_manual">"Neem handmatig video's van maximaal 30 seconden op"</string>
@@ -1300,6 +1323,10 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_game_video_type_manual">Handmatig</string>
     <string name="gb_get_gift_right_now">Nu inchecken</string>
     <string name="gb_global_settings">Algemene instellingen</string>
+    <string name="gb_gpu_driver_btn_update">Controleren op updates</string>
+    <string name="gb_gpu_driver_update">GPU Driver Updater</string>
+    <string name="gb_gpu_driver_update_app">Bijwerken</string>
+    <string name="gb_gpu_driver_update_app_tips">De huidige versie is up-to-date</string>
     <string name="gb_have_signed">Vandaag ingecheckt</string>
     <string name="gb_manual_record_dialog_del_video_message">"Geselecteerde video's permanent verwijderen?"</string>
     <string name="gb_msg_completely_shielded">Berichten verbergen</string>
@@ -1321,6 +1348,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_signed_gift_loading_summary">Een ogenblik geduld…</string>
     <string name="gb_signed_title">Deze maand ingecheckt</string>
     <string name="gb_sound_audition">Proberen</string>
+    <string name="gb_storage_game_uninstall">Games deïnstalleren</string>
+    <string name="gb_storage_summary">Toon de games die aan de gamebox zijn toegevoegd niet op het Startscherm</string>
+    <string name="gb_storage_title">Verwijder toegevoegde games van het Startscherm</string>
     <string name="gb_voice_change_settinged">Stemvervormer is ingeschakeld</string>
     <string name="gb_voice_changer_cartoon">Cartoon</string>
     <string name="gb_voice_changer_dlg_button_agree">Toestaan</string>
@@ -1562,11 +1592,11 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="main_daily_card_guide_dialog_ok">Instellen</string>
     <string name="main_daily_card_guide_dialog_summary">U kunt tussen dagelijkse, maandelijkse en onbeperkte abonnementen kiezen. Abonnementstype nu instellen?</string>
     <string name="main_daily_card_guide_dialog_title">Type data-abonnement instellen</string>
-    <string name="main_daily_package">Dagelijks dataplan</string>
+    <string name="main_daily_package">Dagelijks data-abonnement</string>
     <string name="main_indicator_title">Activering</string>
     <string name="main_leisure_remained">Data in daluren nog over</string>
     <string name="main_month_total_used">Deze maand gebruikt</string>
-    <string name="main_month_used">Dataplan</string>
+    <string name="main_month_used">Data-abonnement</string>
     <string name="main_no_info">Geen data</string>
     <string name="main_normal_data_usage">Gebruikte mobiele data</string>
     <string name="main_open_traffic_ctrl_button">Beperken datagebruik</string>
@@ -1685,9 +1715,11 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_antispam">Blokkeerlijst</string>
     <string name="menu_text_antivirus">Beveiligingsscan</string>
     <string name="menu_text_garbage_cleanup">Opruimer</string>
+    <string name="menu_text_garbage_cleanup_danger">%s</string>
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1695,7 +1727,8 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_optimize_manage">Boost snelheid</string>
     <string name="menu_text_optimize_manage_1">Boost snelheid</string>
-    <string name="menu_text_power_manager">Batterij en prestatie</string>
+    <string name="menu_text_power_manager">Batterij</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_service_app_detail">Datagebruik details</string>
@@ -1810,6 +1843,9 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="notification_channel_battery">Batterij</string>
     <string name="notification_exit_power_save_mode">Batterijbesparing uitgeschakeld</string>
     <string name="notification_exit_power_save_mode_subtitle">Batterij %s opgeladen.</string>
+    <string name="notification_garbage_clean_botton_text">Opschonen</string>
+    <string name="notification_garbage_clean_hint">Opslagruimte opschonen</string>
+    <string name="notification_garbage_clean_size">Vrijmaken %s</string>
     <string name="notification_garbage_cleanup_summary">Wis rommel (%s) om uw apparaat te versnellen</string>
     <string name="notification_garbage_cleanup_title">Rommelbestanden wissen</string>
     <string name="notification_low_battery_action_btn">Aanzetten</string>
@@ -1821,21 +1857,23 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="notification_masked_item">Hoe meldingsinhoud verbergen?</string>
     <string name="notification_masked_subtitle">Gebruik Appvergrendeling om meldingsinhoud voor geselecteerde apps te verbergen</string>
     <string name="notification_summary_cmcc_app_check">Tik om details weer te geven.</string>
+    <string name="notification_whatsapp_clean_button_text">Opschonen</string>
+    <string name="notification_whatsapp_clean_size">WhatsApp cache bereikt %s</string>
     <string name="notify_channel_mipush">Beveiligings push-meldingen</string>
     <string name="notify_channel_name_behavior">Gedragsgeschiedenis</string>
     <string name="notify_channel_name_security">Systeembeveiliging</string>
     <string name="notify_channel_optimize">Beveilingsmeldingen</string>
-    <string name="notify_daily_data_usage_body">Als je het datagebruik automatisch wilt beperken, stelt je je maandelijkse dataplan in.</string>
+    <string name="notify_daily_data_usage_body">Als u het datagebruik automatisch wilt beperken, stelt u uw maandelijkse data-abonnement in.</string>
     <string name="notify_daily_limit_body">Tik om de datalimiet in te stellen.</string>
     <string name="notify_daily_limit_title">%s vandaag gebruikt</string>
     <string name="notify_daily_limit_title_for_slotnum">%1$s gebruikt %2$s vandaag</string>
     <string name="notify_diving_mode_exception_close">Levendige modus succesvol uitgeschakeld</string>
     <string name="notify_diving_mode_exception_close_fail">Er is een simkaart fout opgetreden. Kon Levendige modus niet uitschakelen.</string>
     <string name="notify_diving_mode_exception_open_fail">Er is een simkaart fout opgetreden. Kon Levendige modus niet inschakelen.</string>
-    <string name="notify_month_traffic_body">Stel een datalimiet in om te voorkomen dat je over je maandelijkse dataplan gaat.</string>
+    <string name="notify_month_traffic_body">Stel een datalimiet in om te voorkomen dat u over uw maandelijkse data-abonnement gaat.</string>
     <string name="notify_month_traffic_title">%s gebruikt deze maand</string>
     <string name="notify_month_traffic_title_for_slotnum">%1$s gebruikt %2$s deze maand</string>
-    <string name="notify_weekly_traffic_body">Als je het datagebruik automatisch wilt beperken, stelt je je maandelijkse dataplan in.</string>
+    <string name="notify_weekly_traffic_body">Als u het datagebruik automatisch wilt beperken, stelt u uw maandelijkse data-abonnement in.</string>
     <string name="notify_weekly_traffic_title">%s gebruikt deze week</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s gebruikt %2$s deze week</string>
     <string name="numeric_need_to_confirm">Voer opnieuw in ter bevestiging</string>
@@ -1934,7 +1972,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="package_change_notification_summary">Tik om meer te leren.</string>
     <string name="package_change_notification_title">Pas datalimiet automatisch aan</string>
     <string name="package_setted_error_notification_summary">Tik om gegevens over datagebruik te zien.</string>
-    <string name="package_setted_error_notification_titile">Kan het dataplan niet instellen</string>
+    <string name="package_setted_error_notification_titile">Kon het data-abonnement niet instellen</string>
     <string name="packages_subtitle">Pakketten inclusief</string>
     <string name="passwordIncorrect">Gebruikersnaam of wachtwoord is onjuist</string>
     <string name="password_forget_pattern_confirm">Begrepen</string>
@@ -1985,7 +2023,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pc_search_keywords_battery_use">Batterijgebruik</string>
     <string name="pc_search_keywords_capacity">Batterijcapaciteit</string>
     <string name="pc_search_keywords_property">Prestaties</string>
-    <string name="pc_settings_title">Batterij en prestatie-instellingen</string>
+    <string name="pc_settings_title">Batterij</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$du %2$dm resterend</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$du %2$dm sinds laatste keer opladen</string>
     <string name="pc_statistics_battery_use_summary">%s sinds laatste keer opladen</string>
@@ -2084,6 +2122,11 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is, zal MIUI de volgende optimalisaties uitvoeren:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid scherm automatisch aan</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -2118,7 +2161,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_super_save_title_text">Ultra batterijbesparing</string>
     <string name="power_center_time_to_boot">Tijd aan</string>
     <string name="power_center_time_to_shutdown">Tijd uit</string>
-    <string name="power_center_title">Batterij en prestatie</string>
+    <string name="power_center_title">Batterij</string>
     <string name="power_consume_hardware_total_format">Hardware: %s</string>
     <string name="power_consume_other">Overig</string>
     <string name="power_consume_rank_hardware">Hardware</string>
@@ -2212,7 +2255,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_settings_number">Percentage</string>
     <string name="power_settings_saver_title">Batterijbesparing</string>
     <string name="power_settings_shape">Grafisch</string>
-    <string name="power_settings_title">Instellen</string>
+    <string name="power_settings_title">Instellingen</string>
     <string name="power_settings_top">Bovenste balk</string>
     <string name="power_superpower_title_systemui_highpower">Resterende tijd</string>
     <string name="power_superpower_title_systemui_lowpower">Sluit oplader aan</string>
@@ -2224,7 +2267,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_allow_connect_network_title">Dataroaming</string>
     <string name="pref_auto_adjust_traffic">Automatische datastatistieken aanpassen</string>
     <string name="pref_automatic_adjust">Synchroniseer provider datagebruik</string>
-    <string name="pref_avaible_traffic">Dataplan</string>
+    <string name="pref_avaible_traffic">Data-abonnement</string>
     <string name="pref_bg_network_title">Achtergrondverbinding</string>
     <string name="pref_category_daily_package_tile">Dagelijks dataplan</string>
     <string name="pref_category_extra_package_tile">Oplaadpakket</string>
@@ -2241,11 +2284,11 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_daily_traffic">Piek datalimiet</string>
     <string name="pref_data_usage_ignore_settings">Datagebruik negeren</string>
     <string name="pref_data_usage_ignore_settings_summary">Houd het datagebruik van geselecteerde apps niet bij</string>
-    <string name="pref_data_usage_not_set">Onbekend dataplan</string>
+    <string name="pref_data_usage_not_set">Onbekend data-abonnement</string>
     <string name="pref_free_adjust">Stel datagebruik in daluren in</string>
-    <string name="pref_key_daily_package_summary">Schakel in om het dataplan dagelijks te resetten</string>
-    <string name="pref_key_daily_package_switch">Dagelijks dataplan</string>
-    <string name="pref_key_daily_package_value">Dagelijks dataplan</string>
+    <string name="pref_key_daily_package_summary">Schakel in om het data-abonnement dagelijks te resetten</string>
+    <string name="pref_key_daily_package_switch">Dagelijks data-abonnement</string>
+    <string name="pref_key_daily_package_value">Dagelijks data-abonnement</string>
     <string name="pref_key_direction_traffic">Aangewezen mobiele data</string>
     <string name="pref_key_extra_package_value">Pakketgrootte</string>
     <string name="pref_key_half_year_package_start">Begindatum</string>
@@ -2257,16 +2300,17 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_mi_sim_settings">%s pakketinstellingen</string>
     <string name="pref_more_settings">Aanvullende instellingen</string>
     <string name="pref_new_installed_preconfig_title">De standaardinstellingen van nieuwe apps</string>
-    <string name="pref_normal_traffic_limit">Wanneer het dataplan verbruikt is</string>
+    <string name="pref_normal_traffic_limit">Wanneer het data-abonnement verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
-    <string name="pref_over_traffic_limit">Wanneer je over je dataplan gaat</string>
-    <string name="pref_package_traffic_settings">Dataplan</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_over_traffic_limit">Wanneer u over uw data-abonnement gaat</string>
+    <string name="pref_package_traffic_settings">Data-abonnement</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
     <string name="pref_roaming_daily_limit_setting">Dagelijkse datalimiet instellen tijdens roamen</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Dagelijkse datalimiet</string>
     <string name="pref_roaming_setting_gategory">Instellingen</string>
-    <string name="pref_special_package_setting">Aangepast dataplan</string>
+    <string name="pref_special_package_setting">Aangepast data-abonnement</string>
     <string name="pref_special_package_setting_summary">Beheer dalurendata, herlaadpakketten en gewenste data</string>
     <string name="pref_summary_upload_data_usage">Rapporteer uw datagebruik om ons te helpen MIUI-services te verbeteren. Rapportageproces wordt uitgevoerd in overeenstemming met ons Privacybeleid.</string>
     <string name="pref_title_declaration">Belangrijke disclaimer</string>
@@ -2423,6 +2467,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="privacy_using_record">Audio opnemen</string>
     <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
     <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Advertentie</string>
@@ -2780,7 +2825,7 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="status_bar_network_flow_exceed_content">Vandaag: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan overschreden: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   Telefoonbalans:%1$s "</string>
     <string name="status_bar_network_flow_purchase">"   Kopen >"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"   Stel dataplan in >"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"      Stel data-abonnement in >"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_retain_btn">Bewaren</string>
     <string name="stop_milink_connect">Casten gestopt</string>
@@ -2907,7 +2952,7 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="summary_virus">Verwijder virussen om uw apparaat veilig te houden</string>
     <string name="summary_virus_cloudscan">Upload app-namen en details en scan met online virusdefinities</string>
     <string name="summary_virus_update">Krijg automatisch de nieuwste virusdefinities</string>
-    <string name="summary_xiaomi_roaming">CNY 0,01/MB voor mobiele data-roaming.</string>
+    <string name="summary_xiaomi_roaming">CNY 0,01/MB voor mobiele dataroaming.</string>
     <string name="superpower_dialog_button_disable_dialog">Niet meer tonen</string>
     <string name="superpower_dialog_button_ok">OК</string>
     <string name="superpower_dialog_massage">Ultra batterijbesparing beperkt de meeste energieverbruikende functies en vermindert de prestaties van uw apparaat om de basisfunctionaliteit te behouden (bijv. oproepen, sms en verbinden met het netwerk) zo lang mogelijk beschikbaar te houden. Ultra batterijbesparing inschakelen?</string>
@@ -3142,7 +3187,7 @@ Formatteren wist bestaande inhoud op de ^2. Om te voorkomen dat u inhoud verlies
     <string name="traffic_alert_auto_modify_notification_sumarry">Maandelijks plan gewijzigd in %s.</string>
     <string name="traffic_alert_auto_modify_notification_titile">Data plan bijgewerkt</string>
     <string name="traffic_alert_auto_modify_package_summary">Automatisch datapakket aanpassen aan de hand van de gegevens van de provider</string>
-    <string name="traffic_config_alert_auto_modify">Update het dataplan automatisch</string>
+    <string name="traffic_config_alert_auto_modify">Update het data-abonnement automatisch</string>
     <string name="traffic_config_alert_body">"Het plan van je provider geeft dit weer: %s.
 
 Wil je dit nemen?"</string>
@@ -3260,6 +3305,9 @@ De overgebleven data bevat de data die is meegenomen van de vorige maand."</stri
     <string name="vb_advanced_settings_after_open">Na</string>
     <string name="vb_advanced_settings_before_open">Voor</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Maak bewegende objecten scherper door animaties te verbeteren. Deze functie vereist een hoger stroomverbruik.</string>
+    <string name="vb_fps_settings">Automatische verversingssnelheid</string>
+    <string name="vb_fps_settings_tips">Deze functie past de verversingssnelheid van het scherm aan de videoframesnelheid aan, waardoor de batterij wordt bespaard en het afspelen soepel verloopt. Als u zwevende opmerkingen inschakelt, wordt de automatische verversingssnelheid uitgeschakeld.</string>
+    <string name="vb_quick_func_auto_bgm">Achtergrondmuziek herkennen</string>
     <string name="vb_quick_func_hangup_listening">Speel videogeluid af met het scherm uit</string>
     <string name="vb_quick_func_screen_capture">Screenshot</string>
     <string name="vb_quick_func_screen_record">Opnemen</string>
@@ -3271,9 +3319,19 @@ De overgebleven data bevat de data die is meegenomen van de vorige maand."</stri
     <string name="vb_video_effects_display_style">Stijl</string>
     <string name="vb_video_effects_setting_black_white">Zwart-wit</string>
     <string name="vb_video_effects_setting_cinema">Cinema</string>
+    <string name="vb_video_effects_setting_girl">Blos</string>
+    <string name="vb_video_effects_setting_gorgeous">Levendig</string>
+    <string name="vb_video_effects_setting_green_orange">Oranje</string>
+    <string name="vb_video_effects_setting_grim">Koel</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">Metaal</string>
+    <string name="vb_video_effects_setting_mecha">Robot</string>
+    <string name="vb_video_effects_setting_nostalgia">Nostalgisch</string>
     <string name="vb_video_effects_setting_old_movie">Retro</string>
     <string name="vb_video_effects_setting_outside">Buiten</string>
     <string name="vb_video_effects_setting_raw">Origineel</string>
+    <string name="vb_video_effects_setting_solar">Vervagen</string>
+    <string name="vb_video_effects_setting_warmth">Warm</string>
     <string name="vb_video_effects_settings_liquid">Helderheid</string>
     <string name="vb_video_effects_settings_stereo">Volume</string>
     <string name="vb_video_effects_srs_premium_sound">Geluid</string>

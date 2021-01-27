@@ -107,6 +107,7 @@
     <string name="currency_update_updating">Koersen bijwerken…</string>
     <string name="current_rate_remind_commercial" />
     <string name="current_rate_remind_fund" />
+    <string name="date_format">dd MMM yyyy</string>
     <string name="dateformat">dd-MM-yyyy</string>
     <string name="day">dag</string>
     <string name="degDesc">Hoek</string>
@@ -115,7 +116,10 @@
     <string name="description_title">Over Rekenmachine</string>
     <string name="devided_by_zero_reminder_message">Kan niet door nul delen</string>
     <string name="dialog_privacy_content">&lt;Data>Naast de basisfuncties van een rekenmachine, bevat onze app ook een wetenschappelijke rekenmachine en een multifunctionele converter. Sommige functies hebben een internetverbinding nodig om normaal te kunnen werken. U moet onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> lezen en akkoord gaan voordat u de Rekenmachine gebruikt.&lt;/Data></string>
-    <string name="dialog_privacy_title">Algemene voorwaarden</string>
+    <string name="dialog_privacy_disagree_msg">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Rekenmachine in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Rekenmachine moet de nodige persoonlijke informatie verzamelen om u basisdiensten te kunnen bieden. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om haar diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="dialog_privacy_revoke_btn_ok">Intrekken</string>
+    <string name="dialog_privacy_revoke_title">Intrekking van toestemming</string>
+    <string name="dialog_privacy_title">Algemene Voorwaarden</string>
     <string name="dialog_rating_desc_ask">Wat vindt u van Rekenmachine?</string>
     <string name="dialog_rating_desc_less">Kunt u ons ook uw feedback geven?</string>
     <string name="dialog_rating_desc_perfect">Mooi! Rekenmachine ook in PlayStore beoordelen?</string>
@@ -160,10 +164,11 @@
     <string name="global_search_key_speed_convertion">Omzetten snelheidseenheid;Snelheid omzetten;Snelheids omzetter;Snelheid;Snelheid</string>
     <string name="global_search_key_temperature_convertion">Omzetting temperatuureenheid;Temperatuur omzetten;Temperatuur omzetter;Fahrenheit;Celsius;Centigraad</string>
     <string name="global_search_key_volume_convertion">Volume-eenheid omzetter;Volume omzetten;Volume omzetter</string>
-    <string name="global_search_key_weight_convertion">"Gewichteenheid omzetten;Gewicht omzetter;Gewichtcalculator;Kilo';Kg;Kilogrammen;Pond;Pond;lbs"</string>
+    <string name="global_search_key_weight_convertion">"Gewichteenheid omzetten;Gewicht omzetter;Gewichtcalculator;Kilo's;Kg;Kilogrammen;Pond;Pond;lbs"</string>
     <string name="global_search_key_word_figure">Financiële tekens</string>
     <string name="golbal_search_calculator_setting">Rekenmachine/Rekenmachine instellingen;Instellingen</string>
     <string name="golbal_search_path_calculator_setting">Systeem-apps/Rekenmachine/Instellingen</string>
+    <string name="gst_percentage">%s</string>
     <string name="height_prompt">Lengte</string>
     <string name="help_content_desc">Help</string>
     <string name="hint_annual_rate">Voer het jaartarief in</string>
@@ -208,6 +213,17 @@
     <string name="item_title_vel_conversion">Snelheid</string>
     <string name="item_title_volume_conversion">Volume</string>
     <string name="item_title_weight_conversion">Massa</string>
+    <string name="l_digit0">%d</string>
+    <string name="l_digit1">%d</string>
+    <string name="l_digit2">%d</string>
+    <string name="l_digit3">%d</string>
+    <string name="l_digit4">%d</string>
+    <string name="l_digit5">%d</string>
+    <string name="l_digit6">%d</string>
+    <string name="l_digit7">%d</string>
+    <string name="l_digit8">%d</string>
+    <string name="l_digit9">%d</string>
+    <string name="l_name_discount">Korting (%s eraf)</string>
     <string name="label_about">Over</string>
     <string name="label_clear_history">Alles wissen</string>
     <string name="label_date_difference">Verschil</string>
@@ -266,6 +282,7 @@
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">Standaard rentevoet</string>
     <string name="loan_unit">(×10K)</string>
+    <string name="localised_number">%d</string>
     <string name="lpr_ok">Begrepen</string>
     <string name="lpr_tips_msg">"Vanaf 8 oktober 2019 wordt de persoonlijke rentevoet voor een commerciële woninglening berekend op basis van de prime prime rate (LPR) in plaats van de eerder geïmplementeerde benchmarkrente van 4,9%. Nu wordt het definitieve tarief bevestigd door een LPR-basispunt toe te voegen.
 
@@ -327,6 +344,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="network_confirm_content">Koersconverter, belasting- en hypotheekcalculators moeten verbonden zijn met het internet en toegang hebben tot locatie services om normaal te kunnen functioneren.</string>
     <string name="network_confirm_title">Toestemmingen vereist</string>
     <string name="network_purpose">"Welkom bij Rekenmachine! Met Rekenmachine kunt u valuta's omzetten, hypotheek terugbetalingen berekenen en meer."</string>
+    <string name="new_privacy_string">&lt;Data>Welkom bij Rekenmachine!&lt;br/>Deze app bevat de volgende functies:&lt;br/>• Basis rekenmachine&lt;br/>• Grafische rekenmachine&lt;br/>• Universele omzetter (Bijv. valuta, meeteenheden, etc.)&lt;br/>• Berekeningssjablonen voor leningen, investeringen, EMI en meer&lt;br/>Rekenmachine heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href= \"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Rekenmachine gebruikt. U kunt uw toestemming voor het Privacybeleid van Rekenmachine op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
     <string name="none">Geen</string>
     <string name="not_supported_due_to_language">Deze functie is alleen beschikbaar in de Chinese versie</string>
     <string name="ok">OK</string>
@@ -359,7 +377,11 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="preference_use_voice_summary">Schakel in om spraakuitvoer te gebruiken tijdens berekeningen</string>
     <string name="preference_use_voice_title">Spraakuitvoer</string>
     <string name="preference_user_feedback_title">Feedback</string>
+    <string name="privacy_dialog_title">Privacy</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_revoke_error">Kon niet intrekken. Probeer het opnieuw.</string>
+    <string name="privacy_revoke_progress">Intrekken…</string>
+    <string name="privacy_switch">Intrekking van toestemming</string>
     <string name="radDesc">Radiaal</string>
     <string name="rate_data_provider">Rentetarieven worden verstrekt door hexun.com</string>
     <string name="reciprocalDesc">Omgekeerde</string>
@@ -489,6 +511,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -797,12 +820,14 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_yuan">CNY</string>
     <string name="updating">Rekenmachine bijwerken…</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_experience_program_title">Gebruikerservaringprogramma</string>
     <string name="view_float_window_move">Geminimaliseerde Rekenmachine verplaatsen</string>
     <string name="voiceDesc">Spraakbediening</string>
     <string name="voice_guide_text">U kunt spraakuitvoer hier inschakelen</string>
     <string name="warn_locale_unsupport_for_voice">Spraakuitvoer voor deze taal wordt nog niet ondersteund.</string>
     <string name="weight_prompt">Gewicht</string>
     <string name="wf_word_figure">Financiële tekens</string>
+    <string name="withdraw_network_error">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_wan">"万 "</string>
@@ -824,8 +849,11 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Kon niet verbinden met Downloads. Controleer of de app de benodigde toestemmingen heeft in Instellingen > Geïnstalleerde apps.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar. Controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"De nieuwe versie %1$s
 Grootte: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"De nieuwe versie %1$s

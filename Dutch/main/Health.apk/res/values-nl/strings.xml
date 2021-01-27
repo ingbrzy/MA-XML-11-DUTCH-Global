@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MediaControlView_audio_track_none_text">Geen</string>
+    <string name="MediaControlView_audio_track_number_text">Track %1$d</string>
+    <string name="MediaControlView_audio_track_text">Audiotrack</string>
+    <string name="MediaControlView_playback_speed_normal">Normaal</string>
+    <string name="MediaControlView_playback_speed_text">Afspeelsnelheid</string>
+    <string name="MediaControlView_subtitle_off_text">Uit</string>
+    <string name="MediaControlView_subtitle_track_number_and_lang_text">Track %1$d - %2$s</string>
+    <string name="MediaControlView_subtitle_track_number_text">Track %1$d</string>
+    <string name="MediaControlView_time_placeholder">00:00:00</string>
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
@@ -47,6 +56,7 @@ to add cards"</string>
     <string name="afternoon">Middag</string>
     <string name="all_records">Alle opnames</string>
     <string name="altitude">Altitude</string>
+    <string name="altitude_pressure_hint">*Hoogte berekend op basis van atmosferische druk is bij benadering</string>
     <string name="altitude_range">Altitude</string>
     <string name="am">AM</string>
     <string name="audio_permission_dialog_desc">To analyze your sleep cycle and record talking and snoring, Xiaomi Health needs permission to record audio.</string>
@@ -153,6 +163,7 @@ to add cards"</string>
     <string name="deep_sleep_duration_description">"When people sleep, periodic rapid eye movements occur. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Deep sleep occurs during periods of NREM sleep, accounting for about 20 to 25%% of the overall sleep duration. Your brain rests during deep sleep, showing low levels of conscious activity, so waking up isn't easy."</string>
     <string name="deep_sleep_duration_increase_description">Uw diepe slaap is te lang</string>
     <string name="deep_sleep_duration_normal_description">U hebt voldoende diepe slaap</string>
+    <string name="default_notification_channel_name">Wordt nu afgespeeld</string>
     <string name="delete">Delete</string>
     <string name="delete_menstruation_record_confirm">Deze opname verwijderen?</string>
     <string name="description">Details</string>
@@ -195,6 +206,7 @@ Xiaomi Health zal alleen meldingen weergeven over belangrijke dingen."</string>
     <string name="dialog_keep">Bewaren</string>
     <string name="dialog_known">Begrepen</string>
     <string name="dialog_menstruation_purpose">Welkom bij Xiaomi Health! \"Menstruatie\" laat u ongesteldheden registreren, geschatte data van aankomende ongesteldheden bepalen en herinneringen ontvangen. Alle gerelateerde gegevens zullen lokaal op uw apparaat opgeslagen worden, waardoor u deze makkelijk kunt beheren.</string>
+    <string name="dialog_new_version_title">Er is een update beschikbaar</string>
     <string name="dialog_no_more_prompt">Niet meer tonen</string>
     <string name="dialog_ok">OK</string>
     <string name="dialog_open">Toestaan</string>
@@ -213,6 +225,7 @@ Xiaomi Health zal alleen meldingen weergeven over belangrijke dingen."</string>
     <string name="dialog_user_agreement_purpose">Welkom bij Xiaomi Health! U kunt deze app gebruiken om stappen te tellen, slaap, menstruatie en gewicht bij te houden, evenals uw statistieken te synchroniseren met de cloud.</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="disable">Off</string>
+    <string name="discard_update">Nee, bedankt</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -229,6 +242,12 @@ Xiaomi Health zal alleen meldingen weergeven over belangrijke dingen."</string>
     <string name="enable_right_now">Inschakelen</string>
     <string name="engrgy_format">%1$d W</string>
     <string name="enough">Enough</string>
+    <string name="environment_detection_again">Opnieuw proberen</string>
+    <string name="environment_detection_fail">Het lijkt erop dat het hier te luidruchtig is</string>
+    <string name="environment_detection_fail_hint">Ga naar een rustige plek en probeer het opnieuw.</string>
+    <string name="environment_detection_hint_one">Vermijd lawaaierige plaatsen om de statistieken nauwkeuriger te maken.</string>
+    <string name="environment_detection_hint_two">Uw work-out wordt automatisch gepauzeerd en hervat op basis van de geluiden die u produceert.</string>
+    <string name="environment_detection_ing">De trainingsomgeving controleren…</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
@@ -306,6 +325,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="feedback_need_permission_msg">Sta Xiaomi Health toe om te schrijven op de externe opslag om logbestanden voor feedback te genereren.</string>
     <string name="feedback_permission_denied_msg">Xiaomi Health kan geen logbestanden opslaan op de externe opslag. Geef Xiaomi Health de vereiste toestemmingen in de instellingen.</string>
     <string name="fewer">Little</string>
+    <string name="find_new_verision">Versie %s is nu beschikbaar</string>
     <string name="finish">Voltooid</string>
     <string name="finished_rate">Completed %1$d%%</string>
     <string name="fmt_date_day">dd</string>
@@ -372,6 +392,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="health_app_name_dev">Gezondheid dev</string>
     <string name="health_score">Gezondheidsscore</string>
     <string name="health_score_tips">De gezondheidsscore wordt berekend op basis van uw BMI (body mass index), uw slaap en stappen. Hoe dichter u bij uw doelen bent, hoe hoger uw gezondheidsscore zal zijn.</string>
+    <string name="health_uninstall_dialog_content">"Xiaomi Health is a system app. You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud. You won't be able to use this app after you uninstall it."</string>
+    <string name="health_uninstall_dialog_title">Uninstall Xiaomi Health?</string>
     <string name="height">Hoogte</string>
     <string name="high">Hoog</string>
     <string name="high2">Hoog</string>
@@ -384,6 +406,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="hour">H</string>
     <string name="hour_in_day_format">%1$d</string>
     <string name="hour_in_day_format_short">%1$d</string>
+    <string name="immediately_experience">Bijwerken</string>
     <string name="improve_step_target">U hebt uw doel te vaak bereikt. Probeer een hoger doel in te stellen.</string>
     <string name="improve_your_health_default_tips">Sport en krijg genoeg slaap om gezond te blijven.</string>
     <string name="inactivated">Not activated</string>
@@ -432,6 +455,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="low">Laag</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">Regelmatige ademhaling waarmee u het gesprek kunt voeren</string>
+    <string name="lowest_freq">Laagste frequentie</string>
     <string name="lowest_jump">Laagste sprong</string>
     <string name="manage_home">Manage start page</string>
     <string name="manual_add">Add manually</string>
@@ -441,6 +465,26 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="max_altitude">Highest altitude</string>
     <string name="max_heart_rate">Highest heart rate</string>
     <string name="maximum_pace">Highest pace</string>
+    <string name="mcv2_back_button_desc">Terug</string>
+    <string name="mcv2_cc_is_off">Ondertiteling is uitgeschakeld. Klik om deze weer te geven.</string>
+    <string name="mcv2_cc_is_on">Ondertiteling is ingeschakeld. Klik om deze te verbergen.</string>
+    <string name="mcv2_error_dialog_button">OK</string>
+    <string name="mcv2_ffwd_button_desc">Dertig seconden vooruitgaan</string>
+    <string name="mcv2_full_screen_button_desc">Volledig scherm</string>
+    <string name="mcv2_music_artist_unknown_text">Artiest onbekend</string>
+    <string name="mcv2_music_title_unknown_text">Titel van nummer onbekend</string>
+    <string name="mcv2_next_button_desc">Volgende media</string>
+    <string name="mcv2_non_music_title_unknown_text">Titel van video onbekend</string>
+    <string name="mcv2_overflow_left_button_desc">Terug naar vorige lijst met knoppen</string>
+    <string name="mcv2_overflow_right_button_desc">Meer knoppen bekijken</string>
+    <string name="mcv2_pause_button_desc">Onderbreken</string>
+    <string name="mcv2_play_button_desc">Afspelen</string>
+    <string name="mcv2_playback_error_text">Kan het gevraagde item niet afspelen</string>
+    <string name="mcv2_previous_button_desc">Vorige media</string>
+    <string name="mcv2_replay_button_desc">Opnieuw afspelen</string>
+    <string name="mcv2_rewind_button_desc">Tien seconden terugspoelen</string>
+    <string name="mcv2_seek_bar_desc">Afspeelvoortgang</string>
+    <string name="mcv2_settings_button_desc">Instellingen</string>
     <string name="medium_intensity">Moderate</string>
     <string name="medley">Mixed</string>
     <string name="meet_days">Reached goal</string>
@@ -513,6 +557,11 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
+    <string name="miuix_search_action_mode_cancel">Annuleren</string>
+    <string name="miuix_search_history_clear">Zoekgeschiedenis wissen</string>
+    <string name="miuix_search_history_default_title">Zoekgeschiedenis</string>
+    <string name="miuix_search_recommendation_default_title">Mogelijk bent u hierin geïnteresseerd</string>
+    <string name="miuix_search_recommendation_item_del_des">Verwijderen</string>
     <string name="model_card_setting">Card settings</string>
     <string name="modify">Edit</string>
     <string name="modify_end_date">Einddatum wijzigen</string>
@@ -562,6 +611,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="name_title_menstruation_today_end">Ongesteldheid eindigt naar verwachting vandaag</string>
     <string name="need_auto_start_permission">Sta Xiaomi Health toe om automatisch te starten om nauwkeurigere statistieken te verkrijgen.</string>
     <string name="need_unrestricted_permission">Geef Xiaomi Health toestemming om altijd op de achtergrond uitgevoerd te worden om nauwkeurigere statistieken te verkrijgen.</string>
+    <string name="network_name_china">WLAN</string>
     <string name="network_not_available">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="network_not_available2">Kon niet verbinden met het netwerk</string>
     <string name="next_step">Volgende</string>
@@ -590,6 +640,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="passable">OK</string>
     <string name="passport_oauth_actionbar_title">Mi Account</string>
     <string name="passport_oauth_sucess_tip">Geautoriseerd succes</string>
+    <string name="pause_button_content_description">Pauzeren</string>
     <string name="per_count_minutes1">%d SPM</string>
     <string name="per_time_minutes">%d per minute</string>
     <string name="per_time_minutes1">" per minute"</string>
@@ -607,6 +658,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="placement_tips_title">Waar moet u uw telefoon neerzetten?</string>
     <string name="placement_tips_warn">Niet aangeraden</string>
     <string name="placement_tips_warn_1">Loopband</string>
+    <string name="play_button_content_description">Afspelen</string>
     <string name="pm">PM</string>
     <string name="pool_swimming">Pool swim</string>
     <string name="predict_menstruation">Verwachte ongesteldheid</string>
@@ -684,6 +736,26 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="setting_sedentary_title">Herinner me eraan te bewegen</string>
     <string name="share">Share</string>
     <string name="skip">Overslaan</string>
+    <string name="skip_to_next_item_button_content_description">Overslaan en naar volgend item</string>
+    <string name="skip_to_previous_item_button_content_description">Overslaan en naar vorig item</string>
+    <string name="skipping_count">Sprongen</string>
+    <string name="skipping_detection_no">Kon uw work-out niet detecteren.</string>
+    <string name="skipping_detection_no_hint">Vermijd lawaaierige plaatsen en houd dit apparaat in de buurt.</string>
+    <string name="skipping_kcal">Calorieën</string>
+    <string name="skipping_pause">Workout paused</string>
+    <string name="skipping_pause_tips">Gepauzeerd | Hervat uw work-out om automatisch door te gaan met volgen</string>
+    <string name="skipping_ready">U kunt nu met uw work-out beginnen</string>
+    <string name="skipping_ready_hint_one">Houd dit apparaat niet verder dan 1 meter bij u vandaan.</string>
+    <string name="skipping_ready_hint_two">Uw work-out wordt automatisch gepauzeerd en hervat op basis van de geluiden die u produceert.</string>
+    <string name="skipping_ready_toast">We hebben het volume verhoogd, zodat u de instructies beter hoort.</string>
+    <string name="skipping_reset_time">Rust uit</string>
+    <string name="skipping_start_counting">Starten</string>
+    <string name="skipping_time">Duur</string>
+    <string name="skipping_upload_dialog_agree_and_upload">Uploaden</string>
+    <string name="skipping_upload_dialog_msg">Wanneer uw apparaat is verbonden met %s, kunt u ervoor kiezen om de audio opgenomen tijdens work-outs te uploaden om de nauwkeurigheid van de trainingsstatistieken te verbeteren. Om uw privacy te beschermen, worden audiobestanden versleuteld.</string>
+    <string name="skipping_upload_dialog_reject_not_remind">Nee, bedankt</string>
+    <string name="skipping_upload_dialog_title">Audio uploaden</string>
+    <string name="skipping_upload_tips">Upload audio to make stats more accurate</string>
     <string name="sleep">Slaap</string>
     <string name="sleep_and_get_up_time">Bedtime schedule</string>
     <string name="sleep_auto_start_perm_grant">Toestemmingen verleend</string>
@@ -696,7 +768,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="sleep_deep">Diepe slaap</string>
     <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
     <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
-    <string name="sleep_deep_light_no_data">Door uw mobiele apparaat naast het kussen te plaatsen, worden de slaapgegevens nauwkeuriger</string>
+    <string name="sleep_deep_light_no_data">Kon slaap niet volgen. Door uw mobiele apparaat naast het kussen te plaatsen, worden de slaapgegevens nauwkeuriger.</string>
     <string name="sleep_detection_enable">Analyze sleep cycle</string>
     <string name="sleep_detection_feedback">Feedback</string>
     <string name="sleep_detection_guide_four_description">Het volgen van slaap verbruikt slechts ongeveer 1% van uw batterij per nacht</string>
@@ -861,6 +933,8 @@ slaapgegevens vinden"</string>
     <string name="sustain_title">"U heeft al   niet bewogen"</string>
     <string name="swim">Swimming</string>
     <string name="swim_type">Style</string>
+    <string name="swipe_right_to_end">Veeg naar rechts om te beëindigen</string>
+    <string name="swipe_up_to_end">Veeg omhoog om te beëindigen</string>
     <string name="tb_mens_mark_success">Succesvol gemarkeerd</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
@@ -945,7 +1019,8 @@ slaapgegevens vinden"</string>
     <string name="total_distance_label">Totale afstand</string>
     <string name="total_slip">Number of strokes</string>
     <string name="total_time_label">Totale tijd</string>
-    <string name="treadmill">跑步机</string>
+    <string name="treadmill">Loopband</string>
+    <string name="try_again">Opnieuw proberen</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
@@ -979,6 +1054,7 @@ Nu bijwerken?"</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="value_error_correct">Opname bewerken</string>
+    <string name="voice_remind">We hebben het volume verhoogd, zodat u de instructies beter hoort.</string>
     <string name="walk">Walking</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>

@@ -68,6 +68,14 @@
         <item quantity="other">%1$d contactpersonen</item>
         <item quantity="one">%1$d contactpersoon</item>
     </plurals>
+    <plurals name="contacts_trash_delete_dialog_respond">
+        <item quantity="other">%d contacten definitief verwijderd</item>
+        <item quantity="one">%d contact definitief verwijderd</item>
+    </plurals>
+    <plurals name="contacts_trash_restore_respond">
+        <item quantity="other">%d contacten succesvol hersteld</item>
+        <item quantity="one">%d contact succesvol hersteld</item>
+    </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">%1$d contactpersonen geïmporteerd</item>
         <item quantity="one">%1$d contactpersoon geïmporteerd</item>
@@ -107,6 +115,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">%1$d items</item>
+        <item quantity="one">%1$d item</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d contactpersonen</item>

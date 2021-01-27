@@ -156,6 +156,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%1$d personen spelen</item>
         <item quantity="one">%1$d persoon speelt</item>
     </plurals>
+    <plurals name="gb_dialog_game_uninstall_multi_tips_title">
+        <item quantity="other">Deïnstalleren %2$d games (inclusief %1$s)</item>
+        <item quantity="one">Deïnstalleren %2$d game (inclusief %1$s)</item>
+    </plurals>
     <plurals name="gb_record_time_title">
         <item quantity="other">%d secs</item>
         <item quantity="one">%d sec</item>

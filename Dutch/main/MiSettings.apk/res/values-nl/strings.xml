@@ -68,6 +68,13 @@
     <string name="focus_mode_timer_pick_dialog_title">Voer duur in</string>
     <string name="focus_time_exception_tip">Het lijkt erop dat de systeemtijd is gewijzigd. Focus modus uitgeschakeld.</string>
     <string name="follow_sim1">Sim 1 instellingen toepassen</string>
+    <string name="fps_nature_summary">Hoge verversingssnelheid houdt alles helder en duidelijk</string>
+    <string name="fps_nature_title">Hoog</string>
+    <string name="fps_smooth_summary">Een gemiddelde verversingssnelheid voegt meer duidelijkheid toe aan details</string>
+    <string name="fps_smooth_title">Gemiddeld</string>
+    <string name="fps_standard_summary">Standaard verversingssnelheid bespaart batterij</string>
+    <string name="fps_standard_title">Standaard</string>
+    <string name="fps_user_tip">Deze demo-animaties worden ter referentie op lage snelheid afgespeeld. De werkelijke prestatie kan er anders uitzien op basis van verschillende factoren.</string>
     <string name="gamma">Gamma</string>
     <string name="healthy_use_phone">Beheer schermtijd</string>
     <string name="high_fps_description">Hoge schermvernieuwingssnelheid. Hoger stroomverbruik.</string>
@@ -114,6 +121,7 @@
     <string name="screen_fps_summary_power_save">Het gebruik van vaste snelheid verbruikt minder stroom</string>
     <string name="screen_fps_summary_smooth">Sommige apps verhogen de verversingssnelheid automatisch om de beeldkwaliteit te verbeteren</string>
     <string name="screen_fps_title">Ververssnelheid</string>
+    <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (Bespaart batterij)</string>
     <string name="screen_fps_unit_smooth">%dHz (Betere kwaliteit)</string>
     <string name="screen_original_gamut">Geoptimaliseerd</string>
@@ -186,6 +194,7 @@
     <string name="usage_device_limit_app_prolong_time2">Voeg 40 minuten toe</string>
     <string name="usage_device_limit_app_prolong_time3">Voeg 60 minuten toe</string>
     <string name="usage_device_limit_app_prolong_time4">Beperk vandaag niet</string>
+    <string name="usage_device_limit_app_prolong_time5">Voeg één keer tijd toe</string>
     <string name="usage_device_limit_notifation_summary_start">U zult uw limiet bereiken in %1$s</string>
     <string name="usage_device_limit_notifation_title">Resterende tijd vandaag</string>
     <string name="usage_device_limit_time_over">U heeft de limiet van vandaag bereikt (%1$s)</string>

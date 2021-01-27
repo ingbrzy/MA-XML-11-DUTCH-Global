@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="copy">Kopiëren</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>

@@ -91,6 +91,8 @@
     <string name="HIPS_Perm_process_outgoing_calls_Desc">inkomende oproepen zien</string>
     <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">lees service SMS</string>
+    <string name="HIPS_Perm_recognition">Toegang tot activiteitsinformatie</string>
+    <string name="HIPS_Perm_recognition_Desc">Geef de app toegang tot uw activiteitsinformatie</string>
     <string name="HIPS_Perm_service_foreground">Diensten op de voorgrond</string>
     <string name="HIPS_Perm_service_foreground_Desc">diensten op de voorgrond</string>
     <string name="HIPS_Perm_show_when_locked">Weergeven op Vergrendelscherm</string>

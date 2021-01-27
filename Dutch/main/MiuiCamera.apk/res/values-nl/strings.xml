@@ -64,6 +64,7 @@
     <string name="accessibility_camera_video_960fps_960">960FPS</string>
     <string name="accessibility_camera_video_fps_120">120FPS</string>
     <string name="accessibility_camera_video_fps_30">30FPS</string>
+    <string name="accessibility_camera_video_slow_motion_fps">%dFPS</string>
     <string name="accessibility_closed">Uit</string>
     <string name="accessibility_color">Kleur</string>
     <string name="accessibility_date">Datum</string>
@@ -79,6 +80,8 @@
     <string name="accessibility_document_strengthen_button">Documenten scannen. Verbeterd.</string>
     <string name="accessibility_dual_preview_change">Bekijk wijzigingen</string>
     <string name="accessibility_dual_preview_change_finish">Wijzigingen zijn succesvol weergegeven</string>
+    <string name="accessibility_dual_video_merged">Gecombineerde video</string>
+    <string name="accessibility_dual_video_standalone">"Gescheiden video's"</string>
     <string name="accessibility_eis_normal">Stabiele video is ingeschakeld</string>
     <string name="accessibility_eis_off">Stabiele video is uitgeschakeld</string>
     <string name="accessibility_eis_pro">Stabiele video PRO is ingeschakeld</string>
@@ -269,6 +272,9 @@ en voorkeuren automatisch aanpassen"</string>
     <string name="ai_west_lake">Westelijke Meer</string>
     <string name="ai_wuhan">Wuhan</string>
     <string name="ai_zhang_jia_jie">Zhangjiajie</string>
+    <string name="aiwatermark_location_absent_hint">Kon locatie info niet verkrijgen</string>
+    <string name="aiwatermark_location_list_title">Locatie</string>
+    <string name="aiwatermark_location_tips">Geef Camera toegang tot uw locatie om meer relevante watermerken te krijgen</string>
     <string name="ambilight_description_title">Over lange blootstelling</string>
     <string name="ambilight_intro_crowd_moving_part1">Vraagt u onderwerp om stil te staan wanneer u in een drukke straat fotografeert. Andere mensen zullen verschijnen als wazige sporen.</string>
     <string name="ambilight_intro_crowd_moving_part2">"U kunt ook foto's maken van druk verkeer en bewegende menigte. Lange blootstelling houdt de gebouwen scherp, maar alle bewegende objecten zullen wazig zijn."</string>
@@ -290,6 +296,7 @@ en voorkeuren automatisch aanpassen"</string>
     <string name="ambilight_tips_for_suggest_using_tripod">Gebruik een statief</string>
     <string name="ambilight_tips_for_using_tripod">Gebruik een statief</string>
     <string name="audio_focus_exit_button_text">Audio focus uitschakelen</string>
+    <string name="auto_hibernation_enter_tip">Staat op het punt het scherm uit te schakelen…</string>
     <string name="autozoom_click_hint">Tik op een object om op dit object te blijven focussen terwijl het beweegt. Houd ten minste 3 meter afstand voor het beste effect.</string>
     <string name="autozoom_disabled_hint">Gestopt met het volgen van bewegend object</string>
     <string name="autozoom_hint">Volg bewegend object</string>
@@ -454,10 +461,20 @@ gescande documenten automatisch"</string>
     <string name="document_mode_use_hint_text_title">Documenten scannen</string>
     <string name="document_origin">Origineel</string>
     <string name="document_strengthen">Geoptimaliseerd</string>
+    <string name="download_cancel_hint">Downloaden annuleren %1$s?</string>
+    <string name="download_confirm">Downloaden</string>
+    <string name="download_hint">%1$s MB mobiele data wordt gebruikt om items te downloaden. Toch downloaden?</string>
+    <string name="download_title">Waarschuwing datagebruik</string>
     <string name="dual_camera_lens_covered_toast">De lens is bedekt.</string>
     <string name="dual_camera_lowlight_toast">Het lijkt erop dat het te donker is.</string>
     <string name="dual_camera_too_close_toast">De camera is te dicht bij het object.</string>
     <string name="dual_camera_use_hint">Zorg ervoor dat het object niet verder dan 2 meter weg is.</string>
+    <string name="dual_video_record_merged">Gecombineerd</string>
+    <string name="dual_video_record_standalone">Gescheiden</string>
+    <string name="dual_video_user_guide_main_content">"Om multicam-video's te maken, selecteert u twee camera's op uw apparaat en maakt u tegelijkertijd opnamen. De opnames kunnen afzonderlijk worden opgeslagen, of gecombineerd in een gesplitste weergave of Afbeelding-in-Afbeelding video."</string>
+    <string name="dual_video_user_guide_main_title">Multicam-video</string>
+    <string name="dual_video_user_guide_merge_content">"Maak opnamen met twee camera's tegelijkertijd en combineer opnamen in een gesplitste weergave of Afbeelding-in-Afbeelding video."</string>
+    <string name="dual_video_user_guide_standalone_content">"Maak opnamen met twee camera's tegelijkertijd en sla beide opnames op als aparte video's."</string>
     <string name="edit_blusher">Rouge</string>
     <string name="edit_chin">Kin</string>
     <string name="edit_eye_large">Grote ogen</string>
@@ -512,6 +529,10 @@ gescande documenten automatisch"</string>
     <string name="face_beauty_intelligent_level_3">Hoog</string>
     <string name="face_beauty_smart">Slim</string>
     <string name="face_score_info">Score: %.1f</string>
+    <string name="fastmotion_pro_adjust_name">Parameters</string>
+    <string name="fastmotion_pro_save_time_infinity">Onbeperkte duur</string>
+    <string name="fastmotion_pro_save_time_min_and_sec">Duur: %1$s %2$s</string>
+    <string name="fastmotion_pro_save_time_min_or_sec">Duur: %1$s</string>
     <string name="fps960_toast">Slow motion opname zal starten bij het laatste kwart van de opname</string>
     <string name="fragment_tab_name_bokeh">Bokeh</string>
     <string name="front_camera_hint_text_place">"Het nemen van selfie's zal makkelijker gaan
@@ -571,8 +592,11 @@ in Portretmodus"</string>
     <string name="lighting_pattern_stage">Podium</string>
     <string name="lighting_phantom">Fantoom</string>
     <string name="lighting_rainbow">Regenboog</string>
+    <string name="live_draft_continue">Hervatten</string>
+    <string name="live_draft_empty">Hier geen items</string>
     <string name="live_edit_exit_confirm">Stoppen</string>
     <string name="live_edit_exit_message">Nu stoppen met filmen?</string>
+    <string name="live_edit_exit_message_draft">Opslaan als concept</string>
     <string name="live_edit_share_title">Delen</string>
     <string name="live_error_confirm">Tijd aanpassen</string>
     <string name="live_error_message">Sommige functies werken mogelijk niet goed wanneer de systeemtijd onjuist is.</string>
@@ -597,6 +621,8 @@ in Portretmodus"</string>
     <string name="live_sticker_fragment_tab_name">TikTok effecten</string>
     <string name="live_sticker_network_error_hint">Netwerkfout</string>
     <string name="live_sticker_updating">Bijwerken…</string>
+    <string name="live_workspace_title">Concepten</string>
+    <string name="live_workspace_title_edit">Selecteer items om te verwijderen</string>
     <string name="location_access_allow">Toestaan</string>
     <string name="location_permission_des">"Locaties voor foto's en video's herinneren"</string>
     <string name="location_permission_not_ask_again">Verleen Camera toegang tot uw locatie in de Instellingen.</string>
@@ -745,7 +771,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="module_name_fun_ar">Sticker avatars</string>
     <string name="module_name_manual">Handmatig</string>
     <string name="module_name_more">Meer</string>
-    <string name="module_name_multi_camera">Voor-en achterkant</string>
+    <string name="module_name_multi_camera">Multicam</string>
     <string name="module_name_new_slow_motion">Slow motion</string>
     <string name="module_name_panorama">Panorama</string>
     <string name="module_name_portrait">Portret</string>
@@ -753,6 +779,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="module_name_square">Vierkant</string>
     <string name="module_name_super_moon">Super maan</string>
     <string name="module_name_video">Video</string>
+    <string name="module_name_vlog">VLOG</string>
     <string name="moive_frame">Filmframe</string>
     <string name="more_mode_style">Selecteer hoe uw alle camera-modussen wilt ordenen</string>
     <string name="more_mode_style_popup">Paneel \"Meer\"</string>
@@ -886,6 +913,8 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Tik op twee diagonale punten op de rand van het object om het object te selecteren. Als het object stilstaat zal de camera automatisch een foto maken.</string>
     <string name="pref_camera_auto_capture_when_stable_title">Geselecteerde objecten vastleggen bij stil beeld</string>
     <string name="pref_camera_auto_chroma_flash_title">Chroma flitser</string>
+    <string name="pref_camera_auto_hibernation">Maak opnamen met het scherm uitgeschakeld</string>
+    <string name="pref_camera_auto_hibernation_description">Schakel het scherm uit na %d minuten opnemen om stroom te besparen</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Centrumgericht</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Frame gemiddelde</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Spotmeting</string>
@@ -893,6 +922,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_auxiliary_close">Uit</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Belichtingsverificatie</string>
     <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Hoog</string>
     <string name="pref_camera_beautify_entry_low">Laag</string>
     <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -1017,7 +1047,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_portrait_mode_entry_off">Portretmodus staat uit</string>
     <string name="pref_camera_portrait_mode_entry_on">Portretmodus staat aan</string>
     <string name="pref_camera_portrait_mode_title">Portretmodus</string>
-    <string name="pref_camera_proximity_lock_summary">Touch-gebaren vergrendelen als het apparaat in een broekzak zit</string>
+    <string name="pref_camera_proximity_lock_summary">Vergrendel aanraakbewegingen als het in een broekzak is geplaatst</string>
     <string name="pref_camera_proximity_lock_title">Broekzakmodus</string>
     <string name="pref_camera_quick_settings">Snelle instellingen</string>
     <string name="pref_camera_rec_type_3d_record">3D-geluid</string>
@@ -1056,8 +1086,8 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_snap_enable_title">Snelle foto modus</string>
     <string name="pref_camera_snap_entry_off">Uit</string>
     <string name="pref_camera_snap_entry_summary">Houd de Volume omlaag knop ingedrukt wanneer het scherm is uitgeschakeld om een foto te nemen</string>
-    <string name="pref_camera_snap_entry_take_movie">Snelle snap modus (video)</string>
-    <string name="pref_camera_snap_entry_take_picture">Snelle foto modus (foto)</string>
+    <string name="pref_camera_snap_entry_take_movie">Snelle foto-modus (video)</string>
+    <string name="pref_camera_snap_entry_take_picture">Snelle foto-modus (foto)</string>
     <string name="pref_camera_snap_label_take_movie">Video</string>
     <string name="pref_camera_snap_label_take_picture">Foto</string>
     <string name="pref_camera_sound_title">Sluitergeluid</string>
@@ -1113,7 +1143,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_custom_tint_title">Kleuren</string>
     <string name="pref_customization_title">Aanpassen</string>
     <string name="pref_document_mode">Documenten</string>
-    <string name="pref_dual_camera_video">Voor-en achterkant</string>
+    <string name="pref_dual_camera_video">Duale video</string>
     <string name="pref_face_beauty_title">Mooi Maken</string>
     <string name="pref_fingerprint_capture_title">Sluiter vingerafdruk</string>
     <string name="pref_front_denoise_summary">Verminder geluiden die gegenereerd worden achter de voorkant camera</string>
@@ -1326,6 +1356,8 @@ Ultra wijde hoekmodus helpt wanneer u niet verder weg van het onderwerp kunt bew
     <string name="unknow_error">Onbekende fout</string>
     <string name="unsupported_microphones_3d_record_tips">3D-geluid ondersteunt geen externe microfoons</string>
     <string name="unsupported_microphones_audio_zoom_tips">Audio zoom ondersteunt geen externe microfoons</string>
+    <string name="update_loading">Gedownload %1$d%%</string>
+    <string name="update_start">%1$s bijwerken</string>
     <string name="user_agree">Akkoord</string>
     <string name="user_define_watermark_cancel">Annuleren</string>
     <string name="user_define_watermark_save">Opslaan</string>

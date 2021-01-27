@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="account_bind_secure_email_title">E-mailadres voor herstel toevoegen</string>
     <string name="account_bind_secure_phone_title">Telefoonnummer voor herstel toevoegen</string>
     <string name="account_crop_user_avatar">Foto bijsnijden</string>
@@ -46,7 +47,7 @@
     <string name="account_no_set">Geen</string>
     <string name="account_none_bind_info">Geen</string>
     <string name="account_none_user_name">Geen</string>
-    <string name="account_secure_info_pref_title">Account info</string>
+    <string name="account_secure_info_pref_title">Accountinformatie</string>
     <string name="account_security_info_pref_title">Beveiligingsinfo</string>
     <string name="account_user_avatar">Profielfoto</string>
     <string name="account_user_avatar_from_album">Galerij</string>
@@ -60,12 +61,14 @@
     <string name="account_user_name">Bijnaam</string>
     <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
     <string name="account_user_other_info">Details</string>
-    <string name="account_user_phone">Telefoonnummer voor herstel</string>
+    <string name="account_user_phone">Hersteltelefoon</string>
     <string name="account_user_region">Regio</string>
     <string name="action_add_phone">Telefoonnummer toevoegen</string>
     <string name="action_update_phone">Telefoonnummer wijzigen</string>
     <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
     <string name="activity_not_found_notice">App kan niet worden gevonden</string>
+    <string name="ad_bar_notification_setting_sub_title">Toon evenementen in het Meldingenpaneel</string>
+    <string name="ad_bar_notification_setting_title">Evenementen</string>
     <string name="ad_buy">Aankoop</string>
     <string name="ad_download">Downloaden</string>
     <string name="ad_join">Word lid van de gemeenschap</string>
@@ -123,6 +126,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -356,7 +360,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="gallery_folder_alias_wechat">WeChat</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Alle</string>
-    <string name="gallery_tab_videos">Video’s</string>
+    <string name="gallery_tab_videos">"Video's"</string>
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">Instellingen</string>
     <string name="galleryplus_chose_play_speed">Afspelen op %1$.1fX snelheid</string>
@@ -394,6 +398,8 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="galleryplus_online_cta_disagree">Niet akkoord</string>
     <string name="galleryplus_online_cta_title">Algemene voorwaarden</string>
     <string name="galleryplus_online_video_loading">Een ogenblik geduld…</string>
+    <string name="galleryplus_orientation_lock">Oriëntatie succesvol vergrendeld</string>
+    <string name="galleryplus_orientation_unlock">Schermoriëntatie is ontgrendeld</string>
     <string name="galleryplus_permission_content">Geef Mi Video de vereiste toestemmingen om deze functie te kunnen gebruiken.</string>
     <string name="galleryplus_permission_content2">"Ga naar Instellingen om deze functie te kunnen gebruiken > Apps > Mi Video > App toestemmingen en laat Mi Video het volgende doen:
 
@@ -447,6 +453,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="history_local_video">Lokaal</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Populair</string>
+    <string name="i_know">Begrepen</string>
     <string name="identity">Identificatie</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
     <string name="init_channels">Standaard herstellen</string>
@@ -534,7 +541,7 @@ voor video's"</string>
     <string name="lv_home_settings">Instellingen</string>
     <string name="lv_input_password">Voer wachtwoord in</string>
     <string name="lv_local_folder">Mappen</string>
-    <string name="lv_local_video">Video’s</string>
+    <string name="lv_local_video">"Video's"</string>
     <string name="lv_media_type_unsported">Dit videoformat kan niet worden afgespeeld.</string>
     <string name="lv_menu_delete">Verwijderen (%d)</string>
     <string name="lv_menu_hide">Verbergen</string>
@@ -643,14 +650,16 @@ voor video's"</string>
     <string name="my_favorite_channels">Mijn favoriete kanalen</string>
     <string name="my_feedback_title">Mijn feedback</string>
     <string name="need_update_app">Werk Mi Video bij om alle functies te gebruiken</string>
-    <string name="network_connect_info">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="network_connect_info">Kon niet verbinden met het netwerk.</string>
+    <string name="network_error_info">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="network_failed">Kon niet verbinden met het netwerk</string>
+    <string name="network_timeout_info">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="new_channel_tip">Bekijk nieuwe kanalen!</string>
     <string name="next">Volgende</string>
     <string name="next_step">Volgende</string>
     <string name="nick_name">Bijnaam</string>
     <string name="no_account">Niet aangemeld</string>
-    <string name="no_longer_prompt">Niet opnieuw tonen</string>
+    <string name="no_longer_prompt">Niet meer tonen</string>
     <string name="no_more_content">Dit was het voor nu</string>
     <string name="no_network_tips">Kan deze functie nu niet gebruiken. Netwerktoegang is geblokkeerd.</string>
     <string name="no_phone">Geen telefoonnummer</string>
@@ -676,6 +685,8 @@ voor video's"</string>
     <string name="off_tip_firework_recommend">U ontvangt geen gepersonaliseerde inhoudsaanbevelingen van Firework</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">U ontvangt gepersonaliseerde inhoudsaanbevelingen van Firework</string>
+    <string name="open_settings">Instellingen</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="ovp_alert_dialog_download_install_task">HD plug-in downloaden…</string>
@@ -776,6 +787,7 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="passport_area_code_title">Regiocode</string>
     <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
     <string name="passport_barcode_add_account_prompt">Wilt u een account toevoegen, scan dan opnieuw de QR-code nadat u bent aangemeld.</string>
+    <string name="passport_can_not_receive_verification_code">Kan geen verificatiecode ontvangen?</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Wachtwoord controleren…</string>
     <string name="passport_close">Sluiten</string>
@@ -817,9 +829,9 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="passport_next_step">Volgende</string>
     <string name="passport_password_req_notice">Het wachtwoord moet 8-16 tekens lang zijn en ten minste twee van de volgende tekens bevatten: cijfers, letters en speciale symbolen (zoals 123abc@#, 123abc of abc@#).</string>
     <string name="passport_querying_phone_info">Accountgegevens opvragen…</string>
-    <string name="passport_quick_login_dialog_step2_title">2-staps verificatie</string>
+    <string name="passport_quick_login_dialog_step2_title">2-stap-verificatie</string>
     <string name="passport_quick_login_dialog_title">Wachtwoord verifiëren</string>
-    <string name="passport_quick_login_step2_title">2-staps verificatie</string>
+    <string name="passport_quick_login_step2_title">2-stap-verificatie</string>
     <string name="passport_quick_login_title">Voer uw wachtwoord in</string>
     <string name="passport_re_get_verify_code">Code opnieuw ophalen</string>
     <string name="passport_reging">Account creëren…</string>
@@ -915,6 +927,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_menu_delete_popup_text">Nu verwijderen?</string>
     <string name="plus_menu_properties">Eigendommen</string>
     <string name="plus_menu_rename">Hernoemen</string>
+    <string name="plus_menu_rename_cant_empty">Bestandsnaam mag niet leeg zijn</string>
     <string name="plus_menu_rename_fail">Bestandsnaam mag niet bevatten \"/\"</string>
     <string name="plus_menu_share">Delen</string>
     <string name="plus_mine_gallery">Mijn albums</string>
@@ -1010,6 +1023,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_sort_type_time">Tijd</string>
     <string name="plus_tab_gallery">Mappen</string>
     <string name="plus_tab_time">Tijdlijn</string>
+    <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="psw_hint">Wachtwoord</string>
     <string name="psw_sign_in">Log in met een wachtwoord</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Sleep omhoog te vernieuwen…</string>
@@ -1047,6 +1061,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="report_content_violence">Haatzaaiende uitspraak</string>
     <string name="report_fail">Kon niet rapporteren. Probeer het opnieuw.</string>
     <string name="report_success">Succesvol gerapporteerd</string>
+    <string name="request_camera_permission_message">We zullen uw persoonlijke gegevens beschermen in overeenstemming met de relevante wet- en regelgeving. Deze app heeft de volgende toestemmingen nodig om normaal te werken:&lt;br>&lt;br>&lt;b>Camera gebruiken (voor het instellen van uw profielfoto)&lt;/b>&lt;br>&lt;br>Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar. U kunt toestemmingen altijd beperken of uw autorisatie intrekken in de Instellingen.</string>
     <string name="resend_active_email">Opnieuw verzenden</string>
     <string name="resend_email_reach_limit_message">U heeft te veel verificatie e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de map met ongewenste e-mail zit.</string>
     <string name="resend_email_reach_limit_title">Te veel pogingen</string>
@@ -1103,6 +1118,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
     <string name="start_download_tip">Toegevoegd aan wachtrij. Bekijk de voortgang in Profiel > Downloads.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>
@@ -1121,6 +1137,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sync_favorites_limit">"Er staan meer dan 500 video's in uw favorieten. We zullen een aantal eerdere video's moeten verwijderen om door te gaan met synchroniseren."</string>
     <string name="sync_favorites_message">Favorieten van dit apparaat synchroniseren met uw account? Items die niet meer beschikbaar zijn zullen verwijderd worden.</string>
     <string name="sync_favorites_title">Favorieten synchroniseren</string>
+    <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="t_check_hide_file">Selecteer items om te verbergen</string>
     <string name="t_check_unhide_file">Selecteer items om zichtbaar te maken</string>
     <string name="t_downloading">Downloaden:</string>
@@ -1145,7 +1162,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="tab_name_me">Profiel</string>
     <string name="tab_name_moment">Momenten</string>
     <string name="tab_name_trending">Trending</string>
-    <string name="tab_name_video">Video’s</string>
+    <string name="tab_name_video">"Video's"</string>
     <string name="temporary_not_available">Deze functie wordt nog niet ondersteund</string>
     <string name="thursday">Donderdag</string>
     <string name="ticket_hint">Verificatiecode</string>
@@ -1173,6 +1190,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="ugc_no_net">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="ui_log_tip">Tik op dit gebied om te verbergen, houd ingedrukt om oude logbestanden te wissen. Versleep logbestanden handmatig.</string>
     <string name="unknow">Onbekend</string>
+    <string name="unknown_error_info">Onbekende fout</string>
     <string name="update">Bijwerken</string>
     <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u het e-mailadres voor herstel kunt bijwerken.</string>
     <string name="update_email_address_dialog_title">E-mailadres voor herstel bijwerken</string>

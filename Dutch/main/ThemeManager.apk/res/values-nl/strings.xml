@@ -41,6 +41,7 @@
     <string name="account_unactivated">Account is niet geactiveerd</string>
     <string name="ad_app_download_start">Downloaden starten…</string>
     <string name="ad_app_is_downloading">Downloaden…</string>
+    <string name="ad_service">Advertenties weergeven</string>
     <string name="add_resource_detail_fail">Kan bron niet toevoegen</string>
     <string name="agreement_desc">Gebruikersovereenkomst (vereist)</string>
     <string name="alarm_sound">Alarm</string>
@@ -163,7 +164,9 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -181,6 +184,7 @@
     <string name="fail_to_add_account">Kan account niet toevoegen</string>
     <string name="favorite_list">Favorieten</string>
     <string name="favorite_list_format">Favoriet %1$s</string>
+    <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="find_more">Meer vinden</string>
     <string name="find_more_theme">Vind meer</string>
     <string name="find_more_wallpapers">Vind meer</string>
@@ -230,6 +234,7 @@
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -252,7 +257,8 @@
     <string name="lockscreen_magazine_title">Achtergrondcarrousel</string>
     <string name="lockscreen_wallpaper">Vergrendelscherm</string>
     <string name="lockstyle_personal_settings">Aanpassen</string>
-    <string name="login_invalid">Sessie verlopen</string>
+    <string name="login_invalid">Sessie verlopen. Meld opnieuw aan.</string>
+    <string name="match_theme">"Bijpassende thema's"</string>
     <string name="max_usable_themes">99+</string>
     <string name="message">Tekstbericht</string>
     <string name="message_sim_one">SIM 1 bericht</string>
@@ -274,6 +280,7 @@
     <string name="my_gifts">Cadeaus</string>
     <string name="my_gifts_purchased">Gekocht</string>
     <string name="my_gifts_received">Ontvangen</string>
+    <string name="need_permission">Verplichte toestemmingen (gebruikt voor basisfuncties en services van deze app)</string>
     <string name="no_data">Kan geen verbinding maken met het netwerk</string>
     <string name="no_related_font">Kon geen resultaten vinden</string>
     <string name="no_related_ringtone">Kon geen resultaten vinden</string>
@@ -296,6 +303,12 @@
     <string name="online_search_hint">Zoek naar online bronnen</string>
     <string name="online_themes">"Online thema's"</string>
     <string name="online_wallpapers">Online achtergronden</string>
+    <string name="ota_theme_default_push_content">Probeer iets nieuws</string>
+    <string name="ota_theme_default_push_title">Moe van het standaardthema?</string>
+    <string name="ota_theme_new_push_content">Geef uw apparaat een nieuwe look</string>
+    <string name="ota_theme_new_push_title">"Probeer de geheel nieuwe MIUI 12-thema's"</string>
+    <string name="personal_recommend_desc">Ontvang inhoudsaanbevelingen op basis van uw voorkeuren</string>
+    <string name="personal_recommend_title">Gepersonaliseerde aanbevelingen</string>
     <string name="phone_ringtone">Beltoon</string>
     <string name="popular_themes">"Populaire thema's"</string>
     <string name="popular_wallpapers">Populaire achtergronden</string>
@@ -322,6 +335,7 @@
     <string name="rank_one">1.%s</string>
     <string name="rank_three">3.%s</string>
     <string name="rank_two">2.%s</string>
+    <string name="read_write_file">Toegang tot en bestanden opslaan op dit apparaat</string>
     <string name="recently_used">Recent gebruikt</string>
     <string name="refresh_footer_all_loaded">Dat is het voor nu.</string>
     <string name="refresh_footer_failed">Kon informatie niet laden</string>
@@ -473,6 +487,7 @@
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -573,6 +588,7 @@
     <string name="s5">Agenda-afspraak maken</string>
     <string name="s6">Advertentie toestaan om een agenda-afspraak te maken?</string>
     <string name="s7">Testadvertentie</string>
+    <string name="scroll_switch">Veeg om tussen items te schakelen</string>
     <string name="sdcard_not_mounted_dialog_message">"SD-kaart nu plaatsen.
 "</string>
     <string name="sdcard_not_mounted_dialog_title">Geen SD-kaart gedetecteerd</string>
@@ -594,6 +610,8 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">"Vergelijkbare thema's"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_file">Voor het opslaan van gedownloade items</string>
     <string name="swipe_find_more">Swipe omhoog voor meer</string>
     <string name="system_phone">Gesprekken</string>
     <string name="system_precust">Voorgeïnstalleerd</string>
@@ -604,6 +622,7 @@
     <string name="theme_apply_audio_dialog_item_notification">Notificatie</string>
     <string name="theme_apply_audio_dialog_item_ringtone">Beltoon</string>
     <string name="theme_apply_failured">Kan niet worden toegepast</string>
+    <string name="theme_apply_fully">Thema succesvol toegepast. Achtergrondcarrousel is uitgeschakeld.</string>
     <string name="theme_apply_success">Succesvol toegepast</string>
     <string name="theme_applying">Toepassen…</string>
     <string name="theme_batch_update_all">Alles updaten</string>
@@ -657,6 +676,7 @@
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_select_others">Bladeren</string>
     <string name="theme_setting">Instellingen</string>
@@ -694,7 +714,7 @@
     <string name="uid_change_dialog_ok">Begrepen</string>
     <string name="uid_change_dialog_title">Apparaat opnieuw opstarten</string>
     <string name="unsupport_tip">Dit bestandsformaat wordt niet ondersteund. Probeer een ander bestand te selecteren.</string>
-    <string name="up_to_the_end">Dat is het voor nu. Kom later terug.</string>
+    <string name="up_to_the_end">Niets om weer te geven</string>
     <string name="update_btn">UPDATE NU</string>
     <string name="update_check">Controleren op updates</string>
     <string name="update_checking">Controleren op updates…</string>
@@ -709,7 +729,7 @@
     <string name="user_agree">Akkoord</string>
     <string name="user_authorization_dialog_agree">Akkoord</string>
     <string name="user_authorization_dialog_disagree">Sluiten</string>
-    <string name="user_authorization_dialog_message">"Lees voordat u Thema's gebruikt onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>."</string>
+    <string name="user_authorization_dialog_message">Lees en ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> voordat u doorgaat.</string>
     <string name="user_authorization_dialog_title">Toestemming verlenen</string>
     <string name="user_know">Begrepen</string>
     <string name="using_theme_has_update_tips">Een update voor dit thema is beschikbaar.</string>

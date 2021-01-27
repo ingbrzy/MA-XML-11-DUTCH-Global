@@ -106,8 +106,9 @@
     <string name="next_fingerprint">Volgende</string>
     <string name="note_introduction">Met deze app kunt u notities aanmaken, bekijken en bewerken.</string>
     <string name="other_settings">Aanvullende instellingen</string>
-    <string name="other_settings_ad_dialog_content">"Nadat u deze functie uitgeschakeld heeft, zult u geen gepersonaliseerde advertenties meer ontvangen. U zult echter nog steeds advertenties ontvangen, deze zullen alleen niet gebaseerd zijn op uw interesses. U kunt meer leren over gepersonaliseerde advertenties in het Xiaomi Privacybeleid.
-Gepersonaliseerde advertenties toch uitschakelen?"</string>
+    <string name="other_settings_ad_dialog_agree">Inschakelen</string>
+    <string name="other_settings_ad_dialog_content">Als persoonlijke aanbevelingen voor advertenties zijn uitgeschakeld, ziet u nog steeds hetzelfde aantal advertenties als wanneer de functie is ingeschakeld. De advertenties zijn echter niet langer relevant omdat ze niet zijn gebaseerd op uw persoonlijke voorkeuren.</string>
+    <string name="other_settings_ad_dialog_disagree">Uitschakelen</string>
     <string name="other_settings_ad_disable_summary">Schakel in om advertenties te personaliseren</string>
     <string name="other_settings_ad_enable">Gepersonaliseerde advertenties</string>
     <string name="other_settings_ad_enable_summary">Advertenties gepersonaliseerd op basis van uw interesses</string>

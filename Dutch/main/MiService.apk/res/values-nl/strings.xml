@@ -153,7 +153,7 @@
     <string name="miui_feedback_edit_submit_directly">Indienen</string>
     <string name="miui_feedback_edit_title_occurrence_time">Tijd selecteren</string>
     <string name="miui_feedback_edit_title_reproductivity">Reproduceerbaarheid selecteren</string>
-    <string name="miui_feedback_edit_toast_description_required">Omschrijving is vereist</string>
+    <string name="miui_feedback_edit_toast_description_required">Beschrijf eerst het probleem</string>
     <string name="miui_feedback_edit_toast_module_required">Selecteer item</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Uw omschrijving zou langer moeten zijn</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Categorie selecteren</string>
@@ -186,6 +186,7 @@
     <string name="miui_main_next_page">Volgende</string>
     <string name="miui_main_pre_page">Terug</string>
     <string name="miui_main_shortcut_label_submit_feedback">Feedback verzenden</string>
+    <string name="miui_main_update_back_to_home">Startscherm voorbereiden…</string>
     <string name="miui_main_update_continue">Volgende</string>
     <string name="miui_main_update_learn_more">Meer informatie</string>
     <string name="miui_main_update_start">Nu bijwerken</string>

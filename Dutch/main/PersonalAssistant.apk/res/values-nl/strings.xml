@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Gereed</string>
@@ -142,12 +144,15 @@
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
+    <string name="passport_oauth_actionbar_title">Mi Account</string>
+    <string name="passport_oauth_sucess_tip">Geautoriseerd succes</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="saturday">Zaterdag</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>

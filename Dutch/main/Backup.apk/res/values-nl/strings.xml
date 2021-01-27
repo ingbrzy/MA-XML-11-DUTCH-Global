@@ -138,7 +138,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="contact_title">Contacten</string>
     <string name="copy">Kopiëren</string>
     <string name="current_account">Hallo, %s</string>
-    <string name="current_pad_location">Pad</string>
+    <string name="current_pad_location">Tablet</string>
     <string name="current_phone_location">Telefoon</string>
     <string name="current_sim">Huidige SIM kaart</string>
     <string name="data_detail_description">Details</string>
@@ -160,6 +160,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="dialog_backup_password_change_machine_tips">U zult wachtwoord-beschermde back-ups niet over kunnen zetten. Schakel back-up wachtwoord uit voordat u Mi Mover gebruikt.</string>
     <string name="dialog_backup_password_restore_tips">Kan geen items herstellen wanneer back-up wachtwoord ingeschakeld is. Schakel back-up wachtwoord eerst uit.</string>
     <string name="dialog_backup_password_to_settings">Instellingen</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Niet versleutelen</string>
     <string name="disable_encrypt_title">Versleuteling uitschakelen</string>
@@ -251,6 +252,7 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="import_from_xiaomi_account_hint1">\"1.\u0009Download de Mi Talk app en log in. \u0009http://www.miliao.com 2.\u0009Ga naar Mi Talk Instellingen en selecteer ”Back-up contacten naar Mi Account”\"</string>
     <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
     <string name="import_from_xiaomi_account_hint_title">Gebruik Mi Talk voor back-up van contacten op andere apparaten.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kunt u alleen gedeeltelijke gegevens overbrengen van iOS-apparaten. Zorg ervoor dat u een iCloud back-up maakt voordat u de overdracht start.</string>
     <string name="lack_perm_msg">Mi Mover heeft de volgende toestemingen nodig: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Toestemmingen vereist</string>
@@ -342,7 +344,7 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="new_pc_backup_restore_link">Mobiel apparaat</string>
     <string name="new_pc_backup_summary1">Selecteer items en tik op \"Back-up\".</string>
     <string name="new_pc_backup_summary2">Verbind uw mobiele apparaat met de computer via een USB-kabel.</string>
-    <string name="new_pc_backup_summary4">"Opmerking: u kunt ook foto's en video's kopiëren van MIUI-DCIM."</string>
+    <string name="new_pc_backup_summary4">"Opmerking: u kunt ook foto's en video's van DCIM kopiëren."</string>
     <string name="new_pc_restore_content1">%d. Verbind uw mobiele apparaat met de computer via een USB-kabel.</string>
     <string name="new_pc_restore_content2">%d. Kopieer de back-up van uw computer naar MIUI-Backup-AllBackup.</string>
     <string name="new_pc_restore_content3">%1$d. Open \"%2$s\" en selecteer items om te herstellen.</string>
@@ -762,8 +764,11 @@ tik op \"Ik ben een verzender\" en selecteer een hotspot om verbinding mee te ma
 Sluit de pagina niet, voordat er verbinding is gemaakt."</string>
     <string name="waiting">Een ogenblik geduld…</string>
     <string name="wifi_title">wifi Instellingen</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Download kon niet worden gestart. Zorg ervoor dat de Download Manager goed werkt.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Wij introduceren versie %1$s
