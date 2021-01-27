@@ -63,7 +63,6 @@
     <string name="accessibility_camera_button">Camera</string>
     <string name="accessibility_carrier_network_change_mode">Wijzig netwerkprovider.</string>
     <string name="accessibility_cast_name">Verbonden met %s.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Scherm casting gestopt.</string>
     <string name="accessibility_cell_data">Mobiele data</string>
     <string name="accessibility_cell_data_off">Mobiele data uit</string>
@@ -924,10 +923,6 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_charging_back_to_lockscreen">Terug naar vergrendelscherm</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
-    <string name="keyguard_charging_info_data_c">%s℃</string>
-    <string name="keyguard_charging_info_data_ma">%smA</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Gebruikt</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
@@ -955,7 +950,6 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of is niet leesbaar. Plaats alstublieft een simkaart.</string>
     <string name="keyguard_missing_sim_message">Geen simkaart in telefoon.</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Netwerk is vergrendeld</string>
     <string name="keyguard_password_enter_password_code">Voer wachtwoord in om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_code">Voer pincode in</string>
@@ -1040,7 +1034,6 @@ Probeer opnieuw in %2$d seconden."</string>
     <string name="left_keycode">Linker sleutelcode</string>
     <string name="left_nav_bar_button_type">Extra linkerknop type</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">Een ogenblik geduld…</string>
     <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van het Startscherm</string>
     <string name="local_backup_password_summary_none">Volledige back-ups van het Startscherm zijn momenteel niet beveiligd</string>
@@ -1120,7 +1113,6 @@ scrollende screenshot te maken"</string>
     <string name="miui_guide_dialog_message">"Media geluiden (muziek, video's, etc.) worden nog steeds afgespeeld in de Stille modus. U kunt dit in de instellingen veranderen."</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door bluetooth-apparaat</string>
     <string name="miui_ringer_count_down">Aftellen</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Stil</string>
     <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
     <string name="miui_ringer_total">Niet storen</string>
@@ -1156,14 +1148,12 @@ U bent ook verbonden met %3$s, die uw persoonlijke netwerkactiviteit kan control
 
 Neem voor meer informatie contact op met uw beheerder."</string>
     <string name="monitoring_description_ca_cert_settings">Open vertrouwde referenties</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Er is een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_do_body">Uw beheerder kan instellingen, zakelijke toegang, apps, gegevens die aan uw apparaat zijn gekoppeld en de locatiegegevens van uw apparaat controleren en beheren.</string>
     <string name="monitoring_description_do_body_vpn">U bent verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_do_header_generic">Dit apparaar wordt beheerd door %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om uw apparaat te beheren.</string>
     <string name="monitoring_description_do_learn_more">Kom meer te weten</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Uw organisatie heeft een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Uw werkprofiel is verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_management">Uw apparaat wordt beheerd door uw organisatie. Uw beheerder kan instellingen bekijken en beheren, alsmede zakelijke toegang, apps, gegevens op uw apparaat en de locatie-informatie van uw apparaat. Neem contact op met uw beheerder voor meer informatie.</string>
@@ -1187,7 +1177,6 @@ Neem voor meer informatie contact op met uw beheerder.
 
 U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA-certificaten</string>
     <string name="monitoring_subtitle_network_logging">Netwerklogging</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1226,7 +1215,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="nav_guide_message">Gebruik gebaren om schermknoppen te verbergen/tonen.</string>
     <string name="nav_guide_ok">Instellen</string>
     <string name="nav_guide_title">Verberg softknoppen</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Geen</string>
     <string name="no_multi_window_app">Geen apps die split-screen ondersteunen</string>
     <string name="no_notification_tips">Geen meldingen</string>
@@ -1398,7 +1386,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="private_dns_mode_provider">Hostnaam van de particuliere DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan niet verbinden</string>
     <string name="private_dns_mode_provider_hostname_hint">Voer de hostnaam van de DNS-provider in</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinden. Schakel het apparaat uit en weer in</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="profile_owned_footer">Profiel wordt mogelijk in de gaten gehouden</string>
@@ -2001,7 +1988,6 @@ Elke gebruiker kan apps updaten voor alle andere gebruikers."</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimaal</string>
     <string name="wapi_yes">Ja</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">%1$s geüpdated</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt is tijdelijk vol</string>
     <string name="wifi_auto_sel_wapi_cert">Automatisch selecteren</string>
