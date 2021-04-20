@@ -8,6 +8,10 @@
         <item quantity="other">Druk en houd elk aanraakgevoelig gebied op de oortelefoons %1$d seconden in</item>
         <item quantity="one">Druk en houd elk aanraakgevoelig gebied op de oortelefoons %1$d seconde in</item>
     </plurals>
+    <plurals name="fast_connect_reset_common_seconds">
+        <item quantity="other">Houd %1$d sec ingedrukt om te resetten</item>
+        <item quantity="one">Houd %1$d sec ingedrukt om te resetten</item>
+    </plurals>
     <plurals name="fast_connect_reset_nzbt">
         <item quantity="other">Houd de knop %1$s seconden ingedrukt wanneer het apparaat is uitgeschakeld</item>
         <item quantity="one">Houd de knop %1$s seconde ingedrukt wanneer het apparaat is uitgeschakeld</item>

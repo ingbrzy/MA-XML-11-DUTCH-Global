@@ -31,7 +31,7 @@
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Aanmelden en beveiliging</item>
-        <item>Hersteltelefoon en e-mail, wachtwoordbeheer</item>
+        <item>Hersteltelefoon en e-mailadres voor herstel, wachtwoordbeheer</item>
         <item>Account;Beveiliging;Aanmelden;Inloggen;Xiaomi;Mi Account;Telefoonnummer;E-mail;Wijzigen;Wachtwoord;Toevoegen;Koppelen</item>
     </string-array>
     <string-array name="settings_search_manage_device">

@@ -97,6 +97,8 @@
     <string name="alert_dialog_download_prepare">Voorbereiden om te downloaden…</string>
     <string name="alert_dialog_download_progress">"App downloaden: "</string>
     <string name="all">Alles weergeven</string>
+    <string name="app_description_content">Mi Video is een systeem-app die een lokale video player bevat. U kunt nog steeds videobestanden afspelen nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="app_description_title">\"Mi Video\" verwijderen uit het Startscherm?</string>
     <string name="app_name">Mi Video</string>
     <string name="auth_again">Akkoord</string>
     <string name="auth_fail_warning">Sessie verlopen. Meld u opnieuw aan.</string>
@@ -126,6 +128,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -244,11 +247,24 @@
     <string name="diagnosis_log_sent_format">"Logbestanden succesvol verzonden. 
 ID:%s
 Verstuur deze code naar de leidinggevende."</string>
+    <string name="dialog_disagree_privacychange_info">U kunt de online streamingdiensten van Mi Video niet gebruiken als u niet akkoord gaat met ons Privacybeleid. Tik op \"Annuleren\" om terug te gaan of op \"Niet akkoord\" om door te gaan en Mi Video alleen als lokale speler te gebruiken.</string>
+    <string name="dialog_disagree_privacychange_title">Niet akkoord?</string>
+    <string name="dialog_privacy_change_info">We hebben het Mi Video Privacybeleid bijgewerkt vanwege de aanpassingen in de services die we aanbieden. Om uw rechten als gebruiker en de manieren waarop we uw gegevens gebruiken volledig te begrijpen, moet u onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> lezen en ermee akkoord gaan voordat u de app gebruikt.</string>
+    <string name="dialog_privacy_change_title">Update van het Privacybeleid</string>
     <string name="dialog_privacy_info_new2">Om gebruik te kunnen maken van deze services, moet u ermee akkoord gaan dat %1$s uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. U wordt geacht het &lt;a href=%2$s> Privacybeleid&lt;/a> te hebben gelezen en ermee akkoord te gaan als u hieronder op \"Akkoord\" tikt.</string>
     <string name="dialog_privacy_info_new3">Om deze service te kunnen gebruiken, moet u %1$s toestemming geven om uw persoonlijke informatie te verzamelen, verwerken en gebruiken in overeenstemming met het Privacybeleid. Door hieronder op Akkoord te klikken, gaat u akkoord met het &lt;a href=%2$s>Privacybeleid&lt;/a> en &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> van Xiaomi. &lt;br/>&lt;br/>Door op Akkoord te klikken, krijgt Mi Video ook toegang tot de lijst met apps die op uw apparaat zijn geïnstalleerd. Met deze toestemming kan Mi Video items delen, begrijpen of een app op uw apparaat is geïnstalleerd, welke versie van een app is geïnstalleerd en of een app veilig is.</string>
-    <string name="dialog_privacy_title">Toestemming</string>
+    <string name="dialog_privacy_info_new4">Welkom bij Mi Video! Deze app biedt de volgende services:&lt;br>&lt;/br> - Online streamingdiensten&lt;br>&lt;/br>- Een lokale videospeler&lt;br>&lt;/br>Mi Video heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons Privacybeleid. U kunt de gerelateerde instellingen wijzigen in Instellingen > Wachtwoorden &amp;amp; beveiliging.&lt;br>&lt;/br>Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> voordat u Mi Video gebruikt.</string>
+    <string name="dialog_privacy_revoke_cancel">Annuleren</string>
+    <string name="dialog_privacy_revoke_count_down">Intrekken (%1$d s)</string>
+    <string name="dialog_privacy_revoke_description">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Video in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om online services te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="dialog_privacy_revoke_fail">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="dialog_privacy_revoke_ok">Intrekken</string>
+    <string name="dialog_privacy_revoke_success">Succesvol teruggetrokken</string>
+    <string name="dialog_privacy_revoking">Toestemming intrekken…</string>
+    <string name="dialog_privacy_title">Algemene voorwaarden</string>
     <string name="dialog_revoke_privacy_info_new2">Nadat u de toestemming intrekt zal de app stoppen met het verzamelen van gegevens en zullen alle gerelateerde gegevens van onze servers worden verwijderd. Dit kan ervoor zorgen dat de app zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
     <string name="dialog_revoke_privacy_title">Toestemming intrekken</string>
+    <string name="disagree">Niet akkoord</string>
     <string name="diy_channels_tips">U kunt nu uw kanalenlijst aanpassen.</string>
     <string name="do_not_show_again">Niet meer tonen</string>
     <string name="download">Downloaden</string>
@@ -658,8 +674,9 @@ voor video's"</string>
     <string name="next_step">Volgende</string>
     <string name="nick_name">Bijnaam</string>
     <string name="no_account">Niet aangemeld</string>
+    <string name="no_history">Hier geen items</string>
     <string name="no_longer_prompt">Niet meer tonen</string>
-    <string name="no_more_content">Dit was het voor nu</string>
+    <string name="no_more_content">Dat is alles voor nu</string>
     <string name="no_network_tips">Kan deze functie nu niet gebruiken. Netwerktoegang is geblokkeerd.</string>
     <string name="no_phone">Geen telefoonnummer</string>
     <string name="no_recommend_data">"Geen aanbevolen video's nu"</string>
@@ -685,6 +702,7 @@ voor video's"</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">U ontvangt gepersonaliseerde inhoudsaanbevelingen van Firework</string>
     <string name="open_settings">Instellingen</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="ovp_alert_dialog_download_install_task">HD plug-in downloaden…</string>
@@ -1021,6 +1039,8 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_sort_type_time">Tijd</string>
     <string name="plus_tab_gallery">Mappen</string>
     <string name="plus_tab_time">Tijdlijn</string>
+    <string name="privacy_revoke_setting">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Video in.</string>
+    <string name="privacy_revoke_title">Intrekking van toestemming</string>
     <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="psw_hint">Wachtwoord</string>
     <string name="psw_sign_in">Log in met een wachtwoord</string>
@@ -1086,6 +1106,8 @@ De beveiliging van uw account verbeteren."</string>
     <string name="screenrecord_cancel">Compatibiliteitsproblemen</string>
     <string name="screenrecord_nosupport_record">Schermrecorder wordt momenteel niet ondersteund op dit apparaat.</string>
     <string name="search">Zoeken</string>
+    <string name="search_bar_hint">"Video's zoeken"</string>
+    <string name="search_bar_video_download_hint">Zoeken of URL invoeren</string>
     <string name="search_choose_language">Selecteer taal</string>
     <string name="search_choose_voice_language">Selecteer de taal gebruikt voor spraakgestuurd zoeken</string>
     <string name="search_hot_words">Populair</string>
@@ -1116,6 +1138,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
     <string name="start_download_tip">Toegevoegd aan wachtrij. Bekijk de voortgang in Profiel > Downloads.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>
@@ -1225,7 +1248,19 @@ De beveiliging van uw account verbeteren."</string>
     <string name="v_txt_login">Meld u aan om uw favorieten te synchroniseren</string>
     <string name="v_update">Update</string>
     <string name="video_already_download_tip">U heeft dit item al gedownload</string>
+    <string name="video_download_btn">Downloaden</string>
     <string name="video_download_fail">Kon video niet downloaden</string>
+    <string name="video_download_fail_hint">Kon niet downloaden</string>
+    <string name="video_download_floating_guide">"Download gratis video's"</string>
+    <string name="video_download_forbidden">Kan niet downloaden van deze website</string>
+    <string name="video_download_network_error">Netwerkfout</string>
+    <string name="video_download_play_video_guide">Speel eerst de video af.</string>
+    <string name="video_download_play_video_guide2">Tik vervolgens op de knop om te downloaden.</string>
+    <string name="video_download_site_search">URL</string>
+    <string name="video_download_source">Downloaden van het web</string>
+    <string name="video_download_start">Downloaden…</string>
+    <string name="video_download_storage_error">Onvoldoende opslagruimte</string>
+    <string name="video_downloading">Downloaden…</string>
     <string name="video_live_over">Deze sessie is voorbij</string>
     <string name="video_noyet_download_tip">Deze video wordt nog steeds gedownload</string>
     <string name="video_offline">Dit item is niet meer beschikbaar</string>
@@ -1248,4 +1283,12 @@ De beveiliging van uw account verbeteren."</string>
     <string name="vp_upcoming_title">Volgende</string>
     <string name="wednesday">Woensdag</string>
     <string name="yesterday">Gisteren</string>
+    <string name="ytb_account">Accounts</string>
+    <string name="ytb_author_video">"Video's"</string>
+    <string name="ytb_login">Aanmelden</string>
+    <string name="ytb_login_btn">Aanmelden</string>
+    <string name="ytb_login_hint">Meld u aan om uw Youtube abonnementen te bekijken</string>
+    <string name="ytb_logout">Afmelden</string>
+    <string name="ytb_play_next">Volgende</string>
+    <string name="ytb_subscribed">Abonnementen</string>
 </resources>

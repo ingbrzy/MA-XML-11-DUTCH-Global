@@ -36,6 +36,14 @@
         <item quantity="other">%1$s min.</item>
         <item quantity="one">%1$s min.</item>
     </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Neem %d seconden op</item>
+        <item quantity="one">Neem %d seconde op</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">"U kunt video's met stilstaande tijd opnemen met maximaal %d onderwerpen."</item>
+        <item quantity="one">"U kunt alleen video's met stilstaande tijd opnemen met %d onderwerp."</item>
+    </plurals>
     <plurals name="timer_burst_setting_total_count">
         <item quantity="other">"%1$s foto's"</item>
         <item quantity="one">%1$s foto</item>

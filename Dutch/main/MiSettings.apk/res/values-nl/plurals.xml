@@ -104,6 +104,10 @@
         <item quantity="other">%d keer</item>
         <item quantity="one">%d keer</item>
     </plurals>
+    <plurals name="usage_state_unlock_count_new">
+        <item quantity="other">Gem. %.2f keer</item>
+        <item quantity="one">Gem. %.2f keer</item>
+    </plurals>
     <plurals name="usage_state_week_day_hour">
         <item quantity="other">Weekenden: %d uur</item>
         <item quantity="one">Weekenden: %d uur</item>

@@ -252,7 +252,7 @@
     <string name="editing_tips">Startscherm bewerken</string>
     <string name="emptyplaylist">Tik om nummers toe te voegen</string>
     <string name="enable_wallpaper_scroll">Achtergrond scrollen inschakelen</string>
-    <string name="encryption">Encryptie</string>
+    <string name="encryption">Versleuteling</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="failed_to_delete_temporary">Kan niet verwijderen</string>
     <string name="failed_to_drop">Kan niet verplaatsen</string>
@@ -423,6 +423,7 @@
     <string name="navigation_type_full_screen">Gebaren</string>
     <string name="navigation_type_title">Systeemnavigatie</string>
     <string name="navigation_type_virtual_key">Knoppen</string>
+    <string name="network_error">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="no_detail_page">Geen detailspagina</string>
     <string name="no_space_toast">Niet genoeg ruimte</string>
     <string name="no_space_toast_when_click_widget">Niet genoeg ruimte op deze pagina. Probeer dit item naar een andere pagina te verslepen.</string>
@@ -519,6 +520,8 @@
     <string name="remove_dialog_message">Geselecteerde apps bevatten essentiële systeemfuncties. U kunt alleen hun Startscherm snelkoppelingen verwijderen.</string>
     <string name="remove_dialog_title_format">\"%s\" verwijderen uit het Startscherm?</string>
     <string name="remove_invalidate_gadget_tips">Een van de widgets die u gebruikt is niet meer beschikbaar. U kunt een andere toevoegen.</string>
+    <string name="remove_sys_app_content">U kunt de Startscherm snelkoppeling opnieuw toevoegen in Instellingen > Apps > Startscherm snelkoppelingen beheren. Nu verwijderen?</string>
+    <string name="remove_sys_app_title">Startscherm snelkoppeling verwijderen?</string>
     <string name="reset_cate_tip_content">Als u verdergaat, zullen alle standaard app-groepen worden hersteld. Toch verdergaan?</string>
     <string name="reset_cate_tip_title">Standaard groepen herstellen</string>
     <string name="reset_description_first_time">U kunt de lay-out van %1$s binnen 2 uur herstellen</string>
@@ -527,6 +530,7 @@
     <string name="reset_scene_prompt">Scherm zal hersteld worden naar de standaard lay-out.</string>
     <string name="reset_title">Herstellen</string>
     <string name="restore_icon_successful">Succesvol toegevoegd</string>
+    <string name="russia_preinstall_folder_name">Rusland</string>
     <string name="screen_cells_config_title">Startscherm lay-out</string>
     <string name="screen_locked_toast">Startscherm lay-out is vergrendeld.</string>
     <string name="screen_number">%d scherm</string>
@@ -536,6 +540,7 @@
     <string name="select_all">Alles selecteren</string>
     <string name="select_frame">Frame</string>
     <string name="select_photo">Foto</string>
+    <string name="server_error">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="setting_wallpaper_tip">Knijp of veeg om aan te passen</string>
     <string name="settings">Instellingen</string>
     <string name="settings_shortcut">Instellingen</string>
@@ -563,6 +568,7 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />

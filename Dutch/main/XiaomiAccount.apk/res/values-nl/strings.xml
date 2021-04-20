@@ -183,13 +183,14 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_app_id">2263965750590514</string>
+    <string name="facebook_login">Aanmelden met Facebook</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een andere Mi Account</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_access_denied">Kan status niet verkrijgen, toegang geweigerd</string>
     <string name="find_device_account_error">Kan status niet verkrijgen door een accountfout</string>
     <string name="find_device_activate_account">Account activeren</string>
-    <string name="find_device_bad_response_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
+    <string name="find_device_bad_response_error">Er is een serverfout opgetreden, wacht een minuut of twee en probeer het opnieuw</string>
     <string name="find_device_clear_data">Data wissen</string>
     <string name="find_device_close">Uit</string>
     <string name="find_device_error_password_not_confirmed">Kan apparaat zoeken niet uitschakelen. Voer het wachtwoord van uw Mi Account opnieuw in.</string>
@@ -202,13 +203,13 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="find_device_message">Apparaat is vergrendeld. Bericht: %1$s. Bel%2$s.</string>
     <string name="find_device_null_credential_error">Kan apparaatinfo niet verkrijgen, neem contact op met Xiaomi klantenservice</string>
     <string name="find_device_open">Aan</string>
-    <string name="find_device_operation_failed_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
+    <string name="find_device_operation_failed_error">Er is een serverfout opgetreden, wacht een minuut of twee en probeer het opnieuw</string>
     <string name="find_device_operation_failed_error_unknown">Er is een fout opgetreden, probeer het later opnieuw</string>
     <string name="find_device_owner_phone">Apparaat is vergrendeld. Bel %1$s.</string>
     <string name="find_device_play_sound">Geluid afspelen</string>
     <string name="find_device_prompt_message">Apparaat is vergrendeld. Bericht: %1$s.</string>
     <string name="find_device_remote_exception">RPC error</string>
-    <string name="find_device_request_error">Er is een serverfout opgetreden, wacht een paar minuten en probeer het opnieuw</string>
+    <string name="find_device_request_error">Er is een serverfout opgetreden, wacht een minuut of twee en probeer het opnieuw</string>
     <string name="find_device_request_prepare_error">Kan status niet verkrijgen, probeer later opnieuw</string>
     <string name="find_device_set_lost_model">Verloren modus</string>
     <string name="find_device_title">Apparaat zoeken</string>
@@ -219,6 +220,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="get_phone_bind_exceed_limit">U kunt maximaal 3 Mi Accounts aan één telefoonnummer koppelen. Kan geen nieuwe meer accounts toevoegen.</string>
     <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
     <string name="google">Google</string>
+    <string name="google_login">Aanmelden met Google</string>
     <string name="guest_account_label">Mi Gast Account</string>
     <string name="health_action_activate">Activeren</string>
     <string name="health_action_install">Installeren</string>
@@ -302,7 +304,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_auto_generate_pwd">Genereer een veilig wachtwoord</string>
     <string name="passport_back">Vorige</string>
     <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
-    <string name="passport_barcode_add_account_prompt">Om een account toe te voegen, scan de QR-code nog een keer nadat je bent ingelogd.</string>
+    <string name="passport_barcode_add_account_prompt">Om een account toe te voegen, scan de QR-code nog een keer nadat u bent ingelogd.</string>
     <string name="passport_btn_change_account">Account veranderen</string>
     <string name="passport_can_not_receive_verification_code">Kan geen verificatiecode ontvangen?</string>
     <string name="passport_change_account"><u>Van account veranderen</u></string>
@@ -384,6 +386,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_login_instead_reg">Gebruik dit nummer</string>
     <string name="passport_login_instead_reg_with_email">Gebruik dit e-mailadres</string>
     <string name="passport_login_other_account">Een ander account</string>
+    <string name="passport_login_other_way">Andere manieren om aan te melden</string>
     <string name="passport_login_prompt">Alle Mi services. Eén Mi Account.</string>
     <string name="passport_login_recycle_account_no">Nee</string>
     <string name="passport_login_recycle_account_yes">Ja</string>
@@ -401,6 +404,10 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_prev">Vorige</string>
     <string name="passport_privacy_policy">Privacybeleid</string>
     <string name="passport_privacy_policy_required">Privacybeleid (vereist)</string>
+    <string name="passport_provision_activator_phone_summary_sim1_prefix">SIM <xliff id="sim1" refersto="1">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_activator_phone_summary_sim2_prefix">SIM <xliff id="sim2" refersto="2">%1$d</xliff> %2$s</string>
+    <string name="passport_provision_input_email_register_prompt">Uw persoonlijke data worden opgeslagen in overeenstemming met de wet- en regelgeving van de regio die u selecteert.</string>
+    <string name="passport_provision_password_req_notice"><xliff id="min_pwd_len" refersto="8">%1$d</xliff>-<xliff id="max_pwd_len" refersto="16">%2$d</xliff> tekens van ten minste <xliff id="min_pwd_type" refersto="2">%3$d</xliff> van de volgende typen: letters, cijfers, speciale symbolen</string>
     <string name="passport_pwd_generate_failure">Kon geen wachtwoord genereren</string>
     <string name="passport_pwd_generating">Genereren…</string>
     <string name="passport_querying_phone_info">Accountgegevens opvragen…</string>
@@ -437,6 +444,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_register_restricted_title">Kan dit telefoonnummer niet gebruiken</string>
     <string name="passport_register_using_other_ways">Andere manieren om account te maken</string>
     <string name="passport_registered_phone_num">Telefoon: %s</string>
+    <string name="passport_registered_phone_num_v2">Telefoonnummer</string>
     <string name="passport_registered_phone_user_ID">Gebruikers-ID: %s</string>
     <string name="passport_registered_phone_user_name">Gebruikersnaam: %s</string>
     <string name="passport_reject_recycle_account">Nee</string>
@@ -513,11 +521,14 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
+    <string name="provision_back">Terug</string>
+    <string name="provision_next">Volgende</string>
+    <string name="provision_skip_underline">Overslaan</string>
     <string name="push_notification_content">Verificatiecode ophalen</string>
     <string name="push_notification_title">U heeft zich op een onbekend apparaat aangemeld op uw Mi Account</string>
     <string name="push_notify_dialog_message">Een onbekend apparaat is gebruikt om aan te melden op uw Mi Account. Vul deze verificatiecode in op het apparaat. Als u dit niet bent, verander dan onmiddellijk het wachtwoord van uw Mi Account. Geef uw verificatiecode niet aan derden.</string>
     <string name="push_notify_dialog_title">Accountverificatie</string>
-    <string name="pwd_width_phone_number_or_mail_num">Wachtwoord mag uw telefoonnummer, e-mailadres of Mi-account-ID niet bevatten</string>
+    <string name="pwd_width_phone_number_or_mail_num">Wachtwoord mag uw telefoonnummer, e-mailadres of Mi Account ID niet bevatten</string>
     <string name="qq">QQ</string>
     <string name="recycle_phone_notification_msg">Het lijkt erop dat uw telefoonnummer gerecycled is. Tik om bij te werken.</string>
     <string name="recycle_phone_notification_title">Mi Account veiligheidsrisico</string>
@@ -571,7 +582,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="system_ad_summary">"Schakel deze functie in om een klein aantal advertenties te laten zien in systeem-apps. Deze advertenties helpen ons om onze producten en services te ontwikkelen en te verbeteren. U kunt er altijd voor kiezen deze functie uit te schakelen. Bedankt voor uw ondersteuning! "</string>
     <string name="system_ad_switch">Advertenties in systeem-apps</string>
     <string name="system_ad_switch_failed">Kon de instelling niet toepassen</string>
-    <string name="talkback_scan_barcode">Scan QR code</string>
+    <string name="talkback_scan_barcode">Scan QR-code</string>
     <string name="temporary_not_available">Deze functie wordt nog niet ondersteund.</string>
     <string name="turn_off_find_device_failed_title">Kan Apparaat zoeken niet uitschakelen</string>
     <string name="turning_off_find_device">Apparaat zoeken uitschakelen…</string>

@@ -26,6 +26,18 @@
         <item>Back-up belangrijke instellingen, inclusief WLAN en weergave</item>
         <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sync your contacts, messages, notes, calendar, and more</item>
+        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>"Lock your device remotely if it's lost"</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Synchroniseer uw contacten, berichten, notities, kalender en meer</item>
+        <item>Back-up maken van apps, Startscherm lay-out en de achtergrond</item>
+        <item>Back-up belangrijke instellingen, inclusief wifi en weergave</item>
+        <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
+    </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>App-gegevens synchroniseren</item>
         <item>Back-up maken van Startscherm lay-out</item>
@@ -95,6 +107,11 @@
         <item>Muziek;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
+        <item>Synchroniseer notities met Xiaomi Cloud</item>
+        <item>Synchronisatie inschakelen</item>
+        <item>Notities;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
         <item>Synchroniseer notities met Xiaomi Cloud</item>
         <item>Synchronisatie inschakelen</item>
         <item>Notities;Cloud;Synchroniseren;Cloud services;Xiaomi Cloud</item>

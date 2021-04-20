@@ -31,6 +31,7 @@
     <string name="app_name">Oortelefoons</string>
     <string name="apply_sound">Toepassen</string>
     <string name="can_you_here">Hoort u het geluid?</string>
+    <string name="choose_bluetooth_device">Apparaat selecteren</string>
     <string name="complete_dialog_button">Begrepen</string>
     <string name="complete_dialog_message">U heeft deze test succesvol voltooid.</string>
     <string name="complete_dialog_title">Testresultaten</string>
@@ -39,6 +40,13 @@
     <string name="customization_continue">Doorgaan</string>
     <string name="customization_pause_tip">De test nu stoppen? Plug oortelefoons in om verder te gaan.</string>
     <string name="customization_quit">Sluiten</string>
+    <string name="dolby_atoms">Dolby Atmos</string>
+    <string name="dolby_dax_geq_select_title">Presets</string>
+    <string name="dolby_dax_geq_title">Grafische equalizer</string>
+    <string name="dolby_dax_profile_dynamic">Dynamisch</string>
+    <string name="dolby_dax_setting">Dolby effecten</string>
+    <string name="dolby_dax_title">Surround sound</string>
+    <string name="end_wireless_transmission">Stoppen</string>
     <string name="eq_auto">Aangepast</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_cancel">Annuleren</string>
@@ -74,6 +82,7 @@
     <string name="input_hint_prefix">Voer %1$s in</string>
     <string name="keep_sound">Preset opslaan</string>
     <string name="low_pitch">Lage toon</string>
+    <string name="misound_effect_setting">Mi Geluid</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -117,6 +126,7 @@
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
     <string name="music_dirac_mode_india_earphones">Mi Earphones</string>
     <string name="music_dirac_mode_india_earphones_basic">Mi Earphones Basic</string>
+    <string name="music_dirac_mode_mi_dual_driver_in_ear_earphones">Mi Dual Driver In-ear Oordopjes</string>
     <string name="music_dirac_mode_off">Dirac uit</string>
     <string name="music_dirac_mode_piston_1">Mi Piston-1</string>
     <string name="music_dirac_mode_piston_100">Mi Piston</string>
@@ -126,6 +136,7 @@
     <string name="music_dirac_mode_piston_standard">Standaard editie</string>
     <string name="music_dirac_mode_piston_typec">Mi In-Ear Hoofdtelefoons (Type-C)</string>
     <string name="music_dirac_mode_piston_youth">Jeugdeditie</string>
+    <string name="music_dirac_mode_redmi_earphones">Redmi Oordopjes</string>
     <string name="music_dirac_mode_reduction_noise">Mi Noise annuleren Type-C</string>
     <string name="music_dolby_mode_movie">Video</string>
     <string name="music_dolby_mode_music">Muziek</string>
@@ -152,6 +163,8 @@
     <string name="music_headset_calibrate_volume_up">Verhoog volume</string>
     <string name="music_headset_calibrate_wrong_key">Dat is de verkeerde knop</string>
     <string name="music_headset_control_setting">Hoofdtelefooninstellingen</string>
+    <string name="music_headset_effect_harman_kardon">Harman Kardon</string>
+    <string name="music_headset_effect_harman_kardon_summary">Gecertificeerde professionele audio</string>
     <string name="music_headset_effect_settings">Geluidseffecten</string>
     <string name="music_headset_improve_sound">Pas het geluid aan op oortelefoons</string>
     <string name="music_headset_is_open">Aan</string>
@@ -203,7 +216,25 @@
     <string name="sound_assist_key_summary">Pas het geluid aan voor individuele apps terwijl meerdere apps tegelijkertijd audio afspelen</string>
     <string name="sound_assist_key_title">Pas mediageluid aan in meerdere apps</string>
     <string name="sound_assist_title">Geluidsassistent</string>
+    <string name="sound_effect_hall">Hal</string>
+    <string name="sound_effect_original">Origineel</string>
+    <string name="sound_effect_room">Kamer</string>
+    <string name="sound_effect_theater">Theater</string>
     <string name="sound_test_title">Auditieve perceptie test</string>
+    <string name="sound_transmission_cancel">Nee, bedankt</string>
+    <string name="sound_transmission_confirm">Toestaan</string>
+    <string name="sound_transmission_continue">Hervatten</string>
+    <string name="sound_transmission_device">Apparaat</string>
+    <string name="sound_transmission_dialog_message">Geluidsassistent</string>
+    <string name="sound_transmission_dialog_title">Schakel Bluetooth in</string>
+    <string name="sound_transmission_end">Stoppen</string>
+    <string name="sound_transmission_function_generalize">Verzend audio van de microfoon van uw telefoon naar een extern Bluetooth-apparaat</string>
+    <string name="sound_transmission_processing">Microfoon</string>
+    <string name="sound_transmission_prompt">Sta deze functie toe om Bluetooth in te schakelen om een draadloze microfoon te kunnen gebruiken.</string>
+    <string name="sound_transmission_scenes">Scène</string>
+    <string name="sound_transmission_start">Starten</string>
+    <string name="sound_transmission_stop">Pauzeren</string>
+    <string name="sound_transmission_title">Draadloze microfoon</string>
     <string name="start_test_sound">Test starten</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -212,7 +243,14 @@
     <string name="switch_audio_device_bt">Bluetooth</string>
     <string name="switch_audio_device_phone">Dit apparaat</string>
     <string name="switch_audio_dialog_title">Schakel audio naar</string>
+    <string name="switch_bluetooth_device">Wissel van apparaat</string>
     <string name="third_note">Vind een stille plek.</string>
+    <string name="transmission_volume_option_title">Microfoonvolume</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="wireless_transmission">Draadloze luidspreker</string>
+    <string name="wireless_transmission_cancel">Annuleren</string>
+    <string name="wireless_transmission_confirm">Aanzetten</string>
+    <string name="wireless_transmission_definition">Verzend de microfoonfeed van uw telefoon naar een extern Bluetooth-apparaat</string>
+    <string name="wireless_transmission_prompt">Om audio te verzenden, moet de draadloze luidspreker Bluetooth inschakelen. Nu inschakelen?</string>
 </resources>

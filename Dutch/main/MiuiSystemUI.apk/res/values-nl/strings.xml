@@ -63,6 +63,7 @@
     <string name="accessibility_camera_button">Camera</string>
     <string name="accessibility_carrier_network_change_mode">Wijzig netwerkprovider.</string>
     <string name="accessibility_cast_name">Verbonden met %s.</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">Scherm casting gestopt.</string>
     <string name="accessibility_cell_data">Mobiele data</string>
     <string name="accessibility_cell_data_off">Mobiele data uit</string>
@@ -114,6 +115,7 @@
     <string name="accessibility_ethernet_connected">Ethernet verbonden.</string>
     <string name="accessibility_ethernet_disconnected">Ethernet losgekoppeld.</string>
     <string name="accessibility_expand_button">Laat meer zien</string>
+    <string name="accessibility_face_dialog_face_icon">Gezichtspictogram</string>
     <string name="accessibility_fingerprint_dialog_app_icon">Applicatie icoon</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Vingerafdruk icoon</string>
     <string name="accessibility_fingerprint_dialog_help_area">Helpbericht gebied</string>
@@ -387,6 +389,38 @@
     <string name="battery_saver_notification_text">Reduceert prestatie- en achtergrondgegevens</string>
     <string name="battery_saver_notification_title">Batterijbesparing is ingeschakeld</string>
     <string name="battery_saver_start_action">Batterijbesparing inschakelen</string>
+    <string name="biometric_dialog_authenticated">Geverifieerd</string>
+    <string name="biometric_dialog_confirm">Bevestigen</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">Probeer het opnieuw. Poging %1$d van %2$d.</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"Te veel onjuiste pogingen.
+Probeer het over %d seconden opnieuw."</string>
+    <string name="biometric_dialog_empty_space_description">Tik om de verificatie te annuleren</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">Gezicht geverifieerd</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">Er wordt naar je gezicht gezocht</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">Bevestigd</string>
+    <string name="biometric_dialog_face_icon_description_idle">Probeer het opnieuw</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">Te veel onjuiste pogingen. De gegevens van dit apparaat worden verwijderd.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">Te veel onjuiste pogingen. Dit werkprofiel en de bijbehorende gegevens worden verwijderd.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">Te veel onjuiste pogingen. Deze gebruiker wordt verwijderd.</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">Je gegevens worden verwijderd</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">Als je bij de volgende poging een onjuist wachtwoord opgeeft, worden de gegevens van dit apparaat verwijderd.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">Als je bij de volgende poging een onjuist wachtwoord opgeeft, worden je werkprofiel en de bijbehorende gegevens verwijderd.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">Als je bij de volgende poging een onjuist wachtwoord opgeeft, wordt deze gebruiker verwijderd.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">Als je bij de volgende poging een onjuist patroon opgeeft, worden de gegevens van dit apparaat verwijderd.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">Als je bij de volgende poging een onjuist patroon opgeeft, worden je werkprofiel en de bijbehorende gegevens verwijderd.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">Als je bij de volgende poging een onjuist patroon opgeeft, wordt deze gebruiker verwijderd.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">Als je bij de volgende poging een onjuiste pincode opgeeft, worden de gegevens van dit apparaat verwijderd.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">Als je bij de volgende poging een onjuiste pincode opgeeft, worden je werkprofiel en de bijbehorende gegevens verwijderd.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">Als je bij de volgende poging een onjuiste pincode opgeeft, wordt deze gebruiker verwijderd.</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">Sluiten</string>
+    <string name="biometric_dialog_tap_confirm">Tik op Bevestigen om te voltooien</string>
+    <string name="biometric_dialog_try_again">Opnieuw proberen</string>
+    <string name="biometric_dialog_use_password">Wachtwoord gebruiken</string>
+    <string name="biometric_dialog_use_pattern">Patroon gebruiken</string>
+    <string name="biometric_dialog_use_pin">Pincode gebruiken</string>
+    <string name="biometric_dialog_wrong_password">Onjuist wachtwoord</string>
+    <string name="biometric_dialog_wrong_pattern">Onjuist patroon</string>
+    <string name="biometric_dialog_wrong_pin">Onjuiste pincode</string>
     <string name="blob_expires_text">Verloopt op %s</string>
     <string name="blob_id_text">Gedeelde gegevens-ID: %d</string>
     <string name="block">Blokkeer alle meldingen</string>
@@ -704,6 +738,7 @@ Als u doorgaat, kunnen er kosten in rekening worden gebracht voor datagebruik."<
     <string name="ext_media_unmountable_notification_title">Beschadigde USB-opslag</string>
     <string name="external_source_trusted">Toegestaan</string>
     <string name="external_source_untrusted">Niet toegestaan</string>
+    <string name="face_dialog_looking_for_face">Jouw gezicht zoeken…</string>
     <string name="face_unlock_be_on_the_screen">Houd het apparaat voor uw gezicht</string>
     <string name="face_unlock_check_failed">Kon u niet herkennen</string>
     <string name="face_unlock_fail">Kon gezicht niet verifiëren</string>
@@ -711,8 +746,11 @@ Als u doorgaat, kunnen er kosten in rekening worden gebracht voor datagebruik."<
     <string name="face_unlock_fail_retry_global">Tik bovenin om Gezichtsontgrendeling te gebruiken</string>
     <string name="face_unlock_not_found">Kon u niet herkennen</string>
     <string name="face_unlock_open_eye">Doe uw ogen iets meer open</string>
+    <string name="face_unlock_password_and_fingerprint">Voer het wachtwoord in of gebruik een vingerafdruk om te ontgrendelen</string>
     <string name="face_unlock_passwork">Gebruik wachtwoord</string>
     <string name="face_unlock_passwork_and_fingerprint">Gebruik wachtwoord of vingerafdruk</string>
+    <string name="face_unlock_pattern_and_fingerprint">Teken een patroon of gebruik een vingerafdruk om te ontgrendelen</string>
+    <string name="face_unlock_pin_and_fingerprint">Voer PIN in of gebruik een vingerafdruk om te ontgrendelen</string>
     <string name="face_unlock_reveal_eye">Maak uw ogen zichtbaar</string>
     <string name="face_unlock_reveal_mouth">Maak uw lippen zichtbaar</string>
     <string name="failed_to_open_app_settings_toast">Kon instellingen niet openen voor %1$s</string>
@@ -838,6 +876,9 @@ Als uw telefoon is afgekoeld, werkt deze normaal."</string>
     <string name="inactive_apps_title">Inactieve apps</string>
     <string name="incorrect_pincode">Onjuiste pincode</string>
     <string name="incorrect_pukcode">Onjuiste PUK-code</string>
+    <string name="input_lockscreen_password_hint_text">Voer wachtwoord in</string>
+    <string name="input_lockscreen_pattern_hint_text">Teken patroon</string>
+    <string name="input_lockscreen_pin_hint_text">PIN invoeren</string>
     <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan tijdens een gesprek niet schakelen tussen ruimtes</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan niet schakelen tussen ruimten wanneer ouderlijk toezicht is ingeschakeld</string>
@@ -923,6 +964,10 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_charging_back_to_lockscreen">Terug naar vergrendelscherm</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">Op batterij</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_drained_power_percent_text">Gebruikt</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
@@ -950,6 +995,7 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of is niet leesbaar. Plaats alstublieft een simkaart.</string>
     <string name="keyguard_missing_sim_message">Geen simkaart in telefoon.</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Netwerk is vergrendeld</string>
     <string name="keyguard_password_enter_password_code">Voer wachtwoord in om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_code">Voer pincode in</string>
@@ -966,6 +1012,7 @@ Gebruik alleen de meegeleverde oplader."</string>
     <string name="keyguard_plugged_in_charging_fast">Snel opladen</string>
     <string name="keyguard_plugged_in_charging_slowly">Opladen traag</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Snel opladen. Tik om details te bekijken.</string>
+    <string name="keyguard_retry">Veeg omhoog om het opnieuw te proberen</string>
     <string name="keyguard_sim_locked_message">Simkaart is vergrendeld.</string>
     <string name="keyguard_sim_puk_locked_message">Simkaart is met PUK vergrendeld.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
@@ -1034,6 +1081,7 @@ Probeer opnieuw in %2$d seconden."</string>
     <string name="left_keycode">Linker sleutelcode</string>
     <string name="left_nav_bar_button_type">Extra linkerknop type</string>
     <string name="legacy_vpn_name">VPN</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">Een ogenblik geduld…</string>
     <string name="local_backup_password_summary_change">Tik om het wachtwoord te wijzigen of te verwijderen voor volledige back-ups van het Startscherm</string>
     <string name="local_backup_password_summary_none">Volledige back-ups van het Startscherm zijn momenteel niet beveiligd</string>
@@ -1113,6 +1161,7 @@ scrollende screenshot te maken"</string>
     <string name="miui_guide_dialog_message">"Media geluiden (muziek, video's, etc.) worden nog steeds afgespeeld in de Stille modus. U kunt dit in de instellingen veranderen."</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Ontgrendeld door bluetooth-apparaat</string>
     <string name="miui_ringer_count_down">Aftellen</string>
+    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Stil</string>
     <string name="miui_ringer_standard_description">Beltonen dempen voor inkomende oproepen en meldingen</string>
     <string name="miui_ringer_total">Niet storen</string>
@@ -1148,12 +1197,14 @@ U bent ook verbonden met %3$s, die uw persoonlijke netwerkactiviteit kan control
 
 Neem voor meer informatie contact op met uw beheerder."</string>
     <string name="monitoring_description_ca_cert_settings">Open vertrouwde referenties</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Er is een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_do_body">Uw beheerder kan instellingen, zakelijke toegang, apps, gegevens die aan uw apparaat zijn gekoppeld en de locatiegegevens van uw apparaat controleren en beheren.</string>
     <string name="monitoring_description_do_body_vpn">U bent verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_do_header_generic">Dit apparaar wordt beheerd door %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om uw apparaat te beheren.</string>
     <string name="monitoring_description_do_learn_more">Kom meer te weten</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Uw organisatie heeft een certificaatautoriteit op dit apparaat geïnstalleerd. Uw veilige netwerkverkeer wordt mogelijk gewijzigd of in de gaten gehouden.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Uw werkprofiel is verbonden met %1$s, die uw netwerkactiviteit in de gaten kan houden, inclusief e-mails, apps en websites.</string>
     <string name="monitoring_description_management">Uw apparaat wordt beheerd door uw organisatie. Uw beheerder kan instellingen bekijken en beheren, alsmede zakelijke toegang, apps, gegevens op uw apparaat en de locatie-informatie van uw apparaat. Neem contact op met uw beheerder voor meer informatie.</string>
@@ -1177,6 +1228,7 @@ Neem voor meer informatie contact op met uw beheerder.
 
 U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA-certificaten</string>
     <string name="monitoring_subtitle_network_logging">Netwerklogging</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1215,6 +1267,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="nav_guide_message">Gebruik gebaren om schermknoppen te verbergen/tonen.</string>
     <string name="nav_guide_ok">Instellen</string>
     <string name="nav_guide_title">Verberg softknoppen</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Geen</string>
     <string name="no_multi_window_app">Geen apps die split-screen ondersteunen</string>
     <string name="no_notification_tips">Geen meldingen</string>
@@ -1386,6 +1439,7 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="private_dns_mode_provider">Hostnaam van de particuliere DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan niet verbinden</string>
     <string name="private_dns_mode_provider_hostname_hint">Voer de hostnaam van de DNS-provider in</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinden. Schakel het apparaat uit en weer in</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="profile_owned_footer">Profiel wordt mogelijk in de gaten gehouden</string>
@@ -1532,7 +1586,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
     <string name="quick_settings_wifi_not_connected">Niet verbonden</string>
     <string name="quick_settings_wifi_off_label">Wifi is uitgeschakeld</string>
     <string name="quick_settings_wifi_on_label">Wifi is uitgeschakeld</string>
-    <string name="quick_settings_wireless_label">Omgekeerd draadloos opladen</string>
     <string name="quick_settings_work_mode_label">Werk modus</string>
     <string name="rapid_charge_mode_tip">Snel opladen</string>
     <string name="recent_cannot_dock">Kan Split-screen niet gebruiken in Tweede Ruimte</string>
@@ -1988,6 +2041,7 @@ Elke gebruiker kan apps updaten voor alle andere gebruikers."</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">Hexadecimaal</string>
     <string name="wapi_yes">Ja</string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">%1$s geüpdated</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Toegangspunt is tijdelijk vol</string>
     <string name="wifi_auto_sel_wapi_cert">Automatisch selecteren</string>
@@ -2064,15 +2118,6 @@ Het lijkt erop dat de credentie-opslag niet ingeschakeld is."</string>
     <string name="wireless_charge_reset_device">Het opladen gaat langzaam. Pas uw apparaat aan.</string>
     <string name="wireless_charge_reset_device_detail">Zorg ervoor dat de positie van uw apparaat op de oplaadbasis correct is</string>
     <string name="wireless_charge_stop">Draadloos opladen gestopt</string>
-    <string name="wireless_charging_connected_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer uw apparaat draadloos aan het opladen is.</string>
-    <string name="wireless_charging_low_battery_level_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer de batterij minder dan 30% opgeladen is.</string>
-    <string name="wireless_charging_ok">Begrepen</string>
-    <string name="wireless_charging_saver_cancel">Uitschakelen</string>
-    <string name="wireless_charging_saver_message">Batterijbesparing is nu ingeschakeld. Omgekeerd draadloos opladen beschikbaar houden?</string>
-    <string name="wireless_charging_saver_ok">Beschikbaar houden</string>
-    <string name="wireless_charging_tips_disable">Niet meer tonen</string>
-    <string name="wireless_charging_tips_message">Plaats apparaten die Qi draadloos opladen ondersteunen (telefoons, accessoires etc.) op de achterkant van dit apparaat.</string>
-    <string name="wireless_charging_tips_title">Omgekeerd draadloos opladen</string>
     <string name="wrong_password">Onjuist wachtwoord</string>
     <string name="zen_alarm_warning">U zult uw volgende alarm niet horen %1$s</string>
     <string name="zen_alarm_warning_indef">U zult uw volgende alarm niet horen %1$s tenzij u het eerder uitzet</string>

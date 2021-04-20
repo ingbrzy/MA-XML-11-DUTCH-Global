@@ -120,7 +120,7 @@
     <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wachten op Wifi</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Uploaden</string>
     <string name="miui_feedback_edit_mobile_data_note_dialog_content">Het lijkt erop dat u met een betaald netwerk verbonden bent. Het uploaden van logbestanden kan aanvullende kosten genereren.</string>
-    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Waarschuwing dataverbruik</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
     <string name="miui_feedback_edit_need_phone_state_permission">Geef de app toegang tot apparaat info om deze uw IMEI te laten lezen, wat helpt problemen te lokaliseren. Tik op \"OK\" om Instellingen te openen.</string>
     <string name="miui_feedback_edit_need_storage_permission">"Geef de app toegang tot apparaatopslag om afbeeldingen en video's toe te voegen aan uw feedback. Tik op \"OK\" om Instellingen te openen."</string>
     <string name="miui_feedback_edit_permission_denied_title">Vereiste toestemmingen: %1$s</string>

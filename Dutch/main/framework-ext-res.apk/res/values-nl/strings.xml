@@ -45,6 +45,7 @@
     <string name="bluetooth_enable_notification_content">%s Bluetooth ingeschakeld</string>
     <string name="bluetooth_enable_notification_title">Bluetooth is ingeschakeld</string>
     <string name="bluetooth_open">Deze app heeft Bluetooth ingeschakeld</string>
+    <string name="bottom_bar_smallwindow_text">Laat los om vast te zetten</string>
     <string name="btn_cancel">Annuleren</string>
     <string name="btn_sure">OК</string>
     <string name="button_text_cancel">Annuleren</string>
@@ -78,10 +79,14 @@
     <string name="device_status_success">Succesvol verzonden</string>
     <string name="device_status_waiting">Wachten…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="disable_nfc">NFC uitgeschakeld voor draadloos opladen</string>
+    <string name="disable_nfc_reverse">NFC uitgeschakeld voor omgekeerd draadloos opladen</string>
     <string name="eighthours">8 uur</string>
     <string name="enable_livetalk_summary">Bespaar 70% op uw telefoonkosten</string>
     <string name="enable_livetalk_title">Oplaad pakket inschakelen</string>
     <string name="enable_midrop">Inschakelen</string>
+    <string name="enable_nfc">Niet meer aan het opladen. NFC is weer ingeschakeld.</string>
+    <string name="enable_nfc_reverse">Niet langer omgekeerd opladen. NFC is weer ingeschakeld.</string>
     <string name="fc_dialog_body">Fouterapport naar Mi sturen voor analyse? Dit rapport kan persoonlijke identificeerbare informatie bevatten. Uw rapport wordt gebruikt om deze fout te verhelpen en zal nooit worden gedeeld in een commerciële context.</string>
     <string name="fc_dialog_jump_to_preview">Toon samenvatting</string>
     <string name="file_cannot_print">Kan dit item niet printen.</string>

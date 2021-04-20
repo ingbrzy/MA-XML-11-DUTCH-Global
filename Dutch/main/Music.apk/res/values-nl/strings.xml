@@ -87,6 +87,8 @@
     <string name="already_download_btn">Downloaden…</string>
     <string name="already_favorited">Al aan favorieten toegevoegd</string>
     <string name="always_use_metered">Altijd gebruik maken van mobiele data</string>
+    <string name="app_description_content">Muziek is een systeem-app die een audiospeler bevat en waarmee u audiobestanden kunt beheren. U kunt nog steeds audiobestanden afspelen nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="app_description_title">\"Muziek\" verwijderen uit het Startscherm?</string>
     <string name="app_label">Downloads</string>
     <string name="app_permission_confirm">Begrepen</string>
     <string name="app_permission_optional">Optionele toestemmingen</string>
@@ -245,7 +247,7 @@
     <string name="dialog_title_not_available">Kon niet downloaden</string>
     <string name="dialog_title_queued_body">Bestand nog niet beschikbaar</string>
     <string name="dialog_title_remove_tracks">Verwijderen</string>
-    <string name="disallow_add_to_fm">Kan geen nummers aan FM-radio toevoegen</string>
+    <string name="disallow_add_to_fm">Kan geen nummers aan FM Radio toevoegen</string>
     <string name="discover_more_music">Ontdek meer liedjes</string>
     <string name="do_not_remind_this_version">Herinner me niet aan deze versie</string>
     <string name="do_not_support_google_voice_search">Google Voice Search wordt niet ondersteund op uw apparaat.</string>
@@ -284,7 +286,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -372,7 +376,9 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -748,6 +754,7 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
 Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
@@ -894,6 +901,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -918,6 +926,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="talkback_back">Ga terug</string>
     <string name="talkback_batch_process">Meerdere items</string>
     <string name="talkback_clear">Wissen</string>
+    <string name="talkback_cut">Beltoon bewerker</string>
     <string name="talkback_device">Op andere apparaten afspelen</string>
     <string name="talkback_download">Downloaden</string>
     <string name="talkback_favorite">Ik vind dit nummer leuk</string>
@@ -990,6 +999,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Mi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
     <string name="user_privacy_dialog_positive_count_down_text">Intrekken (%s s)</string>

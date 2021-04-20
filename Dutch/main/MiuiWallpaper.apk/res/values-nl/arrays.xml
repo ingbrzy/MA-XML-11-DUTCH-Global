@@ -20,6 +20,11 @@
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Besneeuwde toppen</item>
+        <item>Achtergrond/Super achtergronden/Besneeuwde toppen</item>
+        <item>Aarde;Bergen;Super achtergronden;Achtergrond</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>Super achtergronden</item>
         <item>Achtergrond/Super achtergronden</item>

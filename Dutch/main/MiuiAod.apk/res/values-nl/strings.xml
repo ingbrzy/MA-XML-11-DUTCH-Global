@@ -34,6 +34,12 @@
     <string name="add_custom_image">Aangepaste afbeelding</string>
     <string name="add_from_album">Toevoegen vanuit Galerij</string>
     <string name="afternoon">Middag</string>
+    <string name="align_center_horizontally">Horizontaal en gecentreerd</string>
+    <string name="align_center_vertically">Gestapeld en gecentreerd</string>
+    <string name="align_left_horizontally">Horizontaal en links uitgelijnd</string>
+    <string name="align_left_vertically">Gestapeld en links uitgelijnd</string>
+    <string name="align_right_horizontally">Horizontaal en rechts uitgelijnd</string>
+    <string name="align_right_vertically">Gestapeld en rechts uitgelijnd</string>
     <string name="align_type">In lijn brengen</string>
     <string name="always_style">Altijd</string>
     <string name="always_style_symmary">Verbruikt meer stroom</string>
@@ -58,6 +64,7 @@ dd.MM"</string>
     <string name="aod_show_date_and_time">Datum en tijd weergeven</string>
     <string name="aod_show_style_title">Toon items</string>
     <string name="aod_style">Thema</string>
+    <string name="aod_theme_store">"Altijd-aan-display thema's"</string>
     <string name="aod_to_close">Uitschakelen</string>
     <string name="apply">Toepassen</string>
     <string name="apply_succeed">Succesvol toegepast</string>
@@ -254,6 +261,7 @@ dd.MM"</string>
 moois op het punt staat te gebeuren"</string>
     <string name="standard_clock_panel">Standaard</string>
     <string name="standard_style">Standaard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Stappentelling wordt geleverd door Xiaomi Health. Ga akkoord met de Algemene Voorwaarden van Xiaomi Health om door te gaan.</string>
     <string name="step_component_info_desc">Stappentelling verandert in een trofee wanneer uw doel is bereikt. Stappentelling wordt geleverd door Xiaomi Health.</string>
     <string name="step_component_info_tip">Stappentelling wordt geleverd door Xiaomi Health. Installeer of update Xiaomi Health en ga akkoord met de Algemene Voorwaarden om door te gaan.</string>

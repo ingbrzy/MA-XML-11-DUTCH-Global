@@ -47,7 +47,7 @@
     <string name="config_mode_title">Achtergrondinstellingen</string>
     <string name="config_no_restrict_description">Batterijbesparing beperkt de activiteit van de app niet</string>
     <string name="config_no_restrict_title">Geen beperkingen</string>
-    <string name="config_restrict_function_description">Sommige functies (bijv. pushmeldingen) kunnen worden aangetast, maar apps zullen niet worden gesloten</string>
+    <string name="config_restrict_function_description">Sluit apps na 10 minuten achtergrondactiviteit</string>
     <string name="config_restrict_function_title">Achtergrondapps beperken</string>
     <string name="config_restrict_running_description">Apps zullen worden gesloten om stroom te besparen</string>
     <string name="config_restrict_running_title">Achtergrondactiviteit beperken</string>

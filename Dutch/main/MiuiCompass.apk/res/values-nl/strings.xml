@@ -125,6 +125,7 @@
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="gradienter_title">Waterpas</string>
     <string name="guide_toast">Beweeg uw apparaat zoals hieronder om te kalibreren.</string>
     <string name="latitude">LAT</string>
     <string name="location_east">OL</string>
@@ -218,6 +219,8 @@
     <string name="pressure">%.1f</string>
     <string name="pressure_title">Druk</string>
     <string name="pressure_unit">hPa</string>
+    <string name="remove_icon_description_content">Kompas is een systeem-app. U kunt het niet gebruiken voor het controleren van richtingen, coördinaten, atmosferische druk en huidige hoogte nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="remove_icon_description_title">\"Kompas\" verwijderen van het Startscherm?</string>
     <string name="saturday">Zaterdag</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>

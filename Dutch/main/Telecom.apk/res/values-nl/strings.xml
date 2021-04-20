@@ -489,6 +489,7 @@ Selectie"</string>
     <string name="private_dns_mode_provider">Hostnaam van privé-DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
+    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinding maken. Schakel het apparaat uit en weer in.</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="remaining_length_format">Nog %1$s</string>

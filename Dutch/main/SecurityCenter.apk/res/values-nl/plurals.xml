@@ -80,9 +80,17 @@
         <item quantity="other">%d jaar geleden gebruikt</item>
         <item quantity="one">%d jaar geleden gebruikt</item>
     </plurals>
+    <plurals name="applock_app_suggest_lock">
+        <item quantity="other">U kunt Appvergrendeling gebruiken met %1$s apps</item>
+        <item quantity="one">U kunt Appvergrendeling gebruiken met %1$s app</item>
+    </plurals>
     <plurals name="applock_guide_app_count_tips">
         <item quantity="other">U kunt ten minste %s apps beschermen</item>
         <item quantity="one">U kunt ten minste %s app beschermen</item>
+    </plurals>
+    <plurals name="applock_one_key_lock">
+        <item quantity="other">%s apps worden beschermd met Appvergrendeling</item>
+        <item quantity="one">%s app wordt beschermd met Appvergrendeling</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d-apps kunnen op de achtergrond verbinding maken met het netwerk</item>
@@ -292,6 +300,14 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">%2$d apps, inclusief %1$s, verbruiken veel batterij</item>
         <item quantity="one">%2$d app, inclusief %1$s, verbruikt veel batterij</item>
     </plurals>
+    <plurals name="notification_power_consume_issue">
+        <item quantity="other">%d problemen met het batterijgebruik</item>
+        <item quantity="one">%d probleem met batterijgebruik</item>
+    </plurals>
+    <plurals name="notification_power_consume_suggest">
+        <item quantity="other">Optimaliseer %d items om de batterij te sparen</item>
+        <item quantity="one">Optimaliseer %d item om de batterij te sparen</item>
+    </plurals>
     <plurals name="notification_title_cmcc_app_check">
         <item quantity="other">%d dagen sinds laatste controle</item>
         <item quantity="one">%d dag sinds laatste controle</item>
@@ -404,9 +420,29 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Gedownload door %1$d personen</item>
         <item quantity="one">Gedownload door %1$d persoon</item>
     </plurals>
+    <plurals name="power_center_battery_charge_number">
+        <item quantity="other">keren</item>
+        <item quantity="one">keer</item>
+    </plurals>
+    <plurals name="power_center_battery_consume_prolblem">
+        <item quantity="other">%d problemen met het batterijgebruik</item>
+        <item quantity="one">%d probleem met batterijgebruik</item>
+    </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dagen "</item>
         <item quantity="one">"%d dag "</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" uren"</item>
+        <item quantity="one">" uur"</item>
+    </plurals>
+    <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="power_center_battery_health_summary">
+        <item quantity="other">Laad uw apparaat ten minste %2$d keer volledig op om nauwkeurige statistieken te krijgen</item>
+        <item quantity="one">Laad uw apparaat ten minste %2$d keer volledig op om nauwkeurige statistieken te krijgen</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d uur "</item>
@@ -415,6 +451,26 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="power_center_battery_problem">
+        <item quantity="other">Herstel %d problemen met batterijgebruik</item>
+        <item quantity="one">Herstel %d probleem met batterijgebruik</item>
+    </plurals>
+    <plurals name="power_center_battery_problem_result">
+        <item quantity="other">U kunt %d problemen met batterijgebruik oplossen</item>
+        <item quantity="one">U kunt %d probleem met batterijgebruik oplossen</item>
+    </plurals>
+    <plurals name="power_center_battery_save_suggest">
+        <item quantity="other">" %d items kan worden geoptimaliseerd"</item>
+        <item quantity="one">" %d item kan worden geoptimaliseerd"</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest">
+        <item quantity="other">Optimaliseer %d items om de batterij te sparen</item>
+        <item quantity="one">Optimaliseer %d item om de batterij te sparen</item>
+    </plurals>
+    <plurals name="power_center_battery_suggest_result">
+        <item quantity="other">U kunt %d items optimaliseren om de batterij te sparen</item>
+        <item quantity="one">U kunt %d item optimaliseren om de batterij te sparen</item>
     </plurals>
     <plurals name="power_center_battery_temperature">
         <item quantity="other">%d℃</item>
@@ -451,6 +507,14 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">Uw apparaat wordt afgesloten over %d seconden. Sluit de oplader aan.</item>
         <item quantity="one">Uw apparaat wordt afgesloten over %d seconde. Sluit de oplader aan.</item>
+    </plurals>
+    <plurals name="power_optimize_app_autostart_summary">
+        <item quantity="other">%d apps start regelmatig automatisch</item>
+        <item quantity="one">%d app start regelmatig automatisch</item>
+    </plurals>
+    <plurals name="power_optimize_close_app_summary">
+        <item quantity="other">%d apps maken de batterij leeg</item>
+        <item quantity="one">%d app maakt batterij leeg</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d app iconen verborgen</item>

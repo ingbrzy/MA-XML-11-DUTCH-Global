@@ -14,8 +14,8 @@
     <string name="abc_capital_on">AAN</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">Functie +</string>
     <string name="abc_menu_meta_shortcut_label">Meta +</string>
     <string name="abc_menu_shift_shortcut_label">Shift +</string>
@@ -31,6 +31,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="account_bind_secure_email_title">E-mailadres voor herstel toevoegen</string>
     <string name="account_bind_secure_phone_title">Telefoonnummer voor herstel toevoegen</string>
     <string name="account_crop_user_avatar">Foto bijsnijden</string>
@@ -46,7 +47,7 @@
     <string name="account_no_set">Geen</string>
     <string name="account_none_bind_info">Geen</string>
     <string name="account_none_user_name">Geen</string>
-    <string name="account_secure_info_pref_title">Account info</string>
+    <string name="account_secure_info_pref_title">Accountinformatie</string>
     <string name="account_security_info_pref_title">Beveiligingsinfo</string>
     <string name="account_user_avatar">Profielfoto</string>
     <string name="account_user_avatar_from_album">Galerij</string>
@@ -60,17 +61,23 @@
     <string name="account_user_name">Bijnaam</string>
     <string name="account_user_name_dialog_title">Voer gebruikersnaam in</string>
     <string name="account_user_other_info">Details</string>
-    <string name="account_user_phone">Telefoonnummer voor herstel</string>
+    <string name="account_user_phone">Hersteltelefoon</string>
     <string name="account_user_region">Regio</string>
     <string name="action_add_phone">Telefoonnummer toevoegen</string>
     <string name="action_update_phone">Telefoonnummer wijzigen</string>
     <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
     <string name="activity_not_found_notice">App kan niet worden gevonden</string>
+    <string name="ad_bar_notification_setting_sub_title">Toon evenementen in het Meldingenpaneel</string>
+    <string name="ad_bar_notification_setting_title">Evenementen</string>
     <string name="ad_buy">Aankoop</string>
     <string name="ad_download">Downloaden</string>
     <string name="ad_join">Word lid van de gemeenschap</string>
     <string name="ad_more">Meer</string>
+    <string name="add_search_channel_link">URL</string>
+    <string name="add_search_channel_name">Naam</string>
+    <string name="add_search_channel_tip">Zoek naar \"%s\" op de doelwebsite en kopieer en plak de URL hier.</string>
     <string name="add_to_trust_device">Dit is een vertrouwd apparaat</string>
+    <string name="add_website">Voeg een website toe</string>
     <string name="agree">Akkoord</string>
     <string name="agree_and_continue">Akkoord</string>
     <string name="ai_animation_music_text">AI soundtrack</string>
@@ -90,7 +97,10 @@
     <string name="alert_dialog_download_prepare">Voorbereiden om te downloaden…</string>
     <string name="alert_dialog_download_progress">"App downloaden: "</string>
     <string name="all">Alles weergeven</string>
+    <string name="app_description_content">Mi Video is een systeem-app die een lokale video player bevat. U kunt nog steeds videobestanden afspelen nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="app_description_title">\"Mi Video\" verwijderen uit het Startscherm?</string>
     <string name="app_name">Mi Video</string>
+    <string name="auth_again">Akkoord</string>
     <string name="auth_fail_warning">Sessie verlopen. Meld u opnieuw aan.</string>
     <string name="auto_play_next_off">Automatisch afspelen is uitgeschakeld</string>
     <string name="auto_play_next_on">Automatisch afspelen is ingeschakeld</string>
@@ -118,6 +128,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -150,6 +161,8 @@
     <string name="choose_to_signup">Nee, ik maak er een</string>
     <string name="click_to_reload_more">Tik om meer te laden</string>
     <string name="click_to_retry">Opnieuw proberen</string>
+    <string name="cloud_auto_pip_play_switch">Gebruik automatisch Afbeelding-in-Afbeelding</string>
+    <string name="cloud_online_player">Speler</string>
     <string name="cloud_online_switch">Gepersonaliseerde aanbevelingen</string>
     <string name="cloud_online_switch_close_time">U kunt gepersonaliseerde inhoudsaanbevelingen inschakelen in %s</string>
     <string name="cloud_online_switch_open_time">Toon aanbevelingen voor gepersonaliseerde inhoud</string>
@@ -229,15 +242,29 @@
     <string name="continue_play">Hervatten</string>
     <string name="data_empty">Geen items hier</string>
     <string name="description">Beschrijving</string>
+    <string name="detail_select_source">Selecteer een afspeelbron</string>
     <string name="diagnosis_log_send_failed">Kon logbestanden niet verzenden. Probeer het opnieuw.</string>
     <string name="diagnosis_log_sent_format">"Logbestanden succesvol verzonden. 
 ID:%s
 Verstuur deze code naar de leidinggevende."</string>
+    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
+    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
+    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
+    <string name="dialog_privacy_change_title">Privacy Policy update</string>
     <string name="dialog_privacy_info_new2">Om gebruik te kunnen maken van deze services, moet u ermee akkoord gaan dat %1$s uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. U wordt geacht het &lt;a href=%2$s> Privacybeleid&lt;/a> te hebben gelezen en ermee akkoord te gaan als u hieronder op \"Akkoord\" tikt.</string>
     <string name="dialog_privacy_info_new3">Om deze service te kunnen gebruiken, moet u %1$s toestemming geven om uw persoonlijke informatie te verzamelen, verwerken en gebruiken in overeenstemming met het Privacybeleid. Door hieronder op Akkoord te klikken, gaat u akkoord met het &lt;a href=%2$s>Privacybeleid&lt;/a> en &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> van Xiaomi. &lt;br/>&lt;br/>Door op Akkoord te klikken, krijgt Mi Video ook toegang tot de lijst met apps die op uw apparaat zijn geïnstalleerd. Met deze toestemming kan Mi Video items delen, begrijpen of een app op uw apparaat is geïnstalleerd, welke versie van een app is geïnstalleerd en of een app veilig is.</string>
-    <string name="dialog_privacy_title">Toestemming</string>
+    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_revoke_cancel">Annuleren</string>
+    <string name="dialog_privacy_revoke_count_down">Intrekken (%1$d s)</string>
+    <string name="dialog_privacy_revoke_description">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Video in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om online services te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="dialog_privacy_revoke_fail">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="dialog_privacy_revoke_ok">Intrekken</string>
+    <string name="dialog_privacy_revoke_success">Succesvol teruggetrokken</string>
+    <string name="dialog_privacy_revoking">Toestemming intrekken…</string>
+    <string name="dialog_privacy_title">Terms and conditions</string>
     <string name="dialog_revoke_privacy_info_new2">Nadat u de toestemming intrekt zal de app stoppen met het verzamelen van gegevens en zullen alle gerelateerde gegevens van onze servers worden verwijderd. Dit kan ervoor zorgen dat de app zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
     <string name="dialog_revoke_privacy_title">Toestemming intrekken</string>
+    <string name="disagree">"Don't agree"</string>
     <string name="diy_channels_tips">U kunt nu uw kanalenlijst aanpassen.</string>
     <string name="do_not_show_again">Niet meer tonen</string>
     <string name="download">Downloaden</string>
@@ -321,8 +348,10 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="feedback_tag_title">Categorie</string>
     <string name="feedback_text_empty_toast">Geef eerst uw feedback.</string>
     <string name="file_cant_rename">File with %1$s name already exists. Please rename</string>
+    <string name="file_space_not_enough_tip">Niet genoeg opslagruimte. Maak minimaal %d MB vrij en start de app opnieuw.</string>
     <string name="find_psw">Wachtwoord vergeten</string>
     <string name="finish">Gereed</string>
+    <string name="firework_privacy">Firework Privacybeleid</string>
     <string name="for_diagnosis_usage_only">Logbestanden worden alleen voor diagnostiek gebruikt.</string>
     <string name="for_you">VOOR U</string>
     <string name="friday">Vrijdag</string>
@@ -346,10 +375,11 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="gallery_folder_alias_wechat">WeChat</string>
     <string name="gallery_folder_alias_youku_video">Youku</string>
     <string name="gallery_tab_all">Alle</string>
-    <string name="gallery_tab_videos">Video’s</string>
+    <string name="gallery_tab_videos">"Video's"</string>
     <string name="galleryplus_already_cloud_member">Using VIP membership to play</string>
     <string name="galleryplus_check_network">Instellingen</string>
     <string name="galleryplus_chose_play_speed">Afspelen op %1$.1fX snelheid</string>
+    <string name="galleryplus_chose_play_speed_2">Afspelen op %1$.2fX snelheid</string>
     <string name="galleryplus_chose_play_speed_failure">Kon afspeelsnelheid niet aanpassen</string>
     <string name="galleryplus_click_to_higher_definition">Dubbeltik om HD-voorbeeld te openen</string>
     <string name="galleryplus_copyright_unsported_audio">Kan video met audiotrack niet afspelen vanwege auteursrechtbeperkingen</string>
@@ -373,7 +403,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="galleryplus_gallery_video_save_video">Video creëren…</string>
     <string name="galleryplus_gallery_video_slow_edit">Slow motion</string>
     <string name="galleryplus_gallery_view_tags">Tekens tonen</string>
-    <string name="galleryplus_is_higher_definition">Geopend HD-voorbeeld</string>
+    <string name="galleryplus_is_higher_definition">HD voorbeeld</string>
     <string name="galleryplus_network_connect_check">Kon geen verbinding maken met het netwerk</string>
     <string name="galleryplus_network_connect_confirm">Maak verbinding met wifi of schakel mobiele data in via de netwerkinstellingen.</string>
     <string name="galleryplus_network_error">Kon niet verbinden met het netwerk</string>
@@ -383,6 +413,8 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="galleryplus_online_cta_disagree">Niet akkoord</string>
     <string name="galleryplus_online_cta_title">Algemene voorwaarden</string>
     <string name="galleryplus_online_video_loading">Een ogenblik geduld…</string>
+    <string name="galleryplus_orientation_lock">Oriëntatie succesvol vergrendeld</string>
+    <string name="galleryplus_orientation_unlock">Schermoriëntatie is ontgrendeld</string>
     <string name="galleryplus_permission_content">Geef Mi Video de vereiste toestemmingen om deze functie te kunnen gebruiken.</string>
     <string name="galleryplus_permission_content2">"Ga naar Instellingen om deze functie te kunnen gebruiken > Apps > Mi Video > App toestemmingen en laat Mi Video het volgende doen:
 
@@ -404,6 +436,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="galleryplus_subtitle_edit_edit">Ondertitels bewerken</string>
     <string name="galleryplus_subtitle_edit_hide">Ondertitels verbergen</string>
     <string name="galleryplus_subtitle_edit_literal_edit">Tekst bewerken</string>
+    <string name="galleryplus_subtitle_edit_reminder">De door u ingevoerde tekst is te lang</string>
     <string name="galleryplus_subtitle_recognized_empty_subtitles">Kon spraak niet herkennen tijdens het opnemen</string>
     <string name="galleryplus_v_agree">Akkoord</string>
     <string name="galleryplus_v_cancel">Annuleren</string>
@@ -435,6 +468,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="history_local_video">Lokaal</string>
     <string name="history_online_video">Online</string>
     <string name="hot">Populair</string>
+    <string name="i_know">Begrepen</string>
     <string name="identity">Identificatie</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
     <string name="init_channels">Standaard herstellen</string>
@@ -443,6 +477,12 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="input_size_tips">U kunt maximaal 1000 tekens invoeren</string>
     <string name="isornot_your_mi_account">Is dit uw Mi Account?</string>
     <string name="issue">Probleem</string>
+    <string name="item_card_all_replies">Alle reacties</string>
+    <string name="item_card_continue_play">Automatisch afspelen</string>
+    <string name="item_card_more_trailers">Meer trailers</string>
+    <string name="item_card_open_in">"Openen in "</string>
+    <string name="item_card_related">Gerelateerd</string>
+    <string name="item_setting_go_back">Intrekking van toestemming</string>
     <string name="just_a_second">Een ogenblik geduld…</string>
     <string name="language_later_setting_tips">U kunt uw taalvoorkeur wijzigen in Profiel > Taal.</string>
     <string name="language_select_tips">"Selecteer uw voorkeurstaal
@@ -516,7 +556,7 @@ voor video's"</string>
     <string name="lv_home_settings">Instellingen</string>
     <string name="lv_input_password">Voer wachtwoord in</string>
     <string name="lv_local_folder">Mappen</string>
-    <string name="lv_local_video">Video’s</string>
+    <string name="lv_local_video">"Video's"</string>
     <string name="lv_media_type_unsported">Dit videoformat kan niet worden afgespeeld.</string>
     <string name="lv_menu_delete">Verwijderen (%d)</string>
     <string name="lv_menu_hide">Verbergen</string>
@@ -625,15 +665,18 @@ voor video's"</string>
     <string name="my_favorite_channels">Mijn favoriete kanalen</string>
     <string name="my_feedback_title">Mijn feedback</string>
     <string name="need_update_app">Werk Mi Video bij om alle functies te gebruiken</string>
-    <string name="network_connect_info">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="network_connect_info">Kon niet verbinden met het netwerk.</string>
+    <string name="network_error_info">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="network_failed">Kon niet verbinden met het netwerk</string>
+    <string name="network_timeout_info">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="new_channel_tip">Bekijk nieuwe kanalen!</string>
     <string name="next">Volgende</string>
     <string name="next_step">Volgende</string>
     <string name="nick_name">Bijnaam</string>
     <string name="no_account">Niet aangemeld</string>
-    <string name="no_longer_prompt">Niet opnieuw tonen</string>
-    <string name="no_more_content">Dit was het voor nu</string>
+    <string name="no_history">Hier geen items</string>
+    <string name="no_longer_prompt">Niet meer tonen</string>
+    <string name="no_more_content">Dat is alles voor nu</string>
     <string name="no_network_tips">Kan deze functie nu niet gebruiken. Netwerktoegang is geblokkeerd.</string>
     <string name="no_phone">Geen telefoonnummer</string>
     <string name="no_recommend_data">"Geen aanbevolen video's nu"</string>
@@ -655,7 +698,10 @@ voor video's"</string>
     <string name="notification_recall_desc">"Mi Video kan u informeren over populaire video's en uw abonnementen."</string>
     <string name="notification_recall_title">Meldingen inschakelen</string>
     <string name="notify_apk_installed">Succesvol gedownload</string>
+    <string name="off_tip_firework_recommend">U ontvangt geen gepersonaliseerde inhoudsaanbevelingen van Firework</string>
     <string name="ok">OK</string>
+    <string name="on_tip_firework_recommend">U ontvangt gepersonaliseerde inhoudsaanbevelingen van Firework</string>
+    <string name="open_settings">Instellingen</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
@@ -757,6 +803,7 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="passport_area_code_title">Regiocode</string>
     <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
     <string name="passport_barcode_add_account_prompt">Wilt u een account toevoegen, scan dan opnieuw de QR-code nadat u bent aangemeld.</string>
+    <string name="passport_can_not_receive_verification_code">Kan geen verificatiecode ontvangen?</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Wachtwoord controleren…</string>
     <string name="passport_close">Sluiten</string>
@@ -798,9 +845,9 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="passport_next_step">Volgende</string>
     <string name="passport_password_req_notice">Het wachtwoord moet 8-16 tekens lang zijn en ten minste twee van de volgende tekens bevatten: cijfers, letters en speciale symbolen (zoals 123abc@#, 123abc of abc@#).</string>
     <string name="passport_querying_phone_info">Accountgegevens opvragen…</string>
-    <string name="passport_quick_login_dialog_step2_title">2-staps verificatie</string>
+    <string name="passport_quick_login_dialog_step2_title">2-stap-verificatie</string>
     <string name="passport_quick_login_dialog_title">Wachtwoord verifiëren</string>
-    <string name="passport_quick_login_step2_title">2-staps verificatie</string>
+    <string name="passport_quick_login_step2_title">2-stap-verificatie</string>
     <string name="passport_quick_login_title">Voer uw wachtwoord in</string>
     <string name="passport_re_get_verify_code">Code opnieuw ophalen</string>
     <string name="passport_reging">Account creëren…</string>
@@ -859,11 +906,16 @@ De beveiliging van uw account verbeteren."</string>
     <string name="phone_number">Telefoonnummer</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="pip">PiP</string>
+    <string name="playlist_create">Aanmaken</string>
     <string name="playlist_detail_recomm_title">Aanbevolen afspeellijsten</string>
+    <string name="playlist_finish">Voltooid</string>
     <string name="playlist_hot">Populair</string>
+    <string name="playlist_name">Voer de titel van de afspeellijst in</string>
     <string name="playlist_new">Nieuw</string>
     <string name="playlist_no_more">"Geen video's meer hier"</string>
+    <string name="playlist_no_videos">"Geen video's hier"</string>
     <string name="playlist_offline">Deze afspeellijst is niet meer beschikbaar.</string>
+    <string name="playlist_remove">Verwijderen</string>
     <string name="playlist_title">Afspeellijst</string>
     <string name="playlist_view_more">Meer afspeellijsten</string>
     <string name="plus_add_shortcut">Startscherm snelkoppeling creëren</string>
@@ -881,7 +933,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_gallery_mediatype_hidded">Verborgen items</string>
     <string name="plus_gallery_mediatype_longvideo">"Lange video's"</string>
     <string name="plus_gallery_mediatype_quanjing">"Panorama's"</string>
-    <string name="plus_gallery_nocontents">Nog niets om te weergeven.</string>
+    <string name="plus_gallery_nocontents">Nog geen items hier.</string>
     <string name="plus_gallery_title_mediatype">Bestandstype</string>
     <string name="plus_gallery_title_othergallery">Andere albums</string>
     <string name="plus_gallery_video_title_mediatype">Video categorieën</string>
@@ -891,6 +943,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_menu_delete_popup_text">Nu verwijderen?</string>
     <string name="plus_menu_properties">Eigendommen</string>
     <string name="plus_menu_rename">Hernoemen</string>
+    <string name="plus_menu_rename_cant_empty">Bestandsnaam mag niet leeg zijn</string>
     <string name="plus_menu_rename_fail">Bestandsnaam mag niet bevatten \"/\"</string>
     <string name="plus_menu_share">Delen</string>
     <string name="plus_mine_gallery">Mijn albums</string>
@@ -986,6 +1039,9 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_sort_type_time">Tijd</string>
     <string name="plus_tab_gallery">Mappen</string>
     <string name="plus_tab_time">Tijdlijn</string>
+    <string name="privacy_revoke_setting">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Video in.</string>
+    <string name="privacy_revoke_title">Intrekking van toestemming</string>
+    <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="psw_hint">Wachtwoord</string>
     <string name="psw_sign_in">Log in met een wachtwoord</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Sleep omhoog te vernieuwen…</string>
@@ -1023,6 +1079,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="report_content_violence">Haatzaaiende uitspraak</string>
     <string name="report_fail">Kon niet rapporteren. Probeer het opnieuw.</string>
     <string name="report_success">Succesvol gerapporteerd</string>
+    <string name="request_camera_permission_message">We zullen uw persoonlijke gegevens beschermen in overeenstemming met de relevante wet- en regelgeving. Deze app heeft de volgende toestemmingen nodig om normaal te werken:&lt;br>&lt;br>&lt;b>Camera gebruiken (voor het instellen van uw profielfoto)&lt;/b>&lt;br>&lt;br>Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar. U kunt toestemmingen altijd beperken of uw autorisatie intrekken in de Instellingen.</string>
     <string name="resend_active_email">Opnieuw verzenden</string>
     <string name="resend_email_reach_limit_message">U heeft te veel verificatie e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de map met ongewenste e-mail zit.</string>
     <string name="resend_email_reach_limit_title">Te veel pogingen</string>
@@ -1049,11 +1106,14 @@ De beveiliging van uw account verbeteren."</string>
     <string name="screenrecord_cancel">Compatibiliteitsproblemen</string>
     <string name="screenrecord_nosupport_record">Schermrecorder wordt momenteel niet ondersteund op dit apparaat.</string>
     <string name="search">Zoeken</string>
+    <string name="search_bar_hint">"Video's zoeken"</string>
     <string name="search_choose_language">Selecteer taal</string>
     <string name="search_choose_voice_language">Selecteer de taal gebruikt voor spraakgestuurd zoeken</string>
     <string name="search_hot_words">Populair</string>
     <string name="search_key_not_null">Zoekopdrachten kunnen niet leeg zijn</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="search_result_download_error">Kon niet downloaden</string>
+    <string name="search_result_startdownload">Downloaden…</string>
     <string name="selectall">Alles selecteren</string>
     <string name="selectnull">Alles deselecteren</string>
     <string name="send_diagnosis_log">Logbestanden verzenden</string>
@@ -1096,6 +1156,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sync_favorites_limit">"Er staan meer dan 500 video's in uw favorieten. We zullen een aantal eerdere video's moeten verwijderen om door te gaan met synchroniseren."</string>
     <string name="sync_favorites_message">Favorieten van dit apparaat synchroniseren met uw account? Items die niet meer beschikbaar zijn zullen verwijderd worden.</string>
     <string name="sync_favorites_title">Favorieten synchroniseren</string>
+    <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="t_check_hide_file">Selecteer items om te verbergen</string>
     <string name="t_check_unhide_file">Selecteer items om zichtbaar te maken</string>
     <string name="t_downloading">Downloaden:</string>
@@ -1120,20 +1181,25 @@ De beveiliging van uw account verbeteren."</string>
     <string name="tab_name_me">Profiel</string>
     <string name="tab_name_moment">Momenten</string>
     <string name="tab_name_trending">Trending</string>
-    <string name="tab_name_video">Video’s</string>
+    <string name="tab_name_video">"Video's"</string>
     <string name="temporary_not_available">Deze functie wordt nog niet ondersteund</string>
     <string name="thursday">Donderdag</string>
     <string name="ticket_hint">Verificatiecode</string>
     <string name="ticket_invalid">De code die u heeft ingevoerd is incorrect</string>
     <string name="ticket_sign_in">Log in via sms</string>
+    <string name="tip_auth_again">Omdat u niet eerder hebt ingestemd met de voorwaarden van het overeenkomstige Privacybeleid van de externe inhoudsprovider, kunnen we geen video-inhoud weergeven in Momenten. Tik op de onderstaande knop om akkoord te gaan met het Privacybeleid en toegang te krijgen tot deze functie.</string>
     <string name="tip_author_click">"Tik om meer video's van dit account te bekijken"</string>
+    <string name="tip_pop">&lt;Data>Inhoud van Momenten wordt geleverd door Firework. Om uw kijkervaring te verbeteren en meer relevante inhoudsaanbevelingen te ontvangen, moet u Firework toestaan uw persoonlijke informatie te verzamelen, verwerken en gebruiken in overeenstemming met zijn Privacybeleid. Lees en ga akkoord met &lt;a href=\"%1$s\">Firework Privacybeleid&lt;/a> voordat u deze services gebruikt.&lt;/Data></string>
     <string name="tip_topic_click">"Tik om meer video's over dit onderwerp te vinden"</string>
+    <string name="title_firework_recommend">Firework aanbevelingen</string>
     <string name="title_publisher">Makers</string>
     <string name="title_subscribe">Abonnementen</string>
     <string name="toast_no_data">Dit item is nu niet beschikbaar. Kom later terug.</string>
     <string name="toast_request_too_frequently">Niet zo snel!</string>
     <string name="toast_share_failed">Kon niet delen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="today">Vandaag</string>
+    <string name="tool_bar_notification_setting_sub_title">Geef de werkbalk weer in het Meldingenpaneel</string>
+    <string name="tool_bar_notification_setting_title">Meldingenpaneel werkbalk</string>
     <string name="top_bar_game_desc">Ontdek hier veel nieuwe games</string>
     <string name="top_bar_game_title">Gaming-kanaal</string>
     <string name="tuesday">Dinsdag</string>
@@ -1143,6 +1209,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="ugc_no_net">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="ui_log_tip">Tik op dit gebied om te verbergen, houd ingedrukt om oude logbestanden te wissen. Versleep logbestanden handmatig.</string>
     <string name="unknow">Onbekend</string>
+    <string name="unknown_error_info">Onbekende fout</string>
     <string name="update">Bijwerken</string>
     <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u het e-mailadres voor herstel kunt bijwerken.</string>
     <string name="update_email_address_dialog_title">E-mailadres voor herstel bijwerken</string>
@@ -1203,4 +1270,12 @@ De beveiliging van uw account verbeteren."</string>
     <string name="vp_upcoming_title">Volgende</string>
     <string name="wednesday">Woensdag</string>
     <string name="yesterday">Gisteren</string>
+    <string name="ytb_account">Accounts</string>
+    <string name="ytb_author_video">"Video's"</string>
+    <string name="ytb_login">Aanmelden</string>
+    <string name="ytb_login_btn">Aanmelden</string>
+    <string name="ytb_login_hint">Meld u aan om uw Youtube abonnementen te bekijken</string>
+    <string name="ytb_logout">Afmelden</string>
+    <string name="ytb_play_next">Volgende</string>
+    <string name="ytb_subscribed">Abonnementen</string>
 </resources>

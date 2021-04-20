@@ -154,6 +154,7 @@ to add cards"</string>
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_week_index">"'W'ww yyyy"</string>
     <string name="day">Dag</string>
     <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
@@ -452,6 +453,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="light_sleep_time_normal_description">U heeft voldoende lichte slaap</string>
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">Een ogenblik geduld…</string>
+    <string name="location_perm_description">Voor het volgen van buitentrainingen en het vastleggen van routes</string>
     <string name="low">Laag</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">Regelmatige ademhaling waarmee u het gesprek kunt voeren</string>
@@ -545,10 +547,13 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="miuix_appcompat_cloud_state_syncing">Synchroniseren met de cloud…</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
+    <string name="miuix_appcompat_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
+    <string name="miuix_appcompat_select_item">Selecteer items</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -730,6 +735,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="select_null">Niet geselecteerd</string>
     <string name="select_recog_question">Actie selecteren</string>
     <string name="select_swim_posture">Stijl selecteren</string>
+    <string name="send">Verzenden</string>
     <string name="setting">Instellingen</string>
     <string name="setting_sedentary_off">UIT</string>
     <string name="setting_sedentary_on">AAN</string>

@@ -404,6 +404,10 @@ Neem contact op met je beheerder voor meer informatie over dit certificaat."</it
         <item quantity="other">%1$d suggesties</item>
         <item quantity="one">1 suggestie</item>
     </plurals>
+    <plurals name="switch_headset_anti_lost_summary">
+        <item quantity="other">Ontvang een melding wanneer een van uw oortelefoons langer dan %d minuten niet in de buurt van uw oor of oplaadetui is</item>
+        <item quantity="one">Ontvang een melding wanneer een van uw oortelefoons langer dan %d minuut niet in de buurt van uw oor of oplaadetui is</item>
+    </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d items</item>
         <item quantity="one">1 item</item>

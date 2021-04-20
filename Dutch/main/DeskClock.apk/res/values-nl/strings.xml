@@ -132,6 +132,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="day_concat">", "</string>
     <string name="default_alarm_alert">Standaard alarmgeluid</string>
     <string name="default_alarm_title">Standaard beltoon</string>
@@ -283,10 +284,13 @@
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
+    <string name="miuix_appcompat_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
+    <string name="miuix_appcompat_select_item">Selecteer items</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -433,6 +437,7 @@
     <string name="search_stopwatch_keywords">Stopwatch</string>
     <string name="search_timer_keywords">Timer</string>
     <string name="search_worldclock_keywords">Tijd; Wereldklok; Klok</string>
+    <string name="send">Verzenden</string>
     <string name="set_alarm">Tijd selecteren</string>
     <string name="set_alarm_choose_ringtone">Beltoon selecteren</string>
     <string name="set_alarm_done">Gereed</string>
@@ -452,6 +457,7 @@
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -494,6 +500,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -502,6 +509,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -617,8 +625,12 @@
     <string name="user_agreement">Gebruikersovereenkomst</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="version_update_dialog_negative_desc">Niet nu</string>
+    <string name="version_update_dialog_positive_desc">Bijwerken</string>
+    <string name="version_update_dialog_title">Er is een update beschikbaar</string>
     <string name="vibrate_pref_summary">Trillen bij alarm</string>
     <string name="vibrate_when_ringing">Trillen bij beltoon</string>
+    <string name="voice_add_alarm">Voeg een alarm toe met een spraakopdracht</string>
     <string name="volume_button_setting_desc">Wijs functies toe aan de Aan/uit-knop en de Volumeknoppen</string>
     <string name="volume_button_setting_summary">Stel de functie van volumeknoppen in tijdens alarm</string>
     <string name="volume_button_setting_title">Volumeknoppen</string>

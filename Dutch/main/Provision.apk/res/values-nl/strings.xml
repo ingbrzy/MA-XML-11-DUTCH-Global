@@ -74,8 +74,11 @@
     <string name="input_method_category">"Kies het standaard toetsenbord dat u gaat gebruiken om berichten, notities en zo'n beetje alle andere dingen te schrijven. Merk op dat u later andere toetsenborden van derden kunt installeren."</string>
     <string name="input_method_setting">Kies toetsenbord</string>
     <string name="install_preinstall_app">Apps laden…</string>
+    <string name="item_contents_wwarning">Als uw apparaat zoekraakt, kunt u niet voorkomen dat andere mensen het gebruiken en toegang krijgen tot uw gegevens, tenzij u een vergrendelscherm instelt. Toch overslaan?</string>
     <string name="item_fingerprint">Vingerafdruk</string>
     <string name="item_lock_screen_password">Alleen schermvergrendeling</string>
+    <string name="item_return">Instellen</string>
+    <string name="item_skip">Overslaan</string>
     <string name="ktlocation_U">(KT Service Agent)</string>
     <string name="ktposition_header">Locatie informatie delen met noodgeval hulpdiensten</string>
     <string name="language_picker_other_languages_title">Meer talen</string>
@@ -126,6 +129,7 @@
     <string name="other_settings_user_experience">Gebruikerservaringprogramma</string>
     <string name="other_settings_user_experience_summary">Help ons bij het verbeteren van onze producten en diensten door uw gebruiksgegevens met ons te delen. Details bekijken</string>
     <string name="other_settings_user_experience_summary_index">Detail bekijken</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_account">Toegang tot accounts op uw apparaat:</string>
     <string name="permission_account_introduction">Om in te loggen met Mi Account</string>
     <string name="permission_application_package_introduction">Voor toegang tot opslag om installatiepakketten te controleren en te scannen</string>
@@ -158,6 +162,10 @@
     <string name="permission_picture_introduction">"Om foto's en video's op te slaan, te bewerken en te synchroniseren"</string>
     <string name="permission_read_call_records">Bewerken belgeschiedenis:</string>
     <string name="permission_read_call_records_introduction">Om items aan de belgeschiedenis toe te voegen en om geblokkeerde oproepen te verwijderen</string>
+    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts_introduction">For verifying your identity</string>
+    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">Voor toegang tot notities en bijlages</string>
     <string name="permission_read_write_file">"Toegang tot en opslaan van bestanden en foto's op uw apparaat:"</string>
     <string name="permission_read_write_file_introduction">Voor toegang tot en opslaan en cachen van items op uw apparaat</string>
@@ -178,8 +186,7 @@
     <string name="pref_title_voice_slot">Voorkeur SIM-kaart stem</string>
     <string name="privacy_policy">Privacy Beleid</string>
     <string name="protect_persoanl_info_statement">We zullen uw persoonlijke informatie beschermen in overeenkomst met de relevante wetten, richtlijnen en het relevante privacybeleid.</string>
-    <string name="provision_inputmethod_policy_description">"
- Toon het privacybeleid van het geselecteerde toetsenbord."</string>
+    <string name="provision_inputmethod_policy_description">&lt;Data>Bekijk het &lt;a href=%1$s>Privacybeleid&lt;/a > van uw geselecteerde toetsenbord.&lt;/Data></string>
     <string name="provision_inputmethod_policy_description1">Privacybeleid</string>
     <string name="recorder_introduction">U kunt deze app gebruiken om audio op te nemen en om opnames naar de cloud te back-uppen.</string>
     <string name="require_authority_statement">Om u de basisservices te kunnen bieden, moet u de volgende toestemmingen verlenen zodat we uw persoonlijke informatie kunnen verzamelen:</string>
@@ -188,6 +195,7 @@
     <string name="security_introduction">U kunt deze app gebruiken om uw apparaat op te schonen, virussen te vinden en te neutraliseren, gameprestaties te optimaliseren, energie te besparen, apps te beheren, toestemmingen en meer.</string>
     <string name="security_mobile_account_introduction">On in te loggen en systeemaccounts te beheren</string>
     <string name="service_agreement">Ik heb de algemene voorwaarden gelezen en ga er akkoord mee.</string>
+    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
     <string name="service_name_album">Galerij</string>
     <string name="service_name_application_package">Pakketinstalleerder</string>
     <string name="service_name_backup">Back-ups</string>
@@ -260,6 +268,7 @@ U moet akkoord gaan met het Privacybeleid van Mint Toetsenbord voordat u deze fu
     <string name="terms_privacy_policy_input_method_facemoji">Facemoji Privacybeleid</string>
     <string name="terms_privacy_policy_input_method_kika">Kika Privacybeleid</string>
     <string name="title_fingerprint">Wachtwoord instellen</string>
+    <string name="title_set_fingerprint">Vergrendelscherm</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
     <string name="user_agreement_declare">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en Privacybeleid lezen en ermee akkoord gaan. Terwijl uw apparaat wordt geactiveerd, zullen Mi SIM activatieservices, Xiaomi Cloud, Apparaat zoeken, Startscherm, Veel gebruikte zinnen, Vertaalservice, MIUI Daemon, HTML Viewer, MIUI SDK, AI Assistent, Batterij en prestaties, Power Detector, Joyose, OS AI Instelling, Toestemmingsbeheer en Updater verbinden met het netwerk. Smart services zal verbinding met het netwerk maken en toegang tot uw locatie krijgen.</string>
     <string name="voice_assist_advice">Mi AI maakt het voor u mogelijk om spraakbesturing te gebruiken, maar verbruikt meer batterij (+1% per uur).</string>
@@ -267,6 +276,15 @@ U moet akkoord gaan met het Privacybeleid van Mint Toetsenbord voordat u deze fu
 1. Wanneer het scherm aanstaat. Wanneer u naar muziek luistert met uw scherm aan."</string>
     <string name="voice_assist_desp">Ze \"Mi AI\" tegen uw telefoon. Mi AI zal uw stem herkennen en u kunt uw apparaat besturen.</string>
     <string name="voice_assist_title">Wekken met stem</string>
+    <string name="wc_dialog_agree">Akkoord</string>
+    <string name="wc_dialog_reject">Niet akkoord</string>
+    <string name="wc_dialog_summary">Achtergrondcarrousel levert dagelijks verbluffende afbeeldingen en spannende verhalen op uw Vergrendelscherm.</string>
+    <string name="wc_dialog_title">Vergrendelscherm opnieuw ontworpen</string>
+    <string name="wc_double_check_agree">Proberen</string>
+    <string name="wc_double_check_reject">Nee, bedankt</string>
+    <string name="wc_double_check_summary">U kunt de Achtergrondcarrousel inschakelen om te zien of dit voor u werkt. Onthoud dat u Achtergrondcarrousel altijd kunt in- en uitschakelen in Instellingen > Vergrendelscherm.</string>
+    <string name="wc_double_check_title">Probeer Achtergrondcarrousel</string>
+    <string name="wc_notice_link_announcement_summary">Lees en ga akkoord met het &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en de &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> van de externe inhoudsprovider voordat u deze functie gebruikt.</string>
     <string name="welcome">Welkom</string>
     <string name="zone_picker_title">Tijdzone kiezen</string>
 </resources>

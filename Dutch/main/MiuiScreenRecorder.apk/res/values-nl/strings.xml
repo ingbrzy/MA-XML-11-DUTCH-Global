@@ -31,7 +31,10 @@
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
     <string name="app_name">Schermrecorder</string>
+    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
     <string name="app_notification_info">Schermrecorder werkt op de achtergrond</string>
+    <string name="app_notification_record_complete">"Saved screen recording to Gallery
+Tap to view"</string>
     <string name="app_notification_title">Schermrecorder</string>
     <string name="auto_stop_title">Video succesvol opgeslagen</string>
     <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer het batterijniveau beneden 3% is. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>

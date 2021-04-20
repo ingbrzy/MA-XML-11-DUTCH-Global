@@ -381,6 +381,7 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="email">E-mail</string>
+    <string name="empty" />
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">Synchroniseren is uitgeschakeld vanwege problemen met uw Mi Account.</string>
@@ -524,7 +525,7 @@
     <string name="search_mode_button_back_description">Vorige</string>
     <string name="select_all_description">Alles selecteren</string>
     <string name="send_sms_for_sync_notice">Mogelijk is een uitgaand sms-bericht vereist om deze service te activeren. Uw provider brengt u dit bericht in rekening.</string>
-    <string name="send_sms_for_sync_title">Waarschuwing dataverbruik</string>
+    <string name="send_sms_for_sync_title">Waarschuwing datagebruik</string>
     <string name="sim_changed_reactivate_int_notice">Mogelijk is een internationaal sms-bericht vereist om deze service opnieuw te activeren. Uw provider brengt u dit bericht in rekening.</string>
     <string name="sim_changed_reactivate_notice">Misschien is er een uitgaande SMS nodig om deze service opnieuw te activeren. Uw provider zal u laten betalen voor dit bericht.</string>
     <string name="sip_phone">SIP Telefoon</string>
@@ -533,6 +534,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Autumn Begins</string>
     <string name="solar_term_autumn_equinox">Autumn Equinox</string>

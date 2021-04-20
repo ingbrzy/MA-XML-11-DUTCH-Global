@@ -40,6 +40,10 @@
         <item quantity="other">%d notities</item>
         <item quantity="one">%d notitie</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d notities</item>
+        <item quantity="one">%d notitie</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d App-kluis items</item>
         <item quantity="one">%d App-kluis item</item>
@@ -64,6 +68,10 @@
         <item quantity="other">%d WLAN-netwerken</item>
         <item quantity="one">%d WLAN-netwerk</item>
     </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Probeer het opnieuw in %d seconden</item>
+        <item quantity="one">Probeer het opnieuw in %d seconde</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">Items wachtend op synchronisatie: %d</item>
         <item quantity="one">Item wachtend op synchronisatie: %d</item>
@@ -87,5 +95,21 @@
     <plurals name="select_no_more_than">
         <item quantity="other">Kan niet meer selecteren dan %d items</item>
         <item quantity="one">Kan niet meer selecteren dan %d item</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Uitnodiging geaccepteerd door %d mensen</item>
+        <item quantity="one">Uitnodiging geaccepteerd door %d persoon</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s dagen</item>
+        <item quantity="one">%1$s dag</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s uren</item>
+        <item quantity="one">%1$s uur</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
     </plurals>
 </resources>

@@ -75,6 +75,7 @@ Probeer het opnieuw"</string>
     <string name="btn_retry">Controleer opnieuw</string>
     <string name="btn_skip">Deze stap overslaan</string>
     <string name="button_cancel">Annuleren</string>
+    <string name="button_confirm">Begrepen</string>
     <string name="button_delete">Verwijderen</string>
     <string name="button_next">Volgende</string>
     <string name="can_not_backup_in_lite_mode">Kan niet backuppen in Lite modus</string>
@@ -161,7 +162,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="dialog_msg_overwrite_backup">Lokale back-up is niet hetzelfde als die op Xiaomi Cloud. Als u verdergaat zal de huidige back-up de vorige overschrijven.</string>
     <string name="dialog_msg_restore_require_wlan">Herstellen van back-ups vereist verbinding met wifi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restoring backups requires connecting to WLAN.</string>
-    <string name="dialog_title_require_wlan">Verbinden met wifi</string>
+    <string name="dialog_title_require_wlan">Verbinden met Wifi</string>
     <string name="dialog_title_require_wlan_china">Connect to WLAN</string>
     <string name="dir_date_format">HHmmss_ddMMyyyy</string>
     <string name="doing_calc_backup_data_size">Grootte berekenen…</string>
@@ -178,7 +179,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="expand_button_title">Geavanceerd</string>
     <string name="get_device_id_error">Apparaat-ID kan niet worden opgehaald</string>
     <string name="help_and_feedback">Hulp en feedback</string>
-    <string name="hint_restore_cross_space">Startscherm lay-out kan wellicht onjuist weergegeven worden als u items van plek verwisselt.</string>
     <string name="home_hint_global_launcher">POCO Launcher</string>
     <string name="home_hint_other_launcher">Andere launcher</string>
     <string name="home_restore_error">Startscherm kan niet hersteld worden</string>
@@ -192,7 +192,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">Sorteren op</string>
     <string name="menu_item_sort_name">Naam</string>
     <string name="menu_item_sort_size">Grootte</string>
-    <string name="msg_alert_cancel_restore">Items aan het herstellen. Toch stoppen?</string>
+    <string name="msg_alert_cancel_restore">Items worden hersteld vanuit Xiaomi Cloud. Nu annuleren?</string>
     <string name="msg_alert_restore_error">Kon items niet herstellen van Xiaomi Cloud. Probeer het opnieuw.</string>
     <string name="msg_restore_start_with_metered_network">"Uw Startscherm zal opnieuw opgestart worden. Gebackupte apps zullen automatisch gedownload worden. &lt;br />&lt;b>&lt;font color='red'>%s van de bestanden zullen gedownload worden.&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Als u doorgaat met het herstellen van deze items, zal mobiele data gebruikt worden voor het downloaden.</string>
@@ -206,12 +206,18 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">Kan items niet herstellen in PC-modus. Schakel de PC-modus uit en probeer het opnieuw.</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
+    <string name="provision_back">Terug</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
     <string name="provision_error_connect_msg">Test het netwerk en probeer het opnieuw. Back-ups zijn niet beschikbaar wanneer uw apparaat offline is.</string>
     <string name="provision_error_connect_title">Verbinden is mislukt</string>
+    <string name="provision_next">Volgende</string>
     <string name="provision_restore_data">Items aan het herstellen</string>
+    <string name="provision_skip_underline">Overslaan</string>
     <string name="query_restore_description">Herstel Startscherm apps en instellingen met deze back-up. Hierbij worden alle app data voor dubbele apps die al op dit apparaat geïnstalleerd zijn overschreven. Apps die niet in deze back-up zitten zullen verplaatst worden naar het laatste Startscherm.</string>
     <string name="query_restore_summary">Er is een Xiaomi Cloud back-up van dit apparaat gevonden. Wilt u Startscherm apps en instellingen herstellen of wilt u het als nieuw apparaat gebruiken en eerdere Xiaomi Cloud back-ups verwijderen?</string>
     <string name="recover_home_settings">Herstel Startscherm instellingen</string>
@@ -248,14 +254,14 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="restore_home_failed">Startscherm kan niet hersteld worden.</string>
     <string name="restore_home_screen_apps">Herstellen van de cloud back-up</string>
     <string name="restore_init_description">Beginnen met herstellen</string>
-    <string name="restore_network_pause">%s (Tik om te hervatten)</string>
+    <string name="restore_network_pause">Gepauzeerd om mobiele data op te slaan. Tik om te hervatten.</string>
     <string name="restore_network_unconnect">%s (Wachten op verbinding)</string>
     <string name="restore_task_cancelling">Annuleren…</string>
     <string name="restore_task_in_process">Herstellen…</string>
     <string name="restore_task_unfinished">Kon niet herstellen</string>
     <string name="restore_unfinished">Herstellen, probeer het later opnieuw</string>
     <string name="restoring_data">Gegevens herstellen…</string>
-    <string name="restoring_file_title_no_progress">Bestanden herstellen…</string>
+    <string name="restoring_file_title_no_progress">Apps herstellen…</string>
     <string name="restoring_home_screen_apps">Herstellen vanuit Xiaomi Cloud…</string>
     <string name="restoring_settings">Instellingen Herstellen…</string>
     <string name="retry">Opnieuw proberen</string>

@@ -47,6 +47,8 @@
     <string name="alarm_sound">Alarm</string>
     <string name="all_resources">Alle</string>
     <string name="all_wallpapers">Alle achtergronden</string>
+    <string name="app_description_content">"Thema's is een systeem-app. Het biedt achtergronden en meerdere personalisatie-opties. U kunt Thema's nog steeds gebruiken via Instellingen nadat u de Startscherm snelkoppeling hebt verwijderd."</string>
+    <string name="app_description_title">"\"Thema's\" verwijderen uit het Startscherm?"</string>
     <string name="app_name">"Thema's"</string>
     <string name="app_permission_optional">Optionele toestemmingen</string>
     <string name="app_permission_require">Vereiste toestemmingen</string>
@@ -54,7 +56,7 @@
     <string name="app_permission_use_group_account">Accounts</string>
     <string name="app_permission_use_group_account_desc">Voor het verkrijgen van Mi Account info</string>
     <string name="app_permission_use_group_phone">Telefoon</string>
-    <string name="app_permission_use_group_phone_desc">Voor accountverificatie en machtigingen</string>
+    <string name="app_permission_use_group_phone_desc">Voor accountverificatie en autorisatie</string>
     <string name="app_permission_use_group_storage">Opslag</string>
     <string name="app_permission_use_group_storage_desc">"Voor het gebruik en het opslaan van thema's, achtergronden, beltonen en lettertypen"</string>
     <string name="apply_default_font_tip">Huidige lettertype van het systeem blijven gebruiken?</string>
@@ -81,7 +83,7 @@
     <string name="bottom_of_page">Dat is alles voor nu.</string>
     <string name="browser_local_resource">Lokale bronnen</string>
     <string name="can_not_apply">Kan niet worden toegepast</string>
-    <string name="card_data_request_error">Er is een fout opgetreden. Wacht een paar minuten en probeer het opnieuw.</string>
+    <string name="card_data_request_error">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="card_loading">Een ogenblik geduld…</string>
     <string name="card_no_network">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="card_retry">Opnieuw proberen</string>
@@ -141,7 +143,7 @@
     <string name="dynamic_ringtone">Dynamische beltonen</string>
     <string name="dynamic_video_wallpaper">24H achtergrond</string>
     <string name="events">Gebeurtenissen</string>
-    <string name="exit">Verlaten</string>
+    <string name="exit">Afsluiten</string>
     <string name="exit_extreme_mode_dialog_agree">Akkoord</string>
     <string name="exit_extreme_mode_dialog_cancel">Annuleren</string>
     <string name="exit_extreme_mode_dialog_title">Schakel de Extreme modus uit</string>
@@ -164,7 +166,9 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -232,6 +236,7 @@
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -277,8 +282,9 @@
     <string name="my_gifts">Cadeaus</string>
     <string name="my_gifts_purchased">Gekocht</string>
     <string name="my_gifts_received">Ontvangen</string>
-    <string name="need_permission">Verplichte toestemmingen (gebruikt voor basisfuncties en services van deze app)</string>
+    <string name="need_permission">"Welkom bij Thema's! Deze app biedt de volgende personalisatiediensten:"</string>
     <string name="no_data">Kan geen verbinding maken met het netwerk</string>
+    <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="no_related_font">Kon geen resultaten vinden</string>
     <string name="no_related_ringtone">Kon geen resultaten vinden</string>
     <string name="no_related_theme">Kon geen resultaten vinden</string>
@@ -312,7 +318,7 @@
     <string name="pref_animation_preview">Geanimeerde voorvertoningen</string>
     <string name="pref_animation_preview_switch">Toon overgang van Vergrendelscherm naar Startscherm op thema-covers</string>
     <string name="pref_privacy_policy">Privacybeleid</string>
-    <string name="preference_authorization_summary">Schakel de schakelaar in en uit om uw toestemming te verlenen of in te trekken</string>
+    <string name="preference_authorization_summary">"Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Thema's in."</string>
     <string name="preference_authorization_title">Toestemming</string>
     <string name="premium">Premium</string>
     <string name="present_local_themes">"Mijn thema's"</string>
@@ -473,7 +479,7 @@
     <string name="resource_no_match_app">Geen app gevonden om deze actie uit te voeren.</string>
     <string name="resource_no_network_text">Kan geen verbinding maken met het netwerk.</string>
     <string name="resource_no_result">Geen zoekresultaten</string>
-    <string name="resource_notification_default">Notificaties</string>
+    <string name="resource_notification_default">Meldingen</string>
     <string name="resource_on_trial">Proberen: %1$s</string>
     <string name="resource_on_use">Gebruikt: %1$s</string>
     <string name="resource_online">Online</string>
@@ -484,6 +490,7 @@
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -562,8 +569,9 @@
     <string name="revoke_dialog_agree">Intrekken</string>
     <string name="revoke_dialog_agree_with_timestamp">Intrekken (%1$ds)</string>
     <string name="revoke_dialog_disagree">Annuleren</string>
-    <string name="revoke_dialog_message">"Nadat u de toestemming heeft ingetrokken, zullen Thema's stoppen met het verzamelen van uw gegevens en alle gerelateerde data van onze servers verwijderen. Dit kan ervoor zorgen dat Thema's zo goed als onbruikbaar wordt. Toestemming toch intrekken?"</string>
-    <string name="revoke_dialog_title">Toestemming intrekken</string>
+    <string name="revoke_dialog_message">"Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Thema's in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Thema's moet de nodige persoonlijke informatie verzamelen om u basisdiensten te kunnen bieden. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om haar diensten te accepteren op basis van verzamelde persoonlijke informatie."</string>
+    <string name="revoke_dialog_title">Intrekking van toestemming</string>
+    <string name="revoke_fail_message">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="revoke_progress_dialog_message">Toestemming intrekken…</string>
     <string name="revoke_toast_message">Toestemming succesvol ingetrokken</string>
     <string name="rewarded_ad_load_failed">Kon de video niet laden. Probeer opnieuw.</string>
@@ -606,6 +614,7 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">"Vergelijkbare thema's"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">Voor het opslaan van gedownloade items</string>
     <string name="swipe_find_more">Swipe omhoog voor meer</string>
     <string name="system_phone">Gesprekken</string>
@@ -650,6 +659,7 @@
     <string name="theme_component_title_statusbar">Statusbalk</string>
     <string name="theme_component_title_wallpaper">Startscherm</string>
     <string name="theme_current_using_has_update">Update voor thema beschikbaar</string>
+    <string name="theme_desc">"Met Thema's kunt u meerdere UI-elementen in het hele systeem aanpassen."</string>
     <string name="theme_description_title_customized">Aangepast</string>
     <string name="theme_description_title_default">Standaard</string>
     <string name="theme_detail">Details</string>
@@ -671,6 +681,7 @@
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_select_others">Bladeren</string>
     <string name="theme_setting">Instellingen</string>
@@ -699,7 +710,7 @@
     <string name="title_my_miwallpaper_resource">Mijn live achtergronden</string>
     <string name="title_my_wallpaper_resource">Mijn achtergronden</string>
     <string name="title_system_audio_alarm_resource">Alarmen</string>
-    <string name="title_system_audio_notification_resource">Notificaties</string>
+    <string name="title_system_audio_notification_resource">Meldingen</string>
     <string name="title_system_audio_resource">Systeem beltonen</string>
     <string name="title_system_wallpaper_resource">Systeem achtergronden</string>
     <string name="to_activate_the_account">Activeer uw Mi Account nu</string>
@@ -723,28 +734,25 @@
     <string name="user_agree">Akkoord</string>
     <string name="user_authorization_dialog_agree">Akkoord</string>
     <string name="user_authorization_dialog_disagree">Sluiten</string>
-    <string name="user_authorization_dialog_message">Lees en ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a> voordat u doorgaat.</string>
-    <string name="user_authorization_dialog_title">Toestemming verlenen</string>
+    <string name="user_authorization_dialog_message">"&lt;Data>We hebben de nodige persoonlijke informatie nodig om u de basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Thema's gebruikt.
+U kunt uw toestemming voor het Privacybeleid van Thema's op elk moment in de Instellingen intrekken.&lt;/Data>"</string>
+    <string name="user_authorization_dialog_title">Algemene voorwaarden</string>
     <string name="user_know">Begrepen</string>
     <string name="using_theme_has_update_tips">Een update voor dit thema is beschikbaar.</string>
     <string name="using_theme_next_automatic_update">Automatische updates</string>
     <string name="using_theme_next_automatic_update_summary">"Gedownloade thema's automatisch updaten via wifi wanneer het scherm is vergrendeld"</string>
     <string name="using_theme_show_ad">Aanbevelingen</string>
-    <string name="using_wallpaper_personal">Gepersonaliseerde achtergrondselectie</string>
     <string name="video_audio_apply_success">Video succesvol geconfigureerd met geluid</string>
     <string name="video_data_tips_message">Het gebruik van mobiele data kan extra kosten genereren. Ga toch verder?</string>
-    <string name="video_data_tips_title">Waarschuwing dataverbruik</string>
+    <string name="video_data_tips_title">Waarschuwing datagebruik</string>
     <string name="video_silence_apply_success">Video zonder geluid succesvol geconfigureerd</string>
     <string name="wallpaper_agreement_message">"Voordat u achtergronden van Thema's gebruikt, lees en ga akkoord met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>."</string>
     <string name="wallpaper_apply">Toepassen</string>
     <string name="wallpaper_crop">Bijsnijden</string>
     <string name="wallpaper_decoded_error">Kan achtergrond niet laden</string>
+    <string name="wallpaper_desc">Achtergronden geven uw Startscherm een frisse uitstraling.</string>
     <string name="wallpaper_detail_load_page_no_network">Maak verbinding met het netwerk en probeer het opnieuw.</string>
     <string name="wallpaper_might_like">Achtergronden die u mogelijk leuk vindt</string>
-    <string name="wallpaper_personal_dialog_agree">Personaliseren</string>
-    <string name="wallpaper_personal_dialog_content">Gebruik deze functie om de selectie achtergronden gepersonaliseerd gebaseerd op uw interesses te bekijken. U kunt deze functie in- en uitschakelen in de instellingen. Achtergronden nu personaliseren?</string>
-    <string name="wallpaper_personal_dialog_disagree">Nee, bedankt</string>
-    <string name="wallpaper_personal_dialog_title">Personaliseer uw achtergronden</string>
     <string name="wallpaper_scroll_type_tips">Scrol om achtergronden te bekijken</string>
     <string name="wallpaper_set_as_both">Voor beiden instellen</string>
     <string name="wallpaper_set_as_desktop">Als Startscherm instellen</string>
