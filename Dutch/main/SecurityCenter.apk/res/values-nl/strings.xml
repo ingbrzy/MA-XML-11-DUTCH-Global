@@ -797,7 +797,6 @@ U zult geen app-gegevens verliezen."</string>
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Aanmaken</string>
     <string name="card_main_xspace_summary">Maak dubbele accounts aan voor elke app</string>
     <string name="card_main_xspace_title">Dubbele apps</string>
@@ -1018,7 +1017,6 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="doze_optimization_title">Geoptimaliseerde touch-bediening</string>
     <string name="dual_setting_simcard1">sim 1</string>
     <string name="dual_setting_simcard2">sim 2</string>
-    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty_app">Geen apps</string>
     <string name="empty_title_auto_start_list">Er zijn geen apps die automatisch gestart kunnen worden.</string>
@@ -1074,9 +1072,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -1782,7 +1778,6 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1791,7 +1786,6 @@ De provider kan extra kosten in rekening brengen als je opnieuw een mobiele data
     <string name="menu_text_optimize_manage">Boost snelheid</string>
     <string name="menu_text_optimize_manage_1">Boost snelheid</string>
     <string name="menu_text_power_manager">Batterij</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_service_app_detail">Datagebruik details</string>
@@ -2218,11 +2212,6 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is, zal MIUI de volgende optimalisaties uitvoeren:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid scherm automatisch aan</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -2448,7 +2437,6 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_normal_traffic_limit">Wanneer het data-abonnement verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Wanneer u over uw data-abonnement gaat</string>
     <string name="pref_package_traffic_settings">Data-abonnement</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
@@ -2612,7 +2600,6 @@ Terwijl je kalibreert, stuurt MIUI een sms naar je provider om de kalibratietemp
     <string name="privacy_using_record">Audio opnemen</string>
     <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
     <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Advertentie</string>

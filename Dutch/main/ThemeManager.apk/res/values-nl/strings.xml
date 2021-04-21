@@ -166,9 +166,7 @@
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -236,7 +234,6 @@
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -490,7 +487,6 @@
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -614,7 +610,6 @@
     <string name="sim_one">SIM 1</string>
     <string name="sim_two">SIM 2</string>
     <string name="similar_theme">"Vergelijkbare thema's"</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_file">Voor het opslaan van gedownloade items</string>
     <string name="swipe_find_more">Swipe omhoog voor meer</string>
     <string name="system_phone">Gesprekken</string>
@@ -681,7 +676,6 @@
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_select_others">Bladeren</string>
     <string name="theme_setting">Instellingen</string>
