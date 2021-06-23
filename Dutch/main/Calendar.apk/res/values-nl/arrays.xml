@@ -1,67 +1,333 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="additional_cal_dialog_labels">
+        <item>Geen</item>
+        <item>Hijri Samvat</item>
+        <item>Shaka Samvat</item>
+        <item>Vikrami Samvat</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Waterman</item>
+        <item>20/1 - 18/2</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Ram</item>
+        <item>21/3 - 19/4</item>
+    </string-array>
+    <string-array name="bundesliga">
+        <item>2</item>
+        <item>Bundesliga</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Kreeft</item>
+        <item>22/6 - 22/7</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Steenbok</item>
+        <item>22/12 - 19/1</item>
+    </string-array>
     <string-array name="change_response_labels">
-        <item>Alleen deze afspraak</item>
-        <item>Alle afspraken in de reeks</item>
+        <item>Alleen deze gebeurtenis</item>
+        <item>Alle gebeurtenissen in de serie</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Verder</item>
+        <item>Terug</item>
+    </string-array>
+    <string-array name="dates">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Op de tijd van het evenement</item>
+        <item>5 minuten van tevoren</item>
+        <item>15 minuten van tevoren</item>
+        <item>30 minuten van tevoren</item>
+        <item>1 uur van tevoren</item>
+        <item>4 uur van tevoren</item>
+        <item>1 dag van tevoren</item>
+        <item>2 dagen van tevoren</item>
+        <item>1 week van tevoren</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>Alleen deze afspraak</item>
-        <item>Deze en toekomstige afspraken</item>
-        <item>Alle afspraken</item>
+        <item>Alleen deze gebeurtenis</item>
+        <item>Deze en toekomstige gebeurtenissen</item>
+        <item>Alle gebeurtenissen</item>
     </string-array>
-	<string-array name="ordinal_labels">
+    <string-array name="english_premium_league">
+        <item>4</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Tweelingen</item>
+        <item>21/5 - 21/6</item>
+    </string-array>
+    <string-array name="hijri_samvat_month_names">
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi Al-Awwal</item>
+        <item>Rabi Al-Thani</item>
+        <item>Jumada Al-Awwal</item>
+        <item>Jumada Al-Thani</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-Qadah</item>
+        <item>Dhul-Hijjah</item>
+    </string-array>
+    <string-array name="la_liga">
+        <item>3</item>
+        <item>La Liga</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leeuw</item>
+        <item>23/7 - 22/8</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Weegschaal</item>
+        <item>23/9 - 23/10</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>5</item>
+        <item>Ligue 1</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Zondag</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zaterdag</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Vissen</item>
+        <item>19/2 - 20/3</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen als beltoon gedempt is</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Regio standaard</item>
+        <item>zaterdag</item>
+        <item>zondag</item>
+        <item>maandag</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1ste</item>
+        <item>2e</item>
+        <item>3e</item>
+        <item>4e</item>
+        <item>5e</item>
+        <item>6e</item>
+        <item>7e</item>
+        <item>8e</item>
+        <item>9e</item>
+        <item>10e</item>
+        <item>11e</item>
+        <item>12e</item>
+        <item>13e</item>
+        <item>14e</item>
+        <item>15e</item>
+        <item>16e</item>
+        <item>17e</item>
+        <item>18e</item>
+        <item>19e</item>
+        <item>20e</item>
+        <item>21e</item>
+        <item>22e</item>
+        <item>23e</item>
+        <item>24e</item>
+        <item>25e</item>
+        <item>26e</item>
+        <item>27e</item>
+        <item>28e</item>
+        <item>29e</item>
+        <item>30e</item>
+        <item>31e</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nooit</item>
+        <item>Tijd</item>
+        <item>Aftellen</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>jan</item>
+        <item>feb</item>
+        <item>Mrt</item>
+        <item>apr</item>
+        <item>mei</item>
+        <item>jun</item>
+        <item>jul</item>
+        <item>aug</item>
+        <item>sep</item>
+        <item>okt</item>
+        <item>nov</item>
+        <item>dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
         <item>eerste</item>
         <item>tweede</item>
         <item>derde</item>
         <item>vierde</item>
         <item>laatste</item>
     </string-array>
-	<string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Altijd</item>
-        <item>Alleen indien stil</item>
-        <item>Nooit</item>
+    <string-array name="repeat_choose_week_right">
+        <item>ma - vr</item>
+        <item>Weekend</item>
+        <item>Hele week</item>
     </string-array>
-    <string-array name="preferences_week_start_day_labels">
-        <item>Regiostandaard</item>
-        <item>Zaterdag</item>
-        <item>Zondag</item>
-        <item>Maandag</item>
+    <string-array name="repeat_choose_weekday">
+        <item>ma</item>
+        <item>di</item>
+        <item>wo</item>
+        <item>do</item>
+        <item>vr</item>
+        <item>za</item>
+        <item>zo</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Nooit</item>
+        <item>Maandelijks</item>
+        <item>Jaarlijks</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>dag</item>
+        <item>week</item>
+        <item>maand</item>
+        <item>jaar</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>eerste maandag</item>
+        <item>eerste dinsdag</item>
+        <item>eerste woensdag</item>
+        <item>eerste donderdag</item>
+        <item>eerste vrijdag</item>
+        <item>eerste zaterdag</item>
+        <item>eerste zondag</item>
+        <item>tweede maandag</item>
+        <item>tweede dinsdag</item>
+        <item>tweede woensdag</item>
+        <item>tweede donderdag</item>
+        <item>tweede vrijdag</item>
+        <item>tweede zaterdag</item>
+        <item>tweede zondag</item>
+        <item>derde maandag</item>
+        <item>derde dinsdag</item>
+        <item>derde woensdag</item>
+        <item>derde donderdag</item>
+        <item>derde vrijdag</item>
+        <item>derde zaterdag</item>
+        <item>derde zondag</item>
+        <item>vierde maandag</item>
+        <item>vierde dinsdag</item>
+        <item>vierde woensdag</item>
+        <item>vierde donderdag</item>
+        <item>vierde vrijdag</item>
+        <item>vierde zaterdag</item>
+        <item>vierde zondag</item>
+        <item>laatste maandag</item>
+        <item>laatste dinsdag</item>
+        <item>laatste woensdag</item>
+        <item>laatste donderdag</item>
+        <item>laatste vrijdag</item>
+        <item>laatste zaterdag</item>
+        <item>laatste zondag</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>Geen reactie</item>
+        <item>Geen antwoord</item>
         <item>Ja</item>
         <item>Misschien</item>
         <item>Nee</item>
     </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Boogschutter</item>
+        <item>23/11 - 21/12</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Schorpioen</item>
+        <item>24/10 - 22/11</item>
+    </string-array>
+    <string-array name="serie_a">
+        <item>1</item>
+        <item>Serie A</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Stier</item>
+        <item>20/4 - 20/5</item>
+    </string-array>
     <string-array name="timezone_labels">
         <item>Marshalleilanden</item>
         <item>Midway-eilanden</item>
-        <item>Hawaï</item>
+        <item>Hawaii</item>
         <item>Alaska</item>
-        <item>PST</item>
+        <item>Pacific tijd</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>MST</item>
+        <item>Mountain tijd</item>
         <item>Centraal Amerika</item>
-        <item>CST</item>
+        <item>Central tijd</item>
         <item>Mexico-Stad</item>
         <item>Saskatchewan</item>
-        <item>Bogota</item>
-        <item>EST</item>
+        <item>Bogotá</item>
+        <item>Eastern tijd</item>
         <item>Venezuela</item>
-        <item>AST (Barbados)</item>
-        <item>AST (Canada)</item>
+        <item>Atlantic tijd (Barbados)</item>
+        <item>Atlantic tijd (Canada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Newfoundland</item>
-        <item>Brasilia</item>
+        <item>Brazilië</item>
         <item>Buenos Aires</item>
         <item>Groenland</item>
         <item>Montevideo</item>
-        <item>Mid-Atlantisch</item>
+        <item>Midden-Atlantische Staten</item>
         <item>Azoren</item>
-        <item>Kaapverdische Eilanden</item>
+        <item>Kaapverdië</item>
         <item>Casablanca</item>
         <item>Londen, Dublin</item>
         <item>Amsterdam, Berlijn</item>
@@ -69,7 +335,7 @@
         <item>Brussel</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
-        <item>WAT</item>
+        <item>West-Afrikaanse tijd</item>
         <item>Amman, Jordanië</item>
         <item>Athene, Istanbul</item>
         <item>Beiroet, Libanon</item>
@@ -83,30 +349,32 @@
         <item>Koeweit</item>
         <item>Nairobi</item>
         <item>Teheran</item>
-        <item>Bakoe</item>
+        <item>Baku</item>
         <item>Tbilisi</item>
         <item>Jerevan</item>
         <item>Dubai</item>
         <item>Kaboel</item>
         <item>Islamabad, Karachi</item>
-        <item>Oral</item>
+        <item>Oeralsk</item>
         <item>Jekaterinenburg</item>
         <item>Calcutta</item>
         <item>Sri Lanka</item>
         <item>Kathmandu</item>
         <item>Astana</item>
-        <item>Rangoon</item>
+        <item>Yangon</item>
         <item>Krasnojarsk</item>
         <item>Bangkok</item>
         <item>Peking</item>
         <item>Hong Kong</item>
-        <item>Irkoetsk</item>
+        <item>Macao</item>
+        <item>Singapore</item>
+        <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>
         <item>Taipei</item>
-        <item>Seoel</item>
+        <item>Seoul</item>
         <item>Tokyo, Osaka</item>
-        <item>Jakoetsk</item>
+        <item>Yakutsk</item>
         <item>Adelaide</item>
         <item>Darwin</item>
         <item>Brisbane</item>
@@ -119,189 +387,61 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-    <string-array name="aquarius_info">
-        <item>waterman</item>
-        <item>Waterman</item>
-        <item>20/1 - 18/2</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>ram</item>
-        <item>Ram</item>
-        <item>21/3 - 19/4</item>
-    </string-array>
-    <string-array name="bundesliga">
-        <item>2</item>
-        <item>Bundesliga</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>kreeft</item>
-        <item>Kreeft</item>
-        <item>22/6 - 22/7</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>steenbok</item>
-        <item>Steenbok</item>
-        <item>22/12 - 19/1</item>
-    </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Vooruit</item>
-        <item>Achteruit</item>
-    </string-array>
-	<string-array name="default_reminder_labels">
-        <item>Op tijd van afspraak</item>
-        <item>5 minuten van tevoren</item>
-        <item>10 minuten van tevoren</item>
-        <item>15 minuten van tevoren</item>
-        <item>30 minuten van tevoren</item>
-        <item>1 uur van tevoren</item>
-        <item>1 dag van tevoren</item>
-        <item>2 dagen van tevoren</item>
-        <item>1 week van tevoren</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>tweeling</item>
-        <item>Tweeling</item>
-        <item>21/5 - 21/6</item>
-    </string-array>
-    <string-array name="la_liga">
-        <item>3</item>
-        <item>La Liga</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>leeuw</item>
-        <item>Leeuw</item>
-        <item>23/7 - 22/8</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>weegschaal</item>
-        <item>Weegschaal</item>
-        <item>23/9 - 23/10</item>
-    </string-array>
-    <string-array name="ligue_1">
-        <item>5</item>
-        <item>Ligue 1</item>
-    </string-array>
-    <string-array name="pisces_info">
-        <item>vissen</item>
-        <item>Vissen</item>
-        <item>19/2 - 20/3</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1ste</item>
-        <item>2de</item>
-        <item>3de</item>
-        <item>4de</item>
-        <item>5de</item>
-        <item>6de</item>
-        <item>7de</item>
-        <item>8de</item>
-        <item>9de</item>
-        <item>10de</item>
-        <item>11de</item>
-        <item>12de</item>
-        <item>13de</item>
-        <item>14de</item>
-        <item>15de</item>
-        <item>16de</item>
-        <item>17de</item>
-        <item>18de</item>
-        <item>19de</item>
-        <item>20ste</item>
-        <item>21ste</item>
-        <item>22ste</item>
-        <item>23ste</item>
-        <item>24ste</item>
-        <item>25ste</item>
-        <item>26ste</item>
-        <item>27ste</item>
-        <item>28ste</item>
-        <item>29ste</item>
-        <item>30ste</item>
-        <item>31ste</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Nooit</item>
-        <item>Na een bepaalde datum</item>
-        <item>Na een bepaald aantal keer</item>
-	</string-array>	
-    <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mrt</item>
-        <item>Apr</item>
-        <item>Mei</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Aug</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-	    <item>Dec</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>eerste</item>
-        <item>tweede</item>
-        <item>derde</item>
-        <item>vierde</item>
-        <item>laatste</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Ma - vr</item>
-        <item>Weekend</item>
-        <item>Hele week</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Ma</item>
-        <item>Di</item>
-        <item>Wo</item>
-        <item>Do</item>
-        <item>Vr</item>
-        <item>Za</item>
-        <item>Zo</item>
-    </string-array>
-	<string-array name="repeat_countdown">
-        <item>Nooit</item>
-        <item>Maandelijks</item>
-        <item>Jaarlijks</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>dag</item>
-        <item>week</item>
-        <item>maand</item>
-        <item>jaar</item>
-    </string-array>
-    <string-array name="sagittarius_info">
-        <item>boogschutter</item>
-        <item>Boogschutter</item>
-        <item>23/11 - 21/12</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>schorpioen</item>
-        <item>Schorpioen</item>
-        <item>24/10 - 22/11</item>
-    </string-array>
-    <string-array name="serie_a">
-        <item>1</item>
-        <item>Serie A</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>stier</item>
-        <item>Stier</item>
-        <item>20/4 - 20/5</item>
-    </string-array>
-	    <string-array name="travel_reminder_minutes_labels">
+    <string-array name="travel_reminder_minutes_labels">
         <item>3 uur van tevoren</item>
         <item>4 uur van tevoren</item>
         <item>5 uur van tevoren</item>
         <item>6 uur van tevoren</item>
         <item>1 dag van tevoren</item>
     </string-array>
+    <string-array name="vikrami_samvat_month_names">
+        <item>Chaitra</item>
+        <item>Vaishākha</item>
+        <item>Jyēshtha</item>
+        <item>Āshādha</item>
+        <item>Shrāvana</item>
+        <item>Bhaadra</item>
+        <item>Āshwin</item>
+        <item>Kārtika</item>
+        <item>Mārgaśīrṣa</item>
+        <item>Pausha</item>
+        <item>Māgha</item>
+        <item>Phalguna</item>
+    </string-array>
     <string-array name="virgo_info">
-        <item>maagd</item>
+        <item>virgo</item>
         <item>Maagd</item>
         <item>23/8 - 22/9</item>
     </string-array>
-	<string-array name="week_header_name">
+    <string-array name="weather_forecasts">
+        <item>Helder</item>
+        <item>Bewolkt</item>
+        <item>Zwaar bewolkt</item>
+        <item>Mist</item>
+        <item>Zware storm</item>
+        <item>Storm</item>
+        <item>Lichte storm</item>
+        <item>Onweersbui</item>
+        <item>Regenbui</item>
+        <item>Zware regen</item>
+        <item>Regen</item>
+        <item>Lichte regen</item>
+        <item>Regen en sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuwbuien</item>
+        <item>Zware sneeuwval</item>
+        <item>Sneeuw</item>
+        <item>Lichte sneeuw</item>
+        <item>Sterke zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Smog</item>
+        <item>Lichte zandstorm</item>
+        <item>Hagel</item>
+        <item>Zwevend stof</item>
+        <item>Nevel</item>
+        <item>IJzel</item>
+    </string-array>
+    <string-array name="week_header_name">
         <item>ZO</item>
         <item>MA</item>
         <item>DI</item>
@@ -313,5 +453,23 @@
     <string-array name="widget_style_list">
         <item>Transparant</item>
         <item>Witte achtergrond</item>
-	</string-array>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>Z</item>
+        <item>M</item>
+        <item>D</item>
+        <item>W</item>
+        <item>D</item>
+        <item>V</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_other">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
 </resources>

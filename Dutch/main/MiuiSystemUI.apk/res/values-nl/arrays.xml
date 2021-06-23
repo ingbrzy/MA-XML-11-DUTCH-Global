@@ -17,23 +17,14 @@
         <item>Hoogstens 3 processen</item>
         <item>Hoogstens 4 processen</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>0%</item>
         <item>50%</item>
         <item>100%</item>
     </string-array>
     <string-array name="battery_options">
-        <item>Toon altijd percentage</item>
-        <item>Toon percentage tijdens opladen (standaard)</item>
+        <item>Percentage altijd weergeven</item>
+        <item>Percentage weergeven tijdens opladen (standaard)</item>
         <item>Dit pictogram niet weergeven</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
@@ -148,8 +139,8 @@
         <item>Mediapakketten gefilterd</item>
     </string-array>
     <string-array name="clock_options">
-        <item>Geef uren, minuten en seconden weer</item>
-        <item>Geef uren, minuten en seconden weer (standaard)</item>
+        <item>Uren, minuten en seconden weergeven</item>
+        <item>Uren en minuten weergeven (standaard)</item>
         <item>Dit pictogram niet weergeven</item>
     </string-array>
     <string-array name="color_mode_descriptions">
@@ -162,8 +153,6 @@
         <item>Natuurlijk</item>
         <item>Standaard</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>Uit</item>
         <item>De overgetekende gebieden tonen</item>
@@ -185,24 +174,21 @@
         <item>Controleer alleen op DRM-inhoud</item>
         <item>Altijd controleren</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>Uit</item>
-        <item>30 minuten</item>
-        <item>1 uur</item>
-        <item>2 uren</item>
-        <item>8 uren</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>Dit is aanbevolen inhoud.</item>
+        <item>Dit is een advertentie.</item>
     </string-array>
     <string-array name="nav_bar_buttons">
         <item>Klembord</item>
-        <item>Sleutelcode</item>
-        <item>Wisselen van toetsenbord</item>
+        <item>Toetscode</item>
+        <item>Draaien bevestigen, toetsenbordschakelaar</item>
         <item>Geen</item>
     </string-array>
     <string-array name="nav_bar_layouts">
         <item>Normaal</item>
         <item>Compact</item>
-        <item>Linksneigend</item>
-        <item>Rechtsneigend</item>
+        <item>Schuin naar links</item>
+        <item>Schuin naar rechts</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Geen</item>
@@ -218,7 +204,6 @@
         <item>4K (geüpscaled, veilig)</item>
         <item>720p, 1080p (dubbel scherm)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>Uit</item>
         <item>64 KB</item>
@@ -302,35 +287,6 @@
         <item>Audiobron</item>
         <item>MIDI</item>
     </string-array>
-    <string-array name="weather_type">
-        <item>Helder</item>
-        <item>Bewolkt</item>
-        <item>Zwaar bewolkt</item>
-        <item>Mistig</item>
-        <item>Hevige regenval</item>
-        <item>Stortbui</item>
-        <item>Regenbui</item>
-        <item>Onweersbui</item>
-        <item>Regenbui</item>
-        <item>Zware regenval</item>
-        <item>Matige regenval</item>
-        <item>Lichte regen</item>
-        <item>Buien met sneeuw</item>
-        <item>Sneeuwstorm</item>
-        <item>Sneeuw</item>
-        <item>Zware sneeuwval</item>
-        <item>Matige sneeuwval</item>
-        <item>Lichte sneeuw</item>
-        <item>Sterke zandstorm</item>
-        <item>Zandstorm</item>
-        <item>Zand</item>
-        <item>Winderig</item>
-        <item>Hagel</item>
-        <item>Stof</item>
-        <item>Nevel</item>
-        <item>IJzel</item>
-        <item></item>
-    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Scannen…</item>
@@ -343,7 +299,7 @@
         <item>Verbinding verbroken</item>
         <item>Mislukt</item>
         <item>Geblokkeerd</item>
-        <item>Slechte verbinding wordt tijjdelijk vermeden</item>
+        <item>Slechte verbinding wordt tijdelijk vermeden</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>

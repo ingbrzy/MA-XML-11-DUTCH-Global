@@ -128,6 +128,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -246,13 +247,13 @@
     <string name="diagnosis_log_sent_format">"Logbestanden succesvol verzonden. 
 ID:%s
 Verstuur deze code naar de leidinggevende."</string>
-    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
-    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
-    <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_disagree_privacychange_info">U kunt de online streamingdiensten van Mi Video niet gebruiken als u niet akkoord gaat met ons Privacybeleid. Tik op \"Annuleren\" om terug te gaan of op \"Niet akkoord\" om door te gaan en Mi Video alleen als lokale speler te gebruiken.</string>
+    <string name="dialog_disagree_privacychange_title">Niet akkoord?</string>
+    <string name="dialog_privacy_change_info">We hebben het Mi Video Privacybeleid bijgewerkt vanwege de aanpassingen in de services die we aanbieden. Om uw rechten als gebruiker en de manieren waarop we uw gegevens gebruiken volledig te begrijpen, moet u onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> lezen en ermee akkoord gaan voordat u de app gebruikt.</string>
+    <string name="dialog_privacy_change_title">Update van het Privacybeleid</string>
     <string name="dialog_privacy_info_new2">Om gebruik te kunnen maken van deze services, moet u ermee akkoord gaan dat %1$s uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. U wordt geacht het &lt;a href=%2$s> Privacybeleid&lt;/a> te hebben gelezen en ermee akkoord te gaan als u hieronder op \"Akkoord\" tikt.</string>
     <string name="dialog_privacy_info_new3">Om deze service te kunnen gebruiken, moet u %1$s toestemming geven om uw persoonlijke informatie te verzamelen, verwerken en gebruiken in overeenstemming met het Privacybeleid. Door hieronder op Akkoord te klikken, gaat u akkoord met het &lt;a href=%2$s>Privacybeleid&lt;/a> en &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> van Xiaomi. &lt;br/>&lt;br/>Door op Akkoord te klikken, krijgt Mi Video ook toegang tot de lijst met apps die op uw apparaat zijn geïnstalleerd. Met deze toestemming kan Mi Video items delen, begrijpen of een app op uw apparaat is geïnstalleerd, welke versie van een app is geïnstalleerd en of een app veilig is.</string>
-    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new4">Welkom bij Mi Video! Deze app biedt de volgende services:&lt;br>&lt;/br> - Online streamingdiensten&lt;br>&lt;/br>- Een lokale videospeler&lt;br>&lt;/br>Mi Video heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons Privacybeleid. U kunt de gerelateerde instellingen wijzigen in Instellingen > Wachtwoorden &amp;amp; beveiliging.&lt;br>&lt;/br>Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> voordat u Mi Video gebruikt.</string>
     <string name="dialog_privacy_revoke_cancel">Annuleren</string>
     <string name="dialog_privacy_revoke_count_down">Intrekken (%1$d s)</string>
     <string name="dialog_privacy_revoke_description">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Video in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om online services te accepteren op basis van verzamelde persoonlijke informatie.</string>
@@ -260,10 +261,10 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_privacy_revoke_ok">Intrekken</string>
     <string name="dialog_privacy_revoke_success">Succesvol teruggetrokken</string>
     <string name="dialog_privacy_revoking">Toestemming intrekken…</string>
-    <string name="dialog_privacy_title">Terms and conditions</string>
+    <string name="dialog_privacy_title">Algemene voorwaarden</string>
     <string name="dialog_revoke_privacy_info_new2">Nadat u de toestemming intrekt zal de app stoppen met het verzamelen van gegevens en zullen alle gerelateerde gegevens van onze servers worden verwijderd. Dit kan ervoor zorgen dat de app zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
     <string name="dialog_revoke_privacy_title">Toestemming intrekken</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="disagree">Niet akkoord</string>
     <string name="diy_channels_tips">U kunt nu uw kanalenlijst aanpassen.</string>
     <string name="do_not_show_again">Niet meer tonen</string>
     <string name="download">Downloaden</string>

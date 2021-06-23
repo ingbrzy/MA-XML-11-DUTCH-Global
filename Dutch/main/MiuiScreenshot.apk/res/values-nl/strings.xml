@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="app_name">Screenshot</string>
+    <string name="long_screenshot_guide_text">"Tik om een
+scrollende screenshot te maken"</string>
+    <string name="long_screenshot_out_of_memory_error">De afbeelding is te groot</string>
+    <string name="long_screenshot_processing">Verwerken…</string>
+    <string name="long_screenshot_stop">Voltooid</string>
+    <string name="long_screenshot_top_msg">Screenshot maken…</string>
+    <string name="long_screenshot_top_msg_manual">Snijd de screenshot bij en tik op de knop om het af te ronden</string>
+    <string name="partial_screenshot_edit">Bewerken</string>
+    <string name="partial_screenshot_repaint">Opnieuw beginnen</string>
+    <string name="partial_screenshot_save">Opslaan</string>
+    <string name="partial_screenshot_save_successful">Succesvol opgeslagen</string>
+    <string name="partial_screenshot_share">Delen</string>
+    <string name="screenshot_edit">Bewerken</string>
+    <string name="screenshot_failed_in_landscape_mode">Kan geen scrollende screenshots maken in Landschapsmodus</string>
+    <string name="screenshot_failed_to_capture_title">Deze app staat geen screenshots toe</string>
+    <string name="screenshot_failed_to_save_title">Kon niet opslaan. Onvoldoende opslagruimte.</string>
+    <string name="screenshot_feedback_txt">Feedback</string>
+    <string name="screenshot_insert_failed">Kon de screenshot niet laden. Maak een nieuwe screenshot of bekijk de afbeelding in de Galerij.</string>
+    <string name="screenshot_long_screenshot">Scrollen</string>
+    <string name="screenshot_send">Versturen</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -53,6 +53,8 @@
     <string name="feedback_tip_cancel">Er worden geen meldingsgegevens verzameld.</string>
     <string name="feedback_tip_msg">Om meldingen nauwkeuriger te groeperen, moeten we de app-naam, titel en beschrijving van de melding en het tijdstip waarop de melding is verzonden, verzamelen. Uw feedback indienen?</string>
     <string name="feedback_tip_title">Feedback op meldingscategorieën</string>
+    <string name="float_notification_snooze_strategy">Verberg tijdelijk</string>
+    <string name="float_notification_snooze_summary">Veeg omhoog over een zwevende melding om toekomstige meldingen tijdelijk te verbergen</string>
     <string name="float_notifications">Zwevende meldingen</string>
     <string name="float_notifications_short">Zwevend</string>
     <string name="fold_importance_default">Aanbevolen</string>
@@ -77,6 +79,10 @@
     <string name="menu_setting_tip_show_in_home">Meldingen van %s worden niet gegroepeerd</string>
     <string name="menu_setting_tip_unfold">Alle meldingen van deze app worden als belangrijk beschouwd</string>
     <string name="menu_setting_unfold">Belangrijk</string>
+    <string name="miui_snooze_always_float">Niet verbergen</string>
+    <string name="miui_snooze_cancel">Annuleren</string>
+    <string name="miui_snooze_default_time">Voor %d minuut</string>
+    <string name="miui_snooze_until_unlock_screen">Zolang het vergrendeld is</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -96,6 +102,11 @@
     <string name="notification_aggregate_title">Meldingen groeperen</string>
     <string name="notification_display_setting">Meldingenpaneel</string>
     <string name="notification_display_style">Meldingsstijl</string>
+    <string name="notification_fold_description1">De map Meldingen was in MIUI 9 geïntroduceerd. Deze functie filtert onbelangrijke meldingen en plaatst deze in een aparte map.</string>
+    <string name="notification_fold_description2">MIUI zal onthouden op welke meldingen u tikt en verschillende criteria gebruiken om te bepalen welke belangrijk zijn.</string>
+    <string name="notification_fold_description3">Als de meldingen die u belangrijk vindt nog steeds naar de map Meldingen gaan, zorg er dan voor dat u dergelijke kwesties aan ons meldt. Wij waarderen uw feedback.</string>
+    <string name="notification_fold_footer_icon_summary">App-iconen weergeven wanneer onbelangrijke meldingen gegroepeerd zijn</string>
+    <string name="notification_fold_footer_icon_title">App-iconen weergeven</string>
     <string name="notification_fold_summary">Groepeer onbelangrijke meldingen automatisch</string>
     <string name="notification_fold_title">Meldingen groeperen</string>
     <string name="notification_keyguard_hide_content">Meldingen weergeven maar inhoud verbergen</string>
@@ -113,6 +124,7 @@
     <string name="settings_guide_title">Andere instellingen nodig?</string>
     <string name="show_badge_notifications">Notificatiebadges</string>
     <string name="show_badge_notifications_short">Badges</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Statusbalk</string>
     <string name="summary_aggregate_default">Promotionele- en inhoudgerelateerde pushmeldingen worden gegroepeerd</string>
     <string name="summary_aggregate_home">Pushmeldingen worden niet gegroepeerd</string>

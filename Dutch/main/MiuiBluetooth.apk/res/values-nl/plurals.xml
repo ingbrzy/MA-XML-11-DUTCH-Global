@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fast_connect_headset_reset">
-        <item quantity="other">Houd de knop op de box %1$d seconden ingedrukt</item>
-        <item quantity="one">Houd de knop op de box %1$d seconde ingedrukt</item>
+        <item quantity="other">Houd de knop op de oplaadetui %1$d seconden ingedrukt</item>
+        <item quantity="one">Houd de knop op de oplaadetui %1$d seconde ingedrukt</item>
     </plurals>
     <plurals name="fast_connect_reset_air2_se">
         <item quantity="other">Druk en houd elk aanraakgevoelig gebied op de oortelefoons %1$d seconden in</item>

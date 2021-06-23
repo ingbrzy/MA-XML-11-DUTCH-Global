@@ -85,6 +85,7 @@
     <string name="evening">Middag</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="first_using_dialog_message">Kompas heeft de netwerkverbinding, camera en locatieservices van uw apparaat nodig om normaal te kunnen werken.</string>
+    <string name="first_using_dialog_message_no_camera">Kompas moet verbinding maken met internet en toegang hebben tot locatie info om normaal te kunnen werken. Akkoord?</string>
     <string name="first_using_dialog_title">Toegang toestemming</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -209,6 +210,7 @@
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="open_perm_msg">Kompas heeft toegang tot locatie info en Camera nodig. Dit is nodig om coördinaten te bepalen en live voorbeelden te geven. Toestaan?</string>
+    <string name="open_perm_msg_no_camera">Kompas heeft toegang nodig tot locatie info om coördinaten te kunnen bepalen. Toestaan?</string>
     <string name="open_perm_title">Toestemmingen vereist</string>
     <string name="permission_camera_desc">Voor het weergeven van azimut in de live voorbeeld</string>
     <string name="permission_location_desc">Voor het weergeven van coördinaten</string>

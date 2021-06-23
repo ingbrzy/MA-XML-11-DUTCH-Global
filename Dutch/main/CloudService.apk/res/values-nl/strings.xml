@@ -112,12 +112,17 @@
     <string name="feedback_custom_hint">Beschrijf de problemen die u hier bent tegengekomen. Als u suggesties geeft, stellen we meer details op prijs!</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#0097FF>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
     <string name="find_device_error_server">Server fout</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <a href="app://com.miui.cloudservice.gdpr.license"><u>Privacybeleid</u></a>. Als u toestemming in moet trekken, schakel deze functie dan uit.</string>
     <string name="find_device_operation_failure_rpc">Door een RPC-fout kon de operatie niet worden uitgevoerd.</string>
     <string name="find_device_send_sms_alert">Als u van SIM kaarten verwisseld kan er automatisch een SMS verstuurd worden om deze functie te heractiveren.</string>
     <string name="find_device_service_title">Apparaat zoeken</string>
+    <string name="find_device_status_summary">Lokaliseer en vergrendel uw apparaat en wis gegevens op afstand</string>
+    <string name="find_device_status_title_pad">Apparaat zoeken</string>
+    <string name="find_device_status_title_phone">Apparaat zoeken</string>
     <string name="finddevice_miservice_notification_content">Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</string>
     <string name="finddevice_miservice_notification_title">Apparaat zoeken inschakelen</string>
     <string name="forget_password"><u>Wachtwoord vergeten</u></string>
@@ -175,6 +180,8 @@
     <string name="loading">Een ogenblik geduld…</string>
     <string name="loading_enable_keybag">Wachtwoordbeheerder inschakelen…</string>
     <string name="loading_server_key_info">Items laden…</string>
+    <string name="low_battery_locate_summary">Automatisch locatie info rapporteren wanneer de batterij bijna leeg is</string>
+    <string name="low_battery_locate_title">Rapporteer locatie als de batterij bijna leeg is</string>
     <string name="master_alert_notif_content">Maak regelmatig back-ups op niets belangrijks te verliezen.</string>
     <string name="master_alert_notif_title">Schakel Xiaomi Cloud in</string>
     <string name="member_entrance_title_free_high_case_a">Verkrijg meer opslagruimte</string>
@@ -277,14 +284,18 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat raadt u aan om Apparaat zoeken in te schakelen</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay raadt u aan om Apparaat zoeken in te schakelen</string>
     <string name="micloud_find_device_guide_progress">Apparaat zoeken inschakelen…</string>
+    <string name="micloud_find_device_guide_title">Log in op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> met uw Mi Account om uw apparaat te lokaliseren en te vergrendelen, het als verloren te markeren of gegevens op afstand te wissen. Bekijk details &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>hier&lt;/a>.</string>
     <string name="micloud_find_device_open_fail">Kon Apparaat zoeken niet uitschakelen</string>
     <string name="micloud_find_device_opened">Apparaat zoeken is ingeschakeld</string>
     <string name="micloud_find_device_opened_content">Zoek uw apparaat op %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">Mogelijk is een uitgaand SMS-bericht vereist om deze service te activeren. Uw koerier brengt u dit bericht in rekening. Wanneer u van SIM-kaart wisselt, wordt mogelijk automatisch een bericht verzonden om deze functie opnieuw te activeren.</string>
     <string name="micloud_find_device_verify_button">Heractiveer Apparaat zoeken</string>
     <string name="micloud_find_device_verify_close">Apparaat zoeken uitschakelen</string>
     <string name="micloud_find_device_verify_fail">Apparaat zoeken kon niet geheractiveerd worden</string>
     <string name="micloud_find_device_verify_progress">Apparaat zoeken heractiveren…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Synchroniseren is geannuleerd. Probeer het opnieuw.</string>
     <string name="micloud_main_head_menu_cloud_backup">Startscherm back-up</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Systeeminstellingen en Startscherm lay-out</string>
@@ -478,6 +489,9 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="picker_list_empty">Geen contacten hier</string>
     <string name="picker_search_empty">Kon contacten niet vinden</string>
     <string name="picker_search_hint">Zoeken</string>
+    <string name="power_off_locate_summary">"Rapporteer locatie info door lang op de Aan/uit-knop te drukken.
+Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding slecht is."</string>
+    <string name="power_off_locate_title">Rapporteer de locatie voordat u het apparaat uitschakelt</string>
     <string name="pre_privacy_policy">Privacybeleid</string>
     <string name="pre_user_agreement">Gebruikersovereenkomst</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">"Alleen contacten synchroniseren(profiel foto's) wanneer u bent verbonden met wifi"</string>

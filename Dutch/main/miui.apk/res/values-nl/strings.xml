@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">Wissen</string>
     <string name="click_to_restore">Systeemitems herstellen om MIUI normaal te kunnen gebruiken na een fabrieksreset. Klik om te beginnen.</string>
     <string name="com_android_email">E-mail</string>
+    <string name="com_android_soundrecorder">Recorder</string>
     <string name="com_mi_liveassistant">Live streaming assistent</string>
     <string name="com_miui_calculator">Rekenmachine</string>
     <string name="com_miui_cleanmaster">Opruimer</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">Mi Mover</string>
     <string name="com_miui_notes">Notities</string>
     <string name="com_miui_screenrecorder">Schermrecorder</string>
+    <string name="com_miui_virtualsim">Mi Roaming</string>
     <string name="com_miui_weather2">Weer</string>
     <string name="com_xiaomi_drivemode">Automodus</string>
     <string name="com_xiaomi_gamecenter">Games</string>
     <string name="com_xiaomi_jr">Mi Finance</string>
     <string name="com_xiaomi_scanner">Scanner</string>
     <string name="com_xiaomi_shop">Mi Store</string>
+    <string name="com_xiaomi_vipaccount">Mi Community</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">Bevestigen</string>
     <string name="country_name_ac">AC</string>
@@ -381,6 +384,7 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="email">E-mail</string>
+    <string name="empty" />
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">Synchroniseren is uitgeschakeld vanwege problemen met uw Mi Account.</string>
@@ -388,6 +392,7 @@
     <string name="error_title">Kon niet synchroniseren</string>
     <string name="error_unauthorized">Synchronisatie is uitgeschakeld door te veel inlogpogingen.</string>
     <string name="evening">PM</string>
+    <string name="experience_new_system_app">Bekijk de nieuwe functies!</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -533,6 +538,7 @@
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="solar_term_autumn_begins">Autumn Begins</string>
     <string name="solar_term_autumn_equinox">Autumn Equinox</string>
@@ -567,6 +573,7 @@
     <string name="system_app_restore_failed">Er is een fout opgetreden</string>
     <string name="system_app_restore_failed_detail">Kon systeemitems niet herstellen. Controleer uw netwerkinstellingen en start uw apparaat niet opnieuw op of schakel het niet uit totdat de items volledig zijn hersteld. Tik op de onderstaande knop om het opnieuw te proberen.</string>
     <string name="system_restore">Items herstellen</string>
+    <string name="tap_to_update_system_app">Tik om systeem-apps bij te werken</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -618,6 +625,7 @@
     <string name="tuesday">dinsdag</string>
     <string name="tuesday_short">din</string>
     <string name="tuesday_shortest">D</string>
+    <string name="wait_for_wlan_china">Wachten op WLAN</string>
     <string name="web_sso_login_fail">U moet opnieuw inloggen</string>
     <string name="web_sso_login_message">Bezig met inloggen…</string>
     <string name="website">Website</string>

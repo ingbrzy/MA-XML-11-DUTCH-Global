@@ -152,8 +152,8 @@
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
     <string name="callrecordview_item_op_time_rejected">Geweigerd</string>
-    <string name="callrecordview_item_op_time_short_incoming">Inkomend:</string>
-    <string name="callrecordview_item_op_time_short_outgoing">Uitgaand:</string>
+    <string name="callrecordview_item_op_time_short_incoming">"Inkomend: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Uitgaand: "</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Notitie toevoegen</string>
     <string name="callrecordview_menu_aiphone">AI gesprekken</string>
@@ -198,6 +198,7 @@
     <string name="clear_default">Standaardwaarden verwijderen</string>
     <string name="clear_digits">Verwijder telefoonnummer</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
+    <string name="close">Sluiten</string>
     <string name="close_dial_pad_description">Toetsenblok sluiten</string>
     <string name="cloud_antispam_mark">Markering</string>
     <string name="cloud_antispam_marked">Gemarkeerd</string>
@@ -282,6 +283,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_year_toggle">Jaar toevoegen</string>
     <string name="default_ringtone">Standaard beltoon</string>
     <string name="deleteCloudConfirmationDetail">Verwijder de contactgegevens van %s zowel vanuit de cloud als dit apparaat?</string>
@@ -348,7 +350,7 @@
 - Bluetooth is te vinden in de netwerkinstellingen op Android-apparaten.
 - Op iOS-apparaten is Bluetooth in de Instellingen.
 
-%2$d. De zichtbare modus moet ook worden ingeschakeld op Android-apparaten.
+%2$d. Detecteerbare modus moet ook worden ingeschakeld op Android-apparaten.
 
 %3$d. Tik op \"Volgende\" en geef Contacten de vereiste toestemmingen."</string>
     <string name="device_transfer_by_sim_message">"%1$d. Sla de contactpersonen van het andere apparaat op de SIM-kaart op;
@@ -482,6 +484,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -605,6 +608,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -622,10 +626,13 @@ Reden: \"%s\""</string>
     <string name="miuix_appcompat_cloud_state_syncing">Synchroniseren met de cloud…</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
+    <string name="miuix_appcompat_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
+    <string name="miuix_appcompat_select_item">Selecteer items</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -704,6 +711,7 @@ Reden: \"%s\""</string>
     <string name="night">Avond</string>
     <string name="nine_letter">WXYZ</string>
     <string name="noAccounts">U heeft een account nodig om groepen te maken.</string>
+    <string name="no_contact_selected">Selecteer een contact om details te bekijken</string>
     <string name="no_contacts_dialog_message">Contacten kunnen op uw simkaart worden opgeslagen. Probeer ze van uw simkaart te importeren naar de interne opslag van uw apparaat en probeer het opnieuw.</string>
     <string name="no_contacts_dialog_title">Er zijn geen contacten gevonden</string>
     <string name="no_phone_no_shortcut">Kan geen snelkoppelingen maken voor contacten zonder telefoonnummers</string>
@@ -733,6 +741,7 @@ Reden: \"%s\""</string>
     <string name="payphone">Betaal telefoon</string>
     <string name="people">Contacten</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -879,12 +888,13 @@ Reden: \"%s\""</string>
     <string name="search_open_new_funcation">Inschakelen</string>
     <string name="search_open_new_funcation_tip">Als deze functie is ingeschakeld, worden uw oproepen automatisch opgenomen, zodat u de oproepen kunt vinden waarin bepaalde woorden werden genoemd.</string>
     <string name="search_open_new_funcation_title">Spraakoproep zoeken</string>
-    <string name="search_results_searching">Zoeken...</string>
+    <string name="search_results_searching">Zoeken…</string>
     <string name="search_settings_description">Namen van uw contacten</string>
     <string name="searching_vcard_message">Zoeken naar vCardgegevens van apparaat…</string>
     <string name="select_all">Alles selecteren</string>
     <string name="select_groups">Kies groepen</string>
     <string name="select_vcard_title">vCard bestand kiezen</string>
+    <string name="send">Verzenden</string>
     <string name="send_contact_shortcut_todesktop_duplicate">Deze snelkoppeling bestaat al</string>
     <string name="send_contact_shortcut_todesktop_failed">Kon de snelkoppeling niet op het Startscherm plaatsen</string>
     <string name="send_contact_shortcut_todesktop_overflow">Kan niet meer snelkoppelingen op het Startscherm plaatsen</string>
@@ -936,6 +946,7 @@ Reden: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -977,6 +988,7 @@ Reden: \"%s\""</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
@@ -990,9 +1002,9 @@ Reden: \"%s\""</string>
     <string name="t9_search_empty_send_sms">Verstuur bericht</string>
     <string name="t9_search_empty_video_call">Videogesprek</string>
     <string name="t9_search_guide_pinyin_title1">Voer nummers in om contactpersonen te zoeken</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"Debbie Smith\"</string>
     <string name="t9_search_guide_zhuyin_title1">Voer nummers in om contactpersonen te zoeken</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">Invoeren \"%d\" en \"%d\" om te zoeken naar \"Jeff Max\"</string>
     <string name="take_new_photo">Nieuwe foto nemen</string>
     <string name="take_photo">Foto maken</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
@@ -1095,6 +1107,7 @@ Kies een van de volgende opties:"</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
+    <string name="wifi_pad_disable_phone">Kan niet bellen op dit apparaat</string>
     <string name="wipe_data">Verwijder data</string>
     <string name="yellowPageNavigationLabel">Telefoonboek</string>
     <string name="yellowpage_address_tag">Adres</string>

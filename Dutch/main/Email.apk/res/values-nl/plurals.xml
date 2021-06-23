@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d+ ongelezen</item>
         <item quantity="one">%1$d+ ongelezen</item>
@@ -84,13 +120,41 @@
         <item quantity="other">%1$d berichten worden permanent verwijderd.</item>
         <item quantity="one">%1$d bericht wordt permanent verwijderd.</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
     <plurals name="hide_atts_remaining">
         <item quantity="other">Verberg %1$d bijlages</item>
         <item quantity="one">Verberg %1$d bijlage</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
     <plurals name="local_search_result">
         <item quantity="other">%s resultaten in gesynchroniseerde berichten</item>
         <item quantity="one">%s resultaat in gesynchroniseerde berichten</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
     </plurals>
     <plurals name="more_atts_remaining">
         <item quantity="other">%1$d resterende bijlages</item>
@@ -103,6 +167,10 @@
     <plurals name="new_messages">
         <item quantity="other">%1$d nieuwe berichten</item>
         <item quantity="one">%1$d nieuw bericht</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d geselecteerd</item>

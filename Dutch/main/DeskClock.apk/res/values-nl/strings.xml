@@ -117,6 +117,7 @@
     <string name="clock_bg_button_setting_title">Achtergrondkleur</string>
     <string name="close">Sluiten</string>
     <string name="close_alarm">Uitschakelen</string>
+    <string name="close_alarm_new">Stoppen</string>
     <string name="common_settings">Instellingen</string>
     <string name="common_timer_selector">Timer selecteren</string>
     <string name="confirm">Bevestigen</string>
@@ -144,17 +145,17 @@
     <string name="delete_timezone_title">Verwijder tijdzone</string>
     <string name="deskclock_sleep_no_disturbance">Klok - Beheer bedtijd - Niet Storen modus</string>
     <string name="dialog_confirm_abort">Wijzigingen negeren?</string>
-    <string name="dialog_legal_off_day">&lt;Data>Het lijkt erop dat u vakantie alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Toestaan?&lt;/Data></string>
+    <string name="dialog_legal_off_day">&lt;Data>Het lijkt erop dat u vakantie alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">Klok heeft geen toegang tot het internet om info over vakanties bij te werken. Vakantie alarmen zullen afgaan op zaterdag en zondag.</string>
-    <string name="dialog_legal_workday">&lt;Data>Het lijkt erop dat u weekdag alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Toestaan?&lt;/Data></string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data>Het lijkt erop dat u weekdag en vakantie alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Toestaan?&lt;/Data></string>
+    <string name="dialog_legal_workday">&lt;Data>Het lijkt erop dat u weekdag alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data>Het lijkt erop dat u weekdag en vakantie alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
     <string name="dialog_legal_workday_and_off_day_desc">Klok heeft geen toegang tot het internet om de info over vakanties bij te werken. Weekdag alarmen zullen afgaan van maandag tot vrijdag. Vakantie alarmen zullen afgaan op zaterdag en zondag.</string>
     <string name="dialog_legal_workday_desc">Klok heeft geen toegang tot het internet om info over werkdagen bij te werken. Weekdag alarmen zullen afgaan van maandag tot vrijdag.</string>
     <string name="dialog_message_agree">Akkoord</string>
     <string name="dialog_message_for_contact_permission">Om verjaardagalarmen beschikbaar te maken, heeft Klok toegang nodig tot uw contacten. Akkord?</string>
     <string name="dialog_message_negative">Niet akkoord</string>
     <string name="dialog_message_not_remind">Niet meer tonen</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data>Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Toestaan?&lt;/Data></string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data>Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
     <string name="dialog_privacy_content">Om relevante info over nationale feestdagen te krijgen, alarmen aan te passen en gepersonaliseerde services te verlenen moet de Klok verbonden zijn met het internet. Voordat u Klok gebruikt, moet u ook onze %1$s en ons %2$s lezen en hiermee akkoord gaan. Akkoord?</string>
     <string name="dialog_privacy_content_global">Om gepersonaliseerde services te verlenen, moet de Klok verbonden zijn met het internet. Voordat u Klok gebruikt, moet u ook onze %1$s en ons %2$s lezen en hiermee akkoord gaan. Akkoord?</string>
     <string name="dialog_privacy_content_news">Om gepersonaliseerde services te verlenen en het ochtendnieuws te verwerken in uw alarmen, moet de Klok verbonden zijn met het internet. Voordat u Klok gebruikt, moet u ook onze %1$s en ons %2$s lezen en hiermee akkoord gaan. Akkoord?</string>
@@ -175,42 +176,58 @@
     <string name="every_day">Dagelijks</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="expired_timers_dismissed">Timer succesvol gestopt</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd-MM-yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd-MM-yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="force_touch_add_alarm">Alarm toevoegen</string>
     <string name="force_touch_enter_stopwatch">Stopwatch</string>
     <string name="force_touch_enter_timer">Timer</string>
@@ -322,9 +339,9 @@
     <string name="module_update_success">Geüpdate audio voor MIUI slimme alarmen is succesvol gedownload. U kunt MIUI slimme alarmen instellen in de Klok instellingen.</string>
     <string name="module_update_success_control">Begrepen</string>
     <string name="module_weather_ringtone_download_data">Weerwaarschuwing selecteert verschillende beltonen afhankelijk van het huidige weer. Klok moet ≈30MB aan audio downloaden om dit te laten werken. Nu downloaden?</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>Weeralarm selecteert verschillende beltonen afhankelijk van het huidige weer. Clock moet verbinding maken met het internet om ≈30MB audio te downloaden. Voordat u Clock gebruikt, moet u ook lezen en akkoord gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data>Weeralarm selecteert verschillende beltonen afhankelijk van het huidige weer. Klok moet verbinding maken met het internet om ≈30MB audio te downloaden. Voordat u Klok gebruikt, moet u ook lezen en akkoord gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">Weerwaarschuwing selecteert verschillende beltonen afhankelijk van het huidige weer. Klok moet audio downloaden om dit te laten werken. Nu downloaden?</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>Weeralarm selecteert verschillende beltonen afhankelijk van het huidige weer. Clock moet verbinding maken met het internet om audio te downloaden. Voordat u Clock gebruikt, moet u ook lezen en akkoord gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akoord?&lt;/Data></string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data>Weeralarm selecteert verschillende beltonen afhankelijk van het huidige weer. Klok moet verbinding maken met het internet om audio te downloaden. Voordat u Klok gebruikt, moet u ook lezen en akkoord gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akoord?&lt;/Data></string>
     <string name="module_weather_ringtone_introduce">"Weeralarm selecteert verschillende beltonen afhankelijk van het huidige weer. Het geeft u 's ochtends ook de huidige weerinfo."</string>
     <string name="module_weather_ringtone_introduce_global">Weeralarm selecteer verschillende beltonen afhankelijk van het huidige weer.</string>
     <string name="module_weather_ringtone_update_data">Weeralarm komt nu met achtergrondmuziek en betere spraak aankondigingen. Klok moet ≈30MB aan audio downloaden om dit te laten werken. Nu downloaden?</string>
@@ -397,6 +414,7 @@
     <string name="noon">Tussen de middag</string>
     <string name="normal_settings">Algemene instellingen</string>
     <string name="not_set">Niet ingesteld</string>
+    <string name="not_set_temporarily">Nee, bedankt</string>
     <string name="not_update">Niet nu</string>
     <string name="oneshot_alarm">Verwijderen nadat deze afgegaan is</string>
     <string name="open_keep_screen">Het scherm zal worden aangehouden</string>
@@ -437,11 +455,13 @@
     <string name="search_stopwatch_keywords">Stopwatch</string>
     <string name="search_timer_keywords">Timer</string>
     <string name="search_worldclock_keywords">Tijd; Wereldklok; Klok</string>
+    <string name="select_operation">Selecteren</string>
     <string name="send">Verzenden</string>
     <string name="set_alarm">Tijd selecteren</string>
     <string name="set_alarm_choose_ringtone">Beltoon selecteren</string>
     <string name="set_alarm_done">Gereed</string>
     <string name="set_alarm_other">Overig</string>
+    <string name="set_now">Instellen</string>
     <string name="setting_alarm_arriving_subtitle">Geef meldingen weer voordat alarmen afgaan</string>
     <string name="setting_alarm_arriving_summary">Stuur een melding voor het afgaan</string>
     <string name="setting_alarm_arriving_title">Melding voor afgaan</string>
@@ -452,11 +472,13 @@
     <string name="shortcut_stop_watch">Stopwatch starten</string>
     <string name="shut_down_keep_screen">Het scherm wordt niet aangehouden</string>
     <string name="shutdown_alarm_alert_enable_summary">Uitschakel alarmen gaan ten minste 10 minuten nadat u uw apparaat uitschakelt af</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Schakel dit in om de ingestelde alarmen af te laten gaan wanneer uw apparaat is uitgeschakeld. Alleen alarmen die zijn ingesteld voor ten minste %d minuten nadat u het apparaat hebt uitgeschakeld, gaan uit.</string>
     <string name="shutdown_alarm_alert_title">Uitschakel alarm</string>
     <string name="shutdown_alarm_disable_summary">Alarm zal niet afgaan nadat het apparaat uitgeschakeld is</string>
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -481,6 +503,7 @@
     <string name="sleep_time">In slaap vallen</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Veeg omhoog om uit te schakelen</string>
+    <string name="slider_text_new">Naar boven vegen om te stoppen</string>
     <string name="snooze_confirm_cancel">Alarm uitschakelen</string>
     <string name="snooze_duration">Sluimeren</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -499,6 +522,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -507,6 +531,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -589,6 +614,7 @@
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
     <string name="timer_got_it">OК</string>
+    <string name="timer_got_it_new">Dempen</string>
     <string name="timer_is_paused">Timer is gepauzeerd</string>
     <string name="timer_item_delete">Verwijderen</string>
     <string name="timer_item_duration_display">%1$d min %2$d sec</string>
@@ -638,6 +664,7 @@
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
+    <string name="week_ringtone_recommend_desc">Natuuralarm speelt afhankelijk van de datum verschillende geluiden af. Stel het in als uw standaardwekker?</string>
     <string name="white_noise_selector">Audio selecteren</string>
     <string name="workday_alarm_clock">Werkdag alarm</string>
     <string name="worldclock_empty_text">Geen klokken</string>
@@ -647,6 +674,7 @@
     <string name="worldclock_resident_city_text_detail">Dubbele klok is ingeschakeld</string>
     <string name="worldclock_search_city">Selecteer een stad</string>
     <string name="worldclock_second_time">Tijd in %s</string>
+    <string name="worldclock_second_time_desc">"%s: "</string>
     <string name="worldclock_title">Klok</string>
     <string name="worldclock_world_time">Tijdzones</string>
     <string name="worldcolock_date_display_prefix">Nu: </string>

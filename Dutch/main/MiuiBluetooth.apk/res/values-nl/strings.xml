@@ -302,7 +302,7 @@ Tik op \"Wissen en converteren…\" om door te gaan."</string>
     <string name="fast_connect_anti_lost_content">"Stel een waarschuwing in die wordt weergegeven wanneer een van uw oortelefoons ontbreekt.
 Controleer de Instellingen voor details."</string>
     <string name="fast_connect_device_battery">Batterij</string>
-    <string name="fast_connect_device_box">Box</string>
+    <string name="fast_connect_device_box">Oplaadetui</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
     <string name="fast_connect_device_connect_cancel">Annuleren</string>
     <string name="fast_connect_device_connect_ok">Verbinden</string>
@@ -311,7 +311,7 @@ Controleer de Instellingen voor details."</string>
     <string name="fast_connect_device_connect_success">Gereed</string>
     <string name="fast_connect_device_headset_l">Links</string>
     <string name="fast_connect_device_headset_r">Rechts</string>
-    <string name="fast_connect_device_headset_reset">Houd de knop op het apparaat ingedrukt</string>
+    <string name="fast_connect_device_headset_reset">Houd de knop op de oplaadetui ingedrukt</string>
     <string name="fast_connect_device_title_connect_fail">Kan niet verbinden met %1$s</string>
     <string name="fast_connect_device_title_connecting">Verbinden…</string>
     <string name="fast_connect_device_title_find_headset">Zoeken %1$s</string>
@@ -349,6 +349,7 @@ Sneller verbindingsprotocol."</string>
     <string name="headset_device_error_box_close">Oplaadetui staat uit</string>
     <string name="headset_device_error_disconnect">De verbinding is verbroken van beide oortelefoons. Sluit de oplaadetui en open deze opnieuw om de update opnieuw te starten.</string>
     <string name="headset_device_error_failed">Kan niet updaten</string>
+    <string name="headset_device_error_multconnect">Kan niet bijwerken wanneer er meerdere apparaten zijn verbonden</string>
     <string name="headset_device_error_no_device">Er ontbreekt minstens één oortelefoon in de oplaadetui</string>
     <string name="headset_device_error_single_device">Kan één oortelefoon niet bijwerken. Koppel opnieuw.</string>
     <string name="headset_device_sync_donot_move_device">Synchroniseren… Wacht tot het synchroniseren is voltooid voordat u de oortelefoons gebruikt.</string>

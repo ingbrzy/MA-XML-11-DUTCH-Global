@@ -459,7 +459,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_dialog_content_rcmd_get_apps">GetApps — Mi officiële app-markt</string>
     <string name="download_dialog_content_rcmd_text">Miljoenen gratis apps en games. Installeren zonder in te loggen.</string>
     <string name="download_dialog_content_security_download">Veilige download (Aanbevolen)</string>
-    <string name="download_dialog_default_path_invalid">De downloadlocatie die u hebt geselecteerd is ongeldig. Opslaan naar standaardlocatie</string>
+    <string name="download_dialog_default_path_invalid">De downloadlocatie die u hebt geselecteerd is ongeldig. Opslaan naar standaardlocatie…</string>
     <string name="download_dialog_failed_body">Later opnieuw proberen of dit bestand verwijderen uit de downloadwachtrij?</string>
     <string name="download_dialog_file_already_exists">U heeft dit bestand al gedownload</string>
     <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte: "</string>
@@ -622,7 +622,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="fb_register_btn">Account creëren</string>
     <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="feedback_info_app_package_name">"Verpakkingsnaam: "</string>
-    <string name="feedback_info_app_version">"App versie: "</string>
+    <string name="feedback_info_app_version">"App-versie: "</string>
     <string name="feedback_info_language">"Taal: "</string>
     <string name="feedback_info_location">"Regio: "</string>
     <string name="feedback_info_product">"Model: "</string>
@@ -813,9 +813,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="local_apps">Lokale apps</string>
     <string name="local_bookmarks">Mi</string>
     <string name="lockpattern_continue_button_text">Volgende</string>
-    <string name="lockpattern_need_to_confirm">Bevestig ontgrendelingspatroon</string>
+    <string name="lockpattern_need_to_confirm">Bevestig ontgrendelpatroon</string>
     <string name="lockpattern_need_to_unlock_wrong">Opnieuw proberen</string>
-    <string name="lockpattern_pattern_confirmed_header">Hier is uw ontgrendelingspatroon:</string>
+    <string name="lockpattern_pattern_confirmed_header">Hier is uw ontgrendelpatroon:</string>
     <string name="lockpattern_pattern_entered_header">Gereed!</string>
     <string name="lockpattern_recording_incorrect_too_short">Opnieuw proberen. Verbind minstens 4 punten.</string>
     <string name="lockpattern_recording_inprogress">Laat los wanneer uw patroon voltooid is</string>
@@ -1301,8 +1301,6 @@ Deze pagina nu verlaten?"</string>
     <string name="passport_wrong_vcode">De ingevoerde code is onjuist</string>
     <string name="passport_wrong_voice">De ingevoerde code is onjuist</string>
     <string name="password">Wachtwoord</string>
-    <string name="pay_failed_toast">Betaling mislukt</string>
-    <string name="pay_success_toast">Betaling voltooid</string>
     <string name="per_month">Per maand</string>
     <string name="permission_agree_service">Ik heb de volgende algemene voorwaarden allemaal gelezen en ga ermee akkoord.</string>
     <string name="permission_alert_window">Om deze functie te kunnen gebruiken, sta het weergeven van pop-upvensters toe in de Instellingen.</string>
@@ -1771,7 +1769,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="ssl_unknown">Onbekende certificaatfout.</string>
     <string name="ssl_untrusted">Dit is geen certificaat van een vertrouwde autoriteit.</string>
     <string name="ssl_warnings_header">Er zijn problemen met het beveiligingscertificaat van deze site.</string>
-    <string name="start_save_page_capture">Screenshot opslaan</string>
+    <string name="start_save_page_capture">Screenshot opslaan…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_info_detail">Beschikbaar: %1$s Totaal: %2$s</string>
     <string name="storage_internal">Interne opslag</string>

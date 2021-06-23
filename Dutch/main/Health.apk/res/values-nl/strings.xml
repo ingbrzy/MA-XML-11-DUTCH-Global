@@ -52,6 +52,8 @@
     <string name="activity_title_statistic">Stats</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_record">Add</string>
     <string name="afternoon">Middag</string>
     <string name="all_records">Alle opnames</string>
@@ -122,6 +124,7 @@ to add cards"</string>
     <string name="close_once">Turn off once</string>
     <string name="collapse">Hide</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="copy">Kopiëren</string>
     <string name="copy_done">Succesvol gekopieerd</string>
@@ -197,6 +200,7 @@ Xiaomi Health zal alleen meldingen weergeven over belangrijke dingen."</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">Welkom bij Xiaomi Health! \"Stappenbalie\" laat u zien hoeveel stappen u gedurende de dag gezet heeft, en geeft u de mogelijkheid om activiteitsdoelen in te stellen en te beheren. Alle gerelateerde gegevens zullen lokaal op uw apparaat opgeslagen worden, waardoor u deze makkelijk kunt beheren.</string>
     <string name="dialog_exit">Sluiten</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">Xiaomi Health heeft toegang tot opslag nodig om feedback te kunnen geven.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -227,6 +231,8 @@ Xiaomi Health zal alleen meldingen weergeven over belangrijke dingen."</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="disable">Off</string>
     <string name="discard_update">Nee, bedankt</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -944,6 +950,7 @@ slaapgegevens vinden"</string>
     <string name="tb_mens_mark_success">Succesvol gemarkeerd</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="text_edit_exercise_goal">Doel wijzigen</string>
     <string name="text_save_exercise_goal">Gereed</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
@@ -1060,6 +1067,7 @@ Nu bijwerken?"</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="value_error_correct">Opname bewerken</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">We hebben het volume verhoogd, zodat u de instructies beter hoort.</string>
     <string name="walk">Walking</string>
     <string name="wednesday">Woensdag</string>

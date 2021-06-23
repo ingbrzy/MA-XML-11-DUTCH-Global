@@ -616,7 +616,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stop_full_log_dialog_cancel">Nu niet</string>
+    <string name="stop_full_log_dialog_cancel">Niet nu</string>
     <string name="stop_full_log_dialog_confirm">Uploaden</string>
     <string name="stop_full_log_dialog_content">Het lijkt erop dat er nu logbestanden worden gegenereerd. Wilt u ze niet meer genereren en degene uploaden die klaar zijn?</string>
     <string name="stop_full_log_dialog_title">Logbestanden genereren…</string>

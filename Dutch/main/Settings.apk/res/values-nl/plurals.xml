@@ -244,6 +244,10 @@
         <item quantity="other">%d toegevoegd</item>
         <item quantity="one">%d toegevoegd</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wifi wordt automatisch ingeschakeld wanneer uw apparaat opgeslagen netwerken in de buurt detecteert en wordt uitgeschakeld na %d minuten als er geen verbinding tot stand is gebracht</item>
+        <item quantity="one">Wifi wordt automatisch ingeschakeld wanneer uw apparaat opgeslagen netwerken in de buurt detecteert en wordt uitgeschakeld na %d minuut als er geen verbinding tot stand is gebracht</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d simkaarten</item>
         <item quantity="one">%1$d simkaart</item>

@@ -36,7 +36,7 @@
     <string name="add_private">Maak bestanden privé</string>
     <string name="add_private_files">Bestanden toevoegen</string>
     <string name="add_remote">Afstandsbediening toevoegen</string>
-    <string name="agree_all">Ik heb de volgende voorwaarden allemaal gelezen en ga ermee akkoord.</string>
+    <string name="agree_all">Ik heb de volgende algemene voorwaarden allemaal gelezen en ga ermee akkoord.</string>
     <string name="all">Alle</string>
     <string name="already_latest_version">De huidige versie is up-to-date.</string>
     <string name="anonymous">Anoniem</string>
@@ -88,9 +88,9 @@
     <string name="category_photo">"Foto's"</string>
     <string name="category_picture">Afbeeldingen</string>
     <string name="category_recent">Recent</string>
-    <string name="category_theme">Thema’s</string>
+    <string name="category_theme">"Thema's"</string>
     <string name="category_type_other">Overig</string>
-    <string name="category_video">Video’s</string>
+    <string name="category_video">"Video's"</string>
     <string name="category_zip">Archieven</string>
     <string name="check_upgrade">Controleren op updates</string>
     <string name="checking_new_version">Controleren op updates…</string>
@@ -143,10 +143,10 @@
     <string name="decompress_title">Uitpakken</string>
     <string name="decompress_to">Bestanden uitpakken naar…</string>
     <string name="decompress_to_here">Hier uitpakken</string>
-    <string name="decrypt">Verwijderen</string>
-    <string name="decrypt_error">Kon niet verwijderen</string>
+    <string name="decrypt">Verhuizen</string>
+    <string name="decrypt_error">Kon niet verhuizen</string>
     <string name="decrypt_to">Decoderen en opslaan naar…</string>
-    <string name="decrypting">Verwijderen…</string>
+    <string name="decrypting">Verhuizen…</string>
     <string name="default_change_log">Werk de app bij om de nieuwe functies te bekijken.</string>
     <string name="delete_dialog_button">Verwijderen</string>
     <string name="delete_error">Kon bestanden niet verwijderen. Probeer het opnieuw.</string>
@@ -167,6 +167,7 @@
     <string name="display_name">Naam weergeven</string>
     <string name="domain">Domein</string>
     <string name="download_success">Succesvol gedownload</string>
+    <string name="empty_by_forbid_access">De inhoud van deze map kan hier niet worden weergegeven vanwege beperkingen van Android 11.</string>
     <string name="enable_documentsui">Schakel eerst %s in in Instellingen > Geïnstalleerde apps</string>
     <string name="enable_sd_card">SD-kaart is beschadigd of de verbinding is verbroken</string>
     <string name="enable_usb">USB-apparaat is beschadigd of de verbinding is verbroken</string>
@@ -181,6 +182,7 @@
     <string name="error_create_dir">Kon geen map aanmaken</string>
     <string name="error_create_file">Kon geen bestand aanmaken</string>
     <string name="error_delete_failed">Kon bestand niet verwijderen</string>
+    <string name="error_file_already_exists">Dit bestand bestaat al.</string>
     <string name="error_filename_too_long">De ingevoerde bestandsnaam is te lang.</string>
     <string name="error_folder_already_exists">Dit bestand bestaat al</string>
     <string name="error_info_cant_send_folder">Kan geen bestanden verzenden.</string>
@@ -238,6 +240,7 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="favorite_photo">"Foto's"</string>
     <string name="favorite_ringtone">Beltonen</string>
     <string name="favorite_screen_cap">Screenshots</string>
+    <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="feedback_desc">Beschrijf het probleem dat u bent tegengekomen</string>
     <string name="feedback_send_email_body_extra_info">Verwijder de volgende informatie niet. Dit helpt ons het probleem op te sporen.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -269,6 +272,8 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="homepage_tab_recent">Recent</string>
     <string name="host">Host</string>
     <string name="hot_sticker">Stickers</string>
+    <string name="ic_remove_desc">Bestandsbeheer is een systeem-app waarmee u bestanden op uw apparaat kunt bekijken en beheren. Toch verwijderen?</string>
+    <string name="ic_remove_title">\"Bestandsbeheer\" verwijderen van het Startscherm?</string>
     <string name="if_cancel">Deze bewerking annuleren?</string>
     <string name="image_loading_error">Kon afbeelding niet laden</string>
     <string name="implicit">Impliciet</string>
@@ -280,7 +285,7 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="info_system">Systeem:</string>
     <string name="info_system_version">Systeemversie:</string>
     <string name="invalid_name_or_password">Ongeldige gebruikersnaam of wachtwoord</string>
-    <string name="just_now">zojuist</string>
+    <string name="just_now">Zojuist</string>
     <string name="kilobyteShort">KB</string>
     <string name="list_order">Lijstweergave</string>
     <string name="load_more">Bekijk meer</string>
@@ -297,6 +302,7 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="menu_item_deep_clean">Diep reinigen</string>
     <string name="menu_item_ftp">Verbinden met computer</string>
     <string name="menu_item_midrop">Bestanden overdragen</string>
+    <string name="menu_item_midrop_desc">Meer apps</string>
     <string name="menu_item_router">Router</string>
     <string name="menu_item_sort">Sorteren op</string>
     <string name="menu_item_sort_add_time">"Toegevoegd aan favorieten "</string>
@@ -339,6 +345,13 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="notif_server_starting">FTP server starten…</string>
     <string name="notif_title">FTP server is actief</string>
     <string name="notification_wechat_expired_empty">WeChat heeft deze videoclips al verwijderd.</string>
+    <string name="offline_notification_text">Tik om advertentie te openen</string>
+    <string name="offline_notification_title">De advertentie bekijken die je hebt opgeslagen toen je offline was</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Je krijgt een melding met de link als je weer online bent</string>
+    <string name="offline_opt_in_decline">Nee, bedankt</string>
+    <string name="offline_opt_in_message">We sturen je een melding met een link naar de site van de adverteerder.</string>
+    <string name="offline_opt_in_title">Advertentie openen als je weer online bent</string>
     <string name="ok">OК</string>
     <string name="online_not_support">Kan dit bestand momenteel niet bekijken.</string>
     <string name="open">Openen</string>
@@ -417,7 +430,12 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="port_range">Poortnummer moet tussen 1024-65535 liggen</string>
     <string name="possible_permissions">Optionele toestemmingen</string>
     <string name="privacy_accept">Akkoord en doorgaan</string>
-    <string name="privacy_message">Voordat u Bestandsbeheer kunt gebruiken, moet u akkoord gaan met onze &lt;font color=\"#4086f5\">&lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%1$s&amp;lang=%2$s\" style=\"color:#4086f5;\">Gebruikersovereenkomst&lt;/a>&lt;/font> en ons &lt;font color=\"#4086f5\">&lt;a href=\"https://privacy.mi.com/all/%2$s\" style=\"color:#4086f5;\">Privacybeleid&lt;/a>&lt;/font>.</string>
+    <string name="privacy_cancel"><u>Niet akkoord</u></string>
+    <string name="privacy_desc">Welkom bij Bestandsbeheer! Naast de basisfuncties biedt deze app ook de volgende services:</string>
+    <string name="privacy_experience_statement">Sluit u aan bij ons Gebruikerservaringprogramma om gebruikersgegevens met ons te delen om ons te helpen onze producten en services te verbeteren.</string>
+    <string name="privacy_item1">Categoriseren van recent gebruikte items</string>
+    <string name="privacy_item2">Bestanden bekijken en bewerken</string>
+    <string name="privacy_message">&lt;Data>Bestandsbeheer moet de nodige persoonlijke informatie verzamelen om u basisdiensten te bieden die gebruiksstatistieken genereren. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Bestandsbeheer gebruikt. U kunt uw toestemming voor het Privacybeleid van Bestandsbeheer op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
     <string name="privacy_title">Welkom bij Bestandsbeheer</string>
     <string name="private_files">Privé</string>
     <string name="private_folder">Privébestanden</string>
@@ -430,7 +448,7 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="recommended_content">Aanbevelingen</string>
     <string name="remind_no_notice">Mijn keuze onthouden</string>
     <string name="rename_alert">Als u de bestandsextensie wijzigt, kunt u deze misschien niet meer openen.</string>
-    <string name="rename_alert2">Het bestand zal worden verborgen nadat u de extensie heeft gewijzigd.</string>
+    <string name="rename_alert2">Bestanden met de namen die beginnen met \".\" worden automatisch verborgen door het systeem. Deze naam toch gebruiken?</string>
     <string name="rename_failed">Kon niet hernoemen %1$s</string>
     <string name="repair_done">Succesvol hersteld</string>
     <string name="repair_error">Kon niet herstellen. Probeer het opnieuw.</string>
@@ -440,14 +458,21 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="restoring">Herstellen…</string>
     <string name="revoke">Intrekken</string>
     <string name="revoke_authorization">Toestemming intrekken</string>
+    <string name="revoke_confirm_dialog_cancel">Annuleren</string>
+    <string name="revoke_confirm_dialog_content">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Bestandsbeheer in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Bestandsbeheer moet de nodige persoonlijke informatie verzamelen om zijn diensten te verbeteren. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om verbeterde diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
+    <string name="revoke_desc">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Bestandsbeheer in.</string>
+    <string name="revoke_net_dialog_content">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="revoke_net_dialog_ok">Begrepen</string>
+    <string name="revoke_net_dialog_title">Kan geen verbinding maken met het netwerk</string>
     <string name="revoke_success">Toestemming succesvol ingetrokken</string>
     <string name="revoke_timer">(%1$ds)</string>
     <string name="revoke_tips">Nadat u uw toestemming intrekt, zal Bestandsbeheer stoppen met het verzamelen van gegevens en zullen alle gerelateerde data van onze servers worden verwijderd. Dit kan ervoor zorgen dat Bestandsbeheer zo goed als onbruikbaar wordt. Toestemming toch intrekken?</string>
+    <string name="revoke_title">Intrekking van toestemming</string>
     <string name="revoking">Toestemming intrekken…</string>
     <string name="rlv_last_refreshing_time">%1$s geüpdatet</string>
     <string name="rlv_loading_more">Een ogenblik geduld…</string>
-    <string name="rlv_pull_to_refresh">Veeg omlaag om te verversen</string>
-    <string name="rlv_refreshing">Verversen…</string>
+    <string name="rlv_pull_to_refresh">Trek naar beneden om te vernieuwen</string>
+    <string name="rlv_refreshing">Vernieuwen…</string>
     <string name="rlv_release_to_refresh">Laat los om te verversen</string>
     <string name="s1">Afbeelding opslaan</string>
     <string name="s2">Advertentie toestaan om afbeelding op te slaan in fotogalerij?</string>
@@ -522,6 +547,7 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="time_pm">PM</string>
     <string name="time_to_upgrade">Er is een update beschikbaar</string>
     <string name="tip">Let op</string>
+    <string name="tips_by_forbid_access">De inhoud van deze map is niet langer toegankelijk vanwege systeembeperkingen die zijn geïntroduceerd in Android R. Verwijder uw persoonlijke bestanden zo snel mogelijk uit deze map.</string>
     <string name="title_app_tags">Apps</string>
     <string name="title_enable_documentsui">DocumentsUI inschakelen</string>
     <string name="title_expire_video">Bijna verlopen</string>
@@ -541,12 +567,15 @@ Houd een map ingedrukt en tik op \"Meer\" om toe te voegen."</string>
     <string name="update_use_mobile_data">Automatisch bijwerken met behulp van mobiele data</string>
     <string name="usb_has_removed">USB-apparaat is verwijderd</string>
     <string name="used">Gebruikt</string>
+    <string name="user_experience_desc">Deel gebruikersgegevens met ons om ons te helpen onze producten en services te verbeteren</string>
+    <string name="user_experience_title">Gebruikerservaringprogramma</string>
     <string name="user_not_login">Meld u eerst aan</string>
     <string name="user_notice_privacy_policy">Privacybeleid</string>
     <string name="user_notice_term_of_service">Gebruikersovereenkomst</string>
     <string name="utf8_summary">Systeem FTP standaard codering</string>
     <string name="version_name">Versie</string>
     <string name="video_replay_btn">Opnieuw afspelen</string>
+    <string name="view_by_document">Bekijk in Bestanden</string>
     <string name="wechat_video">Video op %s</string>
     <string name="wifi_state">Wifi status</string>
     <string name="year_month_day_format">dd MMM yyyy</string>

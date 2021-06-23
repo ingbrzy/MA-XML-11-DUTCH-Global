@@ -2,14 +2,14 @@
 <resources>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
-        <item>Iedere dag</item>
+        <item>Elke dag</item>
         <item>Normale werkdag</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Eenmalig</item>
-        <item>Iedere dag</item>
+        <item>Elke dag</item>
         <item>Weekdagen</item>
         <item>Aangepast</item>
     </string-array>
@@ -22,14 +22,30 @@
     </string-array>
     <string-array name="applock_password_types">
         <item>Patroon</item>
-        <item>Pincode</item>
+        <item>PIN</item>
         <item>Wachtwoord</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Maandelijks data-abonnement</item>
+        <item>Onbeperkt</item>
+        <item>Dagelijks data-abonnement</item>
     </string-array>
     <string-array name="daily_brand">
         <item>Aangepast</item>
         <item>Mi Fan-kaart</item>
         <item>Xiao Tiansheng kaart</item>
         <item>Tencent King kaart</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Aangepast</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan-kaart</item>
+        <item>Tianshen-kaart</item>
+        <item>Tencent-kaart</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>"Gisteren (mobiele data) "</item>
@@ -76,6 +92,12 @@
         <item>Hoog</item>
         <item>Hoogst</item>
     </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
     <string-array name="lock_mode">
         <item>Wanneer het apparaat is vergrendeld</item>
         <item>Wanneer het apparaat is vergrendeld of na het afsluiten van de app</item>
@@ -94,10 +116,20 @@
         <item>Belangrijk: Meerdere systeem-apps werken mogelijk niet meer correct.</item>
         <item>Tekstlay-outs, accounts en inhoud worden mogelijk niet correct weergegeven.</item>
     </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -107,6 +139,20 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>Waarschuwing weergeven</item>
         <item>Waarschuw en schakel mobiele gegevens uit</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/pc_battery_history_consume_all_menu_item</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>Standaard</item>

@@ -31,10 +31,10 @@
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
     <string name="app_name">Schermrecorder</string>
-    <string name="app_notification_channel_record_complete">Notifications about finished recordings</string>
+    <string name="app_notification_channel_record_complete">Meldingen over voltooide opnames</string>
     <string name="app_notification_info">Schermrecorder werkt op de achtergrond</string>
-    <string name="app_notification_record_complete">"Saved screen recording to Gallery
-Tap to view"</string>
+    <string name="app_notification_record_complete">"Opgeslagen schermopname in Galerij
+Tik om te bekijken"</string>
     <string name="app_notification_title">Schermrecorder</string>
     <string name="auto_stop_title">Video succesvol opgeslagen</string>
     <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer het batterijniveau beneden 3% is. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
@@ -316,6 +316,7 @@ Tap to view"</string>
     <string name="using_record_confirm_ok">Toestaan</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="view_recorded_file">Tik om het opgenomen bestand te bekijken</string>
     <string name="warning_recording_when_a2dp_connect">Uw apparaat ondersteunt het opnemen van systeemgeluiden terwijl er een bluetooth-headset wordt gebruikt niet.</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
