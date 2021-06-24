@@ -254,7 +254,6 @@
     <string name="back">Terug</string>
     <string name="bank_card_detail">Creditcard-gegevens</string>
     <string name="bcc">Bcc</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">Instellingen voor facturering</string>
     <string name="bill_center_setting_head">Informatie uit deze accounts importeren</string>
     <string name="bill_cycle_text">Factureringscyclus</string>
@@ -276,7 +275,6 @@
     <string name="cancel_pop3_attchemt_downloading">Kan lopende downloads voor bijlagen in POP3-account niet annuleren</string>
     <string name="cant_move_or_change_labels">Kan geen items uit meerdere accounts verplaatsen.</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="certificate_add_failed">Kon niet toevoegen \"%s\" certificaat</string>
@@ -306,7 +304,6 @@
     <string name="click_to_reload">Tik op het scherm om te verversen</string>
     <string name="close">Sluiten</string>
     <string name="collapse_recipient_details">Gegevens van ontvanger inklappen</string>
-    <string name="colon">:</string>
     <string name="compose">Opstellen</string>
     <string name="compose_event">Uitnodiging</string>
     <string name="compose_paste_address_oob">Teveel karakters</string>
@@ -606,7 +603,6 @@
     <string name="go_to_mail_content">E-mail bekijken</string>
     <string name="have_auth_code">Ik heb een code</string>
     <string name="header_category_account">Accounts</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">Algemeen</string>
     <string name="help_and_info">Help</string>
     <string name="help_me_get_qq_auth">Code krijgen</string>
@@ -626,7 +622,6 @@
     <string name="invalid_recipient">Het adres %s is ongeldig.</string>
     <string name="invalid_recipient_title">Fout bij de ontvanger</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">Nog geen e-mails.</string>
     <string name="load_from_remote">Postvak op de server zoeken</string>
     <string name="load_more">Meer laden</string>
@@ -1142,7 +1137,6 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -1152,7 +1146,6 @@ Wacht tot hij volledig gesynchroniseerd is of bekijk het bericht op je computer.
     <string name="size_tera_byte">TB</string>
     <string name="smtp_password_error">Wachtwoord voor de server voor uitgaande e-mail is onjuist</string>
     <string name="sort_attachment">Sorteren op</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">Alles selecteren</string>
     <string name="str_select_none">Alles deselecteren</string>
     <string name="subject_and_snippet">%1$s - %2$s</string>
