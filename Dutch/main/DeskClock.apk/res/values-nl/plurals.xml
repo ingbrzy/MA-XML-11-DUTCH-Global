@@ -129,8 +129,8 @@
         <item quantity="one">%1$s keer afgaan</item>
     </plurals>
     <plurals name="snooze_duration_desc">
-        <item quantity="other">Iedere %1$s min, gaat %2$s keer af</item>
-        <item quantity="one">Iedere %1$s min, gaat %2$s keer af</item>
+        <item quantity="other">Iedere %1$s min., zal %2$s keer afgaan</item>
+        <item quantity="one">Iedere %1$s min., zal %2$s keer afgaan</item>
     </plurals>
     <plurals name="snooze_duration_min">
         <item quantity="other">Elke %1$s min</item>
@@ -149,7 +149,7 @@
         <item quantity="one">De stopwatch loopt al %s dag. Tik om te bekijken.</item>
     </plurals>
     <plurals name="stopwatch_running_notification_hour">
-        <item quantity="other">De stopwatch loopt al %s uren. Tik om te bekijken.</item>
+        <item quantity="other">De stopwatch loopt al %s uur. Tik om te bekijken.</item>
         <item quantity="one">De stopwatch loopt al %s uur. Tik om te bekijken.</item>
     </plurals>
     <plurals name="timer_message_hour">

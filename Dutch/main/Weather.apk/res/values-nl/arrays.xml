@@ -51,7 +51,7 @@
         <item>Mumbai</item>
         <item>Moskou</item>
         <item>Chennai</item>
-        <item>Istanbul</item>
+        <item>Istanboel</item>
         <item>Rio de Janeiro</item>
         <item>Singapore</item>
         <item>Berlijn</item>
@@ -59,7 +59,7 @@
         <item>New York</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
-        <item>Tokyo</item>
+        <item>Tokio</item>
         <item>Parijs</item>
         <item>Bangkok</item>
         <item>Seoul</item>
@@ -69,6 +69,13 @@
         <item>Hevig</item>
         <item>Matig</item>
         <item>Licht</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
     </string-array>
     <string-array name="weather_type">
         <item>Helder</item>

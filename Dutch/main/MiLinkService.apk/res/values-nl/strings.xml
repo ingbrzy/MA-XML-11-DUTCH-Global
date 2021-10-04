@@ -36,9 +36,11 @@
     <string name="app_ver_name">1.0</string>
     <string name="casting_tips">Aan het casten…</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
+    <string name="close">Sluiten</string>
     <string name="close_hotspot_hint">Schakel draagbare hotspot uit voor casten</string>
     <string name="close_slave_wifi_hint">Verbreek de verbinding met auxiliaire wifi-netwerken voordat u gaat casten</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="console_guide_btn_got_it">Begrepen</string>
     <string name="console_guide_subtitle_hang_up">U kunt blijven casten terwijl het scherm van uw apparaat uitgeschakeld is. Deze functie vermindert energieverbruik.</string>
     <string name="console_guide_subtitle_private">Geen zwevende meldingen, inkomende oproepen en andere privé-items op externe monitors weergeven</string>
@@ -48,6 +50,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="device_desc_trust">Vertrouwde apparaten</string>
     <string name="dialog_can_not_find_device">Kon geen apparaten in de buurt vinden</string>
     <string name="dialog_cancle">Annuleren</string>
@@ -57,6 +60,8 @@
     <string name="dialog_connect_verify_perssion_fail">Kon geen toestemming verlenen voor casten op uw tv. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="dialog_connected">Verbonden</string>
     <string name="dialog_connecting">Aan het verbinden…</string>
+    <string name="dialog_location_permission_message">Deze app heeft toegang nodig tot uw locatie om externe monitors in de buurt te kunnen vinden. Selecteer \"Altijd toestaan\" terwijl u deze toestemming geeft om mogelijke fouten te voorkomen.</string>
+    <string name="dialog_location_permission_title">Toestemmingen vereist</string>
     <string name="dialog_miplay_permission_message">Sta Casten toe om audio op te nemen, toegang te krijgen tot bestanden in de interne opslag en toegang te krijgen tot uw locatie om deze functie normaal te kunnen gebruiken. Tik op \"Instellingen\" en selecteer \"App-toestemmingen\" om door te gaan.</string>
     <string name="dialog_miplay_permission_positive">Instellingen</string>
     <string name="dialog_miplay_permission_title">Toestemmingen vereist</string>
@@ -78,6 +83,8 @@ Bekijk help als u problemen ondervindt bij het maken van een verbinding."</strin
 2. Op sommige tv-modellen is deze functie alleen beschikbaar wanneer scherm spiegelen is ingeschakeld. Zie \"Help\" voor meer informatie."</string>
     <string name="dialog_scanning_device">Aan het zoeken naar apparaten in de buurt…</string>
     <string name="dialog_scanning_precondition">Schakel Wi-Fi en Bluetooth op uw telefoon in om het Draadloos scherm te gebruiken.</string>
+    <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
+    <string name="dialog_scanning_precondition_new_global">Schakel wifi, Bluetooth en locatieservices in om casten te kunnen gebruiken. Nu inschakelen?</string>
     <string name="dialog_select_tv">Selecteer apparaat (%d)</string>
     <string name="dialog_show_help">Help</string>
     <string name="disconnect">Stoppen met casten</string>
@@ -127,6 +134,14 @@ Bekijk help als u problemen ondervindt bij het maken van een verbinding."</strin
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="global_privacy">Algemene voorwaarden</string>
+    <string name="global_privacy_detail">&lt;Data>Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> voordat u deze app gebruikt.&lt;br>Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
+    <string name="global_privacy_explain">Welkom bij Casten! Deze app biedt de volgende services:</string>
+    <string name="global_privacy_feature">Geminimaliseerde vensters gebruiken, casten met het scherm uit en privé-items verbergen.</string>
+    <string name="global_privacy_main">Projecteren van de items van het scherm van uw telefoon op een grotere externe monitor.</string>
+    <string name="global_privacy_negative">Niet akkoord</string>
+    <string name="global_privacy_positive">Akkoord</string>
+    <string name="global_privacy_tip">&lt;Data>We hebben de nodige persoonlijke informatie nodig om u de basisdiensten te kunnen bieden en het proces van casten te optimaliseren. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=%1$s>Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid op elk moment in de Instellingen intrekken.&lt;/Data></string>
     <string name="hang_up">Casten terwijl het scherm uitgeschakeld is</string>
     <string name="hang_up_alert_dialog_content">Blijf casten terwijl het scherm van uw apparaat uitgeschakeld is. Deze functie vermindert energieverbruik. Druk op de aan/uit-knop om het scherm weer in te schakelen.</string>
     <string name="hang_up_alert_dialog_neg">Annuleren</string>
@@ -208,9 +223,28 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="help_page_text_end">Als uw merk apparaat hier niet genoemd is, neem dan contact op met de producent voor meer informatie over casten.</string>
     <string name="keyguard_security_setting_privacy_policy">Privacybeleid</string>
     <string name="midnight">Nacht</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Synchroniseren met de cloud is uitgeschakeld</string>
-    <string name="miuix_appcompat_cloud_state_finished">Succesvol gesynchroniseerd met de cloud</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Synchroniseren met de cloud…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
+    <string name="miuix_appcompat_cancel_description">Annuleren</string>
+    <string name="miuix_appcompat_confirm_description">Bevestigen</string>
+    <string name="miuix_appcompat_delete_description">Verwijderen</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
+    <string name="miuix_appcompat_search_input_description">Zoeken</string>
+    <string name="miuix_appcompat_select_all">Alles selecteren</string>
+    <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
+    <string name="miuix_appcompat_select_item">Selecteer items</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
     <string name="monday">Maandag</string>
     <string name="monday_short">Ma</string>
     <string name="monday_shortest">Ma</string>
@@ -276,7 +310,7 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_agree">Akkoord</string>
     <string name="privacy_detail">&lt;Data>Deze app moet verbinding maken met het internet en de vereiste persoonlijke gegevens verzamelen om normaal te kunnen werken. Om uw rechten als gebruiker volledig te begrijpen, evenals de manieren waarop we uw gegevens gebruiken, leest u en gaat u akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>.&lt;/Data></string>
-    <string name="privacy_detail_extra">&lt;Data>Sommige functies worden geleverd door HappyCast, een externe serviceprovider. Voordat u deze functie gebruikt, lees en ga akkoord met &lt;a href=%1$s>HappyCast Privacybeleid&lt;/a> en &lt;a href=%2$s>Juridische Verklaring van HappyCast&lt;/a>.&lt;/Data></string>
+    <string name="privacy_detail_extra">&lt;Data>Sommige functies worden geleverd door HappyCast, een externe serviceprovider. Voordat u deze functie gebruikt, lees en ga akkoord met &lt;a href=%1$s>HappyCast Privacybeleid&lt;/a> en &lt;a href=%2$s>HappyCast Juridische Verklaring&lt;/a>.&lt;/Data></string>
     <string name="privacy_explain">Welkom bij Casten! Met casten kunt u de items projecteren vanaf het scherm van uw telefoon op een grotere externe monitor. Deze app moet verbinding maken met het internet en heeft de volgende toestemmingen nodig om normaal te kunnen werken:</string>
     <string name="privacy_negative">Afsluiten</string>
     <string name="privacy_permission_ble">Bluetooth in- en uitschakelen</string>
@@ -294,10 +328,10 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="privacy_permission_wlan_desc">Voor het vinden van beschikbare apparaten in de buurt</string>
     <string name="privacy_permission_wlan_desc_china">Voor het vinden van beschikbare apparaten in de buurt</string>
     <string name="privacy_positive">Akkoord</string>
-    <string name="privacy_text_1">"&lt;Data>Welkom bij Casting! Met Casting kunt u items van uw telefoonscherm op een grotere externe monitor projecteren.
-We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetgeving, voorschriften en het relevante privacybeleid. Sommige functies worden aangeboden door de externe dienstverlener HappyCast. Lees en ga akkoord met de &lt;a href=%2$s>Wettelijke verklaring van HappyCast&lt;/a> en het &lt;a href=%1$s>Privacybeleid van HapptyCast&lt;/a>.
+    <string name="privacy_text_1">"&lt;Data>Welkom bij Casten! Met Casten kunt u items van uw telefoonscherm op een grotere externe monitor projecteren.
+We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Sommige functies worden geleverd door een externe serviceprovider HappyCast. Voordat u deze functie gebruikt, lees en ga akkoord met &lt;a href=%2$s>HappyCast Juridische verklaring&lt;/a> en &lt;a href=%1$s>HappyCast Privacybeleid&lt;/a>.
 Om normaal te kunnen werken, moet deze app verbinding met internet maken en heeft de app de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>Als u er niet mee akkoord gaat om deze toestemmingen te verlenen of uw persoonsgegevens te uploaden, kunt u deze app niet gebruiken. U kunt er in dat geval voor kiezen om deze app te verwijderen, uit te loggen of de toestemmingen in de Instellingen te beperken.
+    <string name="privacy_text_2">"&lt;Data>Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke informatie, kunt u deze app niet gebruiken. U kunt er in dat geval voor kiezen om deze app te verwijderen, uit te loggen of de toestemmingen in de Instellingen te beperken.
 Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en ons &lt;a href=%2$s>Privacybeleid&lt;/a> voordat u deze functie gebruikt.&lt;/Data>"</string>
     <string name="privacy_text_pemission">"　　•Toegang tot afbeeldingen en opslaan van deze afbeeldingen op uw apparaat om deze items op externe monitors te projecteren
 　　•Opnemen van gesprekken en audio om audio naar externe apparaten te casten
@@ -331,6 +365,7 @@ Lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en ons
     <string name="screen_projection_sample_title">"Demo's"</string>
     <string name="screen_projection_title">Casten</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="send">Verzenden</string>
     <string name="small_window">Venster minimaliseren</string>
     <string name="small_window_not_supported">Kan deze app niet minimaliseren tijdens het casten</string>
     <string name="status_bar_in_casting">Aan het casten…</string>

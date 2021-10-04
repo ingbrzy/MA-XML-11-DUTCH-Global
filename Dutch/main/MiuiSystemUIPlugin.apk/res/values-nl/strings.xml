@@ -38,7 +38,7 @@
     <string name="afternoon">Middag</string>
     <string name="already_in_small_freeform">Sommige apps zijn geopend in zwevende vensters</string>
     <string name="am">AM</string>
-    <string name="app_name">systemui-controls</string>
+    <string name="app_name">Systeem UI Plug-in</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="controls_confirmation_message">Bevestig de wijziging voor %s</string>
     <string name="controls_dialog_confirmation">Bedieningselementen bijgewerkt</string>
@@ -90,6 +90,7 @@
     <string name="disabled">Niet beschikbaar</string>
     <string name="dnd_popup_close_message">Begrepen</string>
     <string name="dnd_popup_message">U kunt de Niet storen modus inschakelen om oproepen en meldingen te dempen zonder mediageluiden uit te schakelen.</string>
+    <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
     <string name="early_morning">Ochtend</string>
     <string name="empty" />
     <string name="eras_ad">n.C.</string>
@@ -135,9 +136,20 @@
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="hearing_assist_bluetooth_enable_tips_cancle">Annuleren</string>
+    <string name="hearing_assist_bluetooth_enable_tips_start">Inschakelen</string>
+    <string name="hearing_assist_bluetooth_enable_tips_summary">Live in-ear monitor werkt wanneer Bluetooth is ingeschakeld. Bluetooth nu inschakelen?</string>
+    <string name="hearing_assist_bluetooth_enable_tips_title">Bluetooth inschakelen</string>
+    <string name="hearing_assist_transmission_label">Live in-ear monitor</string>
+    <string name="hearing_assist_transmission_tips_cancel">Annuleren</string>
+    <string name="hearing_assist_transmission_tips_continue">Inschakelen</string>
+    <string name="hearing_assist_transmission_tips_summary">Live in-ear monitor verzendt de microfoonfeed van uw telefoon naar verbonden Bluetooth-oortelefoons. Nu inschakelen?</string>
+    <string name="hearing_assist_transmission_tips_title">Live in-ear monitor</string>
+    <string name="kddi_miui_toast_zen_standard_to_off">Stille modus is nu uitgeschakeld. Oproepen en meldingen worden niet gedempt.</string>
+    <string name="kddi_miui_toast_zen_to_standard">Overgeschakeld naar Stille modus. Oproepen en meldingen worden nu gedempt.</string>
     <string name="loading">Status onbekend</string>
     <string name="midnight">Nacht</string>
-    <string name="miui_dnd_count_down">Niet Storen timer</string>
+    <string name="miui_dnd_count_down">Schuif om de timer in te stellen</string>
     <string name="miui_dnd_count_down_time">"Niet Storen timer
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Instellingen</string>
@@ -152,9 +164,11 @@
     <string name="miui_ringer_total">Niet Storen</string>
     <string name="miui_ringer_total_description">Zet geluiden en vibraties voor alle items uit behalve de wekker</string>
     <string name="miui_toast_zen_dnd_to_off">Oproepen en meldingen worden niet meer gedempt</string>
+    <string name="miui_toast_zen_dnd_to_off_T">Meldingen zijn niet langer gedempt</string>
     <string name="miui_toast_zen_standard_to_off">Stille modus is uitgeschakeld</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Stille modus is nu uitgeschakeld. Beltonen, maar ook meldingen en mediageluiden zullen worden afgespeeld.</string>
     <string name="miui_toast_zen_to_dnd">Oproepen en meldingen zullen worden gedempt</string>
+    <string name="miui_toast_zen_to_dnd_T">Meldingen worden gedempt</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Oproepen en meldingen worden gedempt wanneer het apparaat is vergrendeld</string>
     <string name="miui_toast_zen_to_standard">Stille modus is ingeschakeld</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Overgeschakeld naar Stille modus. Beltonen, zowel voor notificatie als mediageluiden, zijn nu gedempt.</string>
@@ -233,6 +247,7 @@
     <string name="quick_settings_pcmode_turn_off_description">Het scherm van uw telefoon wordt weergegeven op de externe monitor. PC-modus uitschakelen?</string>
     <string name="quick_settings_pcmode_turn_on_description">Het beeldscherm van uw computer wordt op de externe monitor weergegeven. PC-modus inschakelen?</string>
     <string name="quick_settings_scanner_label">Scanner</string>
+    <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
     <string name="quick_settings_wireless_label">Omgekeerd draadloos opladen</string>
     <string name="reboot_info_auto_boot">Aankomend alarm: %s</string>
     <string name="reboot_info_shutdown_alarm">Uitschakel alarm: %s</string>
@@ -318,6 +333,9 @@ Langdurige blootstelling aan harde geluiden kan gehoorproblemen veroorzaken."</s
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
     <string name="wireless_charging_connected_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer uw apparaat draadloos aan het opladen is.</string>
+    <string name="wireless_charging_fg_control_cancel">Annuleren</string>
+    <string name="wireless_charging_fg_control_messgae">Omgekeerd draadloos opladen is uitgeschakeld omdat er minder dan %d%% van de batterij resteert. U kunt instellingen aanpassen om omgekeerd draadloos opladen langer te laten werken.</string>
+    <string name="wireless_charging_fg_control_ok">Aanpassen</string>
     <string name="wireless_charging_low_battery_level_message">Kan omgekeerd draadloos opladen niet gebruiken wanneer de batterij minder dan %d%% opgeladen is.</string>
     <string name="wireless_charging_ok">Begrepen</string>
     <string name="wireless_charging_saver_cancel">Uitschakelen</string>
@@ -325,7 +343,7 @@ Langdurige blootstelling aan harde geluiden kan gehoorproblemen veroorzaken."</s
     <string name="wireless_charging_saver_ok">Beschikbaar houden</string>
     <string name="wireless_charging_tips_disable">Niet meer tonen</string>
     <string name="wireless_charging_tips_message">Plaats het apparaat dat u draadloos wilt opladen (bijvoorbeeld telefoon, smartwatch, oortelefoon) aan de achterkant van deze telefoon. Zorg ervoor dat deze telefoon ten minste %d%% is opgeladen voordat u omgekeerd draadloos opladen gebruikt.</string>
-    <string name="wireless_charging_tips_sub_message">Het andere apparaat moet de Qi-standaard voor draadloos opladen ondersteunen.</string>
+    <string name="wireless_charging_tips_sub_message">Het andere apparaat moet de Qi draadloos opladen standaard ondersteunen.</string>
     <string name="wireless_charging_tips_title">Omgekeerd draadloos opladen</string>
     <string name="yesterday">Gisteren</string>
 </resources>

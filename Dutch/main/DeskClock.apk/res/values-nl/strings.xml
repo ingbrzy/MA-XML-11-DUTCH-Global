@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -198,7 +198,7 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour">"h 'uur'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -206,14 +206,14 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour">"H 'uur'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_minute">"m'min.'"</string>
+    <string name="fmt_time_minute_second">"m'min.' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min.' s.S's'"</string>
     <string name="fmt_time_second">"s's'"</string>
     <string name="fmt_time_second_millis">"s.S's'"</string>
     <string name="fmt_time_timezone">T z</string>
@@ -472,12 +472,13 @@
     <string name="shortcut_stop_watch">Stopwatch starten</string>
     <string name="shut_down_keep_screen">Het scherm wordt niet aangehouden</string>
     <string name="shutdown_alarm_alert_enable_summary">Uitschakel alarmen gaan ten minste 10 minuten nadat u uw apparaat uitschakelt af</string>
-    <string name="shutdown_alarm_alert_enable_summary_new">Schakel dit in om de ingestelde alarmen af te laten gaan wanneer uw apparaat is uitgeschakeld. Alleen alarmen die zijn ingesteld voor ten minste %d minuten nadat u het apparaat hebt uitgeschakeld, gaan uit.</string>
+    <string name="shutdown_alarm_alert_enable_summary_new">Schakel dit in om de ingestelde alarmen af te laten gaan wanneer uw apparaat is uitgeschakeld. Alleen alarmen die zijn ingesteld voor ten minste %d minuten nadat u het apparaat hebt uitgeschakeld, gaan af.</string>
     <string name="shutdown_alarm_alert_title">Uitschakel alarm</string>
     <string name="shutdown_alarm_disable_summary">Alarm zal niet afgaan nadat het apparaat uitgeschakeld is</string>
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -521,6 +522,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -529,6 +531,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -620,7 +623,7 @@
     <string name="timer_item_picker_minute">M</string>
     <string name="timer_item_picker_second">S</string>
     <string name="timer_new_item">Timer toevoegen</string>
-    <string name="timer_notify_text">Snooze of verwerp timer.</string>
+    <string name="timer_notify_text">Sluimeren of negeer timer.</string>
     <string name="timer_pause_timer">Timer pauzeren</string>
     <string name="timer_ringtone">Timer beltoon</string>
     <string name="timer_running">Timer is actief</string>

@@ -51,7 +51,7 @@
     <string name="action_item_download">Downloaden</string>
     <string name="action_item_favorite">Favoriet</string>
     <string name="action_item_hide">Verbergen</string>
-    <string name="action_item_hifi">Hoofdtelefoons en audio-effecten</string>
+    <string name="action_item_hifi">Oortelefoons</string>
     <string name="action_item_play_all">Shuffle alles</string>
     <string name="action_item_play_next">Later afspelen</string>
     <string name="action_item_play_video">Speel muziekvideo af</string>
@@ -63,6 +63,7 @@
     <string name="ad_data_exception">Fout advertentiegegevens</string>
     <string name="ad_recommend">Advertenties weergeven</string>
     <string name="ad_setting">Aanvullende instellingen</string>
+    <string name="add">Toevoegen</string>
     <string name="add_music">Nummers toevoegen</string>
     <string name="add_to_last_of_playlist">Toevoegen onderaan de afspeellijst</string>
     <string name="add_to_playlist">Aan de wachtrij toevoegen</string>
@@ -206,6 +207,7 @@
     <string name="dialog_cannot_resume">Download onderbroken. Het kan niet worden hervat.</string>
     <string name="dialog_clear_history">De lijst met recent afgespeelde nummers wissen?</string>
     <string name="dialog_confirm_delete_checkbox_message">Lokale bestanden ook verwijderen</string>
+    <string name="dialog_continue">OК</string>
     <string name="dialog_failed_body">Probeer later downloaden of het bestand uit de wachtrij verwijderen?</string>
     <string name="dialog_file_already_exists">Kan niet downloaden. Dit bestand bestaat al.</string>
     <string name="dialog_file_missing_body">Kon het gedownloade bestand niet vinden.</string>
@@ -241,6 +243,7 @@
     <string name="dialog_song_view_type_artist">Op artiest</string>
     <string name="dialog_song_view_type_folder">Op map</string>
     <string name="dialog_song_view_type_song">Op nummer</string>
+    <string name="dialog_stop_audio_in">Afspeeltimer</string>
     <string name="dialog_subtitle_make_playlist_public">Openbare afspeellijsten zijn beschikbaar voor andere mensen. Privéafspeellijsten zijn alleen zichtbaar voor u op alle gesynchroniseerde apparaten.</string>
     <string name="dialog_title_clearlist_tracks">Uit wachtrij verwijderen</string>
     <string name="dialog_title_delete_tracks">Verwijderen</string>
@@ -287,7 +290,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -375,7 +380,9 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -606,6 +613,7 @@
     <string name="mulit_choice_management">Meerdere items beheren</string>
     <string name="music_browser_label">Muziek</string>
     <string name="music_filter">Audiobestanden filteren</string>
+    <string name="music_quality">Audiokwaliteit</string>
     <string name="music_recommendation">Lied aanbevelingen</string>
     <string name="music_service">Muziek service</string>
     <string name="music_settings">Muziek</string>
@@ -638,6 +646,7 @@
     <string name="no_local_songs_selected">Kan geen nummers verzenden, want ze zijn niet gedownload</string>
     <string name="no_local_source_find">Kon nummer niet vinden</string>
     <string name="no_longer_prompt">Niet meer tonen</string>
+    <string name="no_lyrics">Geen songteksten</string>
     <string name="no_results_return">Geen zoekresultaten</string>
     <string name="no_scanned_songs">Leeg</string>
     <string name="no_song_downloaded">Kon geen nummers vinden om te downloaden</string>
@@ -757,12 +766,14 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
 Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"Welkom bij Mi Music! Deze app biedt de volgende diensten:
 - Een lokale audiospeler
 - Online streamingdiensten"</string>
+    <string name="privacy_request_subtitle_offline">Welkom bij Mi Music! Deze app biedt een lokale speler voor audiobestanden.</string>
     <string name="privacy_request_title">Algemene voorwaarden</string>
     <string name="pro_member">PRO-lid</string>
     <string name="project_device">Mi Phone</string>
@@ -901,6 +912,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Afspelen</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -958,6 +970,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="toast_download_in_process">Downloaden bezig</string>
     <string name="toast_favorite_has_been_added">Succesvol toegevoegd aan afspeellijst</string>
     <string name="toast_follow_success">Succesvol gevolgd</string>
+    <string name="toast_hungama_vip_song">Dit nummer is alleen beschikbaar voor PRO-leden. Neem een abonnement om dit nummer te downloaden.</string>
     <string name="toast_is_pro">Je bent al een PRO-lid.</string>
     <string name="toast_my_playlist_illegal_name">De titel van deze afspeellijst is ongeldig. Hernoem de afspeellijst.</string>
     <string name="toast_my_playlist_set_to_private">Deze afspeellijst is nu privé. Anderen kunnen hem niet zien.</string>
@@ -998,6 +1011,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Mi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
     <string name="user_privacy_dialog_positive_count_down_text">Intrekken (%s s)</string>

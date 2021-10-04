@@ -85,27 +85,30 @@
     <string name="bugreport_tool_log_dumping_title">Foutenrapport aanmaken</string>
     <string name="catch_full_log_action_cancel">Annuleren</string>
     <string name="catch_full_log_action_complete">Voltooien en uploaden</string>
-    <string name="catch_full_log_action_start">Logbestand genereren</string>
+    <string name="catch_full_log_action_start">Starten</string>
     <string name="catch_full_log_add_original_photo">Voeg oorspronkelijke afbeelding of korte video toe</string>
     <string name="catch_full_log_add_photo">Foto toevoegen</string>
     <string name="catch_full_log_add_photo_dialog_content">Als het probleem dat u rapporteert te maken heeft met de fotokwaliteit, voeg dan een originele voorbeeldsfoto (niet bijgesneden) toe om ons te helpen het probleem te vinden. Foto nu toevoegen?</string>
+    <string name="catch_full_log_category">Logbestand types</string>
     <string name="catch_full_log_dialog_confirm_text">Ga terug naar het Startscherm</string>
-    <string name="catch_full_log_dialog_content">MIUI is een logbestand aan het genereren. Dit zou de prestaties van uw apparaat kunnen beïnvloeden. Als u het probleem dat u wilt rapporteren niet kunt herproduceren, ga dan terug naar logbestanden en tik op \"Annuleren“.</string>
+    <string name="catch_full_log_dialog_content">Dit zou de prestaties van uw apparaat kunnen beïnvloeden. Als u het probleem dat u wilt rapporteren niet kunt herproduceren, ga dan terug naar logbestanden en tik op \"Annuleren“.</string>
+    <string name="catch_full_log_dialog_title">Logbestanden genereren…</string>
     <string name="catch_full_log_dump_hprof_failed">Kon vertragings logbestand niet genereren</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Ga terug naar de functie die u wilt rapporteren en herproduceer het probleem.
 2. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
-    <string name="catch_full_log_item_content_need_open">"1. Tik op \"Logbestand genereren\".
-2. Ga terug naar de functie die u wilt rapporteren en herproduceer het probleem.
-3. Keer terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
-    <string name="catch_full_log_item_content_title">Stappen</string>
-    <string name="catch_full_log_item_title_audio">Audio, geluidsopnames en belgeluid</string>
+    <string name="catch_full_log_item_content_catching">Logbestanden genereren…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. Tik op \"Start\" om te beginnen met het genereren van logbestanden.
+%2$d. Reproduceer het probleem dat u bent tegengekomen.
+%3$d. Ga terug naar deze pagina en tik op \"Voltooien en uploaden\"."</string>
+    <string name="catch_full_log_item_content_title">Hoe logbestanden te genereren</string>
+    <string name="catch_full_log_item_title_audio">Audio, oproepgeluid en audio-opname</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
     <string name="catch_full_log_item_title_dump_heap">Vertraging</string>
     <string name="catch_full_log_item_title_gps">Locatieservices</string>
     <string name="catch_full_log_item_title_sensor">Sensoren</string>
     <string name="catch_full_log_item_title_signal">Telefoon, bereik en mobiele netwerken</string>
-    <string name="catch_full_log_item_title_wifi">Wifi en ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN en ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wifi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">Tik om terug te gaan naar logbestanden</string>
     <string name="catch_full_log_notification_title">Logbestand genereren…</string>
     <string name="catch_full_log_privacy_content_audio">U genereert logbestanden en slaat deze op op uw apparaat. Deze logbestanden kunnen informatie over audio op uw apparaat, inclusief playback-geschiedenis en opnamegeschiedenis, bevatten. Wees voorzichtig en geef deze logbestanden niet aan anderen. Door hieronder op \"Akkoord\" te tikken, gaat u ermee akkoord dat we de bovengenoemde gegevens verzamelen bij het genereren van logbestanden en deze bestanden uploaden naar onze servers om problemen die u rapporteert op te sporen en op te lossen.</string>

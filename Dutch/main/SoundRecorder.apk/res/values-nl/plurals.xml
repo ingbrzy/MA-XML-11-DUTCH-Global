@@ -84,6 +84,10 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Weinig opslagruimte (minder dan %d minuten)</item>
         <item quantity="one">Weinig opslagruimte (minder dan %d minuut)</item>

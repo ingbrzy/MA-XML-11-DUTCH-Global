@@ -92,6 +92,10 @@
         <item quantity="other">%d beschikbare apparaten</item>
         <item quantity="one">%d beschikbaar apparaat</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Elke %d seconden</item>
+        <item quantity="one">Elke %d seconde</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d apparaten</item>
         <item quantity="one">%d apparaat</item>

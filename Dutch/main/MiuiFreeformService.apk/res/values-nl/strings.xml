@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">freeform</string>
+    <string name="app_name">Zwevende vensters</string>
+    <string name="bottom_bar_smallwindow_text">Laat los om vast te pinnen</string>
     <string name="contentDescription">Het venster verplaatsen</string>
     <string name="freeform_demo_back">Vorige</string>
     <string name="freeform_demo_final_over">Voltooid</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">Volgende</string>
     <string name="freeform_demo_title_finish">Mooi!</string>
     <string name="freeform_demo_title_skip">Overslaan</string>
+    <string name="freeform_slide_to_small_freeform">Minimaliseer een zwevende venster</string>
+    <string name="freeform_slide_to_small_freeform_summary">Houd de actiebalk ingedrukt en sleep naar een hoek</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimaliseer een app</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Veeg vanaf de onderkant van het scherm naar de rechterbovenhoek</string>
     <string name="how_to_close_or_fullscreen_freeform">Zwevende vensters sluiten of overschakelen naar volledig scherm</string>
     <string name="how_to_drop_down_to_fullscreen">Schakel over naar volledig scherm</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Houd ingedrukt en trek vervolgens de actiebalk van een zwevend venster naar beneden</string>

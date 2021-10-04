@@ -176,6 +176,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Zoek in %d apps</item>
         <item quantity="one">Zoek in %d app</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">"%d privacygerelateerde risico's"</item>
+        <item quantity="one">%d privacygerelateerd risico</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemen vereisen optimalisatie</item>
         <item quantity="one">%1$d probleem vereist optimalisatie</item>
@@ -231,6 +235,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d dagen op rij ingecheckt</item>
         <item quantity="one">%d tijd ingecheckt</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">Begrepen (%d s)</item>
+        <item quantity="one">Begrepen (%d s)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Probeer Stemvervormer nu

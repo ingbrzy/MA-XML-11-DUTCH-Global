@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">Om het zwevende venster te sluiten, houd uw actiebalk ingedrukt en veeg vervolgens omhoog</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">Andere toetsenborden</string>
     <string name="package_delete_confirm_step_1">%s verwijderen?</string>
     <string name="package_delete_confirm_step_2">Deze app deïnstalleren kan ervoor zorgen dat uw systeem onstabiel wordt.</string>
     <string name="package_delete_confirm_step_3">U kunt deze app niet meer openen nadat u deze gedeïnstalleerd heeft.</string>

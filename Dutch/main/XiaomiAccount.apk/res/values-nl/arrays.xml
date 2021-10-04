@@ -7,71 +7,71 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Accounts</item>
         <item>Accounts van derden toevoegen en beheren</item>
-        <item>Autorisatie;Account;Mi Account;Toevoegen;Koppelen;Xiaomi;Weergeven;SNS;Facebook;Google</item>
+        <item>Accounts;SNS;Facebook;Google;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Accounts</item>
         <item>Accounts van derden toevoegen en beheren</item>
-        <item>Autorisatie;Account;Mi Account;Toevoegen;Koppelen;Xiaomi;Weergeven;SNS;WeChat;QQ;Weibo</item>
+        <item>Accounts;SNS;WeChat;QQ;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Wachtwoord wijzigen</item>
         <item>Mi Account wachtwoord wijzigen</item>
-        <item>Wijzigen;Wachtwoord;Xiaomi;Mi Account;Account</item>
+        <item>Wachtwoord wijzigen;Wachtwoord bijwerken;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Help</item>
         <item>Krijg Mi Account help en ondersteuning</item>
-        <item>Xiaomi;Account;Mi Account;Help;Ondersteuning;Weergeven</item>
+        <item>Mi Account;Account;Account help;Helpcentrum</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>2-stap-verificatie</item>
         <item>Stel 2-stap-verificatie in voor uw Mi Account</item>
-        <item>Aanmelden;Inloggen;2-stap-verificatie;Xiaomi;Account;Mi Account;Instellingen</item>
+        <item>Aanmelden;Inloggen;2-stap;verificatie;Xiaomi;Account;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
-        <item>Aanmelden en beveiliging</item>
+        <item>Accountbeveiliging</item>
         <item>Hersteltelefoon en e-mailadres voor herstel, wachtwoordbeheer</item>
-        <item>Account;Beveiliging;Aanmelden;Inloggen;Xiaomi;Mi Account;Telefoonnummer;E-mail;Wijzigen;Wachtwoord;Toevoegen;Koppelen</item>
+        <item>Accountbeveiliging;Aanmelden;Hersteltelefoon;E-mailadres voor herstel;Accountbescherming;Telefoonnummer;E-mail;Wachtwoord wijzigen;Telefoonnummer toevoegen;E-mail toevoegen;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Apparaten</item>
         <item>Beheer apparaten die zijn gekoppeld aan uw Mi Account</item>
-        <item>Apparaten;Beheren;Aanmelden;Inloggen;Apparatenlijst;Xiaomi;Mi Account;Account</item>
+        <item>Apparaten beheren;Mijn apparaten;Apparaten;Lijst van apparaten;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Betalingsinformatie</item>
         <item>Bekijk en beheer betalingsinformatie</item>
-        <item>Betaling;Informatie;Xiaomi;Mi Account;Account</item>
+        <item>Betalen;Betaling;Betaalmethode;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Privacybeleid</item>
         <item>Bekijk Mi Account Privacybeleid</item>
-        <item>Xiaomi;Account;Mi Account;Privacy;Beleid;Weergeven</item>
+        <item>Mi Account;Account;Privacybeleid</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>E-mailadres voor herstel</item>
         <item>E-mailadres voor herstel toevoegen</item>
-        <item>Beveiliging;E-mail;Xiaomi;Account;Mi Account;Toevoegen;Koppelen</item>
+        <item>E-mailadres voor herstel;E-mail;E-mail toevoegen;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Hersteltelefoon</item>
         <item>Voeg een hersteltelefoon toe</item>
-        <item>Beveiliging;Account;Mi Account;Telefoon;Xiaomi;Telefoonnummer;Toevoegen;Koppelen</item>
+        <item>Hersteltelefoon;Telefoon toevoegen;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Advertenties</item>
         <item>Beheer systeemadvertenties</item>
-        <item>Systeem;Advertenties;Xiaomi;Account;Mi Account;Instellingen</item>
+        <item>Advertenties;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Account info</item>
         <item>Bekijk uw profielfoto en beheer account info</item>
-        <item>Account;Info;Persoonlijk;Profielfoto;Naam;Xiaomi;ID;Mi Account;Weergeven;Instellingen</item>
+        <item>Persoonlijke info;profielfoto;bijnaam;account info;Mi ID;ID;Mi Account;Account</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Gebruikersovereenkomst</item>
-        <item>Bekijk Mi Account Gebruikersovereenkomst</item>
-        <item>Xiaomi;Account;Mi Account;Gebruiker;Overeenkomst;Weergeven</item>
+        <item>Gebruikersovereenkomst</item>
+        <item>Mi Account;Account;Gebruikersovereenkomst;EULA</item>
     </string-array>
 </resources>

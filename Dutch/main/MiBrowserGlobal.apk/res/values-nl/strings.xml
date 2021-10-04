@@ -223,7 +223,6 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="card_game_title_1">Dagelijkse aanbevelingen</string>
     <string name="card_game_title_2">Populair deze week</string>
     <string name="card_game_title_3">De keuzes van Mint</string>
-    <string name="cast_video">Video casten</string>
     <string name="category">Categorieën</string>
     <string name="category_album">Albums</string>
     <string name="category_all">Alle bestanden</string>
@@ -263,7 +262,6 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="clear_history">Wis geschiedenis</string>
     <string name="clear_most_visited">Recente geschiedenis</string>
     <string name="clear_search_history">Wis geschiedenis</string>
-    <string name="clear_video_download">"Video's verwijderen"</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="click_always">Tik op \"Altijd\"</string>
     <string name="click_to_refresh">U bent hier de vorige keer gestopt, tik om te vernieuwen</string>
@@ -285,7 +283,6 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="cloud_time_tips">Laatste synchronisatie</string>
     <string name="cloud_up_to_loading_tips">Loslaten om te synchroniseren</string>
     <string name="collect_diagnosis_log">Logbestanden verzamelen</string>
-    <string name="collect_video">Video verzamelen</string>
     <string name="collection_articles">Artikelen</string>
     <string name="collection_videos">"Video's"</string>
     <string name="com_facebook_device_auth_instructions">Ga naar &lt;b>facebook.com/device&lt;/b> en voer de bovenstaande code in.</string>
@@ -387,15 +384,6 @@ Pagina's die u bekijkt verschijnen niet in de geschiedenis."</string>
     <string name="dark_mode">Donkere modus</string>
     <string name="data_error">Data fout</string>
     <string name="data_format_ymd">dd-MM-yyyy</string>
-    <string name="data_traffic_continue">Toch afspelen</string>
-    <string name="data_traffic_download_cancel">Annuleren</string>
-    <string name="data_traffic_download_prompt">U kunt deze video alleen downloaden wanneer uw apparaat met wifi verbonden is.</string>
-    <string name="data_traffic_download_setting">Instellingen</string>
-    <string name="data_traffic_goto">Datapakket</string>
-    <string name="data_traffic_prompt_free_data">"Het streamen van video's met mobiele data kan extra kosten genereren. Probeer een hiervoor geschikt datapakket te gebruiken."</string>
-    <string name="data_traffic_prompt_message">"Als u mobiele data gebruikt om door video's te bladeren, neemt uw datagebruik toe. Als u de limiet voor dataverbruik van uw plan overschrijdt, kan uw provider extra kosten in rekening brengen."</string>
-    <string name="data_traffic_prompt_title">U gebruikt mobiele data</string>
-    <string name="data_traffic_stop">Stoppen</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -534,7 +522,6 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_title">Downloads</string>
     <string name="download_unknown_title">Onbekend</string>
     <string name="download_update_background">Updates downloaden op de achtergrond</string>
-    <string name="download_video">Video downloaden</string>
     <string name="download_video_from_social_site">"Download video's van sociale media"</string>
     <string name="download_videos_from_here">"U kunt video's downloaden van deze services"</string>
     <string name="download_wait_connect">Wachten op verbinding</string>
@@ -578,7 +565,6 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="exit_clear_dialog_btn_cancel">Afsluiten</string>
     <string name="exit_clear_dialog_btn_ok">Wissen en afsluiten</string>
     <string name="exit_clear_dialog_msg">Geschiedenis wissen voordat u afsluit?</string>
-    <string name="exit_fullscreen">Volledig scherm verlaten</string>
     <string name="exit_game">Afsluiten</string>
     <string name="exo_controls_fastforward_description">Vooruitspoelen</string>
     <string name="exo_controls_fullscreen_description">"Modus 'Volledig scherm'"</string>
@@ -831,16 +817,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="make_private_msg_2">Deze bestanden verbergen?</string>
     <string name="max_tabs_warning">Kan niet meer tabbladen openen</string>
     <string name="maximum_input_alert">Maximaal 2048 tekens invoeren</string>
-    <string name="media_error_action_refresh">Vernieuwen</string>
-    <string name="media_error_action_replace_video_source">Kon bron niet wijzigen</string>
-    <string name="media_error_failure">Kan video niet afspelen</string>
-    <string name="media_error_format">Videoformaat wordt niet ondersteund</string>
-    <string name="media_error_network_unreachable">Kon niet verbinden met het netwerk</string>
-    <string name="media_error_nomemory">Niet genoeg geheugen</string>
-    <string name="media_error_source">Kon bron niet vinden</string>
-    <string name="media_error_timeout">Netwerkverbinding is verlopen</string>
-    <string name="media_error_video_not_exist">Video bestaat niet</string>
-    <string name="menu_addtodesk">Toevoegen aan het Startscherm</string>
+    <string name="menu_addtodesk">Toevoegen aan Startscherm</string>
     <string name="menu_exit_nightmode">Sluiten</string>
     <string name="menu_hv_swap">V/H scherm</string>
     <string name="menu_nightmode">Nachtmodus</string>
@@ -935,6 +912,8 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="more_option">Meer opties</string>
     <string name="more_recommend">Meer aanbevelingen</string>
     <string name="morning">Ochtend</string>
+    <string name="most_visited_sites">Meest bezocht</string>
+    <string name="most_visited_sites_switch">Toon meest bezochte sites op de startpagina</string>
     <string name="move_bookmark">Verplaatsen</string>
     <string name="msn_ad_identification">Adv</string>
     <string name="msn_privacy">Microsoft Privacyverklaring</string>
@@ -954,6 +933,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="mw_actionbar_textselection_title">Tekst selecteren</string>
     <string name="mw_actionbar_web_search">Web zoeken</string>
     <string name="mw_autofill_popup_content_description">Pop-up automatisch aanvullen weergeven</string>
+    <string name="mw_chip_remove_icon_content_description">\"%1$s\" verwijderen</string>
     <string name="mw_color_picker_button_black">Zwart</string>
     <string name="mw_color_picker_button_blue">Blauw</string>
     <string name="mw_color_picker_button_cancel">Annuleren</string>
@@ -969,7 +949,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="mw_color_picker_hue">Tint</string>
     <string name="mw_color_picker_saturation">Verzadiging</string>
     <string name="mw_color_picker_value">Waarde</string>
-    <string name="mw_common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play services, die ontbreken op uw apparaat.</string>
+    <string name="mw_common_google_play_services_install_text">%1$s werkt niet zonder Google Play services, die ontbreken op uw apparaat.</string>
     <string name="mw_config_webSettingsDefaultTextEncoding">UTF-8</string>
     <string name="mw_copy_to_clipboard_failure_message">Kon niet naar klembord kopiëren</string>
     <string name="mw_data_traffic_prompt_change">"Als u mobiele data gebruikt om video's te streamen, neemt uw datagebruik toe. Als u de datagebruik limiet van uw abonnement overschrijdt, zal uw provider extra kosten in rekening brengen."</string>
@@ -993,6 +973,7 @@ Deze pagina nu verlaten?"</string>
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">Afgelopen maand</string>
     <string name="mw_license_activity_title">" Systeem WebView licenties"</string>
+    <string name="mw_link_copied">URL succesvol gekopieerd</string>
     <string name="mw_low_memory_error">Vorige operatie kan niet voltooid worden vanwege te weinig geheugen</string>
     <string name="mw_miui_content_copy">Kopiëren</string>
     <string name="mw_miui_content_cut">Knippen</string>
@@ -1097,6 +1078,7 @@ Deze pagina nu verlaten?"</string>
     <string name="mw_save_password_never">Nooit</string>
     <string name="mw_save_password_notnow">Niet nu</string>
     <string name="mw_save_password_remember">Onthouden</string>
+    <string name="mw_speech_recognition_service_not_found">Kon Google spraak-engine niet vinden</string>
     <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1104,7 +1086,6 @@ Deze pagina nu verlaten?"</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Tijd instellen</string>
-    <string name="mw_url_copied">URL succesvol gekopieerd</string>
     <string name="mw_video_buffering_percent">"Bufferen "</string>
     <string name="mw_video_download_no_permission">Toestemmingen vereist om items te downloaden</string>
     <string name="mw_video_float_drag_scale_msg">Sleep om te schalen</string>
@@ -1303,7 +1284,6 @@ Deze pagina nu verlaten?"</string>
     <string name="password">Wachtwoord</string>
     <string name="per_month">Per maand</string>
     <string name="permission_agree_service">Ik heb de volgende algemene voorwaarden allemaal gelezen en ga ermee akkoord.</string>
-    <string name="permission_alert_window">Om deze functie te kunnen gebruiken, sta het weergeven van pop-upvensters toe in de Instellingen.</string>
     <string name="permission_contacts">Contacten</string>
     <string name="permission_dialog_msg_camera">%s wilt u camera gebruiken</string>
     <string name="permission_dialog_msg_camera_mic">%s wilt u camera en microfoon gebruiken</string>
@@ -1327,7 +1307,6 @@ Deze pagina nu verlaten?"</string>
     <string name="permission_open_storage">Geef Mi Browser eerst toegang tot de interne opslag in de Instellingen</string>
     <string name="permission_service">Algemene voorwaarden</string>
     <string name="permission_storage">Opslag</string>
-    <string name="permission_unknown">Onbekende fout</string>
     <string name="permission_use">Toestemmingen</string>
     <string name="personalized_content_services">Gepersonaliseerde inhoudservices</string>
     <string name="personalized_services">Gepersonaliseerde services</string>
@@ -1353,12 +1332,9 @@ Deze pagina nu verlaten?"</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="pick_file">Kies bestanden</string>
     <string name="ping_test_title">Netwerkvertraging</string>
-    <string name="play_pause_video">Video afspelen of pauzeren</string>
-    <string name="play_video">Video afspelen</string>
     <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> van de gamers vinden deze ook leuk</string>
     <string name="pm">PM</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">Popup video</string>
     <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
     <string name="positive_confirm_message">Toch uitschakelen</string>
     <string name="pref_accessibility">Toegankelijkheid</string>
@@ -1537,8 +1513,8 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="privacy_authorize_summary">Zet de schakelaar om om toestemming te geven of in te trekken</string>
     <string name="privacy_authorize_title">Autorisatie</string>
     <string name="privacy_btn_more">Meer</string>
-    <string name="privacy_improve_performance">Help de prestatie van Mi Browser te verbeteren</string>
-    <string name="privacy_improve_performance_desc">Stuur geaggregeerde gegevens en crashrapporten automatisch naar Mi Browser</string>
+    <string name="privacy_improve_performance">Gebruikerservaringprogramma</string>
+    <string name="privacy_improve_performance_desc">Sta Xiaomi toe gebruikersgegevens te verzamelen en te analyseren om onze producten en diensten te verbeteren</string>
     <string name="privacy_message">Voordat u Browser kunt gebruiken, moet u akkoord gaan met onze &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Gebruikersovereenkomst&lt;/a>&lt;/font> en ons &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Privacybeleid&lt;/a>&lt;/font>.</string>
     <string name="privacy_message_main_tips_first">Mi Browser heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Privacybeleid&lt;/a>&lt;/font>. U kunt uw toestemming voor het Privacybeleid van Mi Browser altijd intrekken in Instellingen > Privacy &amp; beveiliging. Lees en ga akkoord met onze &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Privacybeleid&lt;/a>&lt;/font> voordat u Mi Browser gebruikt.</string>
     <string name="privacy_message_main_tips_second">Om naar apps op dit apparaat te kunnen zoeken en te weten welke apps zijn geïnstalleerd, heeft Mi Browser toegang tot app-installatie-informatie nodig, die niet lokaal wordt opgeslagen of in welke vorm dan ook wordt geüpload.</string>
@@ -1546,6 +1522,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="privacy_message_welcome_tip_first">- Snel en veilig surfen op het web</string>
     <string name="privacy_message_welcome_tip_second">"- Afbeeldingen en video's downloaden van sociale mediaplatforms"</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_reset_fail">Kon niet resetten. Probeer het opnieuw.</string>
     <string name="privacy_sub_title">Algemene voorwaarden</string>
     <string name="privacy_title">Welkom bij Mi Browser</string>
     <string name="private_title">Verborgen bestanden</string>
@@ -1650,7 +1627,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="save_file_already_exist_alert_message">Er bestaat al een bestand met dezelfde naam, dit vervangen?</string>
     <string name="save_file_already_exist_alert_title">Bestand vervangen?</string>
     <string name="save_form_data_confirm_message">Deze functie uitschakelen kan effect hebben op uw verbruik.</string>
-    <string name="save_image_failed">Kan afbeelding niet opslaan</string>
+    <string name="save_image_failed">Kon afbeelding niet opslaan</string>
     <string name="save_image_success">Afbeelding opgeslagen</string>
     <string name="save_page_capture_tip">Open het meldingenpaneel om screenshot te bekijken.</string>
     <string name="save_page_capture_to_camera">Screenshot opgeslagen</string>
@@ -1725,13 +1702,13 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="setting_app_language">Browsertaal</string>
     <string name="setting_feed_language">Taal van inhoudsfeed</string>
     <string name="setting_privacy_password">Ontgrendelpatroon instellen</string>
+    <string name="setting_swipe_up">Veeg omhoog op Startscherm</string>
     <string name="share_image_text">Kijk wat ik deelde! @MIUI</string>
     <string name="share_page_text">Kijk wat ik deelde: %1$s @MIUI |%2$s</string>
     <string name="share_slide_video_text">Kijk wat ik heb gedeeld: %1$s</string>
-    <string name="share_video">Video delen</string>
     <string name="sign_in">Aanmelden</string>
     <string name="sign_in_by_others">Andere manieren om aan te melden</string>
-    <string name="sign_in_by_xiaommi">Inloggen met uw Mi Account</string>
+    <string name="sign_in_by_xiaommi">Aanmelden met Mi Account</string>
     <string name="sign_in_failed">Kon niet aanmelden</string>
     <string name="sign_in_progress">Aanmelden…</string>
     <string name="sign_in_title">Log in met je Mi-account</string>
@@ -1878,8 +1855,6 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="traffic_fail_free_no_left">U hebt geen verkeer meer. Abonneer om door te gaan.</string>
     <string name="traffic_fail_no_left">U heeft geen VPN-verkeer meer</string>
     <string name="traffic_fail_upload">Er is een fout opgetreden. Schakel VPN weer in.</string>
-    <string name="transfer_prompt_0">Video afspelen</string>
-    <string name="transfer_restart">Herstarten</string>
     <string name="translate">Vertalen</string>
     <string name="translate_cur_page">Deze pagina vertalen?</string>
     <string name="translate_into">Vertalen naar</string>
@@ -1933,9 +1908,7 @@ U kunt zich altijd afmelden via Instellingen > Privacy en beveiliging."</string>
     <string name="user_guide_read_info_tips">Om apps in zoekresultaten op te nemen, heeft Mi Browser toegang nodig tot de lijst met apps die op uw apparaat zijn geïnstalleerd.</string>
     <string name="user_id_hint">E-mail/Telefoonnummer/Mi Account ID</string>
     <string name="username">Naam</string>
-    <string name="v5_deselect_all">Alles deselecteren</string>
-    <string name="v5_edit_mode_title_empty">0 geselecteerd</string>
-    <string name="v5_select_all">Alles selecteren</string>
+    <string name="v5_edit_mode_title_empty">Items selecteren</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="v_code_title">Voer verificatiecode in</string>
@@ -1955,59 +1928,18 @@ U kunt zich altijd afmelden via Instellingen > Privacy en beveiliging."</string>
     <string name="version_dialog_buttion_update">Bijwerken</string>
     <string name="version_update_file_download_toast">Downloaden</string>
     <string name="version_update_file_not_found">Kan geen updates vinden</string>
-    <string name="video_activity_name">Favorieten</string>
-    <string name="video_buffering_percent_string">"Bufferen "</string>
-    <string name="video_collect_cancel">Verwijderen van favorieten</string>
-    <string name="video_collect_success">Toegevoegd aan favorieten</string>
     <string name="video_collection_click_view">"De video's die u heeft toegevoegd aan favorieten zijn hier"</string>
     <string name="video_collection_empty">"Nog geen video's hier"</string>
     <string name="video_collection_known">Begrepen</string>
     <string name="video_collection_view">Bekijken</string>
-    <string name="video_download_complete">Met succes gedownload</string>
-    <string name="video_download_empty">"Geen video's"</string>
-    <string name="video_download_error">Fout</string>
-    <string name="video_download_error_http_gone">Kon bestand niet vinden</string>
-    <string name="video_download_exists">Download bestaat al.</string>
-    <string name="video_download_fail">Kon niet downloaden</string>
-    <string name="video_download_failed">Kon niet downloaden</string>
-    <string name="video_download_finding_address">Download-URL ophalen</string>
-    <string name="video_download_pause">Gepauzeerd</string>
-    <string name="video_download_start">Downloaden…</string>
-    <string name="video_download_success">Met succes gedownload</string>
-    <string name="video_download_unknown_name">Onbekende video</string>
-    <string name="video_download_unknown_size">Onbekende maat</string>
-    <string name="video_download_unsupport">Niet ondersteund</string>
-    <string name="video_download_wait_for_wifi">Wachten op Wi-Fi</string>
-    <string name="video_downloaded_group">Gedownload</string>
+    <string name="video_download_complete">Video succesvol gedownload</string>
     <string name="video_downloader_edit_hint">"Plak een link om een video te downloaden. Bijvoorbeeld:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">Kon dit item niet downloaden</string>
     <string name="video_downloader_retry">Opnieuw proberen</string>
-    <string name="video_downloading_group">Downloaden</string>
-    <string name="video_edit">Bewerken</string>
-    <string name="video_float_window_text">Pop-up video</string>
-    <string name="video_fragment_name_collections">Favorieten</string>
-    <string name="video_fragment_name_download">Offline video</string>
-    <string name="video_fragment_name_historys">Geschiedenis</string>
-    <string name="video_fragment_name_offine">Offline</string>
-    <string name="video_group_noupdates_list">Geen updates beschikbaar</string>
-    <string name="video_group_updates_list">Updates</string>
-    <string name="video_history_empty">Geen geschiedenis</string>
-    <string name="video_manager_action_bar_end_view">"Online video's"</string>
     <string name="video_play_next">Volgende</string>
-    <string name="video_project_button">Stoppen</string>
-    <string name="video_project_msg">Video cast naar %s</string>
-    <string name="video_project_title">Video casten</string>
-    <string name="video_push_multi_title">Update beschikbaar</string>
-    <string name="video_push_single_message">Tik om te updaten naar %1$d.</string>
     <string name="video_replay_btn">Opnieuw afspelen</string>
     <string name="video_retry_btn">Opnieuw proberen</string>
-    <string name="video_service_notification_title">Pop-up video afspelen…</string>
-    <string name="video_subtitle_last_message1">Minder dan 1 minuut resterend</string>
-    <string name="video_subtitle_prefix1">Bekeken</string>
-    <string name="video_subtitle_prefix2">"Bekeken "</string>
-    <string name="video_title_prefix_message">"Offline: "</string>
-    <string name="video_unknown_duration">Onbekende tijdsduur</string>
     <string name="view_certificate">Certificaat weergeven</string>
     <string name="view_document_downloaded_files">Bekijk gedownloade bestanden in Downloads</string>
     <string name="voice_check_network">Controleer uw netwerkinstellingen en probeer opnieuw.</string>
@@ -2054,7 +1986,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
-    <string name="welcome_to_mi_browser">Welkom bij Mi Browser!</string>
     <string name="what_is_new">Werk de app bij voor toegang tot nieuwe functies</string>
     <string name="whatsapp_downloadpage_tips">WhatsApp Status Bespaarder</string>
     <string name="whatsapp_file_saved_success">Succesvol opgeslagen</string>

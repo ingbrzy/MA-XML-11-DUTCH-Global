@@ -189,14 +189,14 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="er">Bestemmingsmap</string>
     <string name="es">Geselecteerd</string>
     <string name="et">Geselecteerde bestanden: %1$d | Totaal: %2$s</string>
-    <string name="eu">4-16 tekens, letters en cijfers, hoofdlettergevoelig</string>
+    <string name="eu">Gebruikersnaam en wachtwoord zijn hoofdlettergevoelig en moeten %1$d-%2$d tekens bevatten. U kunt Engelse letters, speciale symbolen en cijfers combineren.</string>
     <string name="ev">Anoniem aanmelden</string>
     <string name="ew">Gebruikersnaam of wachtwoord is onjuist</string>
     <string name="ex">Kon poort niet openen. Controleer uw netwerkverbinding of reset het poortnummer.</string>
     <string name="ey">Wachtwoord</string>
     <string name="ez">Poortnummer</string>
     <string name="f0">Beveiliging</string>
-    <string name="f1">Aanmelden</string>
+    <string name="f1">Gebruikersnaam en wachtwoord instellen</string>
     <string name="f2">Gebruikersnaam</string>
     <string name="f3">Vereenvoudigd Chinees Windows standaardcodering</string>
     <string name="f4">GBK</string>

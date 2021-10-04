@@ -76,6 +76,14 @@
         <item quantity="other">%d mappen</item>
         <item quantity="one">%d map</item>
     </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d seizoenen</item>
+        <item quantity="one">%d seizoen</item>
+    </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Ondertitels zullen %.1f seconden eerder worden getoond</item>
         <item quantity="one">Ondertitels zullen %.1f seconde eerder worden getoond</item>

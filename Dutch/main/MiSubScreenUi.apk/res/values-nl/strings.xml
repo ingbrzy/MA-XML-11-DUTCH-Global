@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -28,13 +28,19 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="actionbar_button_up_description">Terug</string>
+    <string name="add_emergency_contact">Een contactpersoon voor noodgevallen toevoegen</string>
     <string name="afternoon">Middag</string>
     <string name="alarm_close">Schuif omhoog om uit te schakelen</string>
     <string name="alarm_later">Sluimeren</string>
     <string name="align_type">Uitlijning</string>
     <string name="am">AM</string>
     <string name="aod_component">Altijd-aan-display</string>
+    <string name="aod_lock_screen_date">EEE dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd/MM"</string>
     <string name="aod_show_date_and_time">Datum en tijd</string>
+    <string name="app_name">Achterdisplay</string>
     <string name="apply">Toepassen</string>
     <string name="apply_succeed">Succesvol toegepast</string>
     <string name="background_icon">Achtergrond</string>
@@ -105,6 +111,7 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="gallery_page_name">Van Galerij</string>
+    <string name="has_add_contact">Toegevoegd</string>
     <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="letter_space">Tekenafstand</string>
@@ -191,6 +198,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -219,6 +227,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>
+    <string name="not_add_contact">Niet toegevoegd</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notification_new_message">Nieuw bericht</string>
     <string name="page_detail_preview_tip">Draai de telefoon om een ​​voorbeeld te bekijken</string>
@@ -236,18 +245,19 @@
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="send">Verzenden</string>
-    <string name="small_display_style">Achterdisplay thema</string>
+    <string name="small_display_style">Achterdisplay</string>
+    <string name="sps_cancel">Houd ingedrukt om af te sluiten</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">Vind meer op Mi Community</string>
-    <string name="sub_screen_app_name">Achterdisplay</string>
+    <string name="subscreen_could_edit_pic">Sleep afbeeldingen om het formaat te wijzigen, houd ingedrukt om ze te verwijderen</string>
     <string name="subscreen_other">Overige</string>
     <string name="subscreen_other_dialog_cancel">Annuleren</string>
-    <string name="subscreen_other_dialog_confirm">OK</string>
+    <string name="subscreen_other_dialog_confirm">Inschakelen</string>
     <string name="subscreen_other_dialog_goto">Toevoegen</string>
-    <string name="subscreen_other_dialog_message">Super energiebesparing schakelt het hoofdscherm uit. U kunt alleen de tijd zien, oproepen aannemen en uw contactpersoon voor noodgevallen bellen via het achterdisplay. Uw apparaat kan maximaal %d dagen werken na één keer opladen wanneer Super energiebesparing is ingeschakeld. Super energiebesparing nu inschakelen?</string>
+    <string name="subscreen_other_dialog_message">Super energiebesparing schakelt het hoofdscherm uit. U kunt alleen de tijd controleren, oproepen aannemen en uw eerder ingestelde contactpersoon voor noodgevallen bellen. Uit onze tests blijkt dat uw apparaat mogelijk tot %d dagen kan werken met één keer opladen wanneer Super energiebesparing is ingeschakeld. Deze tijdsperiode kan echter vanwege verschillende factoren korter zijn. Super energiebesparing nu inschakelen?</string>
     <string name="subscreen_other_dialog_title">Super energiebesparing</string>
     <string name="subscreen_other_next_dialog_message">U moet een contactpersoon voor noodgevallen toevoegen voordat u Super energiebesparing gebruikt. Nu toevoegen?</string>
-    <string name="subscreen_other_wilderness_summary">Super energiebesparing schakelt het hoofdscherm uit. U kunt alleen de tijd zien, oproepen aannemen en uw contactpersoon voor noodgevallen bellen via het achterdisplay. Uw apparaat kan maximaal %d dagen werken na één keer opladen wanneer Super energiebesparing is ingeschakeld.</string>
+    <string name="subscreen_other_wilderness_summary">Super energiebesparing schakelt het hoofdscherm uit. U kunt alleen de tijd controleren, oproepen aannemen en uw eerder ingestelde contactpersoon voor noodgevallen bellen. Uit onze tests blijkt dat uw apparaat mogelijk tot %d dagen kan werken met één keer opladen wanneer Super energiebesparing is ingeschakeld. Deze tijdsperiode kan echter vanwege verschillende factoren korter zijn.</string>
     <string name="subscreen_other_wilderness_title">Super energiebesparing</string>
     <string name="subscreen_settings_fail">Kon actie niet voltooien</string>
     <string name="subscreen_settings_mode">Schakel uit na</string>
@@ -328,6 +338,9 @@
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
+    <string name="wilderness_dcalling">Verbonden</string>
+    <string name="wilderness_dialing">Bellen</string>
+    <string name="wilderness_is_starting">Super energiebesparing inschakelen…</string>
     <string name="wireless_change_to_ac_charging">Schakel over naar bedraad opladen</string>
     <string name="yesterday">Gisteren</string>
 </resources>

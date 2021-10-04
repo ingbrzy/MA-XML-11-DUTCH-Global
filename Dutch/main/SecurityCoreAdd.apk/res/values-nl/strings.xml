@@ -69,6 +69,7 @@ zal deze functie automatisch ook aan Tweede ruimte worden toegevoegd."</string>
     <string name="close_second_space">Tweede ruimte is verwijderd</string>
     <string name="close_second_space_success">Tweede ruimte is verwijderd</string>
     <string name="closed">Uit</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="complete_setting">Voltooien</string>
     <string name="complete_setting_sub_title">Je kunt ook later terugkomen om de instellingen aan te passen.</string>
     <string name="complete_setting_title">U bent klaar!</string>

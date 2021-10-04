@@ -131,6 +131,7 @@
     <string name="accessibility_keyguard_face_unlock_view">Gezichtsontgrendeling</string>
     <string name="accessibility_left_control_center_button">Snelkoppeling</string>
     <string name="accessibility_left_lock_screen_magazine_button">Achtergrondcarrousel</string>
+    <string name="accessibility_left_xmyzl_button">Xiaomi Magic Control</string>
     <string name="accessibility_location_active">Locatieverzoeken actief</string>
     <string name="accessibility_long_click_tile">Instellingen openen</string>
     <string name="accessibility_manage_notification">Meldingen beheren</string>
@@ -560,6 +561,7 @@ Selectie"</string>
     <string name="cell_data_off">Uit</string>
     <string name="cell_data_off_content_description">Mobiele data uit</string>
     <string name="charge_length_format">%1$s geleden</string>
+    <string name="choose_clock_dual_clock_hint_text">Het formaat kan niet worden gewijzigd als Dubbele Klok is ingeschakeld</string>
     <string name="choose_clock_panel_title">Vergrendelscherm lay-out</string>
     <string name="choose_clock_third_theme_hint_text">Vergrendelscherm voor het momenteel toegepaste thema</string>
     <string name="choose_clock_title_left_top">Linkszijdig</string>
@@ -703,6 +705,9 @@ Als je hervat, kunnen er kosten voor datagebruik in rekening worden gebracht."</
     <string name="development_settings_not_available">Opties voor ontwikkelaars zijn niet beschikbaar voor deze gebruiker</string>
     <string name="development_settings_summary">Stel opties in voor app-ontwikkeling</string>
     <string name="development_settings_title">Ontwikkelaarsopties</string>
+    <string name="device_locked_without_biometric">Kan dit apparaat niet ontgrendelen met vingerafdrukken of gezichtsgegevens wanneer u een vergrendelscherm van derden gebruikt</string>
+    <string name="device_locked_without_biometric_face">Kan dit apparaat niet ontgrendelen met gezichtsgegevens wanneer u een vergrendelscherm van derden gebruikt</string>
+    <string name="device_locked_without_biometric_finger">Kan dit apparaat niet ontgrendelen met vingerafdrukken wanneer u een vergrendelscherm van derden gebruikt</string>
     <string name="device_services">Apparaatservices</string>
     <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Opmerking: Na opnieuw opstarten, start deze app pas wanneer u uw apparaat ontgrendelt.</string>
@@ -778,6 +783,7 @@ Als je hervat, kunnen er kosten voor datagebruik in rekening worden gebracht."</
     <string name="face_unlock_pin_and_fingerprint">Voer PIN in of gebruik een vingerafdruk om te ontgrendelen</string>
     <string name="face_unlock_reveal_eye">Maak uw ogen zichtbaar</string>
     <string name="face_unlock_reveal_mouth">Maak uw lippen zichtbaar</string>
+    <string name="face_unlock_success">Succesvol ontgrendeld</string>
     <string name="failed_to_open_app_settings_toast">Kon instellingen niet openen voor %1$s</string>
     <string name="fingerprint_add_text">De vingerafdruk-interface werd bijgewerkt. Voeg uw vingerafdruk opnieuw toe.</string>
     <string name="fingerprint_add_title">Vingerafdruk toevoegen</string>
@@ -806,6 +812,7 @@ Als je hervat, kunnen er kosten voor datagebruik in rekening worden gebracht."</
     <string name="fs_gesture_back_ready_title">Ga terug</string>
     <string name="fs_gesture_final_over">Ik ben klaar</string>
     <string name="fs_gesture_final_restart">Nog één keer</string>
+    <string name="fs_gesture_final_see_more">"Bekijk meer demo's in Instellingen > Startscherm > Systeemnavigatie"</string>
     <string name="fs_gesture_final_summary">U kunt terugschakelen met behulp van de knoppen in Instellingen > Volledige schermweergave</string>
     <string name="fs_gesture_final_title">U bent er helemaal klaar voor!</string>
     <string name="fs_gesture_finish">Mooi!</string>
@@ -926,13 +933,15 @@ Wil je ze blijven weergeven?"</string>
     <string name="input_lockscreen_password_hint_text">Voer wachtwoord in</string>
     <string name="input_lockscreen_pattern_hint_text">Teken patroon</string>
     <string name="input_lockscreen_pin_hint_text">PIN invoeren</string>
-    <string name="input_password_after_boot_msg">Voer uw wachtwoord in om het apparaat te ontgrendelen</string>
+    <string name="input_password_after_boot_msg">Het invoeren van uw wachtwoord is vereist wanneer het apparaat opnieuw wordt opgestart</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Kan tijdens een gesprek niet schakelen tussen ruimtes</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Kan niet schakelen tussen ruimten wanneer ouderlijk toezicht is ingeschakeld</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Kan niet tussen ruimtes schakelen wanneer Ultra batterijbesparing is ingeschakeld</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">U moet eerst Eerste ruimte gebruiken nadat het apparaat opnieuw opgestart is</string>
     <string name="input_password_hint_text">Voer wachtwoord in</string>
+    <string name="input_pattern_after_boot_msg">Het tekenen van uw patroon is vereist wanneer het apparaat opnieuw wordt opgestart</string>
     <string name="input_pattern_hint_text">Teken uw ontgrendelpatroon</string>
+    <string name="input_pin_after_boot_msg">Het invoeren van uw PIN is vereist wanneer het apparaat opnieuw wordt opgestart</string>
     <string name="input_pin_code">PIN invoeren</string>
     <string name="input_puk_code">Voer PUK in</string>
     <string name="install_other_apps">Onbekende apps installeren</string>
@@ -1011,6 +1020,7 @@ prioriteit"</string>
     <string name="keyguard_charged">Opgeladen</string>
     <string name="keyguard_charging_back_to_lockscreen">Terug naar vergrendelscherm</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
+    <string name="keyguard_charging_double_fast_and_level_tip">Oplaadsnelheid verhogen %s</string>
     <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">Vandaag %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">Gisteren %s</string>
@@ -1037,6 +1047,7 @@ prioriteit"</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of kan niet worden gelezen. Plaats een simkaart.</string>
     <string name="keyguard_missing_sim_message">Geen simkaart in telefoon.</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Netwerk vergrendeld</string>
     <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_code">Typ pincode</string>
@@ -1078,7 +1089,7 @@ prioriteit"</string>
     <string name="kg_invalid_confirm_pin_hint">Pincodes komen niet overeen</string>
     <string name="kg_invalid_puk">Geef de juiste pukcode opnieuw op. Bij herhaalde pogingen wordt de simkaart definitief uitgeschakeld.</string>
     <string name="kg_invalid_sim_pin_hint">Geef een pincode van vier tot acht cijfers op.</string>
-    <string name="kg_invalid_sim_puk_hint">De pukcode is minimaal acht cijfers lang.</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-code moet 8 cijfers bevatten.</string>
     <string name="kg_login_too_many_attempts">Te veel patroonpogingen</string>
     <string name="kg_password_instructions">Geef je wachtwoord op</string>
     <string name="kg_password_pin_failed">Bewerking met pincode voor simkaart is mislukt.</string>
@@ -1233,6 +1244,7 @@ d MMMM"</string>
     <string name="miui_notification_menu_setting_success">Voltooid</string>
     <string name="miui_notification_menu_snooze">Sluimeren</string>
     <string name="miui_notification_menu_title_not_allow">Beperken</string>
+    <string name="miui_screen_rotation_freeze_message">Vergrendelde schermoriëntatie in Landschapsmodus</string>
     <string name="miui_snooze_always_float">Niet verbergen</string>
     <string name="miui_snooze_cancel">Annuleren</string>
     <string name="miui_snooze_default_time">Voor %d minuut</string>
@@ -1271,12 +1283,14 @@ Je bent ook verbonden met %3$s, waarmee je persoonlijke netwerkactiviteit kan wo
 
 Neem contact op met je beheerder voor meer informatie."</string>
     <string name="monitoring_description_ca_cert_settings">Vertrouwde gegevens openen</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Er is een certificeringsinstantie geïnstalleerd op dit apparaat. Je beveiligde netwerkverkeer kan worden bijgehouden of aangepast.</string>
     <string name="monitoring_description_do_body">Je beheerder kan instellingen, zakelijke toegang, apps, aan je apparaat gekoppelde gegevens en de locatiegegevens van je apparaat controleren en beheren.</string>
     <string name="monitoring_description_do_body_vpn">Je bent verbonden met %1$s, waarmee je netwerkactiviteit (waaronder e-mails, apps en websites) kan worden gecontroleerd.</string>
     <string name="monitoring_description_do_header_generic">Je apparaat wordt beheerd door %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om je apparaat te beheren.</string>
     <string name="monitoring_description_do_learn_more">Meer informatie</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Je organisatie heeft een certificeringsinstantie geïnstalleerd in je werkprofiel. Je beveiligde netwerkverkeer kan worden bijgehouden of aangepast.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Je werkprofiel is verbonden met %1$s, waarmee je netwerkactiviteit (waaronder e-mails, apps en websites) kan worden bijgehouden.</string>
     <string name="monitoring_description_management">"Dit apparaat is eigendom van je organisatie.
@@ -1308,6 +1322,7 @@ Neem contact op met je beheerder voor meer informatie.
 
 Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecontroleerd."</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA-certificaten</string>
     <string name="monitoring_subtitle_network_logging">Netwerkregistratie</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1338,10 +1353,12 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="mr_dialog_transferable_header">Afspelen in een groep</string>
     <string name="mr_system_route_name">Systeem</string>
     <string name="mr_user_route_category_name">Apparaten</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">Kan niet tijdens oproep worden ingesteld</string>
     <string name="music_controls_no_title">Geen titel</string>
     <string name="nav_bar">Navigatiebalk</string>
     <string name="nav_bar_default">(standaard)</string>
     <string name="nav_bar_layout">Lay-out</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Geen</string>
     <string name="no_auto_saver_action">Nee</string>
     <string name="no_shortcut">%1$s ondersteunt geen gespreksfuncties</string>
@@ -1413,6 +1430,7 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="open_lock_screen_magazine_hint_text">Veeg naar rechts voor meer opties</string>
     <string name="open_remote_center_hint_text">Veeg naar rechts om de besturing te bekijken</string>
     <string name="open_saver_setting_action">Instellingen</string>
+    <string name="open_xmyzl_hint_text">Veeg naar rechts om Xiaomi Magic Control te openen</string>
     <string name="orb_search_action">Actie zoeken</string>
     <string name="osu_completing_sign_up">Registratie voltooien…</string>
     <string name="osu_connect_failed">Kan niet verbinden</string>
@@ -1438,7 +1456,7 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="phone_locked_foget_password_method_content">"&lt;Data>U moet &lt;font color=#a5220e>alle gegevens wissen &lt;/font>op uw apparaat, inclusief foto's en contacten, en vervolgens een nieuw wachtwoord voor het Vergrendelscherm instellen.&lt;/Data>"</string>
     <string name="phone_locked_foget_password_method_next">Volgende</string>
     <string name="phone_locked_foget_password_ok">Begrepen</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>Schakel uw apparaat uit, druk en hou de &lt;font color=#a5220e>inschakelingsknop&lt;/font> en de &lt;font color=#a5220e>Volume knop&lt;/font> tegelijk ingedrukt totdat u het Mi logo ziet.&lt;/Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Schakel uw apparaat uit en houd vervolgens ingedrukt de &lt;font color=#e6e6e6>[Aan/uit]&lt;/font> en &lt;font color=#e6e6e6>[Volume +]&lt;/font> knoppen totdat u &lt;img src=\"\"> ziet.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Selecteer &lt;font color=#a5220e>\"Veeg en Herstel\"&lt;/font> en wacht totdat het apparaat opnieuw opstart.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Hoe gegevens wissen?</string>
     <string name="phone_locked_string">Dit apparaat is vergrendeld</string>
@@ -1524,6 +1542,7 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="private_dns_mode_provider">Hostnaam van de particuliere DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan niet verbinden</string>
     <string name="private_dns_mode_provider_hostname_hint">Voer de hostnaam van de DNS-provider in</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinden. Schakel het apparaat uit en weer in</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="profile_owned_footer">Profiel kan worden gecontroleerd</string>
@@ -1657,7 +1676,7 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="quick_settings_rotation_locked_landscape_label">Liggend</string>
     <string name="quick_settings_rotation_locked_portrait_label">Staand</string>
     <string name="quick_settings_rotation_unlocked_label">Automatisch draaien</string>
-    <string name="quick_settings_rotationlock_label">Draaien uit</string>
+    <string name="quick_settings_rotationlock_label">Oriëntatie vergrendelen</string>
     <string name="quick_settings_rssi_emergency_only">Alleen noodoproepen</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Schermopname</string>
@@ -1815,6 +1834,8 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="show_silently">Meldingen zonder geluid weergeven</string>
     <string name="show_touches">Tikken tonen</string>
     <string name="show_touches_summary">Visuele feedback voor tikken tonen</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content"><Data>Press and hold the &lt;font color=#e6e6e6>[Power]&lt;/font> and &lt;font color=#e6e6e6>[Volume +]&lt;/font> buttons until you see &lt;img src=\"\">.</Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content"><Data>Select &lt;font color=#e6e6e6>[Wipe data]&lt;/font> and tap &lt;font color=#e6e6e6>[Reboot]&lt;/font> after that.</Data></string>
     <string name="sim_state_locked_dialog_title">Ongeldige SIM kaart</string>
     <string name="sim_state_locked_puk_dialog_message">U heeft minstens %d keer een onjuiste PUK-code ingevoerd. Uw SIM kaart is nu ongeldig. Vervang deze SIM kaart door een andere.</string>
     <string name="simulate_color_space">Kleurruimte simuleren</string>

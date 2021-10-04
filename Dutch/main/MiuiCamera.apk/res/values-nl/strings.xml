@@ -79,6 +79,7 @@
     <string name="accessibility_document_blackwhite_button">Documenten scannen. Zwart en wit.</string>
     <string name="accessibility_document_origin_button">Documenten scannen. Origineel.</string>
     <string name="accessibility_document_strengthen_button">Documenten scannen. Verbeterd.</string>
+    <string name="accessibility_double_click_to_exit">Dubbeltik om af te sluiten</string>
     <string name="accessibility_dual_preview_change">Bekijk wijzigingen</string>
     <string name="accessibility_dual_preview_change_finish">Wijzigingen zijn succesvol weergegeven</string>
     <string name="accessibility_dual_video_merged">Gecombineerde video</string>
@@ -118,6 +119,7 @@
     <string name="accessibility_live_preview_button">Bekijk vorig item</string>
     <string name="accessibility_live_reverse_button">Verwijder vorige clip</string>
     <string name="accessibility_live_speed_panel_on">Snelheidspaneel</string>
+    <string name="accessibility_lock_focus_success">Focus succesvol vergrendeld</string>
     <string name="accessibility_manually_custom_panel_on">Aanpassingspaneel</string>
     <string name="accessibility_mimoji_background_panel_on">Paneel Achtergronden</string>
     <string name="accessibility_mimoji_gif_off">GIF-modus is uitgeschakeld</string>
@@ -128,6 +130,7 @@
     <string name="accessibility_mimovie_on">Filmframe gebruiken</string>
     <string name="accessibility_module_picker_finish">Overgeschakeld naar %s</string>
     <string name="accessibility_more">Meer</string>
+    <string name="accessibility_multi_cam_reselect_button">"Selecteer camera's opnieuw"</string>
     <string name="accessibility_open">Aan</string>
     <string name="accessibility_pano_moving_left">Verplaats het apparaat naar links</string>
     <string name="accessibility_pano_moving_right">Verplaats het apparaat naar rechts</string>
@@ -146,11 +149,14 @@
     <string name="accessibility_preview_selected">Geselecteerd</string>
     <string name="accessibility_preview_shrink">Uitzoomen</string>
     <string name="accessibility_preview_zoom_tip">%1$.1fX zoomvoorbeeld</string>
+    <string name="accessibility_pro_parameters_panel_on">Open het menu met PRO-parameters</string>
     <string name="accessibility_pro_video_simple_mode">Lite-modus</string>
     <string name="accessibility_protrait">Portret</string>
     <string name="accessibility_pull_down_to_open_camera">Veeg naar beneden om de camera te openen</string>
     <string name="accessibility_record_button">Opnameknop</string>
     <string name="accessibility_reduce">Uitzoomen</string>
+    <string name="accessibility_reference_line_image_off">Geen rasterlijnen weergeven</string>
+    <string name="accessibility_reference_line_image_on">Rasterlijnen weergeven</string>
     <string name="accessibility_reference_line_text">Open het paneel met opties voor een referentielijn</string>
     <string name="accessibility_review_thumbnail">Meest recente foto</string>
     <string name="accessibility_select_all">Alles selecteren</string>
@@ -179,6 +185,8 @@
     <string name="accessibility_timer_burst_image_off">Getimede burst is uitgeschakeld</string>
     <string name="accessibility_timer_burst_image_on">Getimede burst is ingeschakeld</string>
     <string name="accessibility_timer_burst_text">Getimed burst aanpassingspaneel</string>
+    <string name="accessibility_touch_focus_fail">Kon niet focussen</string>
+    <string name="accessibility_touch_focus_success">Succesvol gefocust</string>
     <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD is uitgeschakeld</string>
     <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD is ingeschakeld</string>
     <string name="accessibility_ultra_wide_off">Ultra wijde hoekmodus uitgeschakeld</string>
@@ -513,6 +521,7 @@ en voorkeuren automatisch aanpassen"</string>
     <string name="custom_watermark_words">Aangepast watermerk</string>
     <string name="custom_watermark_words_input_hint">Voer tekst in</string>
     <string name="custom_watermark_words_save_success">Succesvol opgeslagen</string>
+    <string name="dd_frn_f_t">Vouw uw apparaat op om de voorkant camera te gebruiken</string>
     <string name="dialog_button_accept">Accepteren</string>
     <string name="dialog_button_back">Terug</string>
     <string name="dialog_button_cancel">Annuleren</string>
@@ -565,11 +574,15 @@ gescande documenten automatisch"</string>
     <string name="dual_video_record_remote">Dubbele telefoonopname</string>
     <string name="dual_video_record_standalone">Gescheiden</string>
     <string name="dual_video_user_guide_main_content">"Om multicam-video's te maken, selecteert u twee camera's op uw apparaat en maakt u tegelijkertijd opnamen. De opnames kunnen afzonderlijk worden opgeslagen, of gecombineerd in een gesplitste weergave of Afbeelding-in-Afbeelding video."</string>
+    <string name="dual_video_user_guide_main_content_new">"Multicam-video's worden met meerdere camera's tegelijk opgenomen.
+Dubbele telefoonopname stelt u ook in staat verbinding te maken met het andere apparaat en een multicam-video te maken door \"Gecombineerd\" te selecteren."</string>
     <string name="dual_video_user_guide_main_title">Multicam-video</string>
     <string name="dual_video_user_guide_merge_content">"Maak opnamen met twee camera's tegelijkertijd en combineer opnamen in een gesplitste weergave of Afbeelding-in-Afbeelding video."</string>
-    <string name="dual_video_user_guide_remote_content">Dubbele telefoonopname maakt het combineren van feeds van twee verschillende apparaten in één video mogelijk. U kunt op dit apparaat een voorbeeld van beide feeds en de uiteindelijke video bekijken. Merk op dat audio alleen wordt opgenomen door dit apparaat.</string>
+    <string name="dual_video_user_guide_merge_content_new">Twee opnamen kunnen worden gecombineerd in een gesplitste weergave of of Afbeelding-in-Afbeelding video.</string>
+    <string name="dual_video_user_guide_remote_content">Combineer feeds van twee verschillende apparaten in één video. U kunt op dit apparaat een voorbeeld van beide feeds en de uiteindelijke video bekijken. Let er op dat audio alleen door dit apparaat wordt opgenomen.</string>
     <string name="dual_video_user_guide_remote_p">Telefoon %d</string>
     <string name="dual_video_user_guide_standalone_content">"Maak opnamen met twee camera's tegelijkertijd en sla beide opnames op als aparte video's."</string>
+    <string name="dual_video_user_guide_standalone_content_new">"Gelijktijdig opgenomen video's kunnen ook worden gescheiden en opgeslagen als twee bestanden."</string>
     <string name="edit_blusher">Rouge</string>
     <string name="edit_chin">Kin</string>
     <string name="edit_color_skin">Huidskleur</string>
@@ -592,6 +605,7 @@ gescande documenten automatisch"</string>
     <string name="edit_solid">Contour</string>
     <string name="emoticon">Stickerpakket</string>
     <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
+    <string name="esp_tip">Buitenste display voorbeeld</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="eye_light">Oog schittering</string>
     <string name="eye_light_angel">Engel</string>
@@ -735,7 +749,7 @@ in Portretmodus"</string>
     <string name="live_sticker_updating">Bijwerken…</string>
     <string name="live_workspace_title">Concepten</string>
     <string name="live_workspace_title_edit">Selecteer items om te verwijderen</string>
-    <string name="location_access_allow">Toestaan</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">"Locaties voor foto's en video's herinneren"</string>
     <string name="location_permission_not_ask_again">Verleen Camera toegang tot uw locatie in de Instellingen.</string>
     <string name="location_permission_not_ask_again_go_to_settings">Toestaan</string>
@@ -897,6 +911,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="module_name_panorama">Panorama</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
+    <string name="module_name_scanner">Scanner</string>
     <string name="module_name_square">Vierkant</string>
     <string name="module_name_super_moon">Super maan</string>
     <string name="module_name_video">Video</string>
@@ -914,8 +929,8 @@ er groter uit te laten zien op foto's"</string>
     <string name="network_access_user_notice_title">Verbinding aan het maken met het internet</string>
     <string name="network_connection_failed">Kon niet verbinden</string>
     <string name="network_connection_ongoing">Verbinden…</string>
-    <string name="network_connection_prerequisites">Schakel Bluetooth en Wifi in om Dubbele telefoonopname te kunnen gebruiken.</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">Schakel Bluetooth en Wifi in het Controlecentrum in om Dubbele telefoonopname te kunnen gebruiken.</string>
+    <string name="network_connection_prerequisites_china">Schakel Bluetooth en WLAN in het Controlecentrum in om Dubbele telefoonopname te kunnen gebruiken.</string>
     <string name="network_connection_rejected">Afgewezen</string>
     <string name="network_connection_timed_out">Verbinding verlopen</string>
     <string name="no_storage">Plaats een SD-kaart voordat u de camera gebruikt</string>
@@ -969,7 +984,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="parameter_videos_title">Filmeffecten</string>
     <string name="parameter_wb_description">Naast de voorinstellingen voor de witbalans (gloeilamplicht, daglicht, fluorescerend, bewolkt), kunt u de witbalans ook instellen op een aangepaste waarde binnen het bereik van 2000–8000 Kelvin.</string>
     <string name="parameter_wb_title">Witbalans</string>
-    <string name="parameter_zoom_slider_description">Sleep de zoomregelaar horizontaal om uw opname soepel te veranderen van een langeafstands opname naar een close-up.</string>
+    <string name="parameter_zoom_slider_description">Sleep de zoomschuifregelaar horizontaal om uw opname soepel te veranderen van een langeafstands opname naar een close-up.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
     <string name="path_settings">Systeem-apps/Camera/Instellingen</string>
     <string name="photo_assistance_tips_title">Live-tips</string>
@@ -1052,6 +1067,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_auxiliary_close">Uit</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Belichtingsverificatie</string>
     <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Hoog</string>
     <string name="pref_camera_beautify_entry_low">Laag</string>
     <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -1084,11 +1100,12 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_delay_capture_entry_audio">Audio</string>
     <string name="pref_camera_delay_capture_title">Timer</string>
     <string name="pref_camera_device_watermark_title">Apparaat watermerk</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">Framesnelheid wordt automatisch verlaagd bij weinig licht om de videokwaliteit te verbeteren</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">Framesnelheid wordt automatisch verlaagd bij weinig licht of hoge temperaturen om de videokwaliteit te verbeteren</string>
     <string name="pref_camera_dynamic_frame_rate_title">Pas de framesnelheid aan bij weinig licht</string>
     <string name="pref_camera_eis_entry_normal">Stabiele video</string>
     <string name="pref_camera_eis_entry_off">Uitgeschakeld</string>
     <string name="pref_camera_eis_entry_pro">Stabiele video PRO</string>
+    <string name="pref_camera_esp">Achterdisplay preview</string>
     <string name="pref_camera_face_info_watermark_title">"Leeftijdsstempel toevoegen aan foto's"</string>
     <string name="pref_camera_fastmotion_duration">Duur</string>
     <string name="pref_camera_fastmotion_duration_description">De duur van een opnamesessie is standaard onbeperkt. U kunt ook de timer instellen die de sessie op een vast moment stopt.</string>
@@ -1238,6 +1255,8 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_tip_id_card">ID-scanner</string>
     <string name="pref_camera_touchafaec_entry_off">Uit</string>
     <string name="pref_camera_touchafaec_entry_on">Aan</string>
+    <string name="pref_camera_track_focus_preferred_description">Schakel in om automatisch de focus op mensen en dieren te houden. U kunt ook onderwerpen selecteren om handmatig te volgen.</string>
+    <string name="pref_camera_track_focus_preferred_title">Focus-tracking</string>
     <string name="pref_camera_ubifocus_title">Herfocussen</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corrigeer automatisch vervormde objecten</string>
     <string name="pref_camera_ultra_wide_ldc_title">Vervorming in ultra wijde opnames corrigeren</string>
@@ -1402,11 +1421,15 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="prek_b_j_o">Stereo surround-effect recreëren</string>
     <string name="prek_b_j_p">Verminder de impact van wind op geluidsopname</string>
     <string name="prep_video_ai_audio_new_desc_tip">Geluiden van het gefocuste onderwerp worden versterkt</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">Geluiden van het onderwerp waarop is scherpgesteld, worden versterkt in de landschapsmodus</string>
     <string name="prep_video_ai_audio_single_desc_tip">Geluiden van achter het scherm worden gefilterd</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">Geluiden van achter het scherm worden gefilterd in de landschapsmodus</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">Audio zoom werkt niet met live in-ear monitor en externe microfoon</string>
     <string name="preparing_sd">SD-kaart controleren…</string>
     <string name="preview_back_pressed_hint">Tik nogmaals om terug te gaan naar het voorbeeld</string>
     <string name="pro_color_mode">Pro kleur</string>
+    <string name="process_tips_1">Vouw het apparaat niet op voordat de video is opgeslagen</string>
+    <string name="process_tips_2">Vouw het apparaat niet open voordat de video is opgeslagen</string>
     <string name="professional_shortcut_short">Pro</string>
     <string name="recommend_macro_mode">Probeer Macromodus</string>
     <string name="recommend_portrait">Probeer Portretmodus</string>
@@ -1431,6 +1454,9 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="reset_manual_picture_style_toast">Parameters succesvol resetten</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Reset</string>
+    <string name="scan_install_prompt_header">Scanner installeren</string>
+    <string name="scan_install_prompt_loading">Scanner installeren…</string>
+    <string name="scan_install_prompt_message">Installeer Scanner en probeer het opnieuw.</string>
     <string name="screen_on_proximity_sensor_hint">Druk tegelijkertijd op de Volume omhoog- en de Terugknop om deze functie uit te schakelen.</string>
     <string name="screen_on_proximity_sensor_summary">Bedek de koptelefoon regio niet</string>
     <string name="search_menu_title">Zoeken</string>
@@ -1497,6 +1523,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="super_moon_under">Maanlicht</string>
     <string name="super_moon_window">Venster</string>
     <string name="super_night_hint">De foto wordt geoptimaliseerd… Houd uw apparaat stil.</string>
+    <string name="super_night_owl_toast">Houd uw telefoon stabiel</string>
     <string name="super_night_se_tip">Nachtmodus</string>
     <string name="super_night_toast">Houd uw telefoon stabiel wanneer uw een foto neemt</string>
     <string name="tap_to_exposure">Tik om belichting handmatig aan te passen</string>
@@ -1532,9 +1559,11 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="ubifocus_capture_warning_message">"Voor het beste resultaat moeten foto's zowel dichtbije objecten (minder dan 1 meter van de lens) en verre objecten bevatten"</string>
     <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD is uitgeschakeld</string>
     <string name="ultra_ai_pixel_photography_open_tip">AI %s Ultra HD</string>
+    <string name="ultra_pixel_100mp">100MP</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">50MP</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD is uitgeschakeld</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD is ingeschakeld</string>

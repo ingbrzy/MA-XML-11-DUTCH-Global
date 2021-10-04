@@ -25,14 +25,14 @@
         <item>Aangepast</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarm gaat af over minder dan een minuut.</item>
-        <item>Alarm gaat af over %1$s.</item>
-        <item>Alarm gaat af over %2$s.</item>
-        <item>Alarm gaat af over %1$s en %2$s.</item>
-        <item>Alarm gaat af over %3$s.</item>
-        <item>Alarm gaat af over %1$s en %3$s.</item>
-        <item>Alarm gaat af over %2$s en %3$s.</item>
-        <item>Alarm gaat af over %1$s %2$s en %3$s.</item>
+        <item>Alarm zal over minder dan een minuut afgaan.</item>
+        <item>Alarm zal afgaan over %1$s.</item>
+        <item>Alarm zal afgaan over %2$s.</item>
+        <item>Alarm zal afgaan over %1$s en %2$s.</item>
+        <item>Alarm zal afgaan over %3$s.</item>
+        <item>Alarm zal afgaan over %1$s en %3$s.</item>
+        <item>Alarm zal afgaan over %2$s en %3$s.</item>
+        <item>Alarm zal afgaan over %1$s %2$s en %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Goed</item>

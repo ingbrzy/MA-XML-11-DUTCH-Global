@@ -29,11 +29,14 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="access_denied">Toegang geweigerd</string>
     <string name="account_related">Uw apparaat is geassocieerd met een bestaande Mi Account (%s). Maak verbinding met het netwerk om het apparaat te verifiëren.</string>
+    <string name="actionbar_button_up_description">Terug</string>
     <string name="activate_find_device_success">Apparaat zoeken is geactiveerd.</string>
     <string name="activate_finddevice">Maak verbinding met het netwerk om apparaat te activeren</string>
     <string name="activating">Activeren…</string>
     <string name="add_short_cut">Toevoegen</string>
     <string name="added_successfully">Succesvol toegevoegd</string>
+    <string name="afternoon">Middag</string>
+    <string name="am">AM</string>
     <string name="antispam_sync">Niet storen instellingen</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
@@ -42,7 +45,9 @@
     <string name="calendar_sync">Kalender</string>
     <string name="check_contact">Toevoegen</string>
     <string name="choose_contact_title">Contacten</string>
+    <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="click_to_enabled">Raak aan om te synchroniseren.</string>
+    <string name="close">Sluiten</string>
     <string name="close_shortcut">Sluiten</string>
     <string name="cloud_find_device">Apparaat zoeken</string>
     <string name="cloud_find_device_off">Uit</string>
@@ -82,13 +87,28 @@
     <string name="data_merge_dialog_loading">Gegevens verifiëren…</string>
     <string name="data_merge_dialog_title">Items samenvoegen</string>
     <string name="data_protection_title">Gegevens beschermen</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="detect_sim_card">Zoeken naar SIM kaart</string>
-    <string name="disable_find_device_error">\"Kan Apparaat zoeken niet uitschakelen. \"%1$s</string>
+    <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
+    <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"First activation is registered when a device connects to the network (including but not limited to WLAN and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">Not supported on this device</string>
+    <string name="device_activation_card_local_service_error">"Couldn't get info. Wait a minute or two and try again."</string>
+    <string name="device_activation_card_no_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
+    <string name="device_activation_card_title">First activation</string>
+    <string name="device_activation_page_title">Device activation</string>
     <string name="do_not_merge">Annuleren</string>
-    <string name="enable_find_device_error">\"Kan Apparaat zoeken niet inschakelen. \"%1$s</string>
+    <string name="early_morning">Ochtend</string>
+    <string name="empty" />
     <string name="enable_find_device_success">Apparaat zoeken is ingeschakeld.</string>
     <string name="enable_micloud">Meld u aan om Xiaomi Cloud te gebruiken</string>
     <string name="enable_sync_setting_title">Cloud services configureren…</string>
+    <string name="eras_ad">n.C.</string>
+    <string name="eras_bc">v.C.</string>
     <string name="error_canceled">Geannuleerd</string>
     <string name="error_credential_fail">Wachtwoord fout</string>
     <string name="error_data_in_transfer">Synchronisatie zal voltooid zijn over %s uur.</string>
@@ -108,25 +128,82 @@
     <string name="error_token_expired">Log opnieuw in op uw Mi Account</string>
     <string name="error_unknown">Kan niet inloggen</string>
     <string name="error_unsupported">Deze functie wordt niet ondersteund op dit apparaat</string>
+    <string name="evening">Middag</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="feedback_custom_hint">Beschrijf de problemen die u hier bent tegengekomen. Als u suggesties geeft, stellen we meer details op prijs!</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#0097FF>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
-    <string name="find_device_error_network">Controleer je data verbinding en probeer het opnieuw.</string>
-    <string name="find_device_error_server">Server fout</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <a href="app://com.miui.cloudservice.gdpr.license"><u>Privacybeleid</u></a>. Als u toestemming in moet trekken, schakel deze functie dan uit.</string>
     <string name="find_device_operation_failure_rpc">Door een RPC-fout kon de operatie niet worden uitgevoerd.</string>
     <string name="find_device_send_sms_alert">Als u van SIM kaarten verwisseld kan er automatisch een SMS verstuurd worden om deze functie te heractiveren.</string>
     <string name="find_device_service_title">Apparaat zoeken</string>
-    <string name="find_device_status_summary">Lokaliseer en vergrendel uw apparaat en wis gegevens op afstand</string>
+    <string name="find_device_status_summary">"Lokaliseer en vergrendel uw apparaat, wis gegevens of maak op afstand foto's"</string>
     <string name="find_device_status_title_pad">Apparaat zoeken</string>
     <string name="find_device_status_title_phone">Apparaat zoeken</string>
     <string name="finddevice_miservice_notification_content">Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</string>
     <string name="finddevice_miservice_notification_title">Apparaat zoeken inschakelen</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'uur'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_24hour">"H 'uur'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min.'"</string>
+    <string name="fmt_time_minute_second">"m'min.' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min.' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>Wachtwoord vergeten</u></string>
+    <string name="friday">Vrijdag</string>
+    <string name="friday_short">Vr</string>
+    <string name="friday_shortest">Vr</string>
     <string name="help_and_feedback">Hulp en feedback</string>
+    <string name="hybrid_provider">Mogelijk gemaakt door %1$s</string>
     <string name="i_know">OK</string>
-    <string name="input_password_hint">Voer wachtwoord in</string>
+    <string name="input_password_hint">Wachtwoord invoeren</string>
     <string name="internet_access_dspt">Deze app moet met internet verbinden om normaal te kunnen werken.</string>
     <string name="keybag_dialog_cancel">Annuleren</string>
     <string name="keybag_dialog_ok">OК</string>
@@ -160,6 +237,7 @@
     <string name="ks_fingerprint_status">Status betaling</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_high_precise_position">high precise position</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -205,12 +283,9 @@
     <string name="mi_drive_summary">Toegang tot documenten van Xiaomi Cloud op meerdere apparaten</string>
     <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">OК</string>
-    <string name="micloud_all_sub_1_intl_sms">Een internationale SMS zal verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
-    <string name="micloud_all_sub_1_sms">Een gewone SMS zal verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">2 SMS berichten (normaal en internationaal) zullen verstuurd worden naar uw SIM-kaart U betaalt hiervoor aan uw provider.</string>
-    <string name="micloud_all_sub_2_intl_sms">2 internationale SMS berichten zullen verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
-    <string name="micloud_all_sub_2_sms">2 gewone SMS berichten zullen verstuurd worden om uw SIM kaart te activeren. U betaalt hiervoor aan uw provider.</string>
-    <string name="micloud_all_sub_resend_sms">"Als u 'Apparaat zoeken' inschakelt kan er een activatie SMS worden gestuurd nadat u van simkaart wisselt."</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint">Om Apparaat zoeken en Xiaomi Cloud services in te schakelen, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> automatisch verzonden.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">Om Apparaat zoeken en Xiaomi Cloud services in te schakelen, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> automatisch verzonden.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">Om Apparaat zoeken en Xiaomi Cloud services in te schakelen, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> automatisch verzonden.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
     <string name="micloud_battery_low_notification_message">Sluit opladeraan om te synchroniseren</string>
     <string name="micloud_battery_low_notification_title">Batterij bijna leeg</string>
     <string name="micloud_buy_member_safe">Meer cloud opslag verkrijgen</string>
@@ -246,20 +321,18 @@
     <string name="micloud_confusion_yes">Ja</string>
     <string name="micloud_detail_fail">Kan niet synchroniseren</string>
     <string name="micloud_detail_query_error">Kan synchroniseer status niet ophalen</string>
-    <string name="micloud_dspt">"Synchroniseer uw contacten, berichten, belgeschiedenis en andere items op alle apparaten.
-Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_dspt_provision">Gebruik Xiaomi Cloud om gegevens te synchroniseren, uw apparaat te lokaliseren en om dingen te delen met vrienden.</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_china_v2">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_v2">Gebruik Xiaomi Cloud om gegevens te synchroniseren, uw apparaat te lokaliseren en om dingen te delen met vrienden.</string>
-    <string name="micloud_dspt_provision_xms">Gebruik Xiaomi Cloud om gegevens te synchroniseren.</string>
-    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
-    <string name="micloud_find_device_close_alert_content">Als u Apparaat zoeken uitschakelt, kunt u uw apparaat met deze functie niet vinden. Als uw apparaat NFC ondersteunt, worden al uw bankpassen en keycards verwijderd uit Mi Pay. Mensen met wie u een locatie deelt, kunnen ook geen updates ontvangen over uw verblijfplaats.</string>
+    <string name="micloud_find_device_close_alert_content">Als u Apparaat zoeken uitschakelt, kunt u uw apparaat met deze functie niet vinden. Mensen met wie u een locatie deelt, kunnen ook geen updates ontvangen over uw verblijfplaats.</string>
     <string name="micloud_find_device_close_alert_negtive">Toch uitschakelen</string>
     <string name="micloud_find_device_close_alert_positive">Behouden</string>
     <string name="micloud_find_device_close_alert_title">Apparaat zoeken uitschakelen?</string>
     <string name="micloud_find_device_close_fail">Apparaat zoeken kon niet worden uitgeschakeld</string>
     <string name="micloud_find_device_close_progress">Apparaat zoeken uitschakelen…</string>
+    <string name="micloud_find_device_common_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
+    <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
     <string name="micloud_find_device_finish">Gereed</string>
     <string name="micloud_find_device_guide_alert_content">Apparaat zoeken is geassocieerd met uw Mi Account. U moet een wachtwoord instellen of het wachtwoord invullen dat u heeft ingesteld. Zorg ervoor dat u uw Mi Account ID en wachtwoord altijd onthoudt.</string>
     <string name="micloud_find_device_guide_alert_negtive">Nee, bedankt</string>
@@ -270,9 +343,6 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_find_device_guide_desc_pad">Als u uw apparaat kwijt bent, log dan in op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> op een ander apparaat om gegevens op een verloren apparaat te lokaliseren, op afstand te vergrendelen of te wissen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Details weergeven&lt;/a>.</string>
     <string name="micloud_find_device_guide_desc_phone">Als u uw apparaat kwijt bent, log dan in op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> op een ander apparaat om gegevens op een verloren apparaat te lokaliseren, op afstand te vergrendelen of te wissen. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>Details weergeven&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">U kunt Apparaat zoeken inschakelen in Mi Account - Xiaomi Cloud</string>
-    <string name="micloud_find_device_guide_fail_sub_net">Controleer uw netwerkverbinding en probeer opnieuw.</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">"Synchroniseer contacten, foto's, notities en meer met Xiaomi Cloud"</string>
-    <string name="micloud_find_device_guide_micloud_sub_content_v2">"Synchroniseer contacten, foto's, notities en meer met Xiaomi Cloud"</string>
     <string name="micloud_find_device_guide_noti_content">Bescherm uw data zelfs als uw mobiel kwijt raakt</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Uw QQ data zal veilig zijn, zelfs als u uw apparaat kwijt raakt</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Uw WeChat data zal veilig zijn, zelfs als u uw apparaat kwijt raakt</string>
@@ -283,31 +353,31 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay raadt u aan om Apparaat zoeken in te schakelen</string>
     <string name="micloud_find_device_guide_progress">Apparaat zoeken inschakelen…</string>
     <string name="micloud_find_device_guide_title">Log in op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> met uw Mi Account om uw apparaat te lokaliseren en te vergrendelen, het als verloren te markeren of gegevens op afstand te wissen. Bekijk details &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>hier&lt;/a>.</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren.&lt;br/>Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.</string>
     <string name="micloud_find_device_open_fail">Kon Apparaat zoeken niet uitschakelen</string>
     <string name="micloud_find_device_opened">Apparaat zoeken is ingeschakeld</string>
     <string name="micloud_find_device_opened_content">Zoek uw apparaat op %s</string>
-    <string name="micloud_find_device_sms_alert">Mogelijk is een uitgaand SMS-bericht vereist om deze service te activeren. Uw koerier brengt u dit bericht in rekening. Wanneer u van SIM-kaart wisselt, wordt mogelijk automatisch een bericht verzonden om deze functie opnieuw te activeren.</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">Heractiveer Apparaat zoeken</string>
     <string name="micloud_find_device_verify_close">Apparaat zoeken uitschakelen</string>
     <string name="micloud_find_device_verify_fail">Apparaat zoeken kon niet geheractiveerd worden</string>
     <string name="micloud_find_device_verify_progress">Apparaat zoeken heractiveren…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">Synchroniseren is geannuleerd. Probeer het opnieuw.</string>
     <string name="micloud_main_head_menu_cloud_backup">Startscherm back-up</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">Systeeminstellingen en Startscherm lay-out</string>
     <string name="micloud_main_head_menu_finddevice_summary">Lokaliseer en vergrendel uw apparaat</string>
-    <string name="micloud_main_head_menu_finddevice_unavailable">Apparaat zoeken is niet beschikbaar in Tweede ruimte, u kunt dit gebruiken in Eerste ruimte.</string>
+    <string name="micloud_main_head_menu_finddevice_unavailable">Apparaat zoeken is niet beschikbaar in Tweede ruimte. U kunt dit gebruiken in Eerste ruimte.</string>
     <string name="micloud_main_head_menu_recycle_bin_summary">Verwijderde items herstellen</string>
     <string name="micloud_main_head_menu_recycle_bin_title">Verwijderde items</string>
     <string name="micloud_main_head_menu_state_close">Uit</string>
     <string name="micloud_main_head_menu_state_open">Aan</string>
     <string name="micloud_main_head_menu_state_unavailable">Niet ondersteund</string>
     <string name="micloud_main_manual_sync">Handmatig synchroniseren</string>
-    <string name="micloud_main_memory_low_title">Interne opslag van telefoon is bijna vol</string>
     <string name="micloud_main_network_error">Kan geen verbinding maken met het netwerk</string>
     <string name="micloud_main_sync_mode_summary">Synchroniseer live app-gegevens. Stroomverbruik zal hoger zijn wanneer deze functie ingeschakeld is.</string>
     <string name="micloud_main_sync_mode_title">Snel synchroniseren</string>
-    <string name="micloud_main_wait_charge">Laad uw apparaat volledig op om het synchroniseren te hervatten.</string>
-    <string name="micloud_main_wait_charge_sleep">Schakel het scherm uit en laad uw apparaat volledig op om het synchroniseren te hervatten.</string>
     <string name="micloud_manage_space_data">Cloud gegevens beheren</string>
     <string name="micloud_manaul_sync_success_button_text">Details bekijken</string>
     <string name="micloud_manaul_sync_success_time_prefix">Laatst gesynchroniseerd: %s</string>
@@ -326,7 +396,9 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_manual_grant_permission">Toestaan</string>
     <string name="micloud_manual_local_storage_low_button_text">Wissen</string>
     <string name="micloud_manual_local_storage_low_summary">Maak opslagruimte vrij en probeer het opnieuw.</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">Maak opslagruimte vrij en probeer het opnieuw.</string>
     <string name="micloud_manual_local_storage_low_title">Kan niet synchroniseren. Er is niet genoeg opslagruimte op uw apparaat.</string>
+    <string name="micloud_manual_local_storage_low_title_pad">Kan niet synchroniseren. Er is niet genoeg opslagruimte op uw apparaat.</string>
     <string name="micloud_manual_network_disconnet_button_text">Controleer netwerkinstellingen</string>
     <string name="micloud_manual_network_disconnet_title">Kan niet synchroniseren vanwege een netwerkfout</string>
     <string name="micloud_manual_paused">Gepauzeerd</string>
@@ -380,6 +452,10 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_proceed">Doorgaan</string>
     <string name="micloud_request_permission_confirm">Begrepen</string>
     <string name="micloud_request_permission_content">"Om kalendergebeurtenissen, contacten, berichten, belgeschiedenis, foto's, video's en andere items te kunnen synchroniseren, heeft Xiaomi Cloud toestemmingen nodig om toegang te krijgen tot uw kalender, contacten, accounts, SIM-status, belgeschiedenis, berichten, foto's en video's."</string>
+    <string name="micloud_request_permission_content_pad">"Om kalendergebeurtenissen, contacten, berichten, foto's, video's en andere items te kunnen synchroniseren, heeft Xiaomi Cloud toestemmingen nodig voor toegang tot uw kalender, contacten, accounts, SIM-status, berichten, foto's en video's."</string>
+    <string name="micloud_request_permission_content_pad_without_contact_but_sim">"Om kalendergebeurtenissen, berichten, foto's, video's en andere items te kunnen synchroniseren, heeft Xiaomi Cloud toestemmingen nodig voor toegang tot uw kalender, accounts, SIM-status, berichten, foto's en video's."</string>
+    <string name="micloud_request_permission_content_pad_without_sim_but_contact">"Om kalendergebeurtenissen, contacten, foto's, video's en andere items te kunnen synchroniseren, heeft Xiaomi Cloud toestemmingen nodig voor toegang tot uw kalender, contacten, accounts, foto's en video's."</string>
+    <string name="micloud_request_permission_content_pad_without_sim_or_contact">"Om kalendergebeurtenissen, foto's, video's en andere items te kunnen synchroniseren, heeft Xiaomi Cloud toestemmingen nodig voor toegang tot uw kalender, accounts, foto's en video's."</string>
     <string name="micloud_request_permission_title">Xiaomi Cloud heeft toestemmingen nodig</string>
     <string name="micloud_request_sync_too_frequent">Te veel verzoeken. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="micloud_setting_antispam_summary">Uitzonderingen en geblokkeerde telefoonnummers</string>
@@ -389,7 +465,7 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_setting_calllog_summary">Belgeschiedenis</string>
     <string name="micloud_setting_contact_summary">"Contacten en profielfoto's"</string>
     <string name="micloud_setting_gallery_summary">"Foto's en videos"</string>
-    <string name="micloud_setting_music_summary">Afspeellijsten en favorieten and favorites</string>
+    <string name="micloud_setting_music_summary">Afspeellijsten en favorieten</string>
     <string name="micloud_setting_notes_summary">Notities</string>
     <string name="micloud_setting_notes_summary_v2">Notities</string>
     <string name="micloud_setting_personal_assistant_summary">App-kluis kaarten en functies</string>
@@ -413,11 +489,13 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">"Synchroniseer uw foto's, contacten, notities, en meer op al uw apparaten."</string>
+    <string name="micloud_sync_alert_dialog_message_pad">"Synchroniseer uw foto's, notities en meer op al uw apparaten."</string>
     <string name="micloud_sync_alert_dialog_message_v2">"Synchroniseer uw foto's, contacten, notities en meer op al uw apparaten."</string>
     <string name="micloud_sync_alert_dialog_negative">Annuleren</string>
     <string name="micloud_sync_alert_dialog_positive">OK</string>
     <string name="micloud_sync_alert_dialog_title">Xiaomi Cloud gebruiken</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">Synchroniseert alleen contacten, kalendergebeurtenissen en notities. Om meer items te synchroniseren, gaat u naar de instellingen van Xiaomi Cloud.</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync_pad">Synchroniseert alleen kalendergebeurtenissen en notities. Ga naar Xiaomi Cloud instellingen om meer items te synchroniseren.</string>
     <string name="micloud_sync_result_already_in_progress">Vorige synchronisatie verwerken…</string>
     <string name="micloud_sync_result_auth_exception">Account fout</string>
     <string name="micloud_sync_result_cancel">Synchronisatie is onderbroken</string>
@@ -445,6 +523,7 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="micloud_wipe_data_confirm_title">Sommige items van de volgende apps worden gesynchroniseerd met Xiaomi Cloud. U kunt ze van dit apparaat verwijderen en ze nog steeds in de cloud bewaren.</string>
     <string name="micloud_wipe_data_remove">Verwijderen</string>
     <string name="micloud_wipe_data_retain">Bewaren</string>
+    <string name="midnight">Nacht</string>
     <string name="midrive_guide1_desc">Back-up items in de cloud om opslagruimte op uw apparaat vrij te maken.</string>
     <string name="midrive_guide1_title">Veilige back-ups</string>
     <string name="midrive_guide2_desc">Download items in een razend tempo.</string>
@@ -454,6 +533,69 @@ Lokaliseer en vergrendel uw apparaat als u deze verloren bent."</string>
     <string name="midrive_guide_btn_install">Installeer Mi Drive</string>
     <string name="midrive_guide_btn_installed">Mi Drive openen</string>
     <string name="midrive_guide_btn_installing">Installeren…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
+    <string name="miuix_appcompat_cancel_description">Annuleren</string>
+    <string name="miuix_appcompat_confirm_description">Bevestigen</string>
+    <string name="miuix_appcompat_delete_description">Verwijderen</string>
+    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
+    <string name="miuix_appcompat_search_input_description">Zoeken</string>
+    <string name="miuix_appcompat_select_all">Alles selecteren</string>
+    <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
+    <string name="miuix_appcompat_select_item">Selecteer items</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Laat los om te vernieuwen</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Dat is alles voor nu</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Een ogenblik geduld…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Kon items niet laden</string>
+    <string name="monday">Maandag</string>
+    <string name="monday_short">Ma</string>
+    <string name="monday_shortest">Ma</string>
+    <string name="month_april">April</string>
+    <string name="month_april_short">Apr</string>
+    <string name="month_april_shortest">Apr</string>
+    <string name="month_august">Augustus</string>
+    <string name="month_august_short">Aug</string>
+    <string name="month_august_shortest">Aug</string>
+    <string name="month_december">December</string>
+    <string name="month_december_short">Dec</string>
+    <string name="month_december_shortest">Dec</string>
+    <string name="month_february">Februari</string>
+    <string name="month_february_short">Feb</string>
+    <string name="month_february_shortest">Feb</string>
+    <string name="month_january">Januari</string>
+    <string name="month_january_short">Jan</string>
+    <string name="month_january_shortest">Jan</string>
+    <string name="month_july">Juli</string>
+    <string name="month_july_short">Jul</string>
+    <string name="month_july_shortest">Jul</string>
+    <string name="month_june">Juni</string>
+    <string name="month_june_short">Jun</string>
+    <string name="month_june_shortest">Jun</string>
+    <string name="month_march">Maart</string>
+    <string name="month_march_short">Mrt</string>
+    <string name="month_march_shortest">Mrt</string>
+    <string name="month_may">Mei</string>
+    <string name="month_may_short">Mei</string>
+    <string name="month_may_shortest">Mei</string>
+    <string name="month_november">November</string>
+    <string name="month_november_short">Nov</string>
+    <string name="month_november_shortest">Nov</string>
+    <string name="month_october">Oktober</string>
+    <string name="month_october_short">Okt</string>
+    <string name="month_october_shortest">Okt</string>
+    <string name="month_september">September</string>
+    <string name="month_september_short">Sep</string>
+    <string name="month_september_shortest">Sep</string>
+    <string name="more">Meer</string>
+    <string name="morning">Ochtend</string>
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_dspt_provision">"Met Mi Message kunt u berichten naar andere MIUI apparaten sturen zonder kosten, als u verbonden bent met wifi
 
@@ -472,7 +614,10 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
     <string name="mx_sub_dspt_provision_with_voip">Internetbellen</string>
     <string name="mx_voip_dspt">Mi Voice</string>
+    <string name="night">Avond</string>
+    <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="no_sim">Kon simkaart niet vinden</string>
+    <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notification_reinstall_key_text">Verifieer uw identiteit en probeer het opnieuw</string>
     <string name="notification_sync_fail_title">Kon niet synchroniseren</string>
@@ -484,6 +629,7 @@ Deze functie versleutelt en verzendt uw apparaat ID naar Mi's servers."</string>
     <string name="picker_list_empty">Geen contacten hier</string>
     <string name="picker_search_empty">Kon contacten niet vinden</string>
     <string name="picker_search_hint">Zoeken</string>
+    <string name="pm">PM</string>
     <string name="power_off_locate_summary">"Rapporteer locatie info door lang op de Aan/uit-knop te drukken.
 Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding slecht is."</string>
     <string name="power_off_locate_title">Rapporteer de locatie voordat u het apparaat uitschakelt</string>
@@ -500,25 +646,48 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="privacy_dialog_sync_all_purpose">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, belgeschiedenis, contacten, notities, Browserinstellingen, liedjes, foto's en video's, wifi-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
     <string name="privacy_dialog_sync_all_purpose_china">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, oproepgeschiedenis, contacten, notities, Browserinstellingen, liedjes, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, contacten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw contacten, notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw notities, Browserinstellingen, foto's en video's, opnames, kalendergebeurtenissen en Blokkeerlijst-items op alle verbonden apparaten te synchroniseren."</string>
     <string name="privacy_dialog_sync_all_purpose_v2">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, belgeschiedenis, contacten, notities, Browserinstellingen, liedjes, foto's en video's, wifi-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten."</string>
-    <string name="privacy_doc_cloudservice">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, belgeschiedenis, contacten, notities, Browserinstellingen, liedjes, foto's en video's, wifi instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten. Toegang tot de dingen die u vanuit elke browser synchroniseert op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Een uitgaand sms-bericht kan nodig zijn om deze diensten te activeren. Uw provider brengt dit bericht in rekening. Wanneer u van SIM kaart wisselt, kan er automatisch een bericht worden verzonden om deze services opnieuw te activeren.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moeten deze services verbinding maken met het internet en de volgende toestemmingen nodig hebben om uw persoonlijke gegevens te verzamelen:&lt;br />• Kalender:&lt;br />Om evenementen te synchroniseren&lt;br />• Toegang tot sms::&lt;br />Om berichten te synchroniseren&lt;br />• Toegang tot MMS:&lt;br />Om berichten te synchroniseren&lt;br />• Toegang tot contacten:&lt;br />Om contacten te synchroniseren&lt;br />• Contacten bewerken::&lt;br />Om contacten te synchroniseren&lt;br />• Opslag:&lt;br />Voor het opslaan van items op uw apparaat (bijv. Afbeeldingen, video's, liedjes)&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze services niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u> &lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Xiaomi Cloud gebruikt.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_china">"Welkom bij Xiaomi Cloud services! U kunt Xiaomi Cloud gebruiken om uw berichten, oproepgeschiedenis, contacten, notities, Browserinstellingen, liedjes, foto's en video's, WLAN-instellingen, opnames, Startscherm lay-out, apps, kalendergebeurtenissen, Blokkeerlijst-items en App-kluis te synchroniseren voor alle verbonden apparaten. Krijg toegang tot de dingen die u synchroniseert vanuit elke browser op &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />Mogelijk is een uitgaand sms-bericht vereist om deze services te activeren. Uw provider brengt u kosten in rekening voor dit bericht. Wanneer u van SIM kaart wisselt, wordt er mogelijk automatisch een bericht verzonden om deze services opnieuw te activeren.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moeten deze services verbinding maken met internet en hebben ze de volgende toestemmingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Kalender:&lt;br />Om evenementen te synchroniseren&lt;br />• Toegang tot SMS:&lt;br />Om berichten te synchroniseren&lt;br />• Toegang tot MMS:&lt;br />Om berichten te synchroniseren&lt;br />• Toegang tot contacten:&lt;br />Om contacten te synchroniseren&lt;br />• Contacten bewerken:&lt;br />Om contacten te synchroniseren&lt;br />• Opslag:&lt;br />Voor het opslaan van items op uw apparaat (bijv. afbeeldingen, video's, liedjes)&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze services niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen om deze app te verwijderen, uit te loggen of de toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Xiaomi Cloud gebruikt.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_china_v2">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
     <string name="privacy_doc_cloudservice_global">Xiaomi Cloud moet verbinding maken met het internet om normaal te werken. Voor het synchroniseren van gegevens moet u mogelijk mobiele gegevens gebruiken en wifi inschakelen. Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Xiaomi Cloud services gebruikt.</string>
-    <string name="privacy_doc_finddevice_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Apparaat zoeken gebruikt.&lt;br /></string>
-    <string name="privacy_doc_finddevice_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Apparaat zoeken gebruikt.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />Een uitgaand sms-bericht kan nodig zijn om deze diensten te activeren. Uw provider brengt dit bericht in rekening. Wanneer u van SIM kaart wisselt, kan er automatisch een bericht worden verzonden om deze services opnieuw te activeren.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Apparaat zoeken gebruikt.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />Een uitgaand sms-bericht kan nodig zijn om deze diensten te activeren. Uw provider brengt dit bericht in rekening. Wanneer u van SIM kaart wisselt, kan er automatisch een bericht worden verzonden om deze services opnieuw te activeren.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u Apparaat zoeken gebruikt.&lt;br /></string>
+    <string name="privacy_doc_cloudservice_pad">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_pad">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_phone">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. U kunt gaan naar &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> om het te zoeken, te vergrendelen of te resetten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met internet en zijn de volgende machtigingen nodig om uw persoonlijke gegevens te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%1$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">Welkom bij Apparaat zoeken! U kunt deze service gebruiken om gegevens op uw apparaat te vinden, te vergrendelen of te wissen als deze verloren zijn gegaan. Door &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> te bezoeken, kunt u het lokaliseren, vergrendelen of resetten.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> wordt automatisch verzonden om deze service te activeren. Wanneer u SIM-kaarten wisselt, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b>&lt;/font> automatisch verzonden voor heractivering.&lt;br/>Alle sms-kosten die door de bovengenoemde acties worden gegenereerd, worden door uw provider geïnd. Xiaomi brengt geen kosten in rekening voor deze berichten.&lt;br />&lt;br />We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid.&lt;br />Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen nodig om uw persoonlijke informatie te verzamelen:&lt;br />• Toegang tot apparaatinfo:&lt;br />Om uw apparaat te identificeren&lt;br />• Locatie:&lt;br />Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus&lt;br />Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen of het delen en uploaden van uw persoonlijke gegevens, kunt u deze service niet gebruiken. In dergelijke gevallen kunt u ervoor kiezen deze app te deïnstalleren, uit te loggen of toestemmingen in de Instellingen te beperken.&lt;br />Lees en ga akkoord met onze &lt;a href=%2$s>&lt;u>Gebruikersovereenkomst&lt;/u>&lt;/a> en &lt;a href=%3$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u onze services gebruikt.&lt;br /></string>
     <string name="privacy_policy">Privacy Beleid</string>
     <string name="provision_back">Terug</string>
     <string name="provision_next">Volgende</string>
     <string name="provision_skip_underline">Overslaan</string>
     <string name="provision_sync_items_loading">Items synchroniseren voorbereiden</string>
+    <string name="quick_service_after_sale_policy_title">Policy</string>
+    <string name="quick_service_after_sale_service_title">Services</string>
+    <string name="quick_service_authenticity_check_title">Authentication</string>
+    <string name="quick_service_maintenance_price_title">Repairs</string>
+    <string name="quick_service_title">Quick services</string>
     <string name="reading_status">Status laden…</string>
     <string name="reading_status_failure">Kon status niet laden.</string>
+    <string name="recommend_service_cloudservice_description">Sync system app data, back up settings, Home screen layout, and more</string>
+    <string name="recommend_service_sharelocation_description">Locate, lock, and erase data on missing devices, and share location with your friends and family</string>
+    <string name="recommend_service_title">Recommended services</string>
     <string name="retain_data_high_quality_photo_waring_message">Afbeeldingen van hoge kwaliteit worden uit uw Galerij verwijderd nadat u zich heeft uitgelogd. Overeenkomstige originele bestanden worden nog steeds in de cloud opgeslagen. U kunt ook originele bestanden downloaden voordat u zich afmeldt.</string>
     <string name="retain_data_high_quality_photo_waring_title">Afbeeldingen van hoge kwaliteit zijn niet beschikbaar</string>
+    <string name="saturday">Zaterdag</string>
+    <string name="saturday_short">Za</string>
+    <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="send">Verzenden</string>
     <string name="share_cancel">Delen geannuleerd</string>
     <string name="share_failed">Kon niet delen</string>
     <string name="share_location_app_name">Vind</string>
@@ -630,7 +799,7 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_manage_cloud_data_title">Bekijk items in de cloud</string>
     <string name="storage_manage_expansion">Krijg meer</string>
-    <string name="storage_manage_full_summary">Cloudopslag is vol. Upgrade uw abonnement.</string>
+    <string name="storage_manage_full_summary">Cloud opslag is vol. Upgrade uw abonnement.</string>
     <string name="storage_manage_list_title">Cloud gegevens</string>
     <string name="storage_manage_list_title_action">Meer bekijken</string>
     <string name="storage_manage_normal_summary">Cloud opslagabonnement wijzigen</string>
@@ -641,10 +810,13 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="storage_upgrade_card_title">Upgrade uw abonnement</string>
     <string name="sub_alert_notif_content">Schakel Xiaomi Cloud in</string>
     <string name="sub_alert_notif_title">Synchroniseer met Xiaomi Cloud</string>
-    <string name="sub_sync_item_sms_summary">"Synchroniseer alleen berichten met foto's, audio of andere media over wifi-netwerk "</string>
+    <string name="sub_sync_item_sms_summary">Schakel dit in om mobiele gegevens op te slaan en berichten alleen via wifi te synchroniseren</string>
     <string name="sub_sync_item_sms_title_wifi_only">Enkel wifi gebruiken om MMS te synchroniseren</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="sunday">Zondag</string>
+    <string name="sunday_short">Zo</string>
+    <string name="sunday_shortest">Zon</string>
     <string name="sync_detail_summary_master_sync_off">Synchronisatie is uitgeschakeld</string>
     <string name="sync_detail_summary_off">Synchronisatie is uitgeschakeld</string>
     <string name="sync_detail_text">Synchronisatie details</string>
@@ -652,6 +824,7 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="sync_dspt_entrance_provision">"Synchroniseer uw foto's, contacten en andere items op al uw apparaten. Verkrijg toegang tot de dingen die u synchroniseert via ieder browser op %s."</string>
     <string name="sync_dspt_entrance_provision_confirm_close">Niet gebruiken</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"De systeem-apps van MIUI hebben Xiaomi Cloud nodig om een back-up te maken van uw foto's, berichten, notities en meer. Xiaomi Cloud is gratis en kan direct gebruikt worden."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">"U kunt Xiaomi Cloud gebruiken om een back-up te maken van uw foto's, berichten, notities en meer. Xiaomi Cloud is gratis en kan direct gebruikt worden."</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"De systeem-apps van MIUI hebben Xiaomi Cloud nodig om een back-up te maken van uw foto's, berichten, notities en meer. Xiaomi Cloud is gratis en kan direct gebruikt worden."</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi Cloud gebruiken</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi Cloud niet gebruiken?</string>
@@ -663,7 +836,7 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="sync_item_autofill_title">Automatisch synchroniseren</string>
     <string name="sync_item_calllog_summary">Synchronisatie overzichten van alle gesprekken op deze telefoon</string>
     <string name="sync_item_calllog_title">Gespreksgeschiedenis synchroniseren.</string>
-    <string name="sync_item_sms_summary">Alle SMSen synchroniseren van de telefoon</string>
+    <string name="sync_item_sms_summary">Synchroniseer de berichten die op dit apparaat zijn verzonden en ontvangen</string>
     <string name="sync_item_sms_title">Berichten synchroniseren</string>
     <string name="sync_item_title">App-gegevens synchroniseren</string>
     <string name="sync_normal_summary">Sommige items van de onderstaande lijst konden niet gesynchroniseerd worden</string>
@@ -679,18 +852,66 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="sync_page_route_ok">Inschakelen</string>
     <string name="sync_page_route_remember">Niet meer tonen</string>
     <string name="sync_setting_title">Synchroniseer instellingen</string>
-    <string name="sync_sub_1_intl_sms">Mogelijk is een internationaal sms-bericht vereist om deze service te activeren. Uw provider brengt u dit bericht in rekening.</string>
-    <string name="sync_sub_1_sms">Misschien is er een uitgaande SMS nodig om deze service te activeren. Uw provider zal u laten betalen voor dit bericht.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">Mogelijk is 1 nationaal en 1 internationaal sms-bericht vereist om deze service te activeren. Uw provider brengt u deze berichten in rekening.</string>
-    <string name="sync_sub_2_intl_sms">Mogelijk zijn twee internationale sms-berichten vereist om deze service te activeren. Uw provider brengt u deze berichten in rekening.</string>
-    <string name="sync_sub_2_sms">Mogelijk zijn 2 uitgaande sms-berichten vereist om deze service te activeren. Uw provider brengt u deze berichten in rekening.</string>
     <string name="system_busy_or_network_error">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Starten</string>
+    <string name="system_cta_retry_get_permission_msg_pad">Toestemmingen vereist</string>
+    <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
+    <string name="the_anti_aggression_day">Anti-agressie dag</string>
+    <string name="the_arbor_day">Nationale Boomfeestdag</string>
+    <string name="the_armed_forces_day">Dag van de strijdkrachten</string>
+    <string name="the_armys_day">PLA Dag</string>
+    <string name="the_childrens_day">Kinderdag</string>
+    <string name="the_chinese_youth_day">Internationale Dag van de Jeugd</string>
+    <string name="the_christmas_day">Kerstmis</string>
+    <string name="the_double_ninth_festival">Chung Yeung Festival</string>
+    <string name="the_dragon_boat_festival">Drakenbootfeest</string>
+    <string name="the_easter_day">Pasen</string>
+    <string name="the_eve_of_the_spring_festival">Vooravond van Chinees Nieuwjaar</string>
+    <string name="the_fifth_day">Vijfde dag van Chinees Nieuwjaar</string>
+    <string name="the_fools_day">1 aprilgrap</string>
+    <string name="the_forth_day">Vierde dag van Chinees Nieuwjaar</string>
+    <string name="the_hksar_establishment_day">HKSAR Oprichtingsdag</string>
+    <string name="the_international_womens_day">Vrouwendag</string>
+    <string name="the_laba_festival">Labafestival</string>
+    <string name="the_labour_day">Dag van de Arbeid</string>
+    <string name="the_lantern_festival">Lantaarn festival</string>
+    <string name="the_mid_autumn_festival">Midherfstfestival</string>
+    <string name="the_national_day">Nationale feestdag</string>
+    <string name="the_national_father_day">Verjaardag van Sun Yat-sen</string>
+    <string name="the_new_years_day">Nieuwjaar</string>
+    <string name="the_night_of_sevens">Qixifeest</string>
+    <string name="the_partys_day">CPC Dag</string>
+    <string name="the_peace_day">Dodenherdenking</string>
+    <string name="the_retrocession_day">Retrocessiedag</string>
+    <string name="the_second_day">Tweede dag van Chinees Nieuwjaar</string>
+    <string name="the_seventh_day">Zevende dag van Chinees Nieuwjaar</string>
+    <string name="the_sixth_day">Zesde dag van Chinees Nieuwjaar</string>
+    <string name="the_spirit_festival">Geestenfeest</string>
+    <string name="the_spring_festival">Chinees Nieuwjaar</string>
+    <string name="the_teachers_day">Leraren dag</string>
+    <string name="the_third_day">Derde dag van Chinees Nieuwjaar</string>
+    <string name="the_tw_childrens_day">Kinderdag</string>
+    <string name="the_tw_youth_day">Internationale Dag van de Jeugd</string>
+    <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
+    <string name="the_valentines_day">Valentijnsdag</string>
+    <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="thursday">Donderdag</string>
+    <string name="thursday_short">Do</string>
+    <string name="thursday_shortest">Do</string>
+    <string name="time_picker_dialog_title">Tijd instellen</string>
+    <string name="time_picker_label_hour">H</string>
+    <string name="time_picker_label_minute">M</string>
     <string name="tip_short_cut_added_success">Succesvol aangemaakt</string>
     <string name="tip_short_cut_already_added">Aangemaakt</string>
     <string name="title_back">Vorige</string>
     <string name="title_reg">Mi Account creëren</string>
+    <string name="today">Vandaag</string>
+    <string name="tomorrow">Morgen</string>
     <string name="trying_to_connect_to_network">Verbinden met netwerk…</string>
-    <string name="user_agreement_content">Door deze functie te gebruiken, gaat u akkoord met %s.</string>
+    <string name="tuesday">Dinsdag</string>
+    <string name="tuesday_short">Di</string>
+    <string name="tuesday_shortest">Di</string>
+    <string name="user_agreement_content">Door deze service te gebruiken, gaat u akkoord met %s.</string>
     <string name="user_agreement_link">"Xiaomi Cloud's Servicevoorwaarden"</string>
     <string name="user_agreement_p5">"
 "</string>
@@ -711,6 +932,12 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="warning_bar_title_network_unconnected">Kon niet verbinden met het netwerk</string>
     <string name="warning_bar_title_short_cut">Wilt u een Startscherm snelkoppeling toevoegen voor Xiaomi Cloud?</string>
     <string name="warning_bar_title_sync_off">Synchronisatie met Xiaomi Cloud is uitgeschakeld</string>
+    <string name="web_sso_login_fail">U moet opnieuw inloggen</string>
+    <string name="web_sso_login_message">Bezig met inloggen…</string>
+    <string name="webview_reload">Opnieuw proberen</string>
+    <string name="wednesday">Woensdag</string>
+    <string name="wednesday_short">Wo</string>
+    <string name="wednesday_shortest">Wo</string>
     <string name="wipe_data_dialog_button_check_sync">Controleer of gesynced</string>
     <string name="wipe_data_dialog_msg">Sommige items %s zijn niet gesynchroniseerd. Deze zullen op uw apparaat worden opgeslagen en niet worden verwijderd.</string>
     <string name="wipe_data_dialog_msg_and_on">, en een aantal andere items</string>
@@ -720,4 +947,5 @@ Locatie info worden mogelijk niet gerapporteerd wanneer de netwerkverbinding sle
     <string name="wipe_secret_photo_dialog_title">"Verborgen foto's zijn niet gesynchroniseerd"</string>
     <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op één plek</string>
+    <string name="yesterday">Gisteren</string>
 </resources>
