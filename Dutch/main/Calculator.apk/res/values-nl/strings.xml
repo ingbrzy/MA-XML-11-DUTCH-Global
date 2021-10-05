@@ -513,7 +513,6 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -851,15 +850,12 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de app hebt verwijderd.</string>
     <string name="xiaomi_calculator_delete_title">Rekenmachine deïnstalleren?</string>
     <string name="xiaomi_calculator_remove_icon_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_calculator_remove_icon_title">\"Rekenmachine\" verwijderen uit het Startscherm?</string>
     <string name="xiaomi_connect_download_manager_fail">Kon niet verbinden met Downloads. Controleer of de app de benodigde toestemmingen heeft in Instellingen > Geïnstalleerde apps.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar. Controleer uw SD-kaart.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"De nieuwe versie %1$s
 Grootte: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"De nieuwe versie %1$s
