@@ -150,7 +150,6 @@
     <string name="dynamic_weather">Weer</string>
     <string name="early_morning">Ochtend</string>
     <string name="edit_city">Steden beheren</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Updaten…</string>
     <string name="empty_view_net_unavailable">Kon niet verbinden met het netwerk</string>
     <string name="empty_view_refresh">Opnieuw proberen</string>
@@ -260,17 +259,13 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="hourly_forcast_now">Nu</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Nu installeren</string>
     <string name="indices_title_chance_of_rain">Kans op regen</string>
     <string name="indices_title_feel">Gevoelstemperatuur</string>
     <string name="indices_title_pressure">Luchtdruk</string>
     <string name="indices_title_wind_speed">Windsnelheid</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV index</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Locatieservices inschakelen</string>
     <string name="location_tag">Lokaliseren</string>
     <string name="manager_city_option_add_home">Toevoegen aan startpagina</string>
@@ -427,7 +422,6 @@
     <string name="share_menu_title">Delen</string>
     <string name="share_subject">Delen</string>
     <string name="share_weather_desc">\#MIUI Weer#Vandaag %1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Kan geen screenshot maken</string>
     <string name="shortcut_short_label_24_hour_forecast">24-uurs voorspelling</string>
