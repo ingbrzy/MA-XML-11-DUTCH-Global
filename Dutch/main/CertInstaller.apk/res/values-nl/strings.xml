@@ -16,7 +16,7 @@
     <string name="credential_info">Het pakket bevat:</string>
     <string name="credential_password">Typ het wachtwoord om de certificaten uit te pakken.</string>
     <string name="credential_usage_label">Gebruik van certificaatgegevens:</string>
-    <string name="done_label">GEREED</string>
+    <string name="done_label">KLAAR</string>
     <string name="extracting_pkcs12">Uitpakken...</string>
     <string name="install_done">Inloggegevens voor %1$s zijn toegevoegd aan de opgeslagen wifi-netwerken.</string>
     <string name="install_done_title">Inloggegevens ingesteld</string>
@@ -43,7 +43,7 @@
     <string name="redirect_ca_certificate_title">CA-certificaten installeren in Instellingen</string>
     <string name="redirect_ca_certificate_with_app_info_message">Dit certificaat van %1$s moet worden geïnstalleerd in Instellingen. Installeer alleen CA-certificaten van organisaties die je vertrouwt.</string>
     <string name="select_certificate_usage_title">Een certificaattype kiezen</string>
-    <string name="unable_to_save_cert">Kan het certificaat niet opslaan. Opslag van certificaatgegevens is niet ingeschakeld of niet correct geïnitialiseerd.</string>
+    <string name="unable_to_save_cert">Kan het certificaat niet opslaan. Opslag van certificaatgegevens staat niet aan of is niet correct geïnitialiseerd.</string>
     <string name="user_cert_is_added">Gebruikerscertificaat geïnstalleerd</string>
     <string name="user_certificate">VPN- en app-gebruikerscertificaat</string>
     <string name="userkey_type">Algoritme:</string>
@@ -63,7 +63,7 @@ Verificatiemethode: EAP-%5$s
     <string name="wifi_installer_detail">Stel wifi-inloggegevens in om verbinding te maken met netwerken die beschikbaar zijn via %1$s.</string>
     <string name="wifi_installer_download_error">Er zijn problemen opgetreden met het gedownloade bestand en het kan niet worden geïnstalleerd. Zorgt dat u het bestand downloadt via de juiste bron.</string>
     <string name="wifi_installer_fail">Kan wifi-inloggegevens niet instellen. Probeer het bestand opnieuw te downloaden.</string>
-    <string name="wifi_installer_fail_no_wifi">Schakel wifi in en probeer het opnieuw.</string>
+    <string name="wifi_installer_fail_no_wifi">Zet wifi aan en probeer het opnieuw.</string>
     <string name="wifi_installer_fail_no_wifi_title">Installatie geannuleerd</string>
     <string name="wifi_installer_fail_title">Kan niet installeren</string>
     <string name="wifi_installing_label">Installeren</string>

@@ -27,10 +27,10 @@
         <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
-        <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>Synchroniseer uw contacten, berichten, notities, kalender en meer</item>
+        <item>Back-up maken van apps, Startscherm lay-out en de achtergrond</item>
+        <item>Back-up belangrijke instellingen, inclusief WLAN en weergave</item>
+        <item>Vergrendel uw apparaat op afstand wanneer deze kwijtraakt</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>"Synchroniseer uw foto's, notities, opnamen en meer"</item>

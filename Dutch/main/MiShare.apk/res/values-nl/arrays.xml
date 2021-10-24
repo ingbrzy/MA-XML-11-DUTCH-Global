@@ -12,7 +12,7 @@
         <item>Voor het verzenden en ontvangen van bestanden</item>
         <item>Voor het overzetten van bestanden via Bluetooth en Wifi</item>
         <item>Voor het vinden van beschikbare apparaten in de buurt via Bluetooth</item>
-        <item>Voor het vinden van beschikbare apparaten in de buurt en het overzetten van bestanden via Wifi</item>
+        <item>Voor het vinden van beschikbare apparaten in de buurt en het overzetten van bestanden via wifi</item>
     </string-array>
     <string-array name="permissions_desc_v12_china">
         <item>For sending and receiving files</item>

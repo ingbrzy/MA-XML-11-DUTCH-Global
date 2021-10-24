@@ -175,6 +175,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="app_name">Xiaomi SIM activatie service</string>
     <string name="checking_client">Check activatiegebied</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
+    <string name="close">Sluiten</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -201,6 +202,8 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="explain_send_sms_permission_button">Verifieer</string>
     <string name="explain_send_sms_permission_msg">Om %s in te schakelen zal Xiaomi Service Framework een SMS versturen om uw telefoonnummer te verifiëren. U betaalt de reguliere kosten van een SMS aan uw provider.</string>
     <string name="explain_send_sms_permission_title">Verifieer uw telefoonnummer</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -216,7 +219,11 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd-MM-yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -235,8 +242,18 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
@@ -320,6 +337,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="send">Verzenden</string>
     <string name="sim_activate_failed">Kon service niet activeren</string>
     <string name="sim_activate_prepare">Dienst activeren</string>
     <string name="sim_activated_failed_msg">Kon service niet activeren. Tik om het opnieuw te proberen.</string>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
@@ -15,6 +51,26 @@
     <plurals name="controls_number_of_favorites">
         <item quantity="other">%s bedieningselementen toegevoegd.</item>
         <item quantity="one">%s bedieningselement toegevoegd.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
     </plurals>
     <plurals name="incorrect_pincode_remaining_attempts">
         <item quantity="other">Onjuiste pincode, %d pogingen resterend</item>
@@ -73,8 +129,8 @@
         <item quantity="one">Geef de pincode van de simkaart op. Je hebt nog %d poging over voordat je contact met je provider moet opnemen om het apparaat te ontgrendelen.</item>
     </plurals>
     <plurals name="kg_password_default_puk_message">
-        <item quantity="other">De simkaart is nu uitgeschakeld. Geef de pukcode op om door te gaan. Je hebt nog %d pogingen over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
-        <item quantity="one">De simkaart is nu uitgeschakeld. Geef de pukcode op om door te gaan. Je hebt nog %d poging over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
+        <item quantity="other">De simkaart is nu uitgezet. Geef de pukcode op om door te gaan. Je hebt nog %d pogingen over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
+        <item quantity="one">De simkaart is nu uitgezet. Geef de pukcode op om door te gaan. Je hebt nog %d poging over voordat de simkaart definitief onbruikbaar wordt. Neem contact op met je provider voor meer informatie.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Onjuiste pincode voor simkaart. Je hebt nog %d pogingen over.</item>
@@ -100,6 +156,18 @@
         <item quantity="other">Probeer het over %d seconden opnieuw.</item>
         <item quantity="one">Probeer het over één seconde opnieuw.</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
@@ -107,6 +175,10 @@
     <plurals name="notification_group_overflow_description">
         <item quantity="other">Nog %s meldingen in deze groep.</item>
         <item quantity="one">Nog %s melding in deze groep.</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="phone_locked_timeout_minutes_string">
         <item quantity="other">Probeer opnieuw in %d minuten</item>

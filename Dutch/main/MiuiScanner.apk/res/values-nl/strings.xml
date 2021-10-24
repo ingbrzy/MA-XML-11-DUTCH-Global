@@ -100,6 +100,7 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="midnight">Nacht</string>
+    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -229,10 +230,6 @@
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
-    <string name="ucrop_gif_tag">Bewegen</string>
-    <string name="ucrop_label_edit_photo">Foto bewerken</string>
-    <string name="ucrop_label_original">Origineel</string>
-    <string name="ucrop_menu_crop">Bijsnijden</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="wednesday">Woensdag</string>
