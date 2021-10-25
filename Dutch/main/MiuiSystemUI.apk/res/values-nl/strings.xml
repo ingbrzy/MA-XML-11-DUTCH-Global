@@ -1025,7 +1025,6 @@ prioriteit"</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of kan niet worden gelezen. Plaats een simkaart.</string>
     <string name="keyguard_missing_sim_message">Geen simkaart in telefoon.</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Netwerk vergrendeld</string>
     <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_code">Typ pincode</string>
@@ -1261,14 +1260,12 @@ Je bent ook verbonden met %3$s, waarmee je persoonlijke netwerkactiviteit kan wo
 
 Neem contact op met je beheerder voor meer informatie."</string>
     <string name="monitoring_description_ca_cert_settings">Vertrouwde gegevens openen</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">Er is een certificeringsinstantie geïnstalleerd op dit apparaat. Je beveiligde netwerkverkeer kan worden bijgehouden of aangepast.</string>
     <string name="monitoring_description_do_body">Je beheerder kan instellingen, zakelijke toegang, apps, aan je apparaat gekoppelde gegevens en de locatiegegevens van je apparaat controleren en beheren.</string>
     <string name="monitoring_description_do_body_vpn">Je bent verbonden met %1$s, waarmee je netwerkactiviteit (waaronder e-mails, apps en websites) kan worden gecontroleerd.</string>
     <string name="monitoring_description_do_header_generic">Je apparaat wordt beheerd door %1$s.</string>
     <string name="monitoring_description_do_header_with_name">%1$s gebruikt %2$s om je apparaat te beheren.</string>
     <string name="monitoring_description_do_learn_more">Meer informatie</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Je organisatie heeft een certificeringsinstantie geïnstalleerd in je werkprofiel. Je beveiligde netwerkverkeer kan worden bijgehouden of aangepast.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Je werkprofiel is verbonden met %1$s, waarmee je netwerkactiviteit (waaronder e-mails, apps en websites) kan worden bijgehouden.</string>
     <string name="monitoring_description_management">"Dit apparaat is eigendom van je organisatie.
@@ -1300,7 +1297,6 @@ Neem contact op met je beheerder voor meer informatie.
 
 Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecontroleerd."</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA-certificaten</string>
     <string name="monitoring_subtitle_network_logging">Netwerkregistratie</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1336,7 +1332,6 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="nav_bar">Navigatiebalk</string>
     <string name="nav_bar_default">(standaard)</string>
     <string name="nav_bar_layout">Lay-out</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">Geen</string>
     <string name="no_auto_saver_action">Nee</string>
     <string name="no_shortcut">%1$s ondersteunt geen gespreksfuncties</string>
@@ -1520,7 +1515,6 @@ Je bent ook verbonden met een VPN, waarmee je netwerkactiviteit kan worden gecon
     <string name="private_dns_mode_provider">Hostnaam van de particuliere DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan niet verbinden</string>
     <string name="private_dns_mode_provider_hostname_hint">Voer de hostnaam van de DNS-provider in</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinden. Schakel het apparaat uit en weer in</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="profile_owned_footer">Profiel kan worden gecontroleerd</string>
