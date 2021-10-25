@@ -56,14 +56,6 @@
         <item quantity="other">U kunt maximaal maken %d klonen tegelijk.</item>
         <item quantity="one">U kunt maximaal maken %d kloon tegelijk.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>Kan geen verbinding maken met de camera.&lt;br>Deze app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. Wacht daarna een minuut of twee en probeer het opnieuw.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Kan geen verbinding maken met de camera.&lt;br>Deze app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. Wacht daarna een minuut of twee en probeer het opnieuw.&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
-        <item quantity="one">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min.</item>
         <item quantity="one">%1$d min.</item>

@@ -31,7 +31,7 @@
     <string name="abort_restore_confirm">Herstellen is nog niet klaar, toch annuleren?</string>
     <string name="account_contact_backup_info">Google Account, Mi Account en Contacten gegevens</string>
     <string name="account_login">Inloggen</string>
-    <string name="account_summary">Back-up Google Account, Mi Account en andere gebruikersgegevens</string>
+    <string name="account_summary">Back-up Google-account, Mi Account en andere gebruikersgegevens</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="afternoon">Middag</string>
     <string name="alert_button_agree_and_continue">Toestaan</string>
@@ -80,7 +80,7 @@
     <string name="backup_is_running">Back-uppen van apparaat</string>
     <string name="backup_new">Nieuw:</string>
     <string name="backup_progress">Back-up maken…</string>
-    <string name="backup_report">Details bekijken</string>
+    <string name="backup_report">Back-up details weergeven</string>
     <string name="backup_security_tips_message">Van sommige apps kan mogelijk geen back-up worden gemaakt of worden hersteld.</string>
     <string name="backup_security_tips_title">Back-ups werken mogelijk niet</string>
     <string name="backup_update">Bijwerken</string>
@@ -108,17 +108,17 @@
     <string name="cancel_restore">Stoppen</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="click_soft_ap_to_link">Selecteer een hotspot om mee te verbinden</string>
-    <string name="click_to_view">Tik om te bekijken</string>
+    <string name="click_to_view">Tik om het te bekijken</string>
     <string name="close">Sluiten</string>
     <string name="close_twice_auth_btn">Schakel twee-factor authenticatie uit</string>
     <string name="close_twice_auth_note">"Opmerking:
-Na het maken van een nieuwe beveiligingsvraag en het bevestigen van uw geboortedatum, wordt uw Apple ID twee-factor authenticatie uitgeschakeld. Als u de optie voor het uitschakelen van twee-factor authenticatie op de Apple ID-accountpagina niet kunt vinden, dan kunt u deze niet uitschakelen."</string>
+Na het maken van een nieuwe beveiligingsvraag en het bevestigen van uw geboortedatum, wordt uw authenticatie van Apple ID twee factoren uitgeschakeld. Als u de optie voor het uitschakelen van twee-factor-authenticatie op de Apple ID-accountpagina niet kunt zien, kunt u deze niet uitschakelen."</string>
     <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=aanmelden om te sluiten"</string>
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
     <string name="close_twice_auth_step_1">1. Open een webbrowser op een computer en ga naar appleid.apple.com.</string>
-    <string name="close_twice_auth_step_2">2. Meld u aan met de Apple ID waarvoor u twee-factor authenticatie wilt uitschakelen, ga naar het gedeelte \"Beveiliging\" van de accountinstellingen en kies \"Bewerken\".</string>
+    <string name="close_twice_auth_step_2">"2. Meld u aan met het Apple ID waarvoor u voor authenticatie met twee factoren wilt uitschakelen, ga naar het gedeelte 'Beveiliging' van accountinstellingen en kies 'Bewerken'."</string>
     <string name="close_twice_auth_step_3">3. Klik op \"Schakel twee-factorenauthenticatie uit\". Klik nogmaals om te bevestigen.</string>
-    <string name="close_twice_auth_steps">Volg deze stappen om twee-factor authenticatie voor Apple ID uit te schakelen:</string>
+    <string name="close_twice_auth_steps">Volg deze stappen om authenticatie met twee factoren voor Apple ID uit te schakelen:</string>
     <string name="close_twice_auth_tutor">Schakel twee-factor authenticatie van Apple ID uit</string>
     <string name="cloud_app_name">Xiaomi Cloud back-up</string>
     <string name="cloud_backup_hint">Inloggen om toegang tot uw back-ups te krijgen</string>
@@ -140,7 +140,7 @@ https://appleid.apple.com/#!&amp;page=aanmelden om te sluiten"</string>
     <string name="confirm_exit_link_msg">Als u de app nu verlaat zal de overdracht onderbroken worden. U zult de twee apparaten opnieuw met elkaar moeten verbinden. De app toch verlaten?</string>
     <string name="confirm_exit_link_title">Overdracht onderbreken</string>
     <string name="connect_soft_ap_label">Verbinden met het nieuwe apparaat…</string>
-    <string name="connect_wifi">Verbinden met Wifi</string>
+    <string name="connect_wifi">Maak verbinding met wifi</string>
     <string name="connect_wifi_tip">Kon geen verbinding maken met het netwerk. Maak verbinding met wifi om items uit iCloud te importeren.</string>
     <string name="contact_title">Contacten</string>
     <string name="copy">Kopiëren</string>
@@ -172,6 +172,7 @@ https://appleid.apple.com/#!&amp;page=aanmelden om te sluiten"</string>
     <string name="dialog_backup_password_change_machine_tips">U zult wachtwoord-beschermde back-ups niet over kunnen zetten. Schakel back-up wachtwoord uit voordat u Mi Mover gebruikt.</string>
     <string name="dialog_backup_password_restore_tips">Kan geen items herstellen wanneer back-up wachtwoord ingeschakeld is. Schakel back-up wachtwoord eerst uit.</string>
     <string name="dialog_backup_password_to_settings">Instellingen</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
     <string name="disable_encrypt_description">Niet versleutelen</string>
     <string name="disable_encrypt_title">Versleuteling uitschakelen</string>
@@ -210,7 +211,7 @@ https://appleid.apple.com/#!&amp;page=aanmelden om te sluiten"</string>
     <string name="err_version_unsupported">Back-up versie wordt niet ondersteund.</string>
     <string name="error_permissions">Deze app heeft niet de rechten die vereist zijn voor toegang tot de Kalender. Ga naar Instellingen en controleer de toegang om door te gaan.</string>
     <string name="evening">Middag</string>
-    <string name="every_day">Elke dag</string>
+    <string name="every_day">Dagelijks</string>
     <string name="exchange_account">Account wisselen</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="fail">Mislukt</string>
@@ -292,11 +293,11 @@ Back-upbestanden niet wijzigen of hernoemen."</string>
     <string name="gallery_summary">"Galerij-instellingen (exclusief foto's)"</string>
     <string name="guarded_mode_dialog_backup_message">Back-ups zijn niet toegestaan in gast modus.</string>
     <string name="guarded_mode_dialog_title">U zit in Gast Modus</string>
-    <string name="guarded_mode_dialog_transfer_message">Mi Mover kan niet worden gebruikt in Gastmodus.</string>
+    <string name="guarded_mode_dialog_transfer_message">Mi Mover kan niet worden gebruikt in gast modus.</string>
     <string name="hide_password_description">Wachtwoord verbergen</string>
     <string name="hsa_code_null">Verificatiecode mag niet leeg zijn</string>
     <string name="hsa_input_hint">Voer de verificatiecode in</string>
-    <string name="hsa_input_tip">Uw Apple ID maakt gebruik van twee-factor authenticatie. Voer verificatiecode in.</string>
+    <string name="hsa_input_tip">Uw Apple ID maakt gebruik van twee-factor-authenticatie. Voer verificatiecode in.</string>
     <string name="hsa_send_again">Opnieuw versturen</string>
     <string name="hsa_send_again_countdown">Stuur opnieuw (%ds)</string>
     <string name="hsa_send_failed">Kon verificatiecode niet verzenden. Wacht een minuut of twee en probeer het opnieuw.</string>
@@ -305,7 +306,7 @@ Back-upbestanden niet wijzigen of hernoemen."</string>
  2. Als de verificatiecode invoeren niet werkt, schakel dan twee-factor-authenticatie uit. "</string>
     <string name="hsa_tip_message_shutdown_hsa">Hoe kunt u twee-factor-authenticatie uitschakelen</string>
     <string name="hsa_tip_message_with_device">"1. Er is een bericht met de verificatiecode verzonden naar \"%s\" dat is gekoppeld aan uw Apple ID.r
-2. Schakel twee-factor authenticatie uit als de verificatiecode niet werkt."</string>
+2. Schakel authenticatie met twee factoren uit als de verificatiecode niet werkt."</string>
     <string name="hsa_tip_title">Tips:</string>
     <string name="hsa_title">Twee-factor-authenticatie</string>
     <string name="hsa_verify_failed">Twee-factor-authenticatie mislukt</string>
@@ -323,12 +324,13 @@ Back-upbestanden niet wijzigen of hernoemen."</string>
     <string name="icloud_need_sync">"Om gegevens uit iOS te importeren,r
 moet u eerst een iCloud back-up maken."</string>
     <string name="icloud_need_wifi_message">U bent nu niet verbonden met wifi. Als u gegevens uit iCloud wilt importeren, maak dan verbinding met wifi.</string>
-    <string name="icloud_need_wifi_title">Verbinden met Wifi</string>
+    <string name="icloud_need_wifi_title">Maak verbinding met wifi</string>
     <string name="import_again">Opnieuw importeren</string>
     <string name="import_data_from_icloud">Gegevens importeren uit iCloud</string>
     <string name="import_from_xiaomi_account_hint1">\"1.\u0009Download de Mi Talk app en log in. \u0009http://www.miliao.com 2.\u0009Ga naar Mi Talk Instellingen en selecteer ”Back-up contacten naar Mi Account”\"</string>
     <string name="import_from_xiaomi_account_hint2">Indien u al hebt geback-upt druk op volgende</string>
     <string name="import_from_xiaomi_account_hint_title">Gebruik Mi Talk voor back-up van contacten op andere apparaten.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Vanwege compatibiliteitsproblemen kunt u alleen gedeeltelijke gegevens overbrengen van iOS-apparaten. Zorg ervoor dat u een iCloud back-up maakt voordat u de overdracht start.</string>
     <string name="lack_perm_msg">Mi Mover heeft de volgende toestemingen nodig: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Toestemmingen vereist</string>
@@ -381,7 +383,6 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="midnight">Nacht</string>
     <string name="miliao_account_guide">Gebruik uw Mi Account om u waar dan ook om aan te melden op Xiaomi Cloud, MIUI Themes en andere Mi Services.</string>
     <string name="miliao_account_login">Login bij Mi Talk</string>
-    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -544,8 +545,8 @@ moet u eerst een iCloud back-up maken."</string>
     <string name="notif_trans_sending_completed">Gegevens succesvol verzonden</string>
     <string name="notif_trans_sending_failed">Kon gegevens niet versturen</string>
     <string name="notif_trans_wait_for_reconnecting">Verbinding was onderbroken. Opnieuw verbinden.</string>
-    <string name="old_soft_name">Verbinden met QR-code</string>
-    <string name="old_way">U kunt ook een QR-code genereren op uw nieuwe toestel en deze met het oude toestel scannen.</string>
+    <string name="old_soft_name">Met QR-code verbinden</string>
+    <string name="old_way">Je kunt ook een QR-code genereren op je nieuwe toestel en deze met het oude toestel scannen.</string>
     <string name="page_loading">Een ogenblik geduld…</string>
     <string name="password">Wachtwoord</string>
     <string name="password_null">Wachtwoord mag niet leeg zijn</string>
@@ -824,8 +825,8 @@ om Mi Mover te downloaden en te installeren."</string>
     <string name="trans_intro_desc_gms">Vanwege de grote kans op onsuccesvolle overdrachten vanwege compatibiliteitsproblemen, ondersteunt Mi Mover het overzetten van gegevens gegenereerd door Google apps niet.</string>
     <string name="trans_intro_desc_multiapp">Mi Mover draagt ​​geen dubbele app-gegevens over om conflicten tussen bestanden te voorkomen.</string>
     <string name="trans_intro_desc_multiuser">Mi Mover heeft geen toegang tot items in Tweede Ruimte. Verplaats items naar Eerste ruimte en start daar Mi Mover.</string>
-    <string name="trans_intro_desc_new">Tik op \"Ik ben een ontvanger\". Er wordt een QR-code gegenereerd.</string>
-    <string name="trans_intro_desc_old">Tik op \"Ik ben een verzender\". Scan de QR-code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden moeten worden verzonden en tik op \"Verzenden\".</string>
+    <string name="trans_intro_desc_new">"Tik op 'Ik ben een ontvanger'. Er wordt een QR-code gegenereerd."</string>
+    <string name="trans_intro_desc_old">"Tik op 'Ik ben een afzender'. Scan de QR-code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden moeten worden verzonden en tik op \"Verzenden\"."</string>
     <string name="trans_intro_desc_old_market">Tik op \"Starten\". Scan de QR-code op de nieuwe telefoon, wacht tot Mi Mover uitzoekt welke bestanden moeten worden verzonden en tik op \"Verzenden\".</string>
     <string name="trans_intro_desc_private">"Mi Mover heeft geen toegang tot foto's in het verborgen album omdat ze zijn versleuteld. U kunt deze foto's vanuit Xiaomi Cloud op een nieuw apparaat herstellen."</string>
     <string name="trans_intro_question_1">%d. Hoe gebruik ik Mi Mover om gegevens van een iOS-apparaat te verplaatsen?</string>
@@ -858,7 +859,7 @@ Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
     <string name="trans_open_camera_failed_title">Kon geen verbinding maken met de camera</string>
     <string name="trans_open_location_button">Inschakelen</string>
     <string name="trans_open_location_message">Schakel locatieservices in om de lijst met beschikbare wifi-netwerken te bekijken.</string>
-    <string name="trans_open_location_title">Locatiediensten inschakelen</string>
+    <string name="trans_open_location_title">Locatieservices inschakelen</string>
     <string name="trans_operate_func_one">Methode A</string>
     <string name="trans_operate_func_two">Methode B</string>
     <string name="trans_operate_new_phone_tips">"Ga naar Instellingen > Aanvullende instellingen > Mi Mover
@@ -893,9 +894,9 @@ Houd apparaten bij elkaar in de buurt."</string>
     <string name="trans_restoring_no_items">Informatie ophalen…</string>
     <string name="trans_retry">Opnieuw proberen</string>
     <string name="trans_scan_invalid_qrcode">QR-code ongeldig</string>
-    <string name="trans_scan_qr_code_tips">Scan QR-code met het nieuwe apparaat</string>
+    <string name="trans_scan_qr_code_tips">QR-code scannen met nieuw apparaat</string>
     <string name="trans_security_tips_message">Sommige apps ondersteunen Mi Mover niet.</string>
-    <string name="trans_security_tips_title">Compatibiliteit Mi Mover</string>
+    <string name="trans_security_tips_title">Mi Mover-compatibiliteit</string>
     <string name="trans_select_data">Selecteer items om te verzenden</string>
     <string name="trans_select_data_no_space">"Er is onvoldoende opslagruimte op het nieuwe apparaat (%s beschikbaar)
 Maak opslagruimte vrij of verplaats alleen belangrijke items."</string>
@@ -924,8 +925,8 @@ Houd apparaten bij elkaar in de buurt."</string>
     <string name="trans_success_dialog_button_market_comment">Reactie</string>
     <string name="trans_success_dialog_button_market_favourable_comment">Mi Mover beoordelen</string>
     <string name="trans_success_dialog_button_survey">Onderzoek</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">U bent klaar om tekeer te gaan! Vertel ons wat u van Mi Mover vindt.</string>
-    <string name="trans_success_dialog_market_comment_title">"Uw nieuwe apparaat voelt nu als thuis.
+    <string name="trans_success_dialog_market_comment_and_survey_title">Je bent klaar om tekeer te gaan! Vertel ons wat je van Mi Mover vindt.</string>
+    <string name="trans_success_dialog_market_comment_title">"U nieuwe apparaat voelt nu als thuis.
 Vond u Mi Mover leuk?"</string>
     <string name="trans_success_dialog_survey_title">We waarderen je feedback</string>
     <string name="trans_success_survey_hint">Vul eerst alle velden in.</string>
@@ -970,9 +971,12 @@ Sluit de pagina niet, voordat er verbinding is gemaakt."</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
-    <string name="wifi_title">Wifi-instellingen</string>
+    <string name="wifi_title">wifi Instellingen</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">Download kon niet worden gestart. Zorg ervoor dat de Download Manager goed werkt.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar, controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_router">Mi Router</string>
     <string name="xiaomi_router_location">Mi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Wij introduceren versie %1$s

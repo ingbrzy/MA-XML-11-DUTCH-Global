@@ -36,7 +36,6 @@
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">Kon niet ontgrendelen. %s.</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
-    <string name="close">Sluiten</string>
     <string name="copy">Kopiëren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -62,10 +61,10 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="evening">Middag</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="find_device">Apparaat zoeken</string>
-    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
-    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
-    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
-    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
+    <string name="find_device_capture_done_notification_content">Bekijk de foto op i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">Apparaat zoeken heeft op afstand een foto gemaakt</string>
+    <string name="find_device_capture_notification_content">Uw account heeft een verzoek ingediend om op afstand een foto te maken met dit apparaat</string>
+    <string name="find_device_capture_notification_title">Apparaat zoeken staat op het punt een foto te maken</string>
     <string name="find_device_crash">Apparaat zoeken is onverwacht gesloten.</string>
     <string name="find_device_error_access_denied">Toegang geweigerd.</string>
     <string name="find_device_error_account_sys_timeout">"Kon geen verbinding maken met Mi Account. "</string>
@@ -76,7 +75,7 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="find_device_error_server">Serverfout (%s).</string>
     <string name="find_device_error_unknown">Onbekende fout (%s).</string>
     <string name="find_device_noise_title">Apparaat zoeken alarm</string>
-    <string name="find_device_notice">"Ga naar &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> om uw apparaat te lokaliseren en te vergrendelen, het als verloren te markeren, gegevens te wissen of op afstand foto's te maken."</string>
+    <string name="find_device_notice">Als uw apparaat ontbreekt, kunt u naar &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> gaan om gegevens op afstand te zoeken, te vergrendelen of te wissen.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">Om de SIM-status bij te werken en ervoor te zorgen dat alle services normaal werken, wordt één &lt;font color=#0097FF>&lt;b>betaalde sms-bericht&lt;/b>&lt;/font> verzonden nadat u van SIM-kaarten wisselt. Dit bericht wordt door uw provider in rekening gebracht.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Om de SIM-status bij te werken en ervoor te zorgen dat alle services normaal werken, wordt één &lt;font color=#0097FF>&lt;b>binnenlandse betaalde sms-bericht&lt;/b>&lt;/font> verzonden nadat u van SIM-kaarten wisselt. Dit bericht wordt door uw provider in rekening gebracht.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">Om de SIM-status bij te werken en ervoor te zorgen dat alle services normaal werken, wordt één &lt;font color=#0097FF>&lt;b>internationale betaalde sms-bericht&lt;/b>&lt;/font> verzonden nadat u van SIM-kaarten wisselt. Dit bericht wordt door uw provider in rekening gebracht.</string>
@@ -84,8 +83,6 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="find_device_storage_corrupted">Opslag Apparaat zoeken beschadigd. Uw apparaat is nu onveilig.</string>
     <string name="find_device_success_title">Apparaat zoeken is ingeschakeld</string>
     <string name="find_device_telephony_fault">Apparaat zoeken: Telefoonfout (%s).</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -101,11 +98,7 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd-MM-yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -124,18 +117,8 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
@@ -229,7 +212,6 @@ Neem voor details contact op met uw verkoper."</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
-    <string name="send">Verzenden</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">Captcha mag niet leeg zijn</string>
     <string name="stop_on_empty_password">Wachtwoord mag niet leeg zijn</string>

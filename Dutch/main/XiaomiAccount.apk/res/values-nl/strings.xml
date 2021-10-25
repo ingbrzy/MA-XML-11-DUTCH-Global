@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="about_device_info">Bekijk apparaatdetails</string>
+    <string name="accept">Toestaan</string>
     <string name="access_token_expired_warning">Weibo Account is verlopen</string>
     <string name="access_token_invalid_warning">Weibo Account is ongeldig</string>
     <string name="account">Account</string>
@@ -107,6 +108,7 @@
     <string name="binded_description" formatted="false">"%s is verbonden aan uw Mi Account.
 U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="button_unbind">Verbinding verbreken</string>
+    <string name="cancel">Annuleren</string>
     <string name="change_activate_email">E-mailadres wijzigen</string>
     <string name="change_email_address">E-mailadres wijzigen</string>
     <string name="change_password">Wachtwoord wijzigen</string>
@@ -123,7 +125,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
     <string name="com_facebook_like_button_liked">Vind ik leuk</string>
     <string name="com_facebook_like_button_not_liked">Vind ik leuk</string>
-    <string name="com_facebook_loading">Laden…</string>
+    <string name="com_facebook_loading">Laden...</string>
     <string name="com_facebook_loginview_cancel_action">Annuleren</string>
     <string name="com_facebook_loginview_log_in_button">Aanmelden</string>
     <string name="com_facebook_loginview_log_in_button_continue">Doorgaan met Facebook</string>
@@ -180,6 +182,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="delete_device_btn">Verwijderen</string>
     <string name="delete_device_failed">Kan apparaat niet verwijderen</string>
     <string name="delete_device_notice">"Nadat het apparaat is verwijderd, wordt deze automatisch uitgelogd van uw Mi Account. U zult niet meer in staat zijn om met dit apparaat toegang tot krijgen tot foto's, berichten, of andere inhoud die opgeslagen is op uw account."</string>
+    <string name="deny">Weigeren</string>
     <string name="device_delete_success_message">Als u zich niet hebt aangemeld op dit apparaat, wijzig uw wachtwoord dan onmiddellijk.</string>
     <string name="device_delete_success_title">Uitgeschreven</string>
     <string name="device_list__header">Mijn apparaten</string>
@@ -193,6 +196,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="early_morning">Ochtend</string>
     <string name="empty" />
     <string name="empty_device_list_notice">Geen apparaten</string>
+    <string name="enable">Instellingen</string>
     <string name="ep_unsupported">Kan op uw apparaat niet op Mi Account aanmelden</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
@@ -301,6 +305,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="get_phone_verifycode_exceed_limit">Er zijn teveel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer opnieuw.</string>
     <string name="google">Google</string>
     <string name="google_login">Aanmelden met Google</string>
+    <string name="goto_accept">OК</string>
     <string name="guest_account_label">Mi Gast Account</string>
     <string name="health_action_activate">Activeren</string>
     <string name="health_action_install">Installeren</string>
@@ -325,9 +330,11 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="kr_permission_sms_desc">Om verificatiecodes automatisch in te vullen</string>
     <string name="kr_permission_storage_desc">Om diagnostieken op te slaan</string>
     <string name="loading_micloud_sync_data">Een ogenblik geduld…</string>
+    <string name="login_3rd_app_with_system_account">Log in op %s</string>
     <string name="login_check_find_device">Beveilingsinfo van apparaat verkrijgen…</string>
     <string name="login_check_find_device_failed_title">Kon veligheidsinfo van apparaat niet controleren</string>
     <string name="login_find_device_bind">Dit apparaat is gekoppeld aan een bestaande Mi Account ID (%s).</string>
+    <string name="login_with_other">Meer opties</string>
     <string name="logout_account">Uitloggen</string>
     <string name="logout_failed">Kan niet uitloggen</string>
     <string name="mi_account_identity_title">Verifieer uw identiteit</string>
@@ -459,7 +466,6 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_activing_account">Activeren…</string>
     <string name="passport_adding_account">Account toevoegen…</string>
     <string name="passport_area_code_hot">Veelgebruikt</string>
-    <string name="passport_area_code_others">Een ander voorvoegsel gebruiken</string>
     <string name="passport_area_code_title">Landcode</string>
     <string name="passport_auto_generate_pwd">Genereer een veilig wachtwoord</string>
     <string name="passport_back">Vorige</string>
@@ -686,10 +692,14 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_yes">Ja</string>
     <string name="password_view_hide_password">Wachtwoord verbergen</string>
     <string name="password_view_show_password">Wachtwoord weergeven</string>
+    <string name="permission_desc_read_sms">Voor automatisch invullen van verificatiecodes</string>
+    <string name="permission_desc_write_external_storage">Voor het uploaden van logboeken voor feedback</string>
     <string name="permission_group_contacts">Contacten</string>
     <string name="permission_group_phone">Telefoon</string>
     <string name="permission_group_sms">Sms</string>
     <string name="permission_group_storage">Opslag</string>
+    <string name="permission_read_sms">Toegang tot berichten</string>
+    <string name="permission_write_external_storage">Toegang tot en opslaan van items in de opslag</string>
     <string name="personal_info_desc">Foto, bijnaam en meer</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
@@ -708,6 +718,12 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="recycle_phone_notification_title">Mi Account veiligheidsrisico</string>
     <string name="removing_account">Uitloggen…</string>
     <string name="replace_binded_phone">Vervang telefoon</string>
+    <string name="request_open_permission">Toestemmingen vereist</string>
+    <string name="request_use_camera_message">Mi Account toegang geven tot de camera van uw telefoon?</string>
+    <string name="request_use_camera_title">Toegang tot camera</string>
+    <string name="request_use_gallery_message">Mi Account toegang geven tot Galerij?</string>
+    <string name="request_use_gallery_title">Toegang tot Galerij</string>
+    <string name="request_use_writing_clipboard_message">Om uw Mi Account ID te kopiëren, moet u toestaan dat Mi Account items op het klembord opslaat.</string>
     <string name="resend_active_email">Herverzenden</string>
     <string name="resend_email_reach_limit_message">Je hebt te veel verificatie e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de map ongewenst zit</string>
     <string name="resend_email_reach_limit_title">Kan e-mail niet verzenden</string>
@@ -840,6 +856,10 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="used_cloud_storage_info">Gebruikt %s</string>
     <string name="user_avatar_update_title">Verander profielfoto</string>
     <string name="user_avatar_uploading">Een ogenblik geduld…</string>
+    <string name="user_instruction_all_purpose">"Welkom bij Mi Account! U kunt uw account gebruiken om toegang te krijgen tot diensten die worden aangeboden door Xiaomi en zijn gelieerde bedrijven, zoals Mi.com, Xiaomi Cloud en GetApps. U kunt Mi Coins krijgen, virtuele goederen kopen en genieten van diensten met toegevoegde waarde, waaronder games, thema's en e-books."</string>
+    <string name="user_instruction_tip">Om in te kunnen loggen, moet u de algemene voorwaarden lezen en ermee akkoord gaan.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>Door in te loggen met mijn Mi Account, bevestig ik dat ik de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> heb gelezen en ermee akkoord ga.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="vip_account_settings">VIP-instellingen</string>

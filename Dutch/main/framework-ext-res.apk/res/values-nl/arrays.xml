@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Opieuw proberen</item>
+        <item></item>
+        <item></item>
+        <item>Bedek de vingerafdrukscanner volledig en oefen druk uit</item>
+        <item></item>
+        <item>Bedek de vingerafdrukscanner volledig en oefen druk uit</item>
+        <item>Veeg de vingerafdruksensor schoon en probeer het opnieuw</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Bedek de vingerafdrukscanner volledig en oefen druk uit</item>
+        <item>Bedek de vingerafdrukscanner volledig en oefen druk uit</item>
+        <item>Te snel! Kon vingerafdruk niet herkennen</item>
+        <item>Beweeg uw vinger een beetje en probeer het opnieuw</item>
+        <item>Til uw vinger op en plaats deze opnieuw op de scanner</item>
+        <item>Houd uw vinger iets langer op de scanner</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Beweeg uw vinger een beetje</item>
+        <item>Deze vingerafdruk is toegevoegd, gebruik een andere vinger</item>
+    </string-array>
+</resources>

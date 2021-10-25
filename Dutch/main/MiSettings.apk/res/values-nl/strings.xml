@@ -141,8 +141,6 @@
     <string name="created_successfully">Succesvol gecreëerd</string>
     <string name="crowned_hornbill">Kuiftok</string>
     <string name="cu_confirm">Instellen</string>
-    <string name="customize_radio_btn_summary">Voorkeur voor geselecteerde ververssnelheid</string>
-    <string name="customize_radio_btn_title">Aangepast</string>
     <string name="dall_sheep">Dalls schaap</string>
     <string name="dart_frog_info">Zijn helderblauwe huid en giftige klieren zijn verdedigingsmechanismen tegen potentiële roofdieren.</string>
     <string name="date_picker_label_day" />
@@ -152,11 +150,7 @@
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="dc_light_hint_enable_title">Let op</string>
     <string name="dc_light_hint_normal">DC-dimmen kan van invloed zijn op de manier waarop sommige items worden weergegeven.</string>
-    <string name="dc_light_hint_normal_anit">Anti-flikkermodus kan invloed hebben op de manier waarop sommige items worden weergegeven.</string>
-    <string name="dc_light_hint_normal_other">Anti-flikkermodus kan de ververssnelheid en de manier waarop sommige items worden weergegeven, beïnvloeden.</string>
     <string name="dc_light_hint_other">DC-dimmen kan van invloed zijn op de ververssnelheid en de manier waarop sommige items worden weergegeven.</string>
-    <string name="dc_light_hint_unnormal_low">Anti-flikkermodus bij weinig licht kan invloed hebben op de manier waarop sommige items worden weergegeven.</string>
-    <string name="dc_light_hint_unnormal_other">Anti-flikkermodus bij weinig licht kan de ververssnelheid en de manier waarop sommige items worden weergegeven, beïnvloeden.</string>
     <string name="dc_lignt_enable_hint">Anti-flikkermodus stelt de ververssnelheid van het scherm in op 60 Hz. Overschakelen naar de Anti-flikkermodus?</string>
     <string name="delete_first_to_add_animal">Om een nieuw item toe te voegen, moet u er eerst een verwijderen.</string>
     <string name="desktop_widget_authorization">Tik om toestemmingen te verlenen om statistieken te kunnen bekijken</string>
@@ -294,19 +288,13 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="focus_mode_timer_pick_dialog_title">Voer duur in</string>
     <string name="focus_time_exception_tip">Het lijkt erop dat de systeemtijd is gewijzigd. Focus modus uitgeschakeld.</string>
     <string name="follow_sim1">Sim 1 instellingen toepassen</string>
-    <string name="fps_high">Hoog</string>
     <string name="fps_nature_summary">Maximale ververssnelheid houdt alles helder en duidelijk</string>
     <string name="fps_nature_title">Maximum</string>
-    <string name="fps_normal">Standaard</string>
-    <string name="fps_radio_btn_title">Ververssnelheid</string>
-    <string name="fps_save_battery_tips">Batterijbesparing is ingeschakeld. Ververssnelheid ingesteld op %d Hz.</string>
     <string name="fps_smooth_summary">Een hoge ververssnelheid voegt meer duidelijkheid toe aan details</string>
     <string name="fps_smooth_title">Hoog</string>
     <string name="fps_standard_summary">Standaard verversingssnelheid bespaart batterij</string>
     <string name="fps_standard_title">Standaard</string>
     <string name="fps_user_tip">- Deze demo-animaties worden ter referentie op lage snelheid afgespeeld. De werkelijke prestatie kan er anders uitzien op basis van verschillende factoren.</string>
-    <string name="fps_user_tip_footer">"%1$d. Om het verschil tussen hogere en lagere ververssnelheden te begrijpen, worden demo's hier langzamer afgespeeld. Het kan voor u moeilijker zijn om het verschil te merken tijdens normaal gebruik.
-%2$d. In sommige gevallen kan de ververssnelheid dynamisch worden aangepast op basis van welke items worden weergegeven."</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
@@ -332,14 +320,11 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="healthy_use_phone">Beheer schermtijd</string>
     <string name="helmeted_guineafowl">Parelhoen</string>
     <string name="high_fps_description">Hoge schermvernieuwingssnelheid. Hoger stroomverbruik.</string>
-    <string name="high_fps_tip_footer">Het gebruik van hogere ververssnelheden maakt de kijkervaring soepeler, maar verbruikt meer stroom.</string>
     <string name="hippopotamus">Nijlpaard</string>
     <string name="hsv_space_color">HSV-kleurruimte</string>
     <string name="hsv_space_color_hue">Tint</string>
     <string name="hsv_space_color_saturation">Verzadiging</string>
     <string name="hsv_space_color_value">Waarde</string>
-    <string name="intelligent_radio_btn_summary">"Pas de ververssnelheid dynamisch aan op basis van scenario's om de prestatie in evenwicht te brengen met het stroomverbruik"</string>
-    <string name="intelligent_radio_btn_title">Automatisch (aanbevolen)</string>
     <string name="intelligent_recognition_item_summary">Gebruik een aangewezen beltoon voor oproepen van bezorg- en taxidiensten. Deze functie werkt wanneer %s is ingesteld als uw standaardbeltoon.</string>
     <string name="intelligent_recognition_item_title">Services identificeren</string>
     <string name="item_anura">Anura</string>
@@ -380,8 +365,6 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="lion_info">Leeuwen zijn felle en krachtige roofdieren. Ze leven in groepen en hebben een sterk territoriumgevoel.</string>
     <string name="lock_summary">Bescherm uw persoonlijke info</string>
     <string name="long_tai1ed_iaeger">Kleinste jager</string>
-    <string name="low_flicker_mode">Weinig licht</string>
-    <string name="low_flicker_mode_summary">Voorkom flikkering bij weinig licht om vermoeide ogen te verminderen</string>
     <string name="low_fps_description">Lage schermvernieuwingssnelheid. Lager stroomverbruik.</string>
     <string name="low_light_preview">Voorbeeld bij weinig licht</string>
     <string name="lynx">Lynx</string>
@@ -391,7 +374,6 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="masked_palm_civet">Witsnorpalmroller</string>
     <string name="medium_tree_finch">Middelgrote boomvink</string>
     <string name="midnight">Nacht</string>
-    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -484,7 +466,6 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="noon">Tussen de middag</string>
     <string name="normal_mode">Normaal</string>
     <string name="normal_mode_summary">Verminder flikkering niet bij weinig licht</string>
-    <string name="normal_mode_summary_new">Flikkeren toestaan bij weinig licht</string>
     <string name="north_white_rhinoceros">Witte neushoorn</string>
     <string name="norway_lemmings">Berglemmingen</string>
     <string name="norway_lemmings_info">"De berglemming leeft in toendra's en heuvels, en leeft het liefst in de buurt van water."</string>
@@ -564,7 +545,7 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="several_days_use_time">Schermtijd: %2$s</string>
     <string name="short_eared_owl">Velduil</string>
     <string name="shortcut_created">Deze snelkoppeling bestaat al</string>
-    <string name="silent_ringtone_hint">Schakel eerst Stille modus uit</string>
+    <string name="silent_ringtone_hint">Audio is nu stil. Zet het volume hoger en probeer het opnieuw.</string>
     <string name="silver_pheasant">Zilverfazant</string>
     <string name="sim_slot_1">" (Sim 1)"</string>
     <string name="sim_slot_2">" (Sim 2)"</string>
@@ -576,8 +557,6 @@ worden niet gegenereerd in de Tweede ruimte"</string>
     <string name="snowy_owl">Sneeuwuil</string>
     <string name="southern_elephant_seal">Zuidelijke zeeolifant</string>
     <string name="southern_ground_hornbill">Grondneushoornvogel</string>
-    <string name="split_page_authorization">Welkom bij Schermtijd! Hier kunt u schermtijdlimieten instellen en statistieken bekijken. Tik op \"Start\" om deze functie in te schakelen.</string>
-    <string name="split_page_start">Starten</string>
     <string name="spotted_hyaena">Gevlekte hyena</string>
     <string name="spotted_hyaena_info">"Hyena's zijn nachtelijke roofdieren met het meest complexe sociale gedrag."</string>
     <string name="spur_winged_plover">Sporenkievit</string>
@@ -896,7 +875,7 @@ Deze app moet verbinding maken met het internet en heeft de volgende toestemming
     <string name="usage_state_week_total_text">Schermtijd (afgelopen 7 dagen)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">Weekdagen</string>
-    <string name="usage_state_work_day_hour_minute">Weekdagen: %1$d u %2$d min.</string>
+    <string name="usage_state_work_day_hour_minute">Weekdagen: %1$du %2$dm</string>
     <string name="usage_stats_device_limit">Dagelijkse schermtijd limiet</string>
     <string name="usage_stats_device_limit_summary">Stel dagelijkse gebruikslimieten in</string>
     <string name="usage_stats_experience_text">Tik om te proberen (1 min)</string>
