@@ -128,6 +128,10 @@
         <item quantity="other">%d opnames gevonden</item>
         <item quantity="one">%d opname gevonden</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d nieuwe opnames</item>
+        <item quantity="one">%d nieuwe opname</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d dagen over</item>
         <item quantity="one">%d dag over</item>

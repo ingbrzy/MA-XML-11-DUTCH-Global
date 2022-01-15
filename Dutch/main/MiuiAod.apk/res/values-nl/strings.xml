@@ -236,8 +236,8 @@ dd.MM"</string>
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
-    <string name="notification_anim_pulse">Pulse</string>
-    <string name="notification_anim_rhythm">Ritme</string>
+    <string name="notification_anim_pulse">Puls (Rood)</string>
+    <string name="notification_anim_rhythm">Puls (Blauw)</string>
     <string name="notification_anim_star">Sterrenlicht</string>
     <string name="notification_nothing">Geen</string>
     <string name="notification_screen_on">Scherm oplichten</string>
@@ -283,6 +283,7 @@ dd.MM"</string>
 moois op het punt staat te gebeuren"</string>
     <string name="standard_clock_panel">Standaard</string>
     <string name="standard_style">Standaard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Stappentelling wordt geleverd door Xiaomi Health. Ga akkoord met de Algemene Voorwaarden van Xiaomi Health om door te gaan.</string>
     <string name="step_component_info_desc">Stappentelling verandert in een trofee wanneer uw doel is bereikt. Stappentelling wordt geleverd door Xiaomi Health.</string>
     <string name="step_component_info_tip">Stappentelling wordt geleverd door Xiaomi Health. Installeer of update Xiaomi Health en ga akkoord met de Algemene Voorwaarden om door te gaan.</string>
@@ -293,6 +294,7 @@ moois op het punt staat te gebeuren"</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
     <string name="temporary_style">Gedurende 10 seconden na het tikken</string>
+    <string name="temporary_style_5">Gedurende 5 seconden na het tikken</string>
     <string name="temporary_style_summary">Aanbevolen</string>
     <string name="text_color">Tekstkleur</string>
     <string name="text_length_exceed_limit_alert">*De ingevoerde tekst is te lang</string>

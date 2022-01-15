@@ -193,7 +193,7 @@ Mawrth Vallis"</string>
     <string name="morning">Ochtend</string>
     <string name="night">Avond</string>
     <string name="no_cta_agreed">GetApps heeft geen CTA toestemmingen</string>
-    <string name="no_install_permission">U heeft geen toestemming om dit item te installeren</string>
+    <string name="no_install_permission">U heeft geen toestemmingen om dit item te installeren</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="pm">PM</string>

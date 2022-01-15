@@ -79,10 +79,14 @@
     <string name="device_status_success">Succesvol verzonden</string>
     <string name="device_status_waiting">Wachten…</string>
     <string name="device_type_pc">Computer</string>
+    <string name="disable_nfc">NFC uitgeschakeld voor draadloos opladen</string>
+    <string name="disable_nfc_reverse">NFC uitgeschakeld voor omgekeerd draadloos opladen</string>
     <string name="eighthours">8 uur</string>
     <string name="enable_livetalk_summary">Bespaar 70% op uw telefoonkosten</string>
     <string name="enable_livetalk_title">Oplaad pakket inschakelen</string>
     <string name="enable_midrop">Inschakelen</string>
+    <string name="enable_nfc">Niet meer aan het opladen. NFC is weer ingeschakeld.</string>
+    <string name="enable_nfc_reverse">Niet langer omgekeerd opladen. NFC is weer ingeschakeld.</string>
     <string name="fc_dialog_body">Fouterapport naar Mi sturen voor analyse? Dit rapport kan persoonlijke identificeerbare informatie bevatten. Uw rapport wordt gebruikt om deze fout te verhelpen en zal nooit worden gedeeld in een commerciële context.</string>
     <string name="fc_dialog_jump_to_preview">Toon samenvatting</string>
     <string name="file_cannot_print">Kan dit item niet printen.</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">Om het zwevende venster te sluiten, houd uw actiebalk ingedrukt en veeg vervolgens omhoog</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">Andere toetsenborden</string>
     <string name="package_delete_confirm_step_1">%s verwijderen?</string>
     <string name="package_delete_confirm_step_2">Deze app deïnstalleren kan ervoor zorgen dat uw systeem onstabiel wordt.</string>
     <string name="package_delete_confirm_step_3">U kunt deze app niet meer openen nadat u deze gedeïnstalleerd heeft.</string>

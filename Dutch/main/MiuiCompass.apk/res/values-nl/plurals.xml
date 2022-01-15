@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">Bekijk pagina %d</item>
+        <item quantity="one">Bekijk pagina %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -67,5 +71,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">"Totaal %d pagina's"</item>
+        <item quantity="one">Totaal %d pagina</item>
     </plurals>
 </resources>

@@ -37,6 +37,9 @@
     <string name="change_find_device_status_failed">Kon niet ontgrendelen. %s.</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="copy">Kopiëren</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Voor toegang tot telefoonnummer om dit apparaat te lokaliseren wanneer het niet is verbonden met internet</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Om dit apparaat te lokaliseren wanneer het niet is verbonden met internet</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Voor het lokaliseren van uw apparaat en het overschakelen naar de verloren modus</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />

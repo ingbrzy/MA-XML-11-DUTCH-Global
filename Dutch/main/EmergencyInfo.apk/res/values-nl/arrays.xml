@@ -77,6 +77,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Systeemselectie gebruiken (standaard)</item>
@@ -85,6 +87,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>

@@ -176,4 +176,12 @@
         <item quantity="other">Ondertitels zijn %.1f seconden vertraagd</item>
         <item quantity="one">Ondertitels zijn %.1f seconde vertraagd</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Voeg tot %d bladwijzers toe</item>
+        <item quantity="one">Voeg tot %d bladwijzer toe</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d weergaven</item>
+        <item quantity="one">%d weergave</item>
+    </plurals>
 </resources>

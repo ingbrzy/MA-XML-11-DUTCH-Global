@@ -12,12 +12,20 @@
         <item>Groen</item>
         <item>Blauw</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Niet interessant</item>
+        <item>Herhalende</item>
+        <item>Lage kwaliteit</item>
+        <item>Ongepaste foto</item>
+        <item>Frauduleuze informatie</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>Expliciete inhoud</item>
         <item>Valsheid</item>
         <item>Oud nieuws</item>
         <item>Extremistische opvattingen</item>
         <item>Subliminale reclame</item>
+        <item>Ik vind het niet leuk</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Ga terug/verder</item>

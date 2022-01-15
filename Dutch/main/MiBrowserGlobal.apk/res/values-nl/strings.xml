@@ -235,7 +235,7 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="category_folder">Mappen</string>
     <string name="category_installed_app">Geïnstalleerde apps</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">U kunt 3 tot 7 items verplaatsen naar het bovenste deel van het scherm</string>
+    <string name="category_move_limit_notice">U kunt %1$d tot %2$d items naar het bovenste deel van het scherm verplaatsen</string>
     <string name="category_music">Muziek</string>
     <string name="category_other">Overige</string>
     <string name="category_photo">"Foto's"</string>
@@ -374,6 +374,9 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="copy">Kopiëren</string>
     <string name="copy_url">URL kopiëren</string>
     <string name="could_not_load_data">Het ophalen van de gegevens is mislukt, vernieuw de pagina en probeer het opnieuw</string>
+    <string name="crash_page_button">Opnieuw proberen</string>
+    <string name="crash_page_description">Er is iets misgegaan tijdens het weergeven van deze webpagina.</string>
+    <string name="crash_page_title">Oeps!</string>
     <string name="create_qr_code">QR-code</string>
     <string name="current_version_pad">Tablet</string>
     <string name="current_version_pc">Desktop</string>
@@ -432,7 +435,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_btn_select_none">Alles deselecteren</string>
     <string name="download_business_app_new_version">De nieuwste versie van deze app is al geïnstalleerd</string>
     <string name="download_business_app_update_install">Gereed om update te installeren.</string>
-    <string name="download_business_v5_edit_mode_title_empty">0 geselecteerd</string>
+    <string name="download_business_v5_edit_mode_title_empty">Selecteer item</string>
     <string name="download_change_dir">Map wijzigen</string>
     <string name="download_complete">Met succes gedownload</string>
     <string name="download_completed">Gedownload</string>
@@ -453,7 +456,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_dialog_failed_body">Later opnieuw proberen of dit bestand verwijderen uit de downloadwachtrij?</string>
     <string name="download_dialog_file_already_exists">U heeft dit bestand al gedownload</string>
     <string name="download_dialog_file_length_hint_txt">"Bestandsgrootte: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">Minder dan 1KB</string>
+    <string name="download_dialog_file_length_lessthan1kb">Minder dan %1$dKB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Kon niet downloaden</string>
     <string name="download_dialog_file_length_nolength_txt">Een ogenblik geduld…</string>
     <string name="download_dialog_file_missing_body">Kon bestand niet vinden. Hebt u het verplaatst of verwijderd?</string>
@@ -694,11 +697,13 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="game_center_recommend_play">Spelen</string>
+    <string name="game_center_recommend_title">Aanbevolen voor u</string>
     <string name="game_played">Recent</string>
     <string name="gcm_fallback_notification_channel_label">Overige</string>
     <string name="geolocation_permissions_prompt_dont_share">Weigeren</string>
     <string name="geolocation_permissions_prompt_message">%s wil weten wat uw locatie is</string>
-    <string name="geolocation_permissions_prompt_remember">Voorkeuren onthouden</string>
+    <string name="geolocation_permissions_prompt_remember">Voorkeur onthouden</string>
     <string name="geolocation_permissions_prompt_share">Locatie delen</string>
     <string name="geolocation_permissions_prompt_toast_allowed">Deze site heeft toegang tot uw locatie-info. U kunt dit wijzigen in Instellingen.</string>
     <string name="geolocation_permissions_prompt_toast_disallowed">Deze site heeft geen toegang tot uw locatie.</string>
@@ -805,9 +810,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="lockpattern_need_to_unlock_wrong">Opnieuw proberen</string>
     <string name="lockpattern_pattern_confirmed_header">Hier is uw ontgrendelpatroon:</string>
     <string name="lockpattern_pattern_entered_header">Gereed!</string>
-    <string name="lockpattern_recording_incorrect_too_short">Opnieuw proberen. Verbind minstens 4 punten.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Probeer het opnieuw. Verbind ten minste %1$d punten.</string>
     <string name="lockpattern_recording_inprogress">Laat los wanneer uw patroon voltooid is</string>
-    <string name="lockpattern_recording_intro_header">Verbind minstens 4 punten</string>
+    <string name="lockpattern_recording_intro_header">Verbind ten minste %1$d punten</string>
     <string name="lockpattern_retry_button_text">Resetten</string>
     <string name="login_failed_toast">Kon niet inloggen, vernieuw en probeer opnieuw</string>
     <string name="login_or_register">of</string>
@@ -818,7 +823,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="make_private_msg_1">Dit bestand verbergen?</string>
     <string name="make_private_msg_2">Deze bestanden verbergen?</string>
     <string name="max_tabs_warning">Kan niet meer tabbladen openen</string>
-    <string name="maximum_input_alert">Maximaal 2048 tekens invoeren</string>
+    <string name="maximum_input_alert">Kan niet meer dan %1$d tekens invoeren</string>
     <string name="menu_addtodesk">Toevoegen aan Startscherm</string>
     <string name="menu_exit_nightmode">Sluiten</string>
     <string name="menu_hv_swap">V/H scherm</string>
@@ -1330,7 +1335,7 @@ Deze pagina nu verlaten?"</string>
     <string name="pf_guide_msg_if_has_downloading">Kan lopende downloads niet toevoegen aan privémap</string>
     <string name="pf_move_out">Verwijderen uit privémap</string>
     <string name="pf_move_out_dialog_btn_confirm">Verwijderen</string>
-    <string name="pf_move_out_dialog_content">Verwijderde items worden opgeslagen op hun oorspronkelijke locatie.</string>
+    <string name="pf_move_out_dialog_content">Verwijderde items worden weergegeven tussen recente bestanden.</string>
     <string name="pf_move_out_dialog_title">Verwijderen uit privémap</string>
     <string name="pf_toast_add_success">Met succes naar privémap verplaatst</string>
     <string name="phone">Opslag</string>
@@ -1621,7 +1626,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="rlv_pull_to_refresh">Trek naar beneden om te vernieuwen</string>
     <string name="rlv_refreshing">Vernieuwen…</string>
     <string name="rlv_release_to_refresh">Loslaten om te vernieuwen</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">Geen</string>
     <string name="router_download_exist">Dit bestand bestaat reeds</string>
     <string name="router_download_failed">Kon niet downloaden</string>
@@ -1679,7 +1684,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="search_google">Google</string>
     <string name="search_hint">Zoeken</string>
     <string name="search_menu_title">Zoeken</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">Bladwijzers en webgeschiedenis</string>
     <string name="search_shipin">Video</string>
     <string name="search_sm">SM</string>
@@ -1920,7 +1925,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
 U kunt zich altijd afmelden via Instellingen > Privacy en beveiliging."</string>
     <string name="user_experience_disagree">Niet aanmelden</string>
     <string name="user_experience_title">Gebruikerservaringprogramma</string>
-    <string name="user_guide_color_mode_info">Licht modus en donkere modus zijn beschikbaar</string>
+    <string name="user_guide_color_mode_info">Licht modus en Donkere modus zijn beschikbaar</string>
     <string name="user_guide_color_mode_title">Selecteer kleurenschema</string>
     <string name="user_guide_control_privacy_tips">Houd de volledige controle over uw privacy</string>
     <string name="user_guide_read_info_tips">Om apps in zoekresultaten op te nemen, heeft Mi Browser toegang nodig tot de lijst met apps die op uw apparaat zijn geïnstalleerd.</string>
@@ -1978,8 +1983,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">%2$s van %1$s gebruikt</string>
     <string name="vpn_detail_guide1">Ontgrendel alle servers om uw verbinding te versnellen</string>
     <string name="vpn_detail_guide2">Abonneer op VPN-diensten om toegang te krijgen tot meer websites</string>
-    <string name="vpn_detail_guide3">U hebt bijna geen verkeer meer. Probeer ons 12-maandenplan! Tik om meer te weten te komen over uw opties.</string>
-    <string name="vpn_detail_guide4">U hebt geen verkeer meer. Probeer ons 12-maandenplan! Tik om meer te weten te komen over uw opties.</string>
+    <string name="vpn_detail_guide3">U hebt al snel geen data meer. Test onze %1$d-maandenplan! Tik om meer te weten te komen over uw opties.</string>
+    <string name="vpn_detail_guide4">U hebt geen data meer. Test onze %1$d-maandenplan! Tik om meer te weten te komen over uw opties.</string>
     <string name="vpn_detail_guide5">U hebt bijna geen verkeer meer</string>
     <string name="vpn_detail_guide6">U hebt geen verkeer meer</string>
     <string name="vpn_detail_subscribe">Abonneren</string>
@@ -2010,7 +2015,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">Hoe het werkt</string>
     <string name="whatsapp_intro_dialog_title">Nieuwe functie</string>
     <string name="whatsapp_no_status_tips">"Nog geen afbeeldingen of video's. Bekijk uw WhatsApp statusupdates en kom hier weer terug."</string>
-    <string name="whatsapp_principle_page_message">"WhatsApp slaat foto's en video's die u doorbladert op in een verborgen map. Deze items verdwijnen na 24 uur. Nu kunt u Mi Browser gebruiken om ze op te slaan."</string>
+    <string name="whatsapp_principle_page_message">"WhatsApp slaat foto's en video's die u doorbladert op in een verborgen map. Deze items verdwijnen na %1$d uur. Nu kunt u Mi Browser gebruiken om ze op te slaan."</string>
     <string name="whatsapp_principle_page_title">"U kunt afbeeldingen en video's uit WhatsApp statussen opslaan met Mi Browser"</string>
     <string name="whatsapp_principle_step_1">"Blader door afbeeldingen en video's vanaf het tabblad \"Status\" in WhatsApp."</string>
     <string name="whatsapp_principle_step_2">Kom hier terug om ze op te slaan.</string>

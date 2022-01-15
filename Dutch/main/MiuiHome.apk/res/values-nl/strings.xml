@@ -206,6 +206,13 @@
     <string name="copy">Kopiëren</string>
     <string name="current_preview">Voorbeeld</string>
     <string name="current_wallpaper">Huidig</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Voor bellen naar contactpersonen voor noodgevallen in Lite-modus</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Voor het weergeven van contactpersonen voor noodgevallen in Lite-modus</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Voor het weergeven van de apparaatstatus</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">Voor het weergeven van Kalenderwidgets</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">Voor het weergeven van Galerij-widgets</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Voor toegang tot de naam van de WLAN-widget in Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Voor toegang tot en opslaan van gegevens op het Startscherm</string>
     <string name="custom_wallpaper_picker">Bladeren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -429,7 +436,7 @@
     <string name="lock_screen_wallpaper">Vergrendelscherm achtergrond</string>
     <string name="maml_download_dialog_cancel_text">Wachten op wifi</string>
     <string name="maml_download_dialog_cancel_text_china">Wachten op WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">Niet meer tonen</string>
+    <string name="maml_download_dialog_checkbox_text">Niet meer tonen gedurende %d minuten</string>
     <string name="maml_download_dialog_confirm_text">Downloaden</string>
     <string name="maml_download_dialog_message">%s MB mobiele data wordt gebruikt om dit item te downloaden. Toch downloaden?</string>
     <string name="maml_download_dialog_title">Waarschuwing datagebruik</string>
@@ -581,7 +588,7 @@
     <string name="online_wallpaper">Online</string>
     <string name="open_personal_assistant_dialog_btn_cancel">Annuleren</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Uitschakelen</string>
-    <string name="open_personal_assistant_dialog_desc">U zult app-kluis niet meer kunnen gebruiken en geen updates meer ontvangen. Nu uitschakelen?</string>
+    <string name="open_personal_assistant_dialog_desc">Nadat u App-kluis heeft uitgeschakeld, kunt u App-kluis widgets niet meer zien of gebruiken. Hun bijgewerkte versies zijn ook niet voor u beschikbaar. Toch uitschakelen?</string>
     <string name="open_personal_assistant_dialog_desc_international">U zult geen App-kluiskaarten (aandelen, snelkoppelingen, enz.) meer kunnen gebruiken en geen updates meer ontvangen nadat u deze functie hebt uitgeschakeld.</string>
     <string name="open_personal_assistant_dialog_title">App-kluis uitschakelen</string>
     <string name="open_personal_assistant_settings">App-kluis instellingen</string>
@@ -724,6 +731,7 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />

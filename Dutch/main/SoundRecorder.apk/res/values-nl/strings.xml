@@ -37,6 +37,7 @@
     <string name="alert_message_delete_record">Verwijderen van de opname van het apparaat zal deze opname ook verwijderen van Xiaomi Cloud. Nu verwijderen?</string>
     <string name="alert_message_delete_record_title">Opname verwijderen?</string>
     <string name="all_record">Alle opnames</string>
+    <string name="allowed">Toegekend</string>
     <string name="am">AM</string>
     <string name="app_name">Recorder</string>
     <string name="app_record">App-opnames</string>
@@ -184,6 +185,7 @@
     <string name="head_set_tip_dialog_title">Interne microfoon gebruiken</string>
     <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="invalid_argument">Ongeldig argument</string>
+    <string name="invisible_mode_error_tip">Schakel Incognito modus uit in de instellingen om de microfoon te kunnen gebruiken</string>
     <string name="item_view_role_description">Tabblad</string>
     <string name="keywords_search_call_record">Gesprekken opnemen;Gesprek opnemen;Opname gesprek;Opnames gesprek</string>
     <string name="keywords_search_record">Nieuwe opname;Opname toevoegen;Opname;Recordings;Transcript;Transcriberen;Opnemen;Stemopname;Geluidsopname;Opneem-app;Opname-app;Hoe neem ik op;Hoe neem ik geluid op;Waar is mijn opnemer;MIUI Opnemer</string>
@@ -221,6 +223,7 @@
     <string name="mi_account_ok">Aanmelden</string>
     <string name="mi_account_title">Aanmelden met Mi Account</string>
     <string name="midnight">Nacht</string>
+    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -293,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -333,6 +337,7 @@
     <string name="no_records">Hier nog geen opnames</string>
     <string name="noon">Tussen de middag</string>
     <string name="normal_settings_pref_title">Algemene instellingen</string>
+    <string name="not_allowed">Niet toegekend</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notification_message_all_paused">Wachten op Wi-Fi verbinding.</string>
     <string name="notification_playback">Afspelen…</string>
@@ -378,6 +383,15 @@
     <string name="pay_error_cancel">Betaling is geannuleerd</string>
     <string name="pay_error_null">Kon betaling niet voltooien. Controleer uw account.</string>
     <string name="pay_error_unknown">Onbekende fout</string>
+    <string name="permission_desc">Toestemmingen details</string>
+    <string name="permission_dialog_cancel">Annuleren</string>
+    <string name="permission_dialog_ok">Instellingen</string>
+    <string name="permission_record">Audio opnemen</string>
+    <string name="permission_record_description">Voor het leveren van audio-opnamediensten</string>
+    <string name="permission_storage">Toegang tot opslag</string>
+    <string name="permission_storage_description">Voor het beheren van opnamen en downloaden vanuit de cloud</string>
+    <string name="permission_storage_description_for_download">Voor het downloaden van opnames uit de cloud</string>
+    <string name="permission_storage_description_for_manage_files">Voor het beheren van opnames</string>
     <string name="play_speed">%1$.1fX snelheid</string>
     <string name="playback_delete_records">Opname verwijderen</string>
     <string name="playback_share_records">Opname delen</string>
@@ -399,6 +413,8 @@
     <string name="preference_status_bar_indicator_prompt">Het toont een blauwe indicator op het Vergrendelscherm tijdens het registreren</string>
     <string name="preference_tip_rename">Geef opnames handmatig een naam</string>
     <string name="privacy_policy_title">Privacybeleid</string>
+    <string name="privacy_settings">Privacy</string>
+    <string name="progress">Voortgangsbalk afspelen</string>
     <string name="recognition_button_add_to_queue">Aan de wachtrij toevoegen</string>
     <string name="recognition_button_cancel">Niet nu</string>
     <string name="recognition_button_start">Omzetten</string>
@@ -466,6 +482,7 @@
     <string name="record_mark_point">Markeer %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">Microfoontoestemmingen vereist</string>
     <string name="record_quliaty_preference_title">Opname kwaliteit</string>
     <string name="record_resotre">Opnames herstellen</string>
     <string name="recorder_record">Audio</string>
@@ -498,6 +515,11 @@
     <string name="rename_no_more_tip">Niet meer tonen</string>
     <string name="retry">Probeer het opnieuw</string>
     <string name="runtime_permission_ungranted">Recorder kan niet worden gebruikt door niet toegewezen toestemmingen</string>
+    <string name="saf_permission_dialog_content">Vanwege Android-beperkingen heeft Recorder toestemming nodig om toegang te krijgen tot opnamen die door andere apps zijn gemaakt. Sta Recorder toegang toe tot deze opnamen om ze te kunnen bekijken.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">Instellingen</string>
+    <string name="saf_permission_dialog_later">Nee, bedankt</string>
+    <string name="saf_permission_dialog_no_more_tip">Niet meer tonen</string>
+    <string name="saf_permission_dialog_title">Toestemmingen vereist</string>
     <string name="saturday">Zaterdag</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
@@ -516,6 +538,7 @@
     <string name="search_tip_rename">Geef opnames handmatig een naam</string>
     <string name="send">Verzenden</string>
     <string name="service_instructions">Over iflyrec.com</string>
+    <string name="settings_saf_permission">Toestemmingen voor bestandsbeheer</string>
     <string name="share">Deel</string>
     <string name="share_dialog_title">Delen met</string>
     <string name="shortcut_records">Opnames</string>
@@ -536,6 +559,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Aan het opnemen…</string>
     <string name="status_bar_recording_pause">Opname gepauzeerd</string>
+    <string name="storage_permission_dialog_title">Opslagtoestemmingen vereist</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
@@ -625,6 +649,7 @@
     <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="view_privacy">Privacybeleid bekijken</string>
     <string name="webview_check_network">Netwerkinstellingen</string>
     <string name="webview_data_error">Er is een fout opgetreden</string>
     <string name="webview_locating_fail">Kon uw locatie niet vinden</string>

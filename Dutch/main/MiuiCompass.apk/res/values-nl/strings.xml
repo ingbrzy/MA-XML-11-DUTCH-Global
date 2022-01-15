@@ -51,13 +51,14 @@
     <string name="calibrate_success">Gekalibreerd</string>
     <string name="calibrate_tip">Kantel uw apparaat om de bal rond de cirkel te laten rollen</string>
     <string name="calibrate_title">Kompas kalibreren</string>
+    <string name="calibrating">Kompas kalibreren</string>
     <string name="cancel">Annuleren</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
     <string name="compass_settings">Instellingen</string>
     <string name="copy">Kopiëren</string>
-    <string name="cta_agree_desc">Sta toe dat deze app verbinding maakt met het internet en optionele rechten verleent om alle functies te kunnen gebruiken.</string>
+    <string name="cta_agree_desc">Sta toe dat deze app verbinding maakt met het internet en optionele toestemmingen verleent om alle functies te kunnen gebruiken.</string>
     <string name="cta_v2_app_purpose">met aanwijzingen, coördinaten, atmosfeer druk en huidige hoogte</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -225,6 +226,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
+    <string name="new_cta_app_purpose">bekijk routebeschrijving en coördinaten</string>
     <string name="new_cta_v2_app_purpose">Met aanwijzingen, coördinaten, atmosfeer druk en huidige hoogte</string>
     <string name="new_permission_camera_desc">Voor kalibratie</string>
     <string name="new_permission_location_desc">Voor het weergeven van coördinaten</string>
@@ -236,6 +238,7 @@
     <string name="open_perm_msg">Kompas heeft toegang tot locatie info en Camera nodig. Dit is nodig om coördinaten te bepalen en live voorbeelden te geven. Toestaan?</string>
     <string name="open_perm_msg_no_camera">Kompas heeft toegang nodig tot locatie info om coördinaten te kunnen bepalen. Toestaan?</string>
     <string name="open_perm_title">Toestemmingen vereist</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">Voor het weergeven van azimut in de live voorbeeld</string>
     <string name="permission_description">Toestemmingen details</string>
     <string name="permission_location_desc">Voor het weergeven van coördinaten</string>

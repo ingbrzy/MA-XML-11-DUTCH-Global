@@ -65,8 +65,8 @@
         <item quantity="one">%1$s dag</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Verjaardag: %2$d jaar sinds %1$s in %3$d dagen</item>
-        <item quantity="one">Verjaardag: %2$d jaar sinds %1$s in %3$d dagen</item>
+        <item quantity="other">Jubileum: %2$d jaar sinds %1$s in %3$d dagen</item>
+        <item quantity="one">Jubileum: %2$d jaar sinds %1$s in %3$d dagen</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Jubileum: %2$d jaren sinds%1$s</item>

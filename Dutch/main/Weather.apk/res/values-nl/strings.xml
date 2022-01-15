@@ -35,7 +35,7 @@
     <string name="act_find_city_hot_city_title">Populaire steden</string>
     <string name="act_location_error_to_find_city">Kon locatie info niet verkrijgen. U kunt handmatig een stad toevoegen.</string>
     <string name="act_set_city_find_side">Plaatsbepaling</string>
-    <string name="act_set_city_find_side_error">Locatie bepalen mislukt</string>
+    <string name="act_set_city_find_side_error">Kan apparaat niet lokaliseren</string>
     <string name="act_weather_find_city_added">Toegevoegd</string>
     <string name="act_weather_find_city_click_retry">Opnieuw proberen</string>
     <string name="act_weather_find_city_net_no_good">Kan geen verbinding maken met het netwerk.</string>
@@ -150,6 +150,7 @@
     <string name="dynamic_weather">Weer</string>
     <string name="early_morning">Ochtend</string>
     <string name="edit_city">Steden beheren</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Updaten…</string>
     <string name="empty_view_net_unavailable">Kon niet verbinden met het netwerk</string>
     <string name="empty_view_refresh">Opnieuw proberen</string>
@@ -259,13 +260,17 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="hourly_forcast_now">Nu</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Nu installeren</string>
     <string name="indices_title_chance_of_rain">Kans op regen</string>
     <string name="indices_title_feel">Gevoelstemperatuur</string>
     <string name="indices_title_pressure">Luchtdruk</string>
     <string name="indices_title_wind_speed">Windsnelheid</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV index</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Locatieservices inschakelen</string>
     <string name="location_tag">Lokaliseren</string>
     <string name="manager_city_option_add_home">Toevoegen aan startpagina</string>
@@ -395,7 +400,7 @@
     <string name="realtime_wind_default_title">Wind</string>
     <string name="refresh_fail">Kon niet verbinden met netwerk</string>
     <string name="reminder_from_xiaomi_weather_app">Mi weermelding</string>
-    <string name="request_cta_connect_net">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde verplichte toestemmingen.</string>
+    <string name="request_cta_connect_net">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde vereiste toestemmingen.</string>
     <string name="request_permission_location_dialog_content">Om weersinfo voor uw huidige locatie te weergeven</string>
     <string name="request_permission_main_purpose">Weersinformatie weergeven</string>
     <string name="request_permission_storage_dialog_content">Om weersinfome te delen in het afbeeldingsformat</string>
@@ -408,6 +413,7 @@
     <string name="save_to_gallery_icon_name">Opslaan in Galerij</string>
     <string name="save_to_gallery_success_message">Succesvol opgeslagen in Galerij</string>
     <string name="search_menu_title">Zoeken</string>
+    <string name="select_show_city">Selecteer locatie</string>
     <string name="send">Verzenden</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -422,6 +428,7 @@
     <string name="share_menu_title">Delen</string>
     <string name="share_subject">Delen</string>
     <string name="share_weather_desc">\#MIUI Weer#Vandaag %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Kan geen screenshot maken</string>
     <string name="shortcut_short_label_24_hour_forecast">24-uurs voorspelling</string>

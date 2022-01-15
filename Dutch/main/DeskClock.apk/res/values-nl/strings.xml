@@ -36,7 +36,7 @@
     <string name="add_alarm">Alarm toevoegen</string>
     <string name="add_clock">Klok toevoegen</string>
     <string name="add_common_timer">Timer toevoegen</string>
-    <string name="add_timer">Frequente timer</string>
+    <string name="add_timer">Veelgebruikte timer</string>
     <string name="add_timezone_title">Tijdzone toevoegen</string>
     <string name="afternoon">Middag</string>
     <string name="agree">Akkoord</string>
@@ -67,6 +67,7 @@
     <string name="alert_vibrate_enable_summary">Trillen wanneer het alarm afgaat</string>
     <string name="alert_volume">Beltoonvolume</string>
     <string name="alert_volume_summary">Stel het beltoonvolume in voor alarmen en timers</string>
+    <string name="alert_xiaoai_ringtone_desc">Mi AI praat…</string>
     <string name="already_exist">Deze timer bestaat al</string>
     <string name="am">AM</string>
     <string name="analog_gadget">Analoge klok</string>
@@ -110,6 +111,7 @@
     <string name="channel_name_timer">Timer</string>
     <string name="check_theme_app_install">"Zorg ervoor dat de Thema's app geïnstalleerd is op uw apparaat."</string>
     <string name="check_voice_assist_app_version">Werk Mi AI bij naar de nieuwste versie.</string>
+    <string name="cities_show_limit_desc">Kan niet meer klokken weergeven</string>
     <string name="city_time_contrast_desc">Tik om de tijd in verschillende steden te vergelijken</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="clock_bg_button_setting_summary_common">Selecteer de achtergrondkleur voor de Klok-app</string>
@@ -444,6 +446,7 @@
     <string name="repeat_count_value_ten">10</string>
     <string name="repeat_count_value_three">3</string>
     <string name="repeat_count_value_two">2</string>
+    <string name="repeat_type">Herhalen</string>
     <string name="reset">Resetten</string>
     <string name="revert">Terugzetten</string>
     <string name="ringtone_all">Alle beltonen</string>
@@ -463,7 +466,9 @@
     <string name="search_stopwatch_keywords">Stopwatch</string>
     <string name="search_timer_keywords">Timer</string>
     <string name="search_worldclock_keywords">Tijd; Wereldklok; Klok</string>
+    <string name="select_all">Alles selecteren</string>
     <string name="select_operation">Selecteren</string>
+    <string name="selected">Geselecteerd</string>
     <string name="send">Verzenden</string>
     <string name="set_alarm">Tijd selecteren</string>
     <string name="set_alarm_choose_ringtone">Beltoon selecteren</string>
@@ -486,6 +491,7 @@
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -529,6 +535,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -537,6 +544,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -643,6 +651,11 @@
     <string name="tuesday_shortest">Di</string>
     <string name="turn_off_a_repeat_alarm">Schakel een herhaald alarm uit</string>
     <string name="turn_off_this_repeat_alarm">Dit herhaalde alarm uitschakelen</string>
+    <string name="tv_blank_list_other_text">Nog niets om te weergeven</string>
+    <string name="tv_blank_list_show_text">Nog niets om te weergeven. Zoek naar een locatie om deze aan uw wereldklok toe te voegen.</string>
+    <string name="tv_world_clock_edit_title1">Locaties weergegeven op het Startscherm</string>
+    <string name="tv_world_clock_edit_title2">Andere opgeslagen locaties</string>
+    <string name="unselect_all">Alles deselecteren</string>
     <string name="upcoming_alarm">Aankomend alarm: %s</string>
     <string name="upcoming_alarm_hint">U kunt dit alarm nu uitschakelen</string>
     <string name="update_health_app">Update Xiaomi Health</string>
@@ -670,8 +683,10 @@
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
     <string name="week_ringtone_recommend_desc">Natuuralarm speelt afhankelijk van de datum verschillende geluiden af. Stel het in als uw standaardwekker?</string>
+    <string name="white_noise">Omgevingsgeluid</string>
     <string name="white_noise_selector">Audio selecteren</string>
     <string name="workday_alarm_clock">Werkdag alarm</string>
+    <string name="worldclock_edit_label">Wereldklok</string>
     <string name="worldclock_empty_text">Geen klokken</string>
     <string name="worldclock_input_hint_text">Naar land of stad zoeken</string>
     <string name="worldclock_local_time">Lokale tijd</string>
@@ -689,5 +704,6 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">%s U</string>
     <string name="worldcolock_timezone_local">Hetzelfde als de lokale tijd</string>
+    <string name="xiaoai_ringtone_title">Mi AI-beltonen</string>
     <string name="yesterday">Gisteren</string>
 </resources>

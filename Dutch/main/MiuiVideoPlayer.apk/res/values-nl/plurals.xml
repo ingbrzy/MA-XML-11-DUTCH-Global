@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Een half uur geleden</item>
-        <item quantity="one">Een half uur geleden</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In een half uur</item>
-        <item quantity="one">In een half uur</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Onmiddellijk</item>
-        <item quantity="one">Onmiddellijk</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Zojuist</item>
-        <item quantity="one">Zojuist</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
-    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">%d reacties bekijken</item>
         <item quantity="one">%d reactie bekijken</item>
@@ -47,34 +11,6 @@
     <plurals name="follower">
         <item quantity="other">%d volgers</item>
         <item quantity="one">%d volger</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Een half uur geleden</item>
-        <item quantity="one">Een half uur geleden</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">In een half uur</item>
-        <item quantity="one">In een half uur</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Onmiddellijk</item>
-        <item quantity="one">Onmiddellijk</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 minuut</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Zojuist</item>
-        <item quantity="one">Zojuist</item>
-    </plurals>
-    <plurals name="local_video_floder">
-        <item quantity="other">%d mappen</item>
-        <item quantity="one">%d map</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">Ondertitels zullen %.1f seconden eerder worden getoond</item>
@@ -96,10 +32,6 @@
         <item quantity="other">%s sec over</item>
         <item quantity="one">%s sec over</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items geselecteerd</item>
-        <item quantity="one">%d item geselecteerd</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>
         <item quantity="one">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dag tot %3$s.</item>
@@ -107,10 +39,6 @@
     <plurals name="notification_close_tip">
         <item quantity="other">Deze functie wordt uitgeschakeld voor %s dagen</item>
         <item quantity="one">Deze functie wordt uitgeschakeld voor %s day</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">"%d video's"</item>

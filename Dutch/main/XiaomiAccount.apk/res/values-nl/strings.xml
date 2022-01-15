@@ -107,6 +107,9 @@
     <string name="binded">Verbonden</string>
     <string name="binded_description" formatted="false">"%s is verbonden aan uw Mi Account.
 U kunt nu aanmelden op uw Mi Account met %s."</string>
+    <string name="button_agree">Akkoord</string>
+    <string name="button_close">Afsluiten</string>
+    <string name="button_refuse">Niet akkoord</string>
     <string name="button_unbind">Verbinding verbreken</string>
     <string name="cancel">Annuleren</string>
     <string name="change_activate_email">E-mailadres wijzigen</string>
@@ -466,6 +469,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_activing_account">Activeren…</string>
     <string name="passport_adding_account">Account toevoegen…</string>
     <string name="passport_area_code_hot">Veelgebruikt</string>
+    <string name="passport_area_code_others">Een ander voorvoegsel gebruiken</string>
     <string name="passport_area_code_title">Landcode</string>
     <string name="passport_auto_generate_pwd">Genereer een veilig wachtwoord</string>
     <string name="passport_back">Vorige</string>
@@ -698,13 +702,19 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="permission_group_phone">Telefoon</string>
     <string name="permission_group_sms">Sms</string>
     <string name="permission_group_storage">Opslag</string>
+    <string name="permission_instructions">Toestemming gebruik</string>
     <string name="permission_read_sms">Toegang tot berichten</string>
+    <string name="permission_withdraw">Intrekken</string>
     <string name="permission_write_external_storage">Toegang tot en opslaan van items in de opslag</string>
     <string name="personal_info_desc">Foto, bijnaam en meer</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
+    <string name="privacy_policy_reject_confirm_msg">U kunt Mi Account niet blijven gebruiken tenzij u akkoord gaat met de nieuwe versie van het Privacybeleid. Gaat u akkoord met het bijgewerkte Mi Account &lt;a href=%1$s>Privacybeleid&lt;/a> nu?</string>
+    <string name="privacy_policy_reject_confirm_title">Kan Mi Account niet gebruiken</string>
+    <string name="privacy_policy_update_msg">Mi Account Privacybeleid is bijgewerkt:&lt;br/>%1$s&lt;br/>Lees en ga akkoord met de nieuwe versie van &lt;a href=%2$s>&lt;u>Privacybeleid&lt;/u>&lt;/a> voordat u doorgaat.</string>
+    <string name="privacy_policy_update_title">Bijgewerkt Privacybeleid</string>
     <string name="provision_back">Terug</string>
     <string name="provision_next">Volgende</string>
     <string name="provision_skip_underline">Overslaan</string>
@@ -731,6 +741,9 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="restart_action">Begin opnieuw</string>
     <string name="restart_phone_bind_message">Het kan enige tijd duren om de SMS te ontvangen. Toch opnieuw beginnen?</string>
     <string name="restart_phone_bind_title">Verander hersteltelefoon</string>
+    <string name="revoke_privacy_policy">Intrekking van toestemming</string>
+    <string name="revoke_privacy_policy_instructions">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Mi Account in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien Mi Account zijn diensten verleent op basis van het verzamelen van de nodige persoonlijke informatie, wordt uw intrekking van uw toestemming beschouwd als een weigering om Mi Account services te accepteren. Toestemming nu intrekken?</string>
+    <string name="revoke_privacy_policy_title">Intrekking van toestemming</string>
     <string name="risky_pwd_not_allow">Nieuw wachtwoord is niet veilig. Stel een andere in.</string>
     <string name="same_new_and_old_pwd">Het nieuwe wachtwoord moet verschillen van het oude</string>
     <string name="saturday">Zaterdag</string>
@@ -859,7 +872,15 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="user_instruction_all_purpose">"Welkom bij Mi Account! U kunt uw account gebruiken om toegang te krijgen tot diensten die worden aangeboden door Xiaomi en zijn gelieerde bedrijven, zoals Mi.com, Xiaomi Cloud en GetApps. U kunt Mi Coins krijgen, virtuele goederen kopen en genieten van diensten met toegevoegde waarde, waaronder games, thema's en e-books."</string>
     <string name="user_instruction_tip">Om in te kunnen loggen, moet u de algemene voorwaarden lezen en ermee akkoord gaan.</string>
     <string name="user_license_with_3rd_app">&lt;Data>Door in te loggen met mijn Mi Account, bevestig ik dat ik de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> heb gelezen en ermee akkoord ga.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_mobile">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_no_operator">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_telcom">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_unicom">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_license_without_3rd_app">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_without_3rd_mobile">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_without_3rd_telcom">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_license_without_3rd_unicom">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="vip_account_settings">VIP-instellingen</string>
