@@ -256,7 +256,6 @@
     <string name="settings_guide_title">Andere instellingen nodig?</string>
     <string name="show_badge_notifications">Notificatiebadges</string>
     <string name="show_badge_notifications_short">Badges</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">Statusbalk</string>
     <string name="summary_aggregate_default">Promotionele- en inhoudgerelateerde pushmeldingen worden gegroepeerd</string>
     <string name="summary_aggregate_home">Pushmeldingen worden niet gegroepeerd</string>
