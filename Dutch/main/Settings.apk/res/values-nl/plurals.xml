@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">%d dagen geleden</item>
         <item quantity="one">%d dag geleden</item>
@@ -92,6 +128,10 @@
         <item quantity="other">%d beschikbare apparaten</item>
         <item quantity="one">%d beschikbaar apparaat</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">Elke %d seconden</item>
+        <item quantity="one">Elke %d seconde</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d apparaten</item>
         <item quantity="one">%d apparaat</item>
@@ -148,13 +188,37 @@
         <item quantity="other">%1$d personen verbonden</item>
         <item quantity="one">%1$d persoon verbonden</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
     <plurals name="hours">
         <item quantity="other">%s uur</item>
         <item quantity="one">1 uur</item>
     </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
+    </plurals>
     <plurals name="interact_across_profiles_number_of_connected_apps">
         <item quantity="other">%d apps gekoppeld</item>
         <item quantity="one">%d app gekoppeld</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d van %2$d apps hebben toegang tot de locatie</item>
@@ -248,6 +312,10 @@
         <item quantity="other">Wifi wordt automatisch ingeschakeld wanneer uw apparaat opgeslagen netwerken in de buurt detecteert en wordt uitgeschakeld na %d minuten als er geen verbinding tot stand is gebracht</item>
         <item quantity="one">Wifi wordt automatisch ingeschakeld wanneer uw apparaat opgeslagen netwerken in de buurt detecteert en wordt uitgeschakeld na %d minuut als er geen verbinding tot stand is gebracht</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
     <plurals name="mobile_network_summary_count">
         <item quantity="other">%1$d simkaarten</item>
         <item quantity="one">%1$d simkaart</item>
@@ -279,6 +347,10 @@
     <plurals name="notifications_sent_weekly">
         <item quantity="other">~%d meldingen per week</item>
         <item quantity="one">~%d melding per week</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
     </plurals>
     <plurals name="number_of_device_admins">
         <item quantity="other">%d actieve apps</item>
@@ -361,8 +433,8 @@
         <item quantity="one">U bent %1$d stap weg van het openen van apparaat info.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">U bent %1$d stappen verwijderd van het melden van een systeemfout.</item>
-        <item quantity="one">U bent %1$d stap verwijderd van het melden van een systeemfout.</item>
+        <item quantity="other">U bent %1$d stappen verwijderd van het melden van een bug.</item>
+        <item quantity="one">U bent %1$d stap verwijderd van het melden van een bug.</item>
     </plurals>
     <plurals name="special_access_summary">
         <item quantity="other">%d apps kunnen onbeperkt data gebruiken</item>

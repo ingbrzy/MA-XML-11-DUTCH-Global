@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">Deze notitie verwijderen? Het fragment wordt ook verwijderd.</string>
     <string name="alert_message_delete_note">Deze notitie verwijderen?</string>
     <string name="alert_message_edit_anyway">Als u deze notitie bewerkt, kan sommige inhoud verloren gaan.</string>
+    <string name="alert_message_edit_anyway_new">Deze notitie bevat niet-ondersteunde inhoud. Het bewerken ervan kan formaatwijzigingen of gegevensverlies veroorzaken.</string>
     <string name="alert_message_restore">Deze notitie kon niet worden geopend. Herstel het om de inhoud te bewerken.</string>
     <string name="alert_title_delete">Notitie verwijderen</string>
     <string name="alert_title_edit_anyway">Deze notitie bevat niet-ondersteunde inhoud</string>
@@ -68,7 +69,7 @@
     <string name="audio_create_will_cancel_state">Laat los om te annuleren</string>
     <string name="audio_dialog_mode_meeting">Vergadermodus (Bèta)</string>
     <string name="audio_dialog_mode_meeting_exit">Nee, bedankt</string>
-    <string name="audio_dialog_mode_meeting_sum">In de Vergadermodus kunt u de stemmen van maximaal 4 verschillende mensen herkennen. Sommige herkenningsfouten kunnen optreden in de Bètaversie.</string>
+    <string name="audio_dialog_mode_meeting_sum">Vergadermodus staat u toe de stemmen te herkennen van %1$d-%2$d verschillende mensen. Sommige herkenningsfouten kunnen optreden in de Bètaversie.</string>
     <string name="audio_dialog_mode_meeting_use">Starten</string>
     <string name="audio_panel_time_counter_default">00:00</string>
     <string name="audio_toast_file_invalid">Audiobestand is ongeldig</string>
@@ -202,6 +203,7 @@
     <string name="error_send_empty_note">Kan een lege notitie niet verzenden</string>
     <string name="error_send_empty_note_to_weibo">Kan een lege notitie niet naar Weibo verzenden</string>
     <string name="error_unsupport_content">Deze notitie bevat niet-ondersteunde inhoud, tik hier om bij te werken</string>
+    <string name="error_unsupport_content_format">Deze notitie bevat niet-ondersteunde inhoud. Werk bij naar versie %1$s of hoger.</string>
     <string name="error_widget_exist_for_send_to_desktop">Deze notitie staat al op uw Startscherm</string>
     <string name="evening">Middag</string>
     <string name="exceed_todo_text_limitation">Taakbeschrijving is te lang.</string>
@@ -336,6 +338,7 @@
     <string name="menu_create_folder">Nieuwe map</string>
     <string name="menu_delete">Verwijderen</string>
     <string name="menu_delete_forever">Permanent verwijderen</string>
+    <string name="menu_edit">Bewerken</string>
     <string name="menu_folders">Mappen</string>
     <string name="menu_group">Een map aanmaken</string>
     <string name="menu_hide">Verbergen</string>
@@ -493,6 +496,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -549,10 +553,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"Beginnen met typen "</string>
     <string name="note_mindnote_entrance_icon_text">Maak een mindmap</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Maak een mindmap</string>
+    <string name="note_module_name">Notities</string>
     <string name="note_not_text_stub">Geen tekst</string>
     <string name="note_sort_way">Sorteren</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Notes is een systeem-app. U kunt deze app niet gebruiken nadat u deze heeft verwijderd.</string>
     <string name="notes_description_title">Notities deïnstalleren?</string>
     <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
@@ -710,6 +716,13 @@
     <string name="select_account_prompt">Notities synchroniseren</string>
     <string name="send">Verzenden</string>
     <string name="set_alarm_description">Alarm instellen</string>
+    <string name="setting_big_screen_layout_columns">Zijbalk</string>
+    <string name="setting_big_screen_layout_flat">Tegels</string>
+    <string name="setting_big_screen_layout_title">Groot scherm lay-out</string>
+    <string name="setting_cloud_service">Cloud services</string>
+    <string name="setting_layout">Lay-out</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
+    <string name="setting_note_list_layout_title">Lay-out</string>
     <string name="setting_other">OVERIG</string>
     <string name="setting_privacy">Privacybeleid</string>
     <string name="single_link_excerpt_saving">Items opslaan…</string>
@@ -933,6 +946,15 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="view_all_notes">Alles bekijken</string>
+    <string name="warn_cannot_add_new_bullet">Kan geen nieuwe lijst met opsommingstekens toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_checkbox">Kan geen nieuw selectievakje toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_doodle">Kan geen nieuwe doodle toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_element">Kan geen nieuw item toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_link_card">Kan geen nieuwe link toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_picture">Kan geen nieuwe afbeelding toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_style">Kan geen nieuwe indeling toevoegen omdat de notitie te lang is</string>
+    <string name="warn_disable_edit_in_browse_mode">U kunt geen notities bewerken in de alleen-lezen modus</string>
+    <string name="warn_enter_browse_mode">U bevindt zich in de alleen-lezen modus</string>
     <string name="web_sso_login_fail">U moet opnieuw inloggen</string>
     <string name="web_sso_login_message">Bezig met inloggen…</string>
     <string name="webview_reload">Opnieuw proberen</string>

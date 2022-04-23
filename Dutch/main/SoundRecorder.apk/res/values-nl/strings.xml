@@ -296,6 +296,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -328,6 +329,11 @@
     <string name="network_tip_dialog_title">Internetverbinding is vereist</string>
     <string name="network_unavailable_tip">Maak verbinding met het netwerk en probeer het opnieuw.</string>
     <string name="new_record_name">Nieuwe opname</string>
+    <string name="new_saf_permission_dialog_content">"Recorder toestemmingen zijn bijgewerkt. Geef Recorder toegang tot gespreksopnames.
+
+Hoe toestemming te verlenen
+Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Volgende</string>
     <string name="night">Avond</string>
     <string name="no_content">Nog geen items hier</string>
     <string name="no_file">Leeg</string>
@@ -385,6 +391,8 @@
     <string name="permission_desc">Toestemmingen details</string>
     <string name="permission_dialog_cancel">Annuleren</string>
     <string name="permission_dialog_ok">Instellingen</string>
+    <string name="permission_read_phone_state">Toegang tot apparaat info</string>
+    <string name="permission_read_phone_state_description">Voor toegang tot de oproepstatus om automatisch te stoppen met opnemen bij het ontvangen van oproepen</string>
     <string name="permission_record">Audio opnemen</string>
     <string name="permission_record_description">Voor het leveren van audio-opnamediensten</string>
     <string name="permission_storage">Toegang tot opslag</string>
@@ -624,6 +632,7 @@
     <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
     <string name="the_valentines_day">Valentijnsdag</string>
     <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="this_folder">Deze map gebruiken</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">Do</string>

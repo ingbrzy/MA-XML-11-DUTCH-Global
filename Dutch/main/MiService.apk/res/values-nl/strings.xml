@@ -185,6 +185,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">"Afbeeldingen of video's groter dan 100MB kunnen niet worden geüpload"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Vul naam van de app in</string>
     <string name="miui_feedback_main_answer_title">Er is een antwoord op deze vraag</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Klantenservice: 0120-300-521
+Kantooruren: 9:00 - 18:00 (behalve op feestdagen)
+E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">Veelgestelde vragen</string>
     <string name="miui_feedback_main_item_catch_full_log">Logbestanden ophalen</string>
     <string name="miui_feedback_main_item_customer_service">Dienst na verkoop services</string>
@@ -329,7 +332,7 @@
     <string name="permission_external_storage_introduce">Voor het opslaan en uploaden van uw feedback</string>
     <string name="permission_first_start_network_title">Algemene voorwaarden</string>
     <string name="permission_imei_disable_desc">Sta toe dat deze app verbinding maakt met het internet.</string>
-    <string name="permission_imei_enable_desc">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde verplichte toestemmingen.</string>
+    <string name="permission_imei_enable_desc">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde vereiste toestemmingen.</string>
     <string name="permission_location_introduce">Om nabijgelegen servicepunten te tonen</string>
     <string name="permission_main_purpose">"MIUI functie demo's weergeven, feedback indienen, services na verkoop aanvragen."</string>
     <string name="permission_privacy">Privacybeleid (vereist)</string>

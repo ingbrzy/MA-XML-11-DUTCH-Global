@@ -40,6 +40,14 @@
         <item quantity="other">%d games toegevoegd</item>
         <item quantity="one">%d game toegevoegd</item>
     </plurals>
+    <plurals name="app_behavior_dashboard_title_desc">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
+    <plurals name="app_behavior_dashboard_total_usage_item">
+        <item quantity="other">%d apps</item>
+        <item quantity="one">%d app</item>
+    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">Toestaan %3$d tijden tussen %1$s en %2$s</item>
         <item quantity="one">Toegestaan %3$d tijd tussen %1$s en %2$s</item>
@@ -55,6 +63,18 @@
     <plurals name="app_behavior_desc_deny_minute">
         <item quantity="other">Geweigerd %2$d keer op %1$s</item>
         <item quantity="one">Geweigerd %2$d keer op %1$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Toegestaan %3$d keer tussen %1$s en %2$s</item>
+        <item quantity="one">Toegestaan %3$d keer tussen %1$s en %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Gebruikt voor %1$d minuten</item>
+        <item quantity="one">Gebruikt voor %1$d minuut</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Gebruikt voor %1$d minuten tot %2$s</item>
+        <item quantity="one">Gebruikt voor %1$d minuut tot %2$s</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">Geretourneerd %3$d lege berichten tussen %1$s en %2$s</item>
@@ -132,6 +152,14 @@
         <item quantity="other">%s apps worden beschermd met Appvergrendeling</item>
         <item quantity="one">%s app wordt beschermd met Appvergrendeling</item>
     </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d apps inclusief %1$s</item>
+        <item quantity="one">%2$d app inclusief %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d keer</item>
+        <item quantity="one">%d keer</item>
+    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d-apps kunnen op de achtergrond verbinding maken met het netwerk</item>
         <item quantity="one">%d-app kan op de achtergrond verbinding maken met het netwerk</item>
@@ -163,6 +191,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Na %1$d minuten</item>
         <item quantity="one">Na %1$d minuut</item>
+    </plurals>
+    <plurals name="exit_dialog_scan_message_new">
+        <item quantity="other">Prestatiescore van uw apparaat is lager dan %d punten. Optimaliseer nu?</item>
+        <item quantity="one">Prestatiescore van uw apparaat is lager dan %d punt. Optimaliseer nu?</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">%d seconden vooruitspoelen</item>
@@ -268,6 +300,22 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">Ontvang een gratis proefperiode van %d dag</item>
         <item quantity="one">Ontvang een gratis proefperiode van %d dag</item>
     </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Voeg maximaal %d apps toe. Houd ingedrukt om te rangschikken.</item>
+        <item quantity="one">Voeg maximaal %d app toe. Houd ingedrukt om te rangschikken.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Deze functie verlaagt automatisch de schermhelderheid na %d minuten inactiviteit om energie te besparen. Deze functie ingeschakeld houden?</item>
+        <item quantity="one">Deze functie verlaagt automatisch de schermhelderheid na %d minuut inactiviteit om energie te besparen. Deze functie ingeschakeld houden?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Verlaag automatisch de schermhelderheid om energie te besparen na %d minuten inactiviteit</item>
+        <item quantity="one">Verlaag automatisch de schermhelderheid om energie te besparen na %d minuut inactiviteit</item>
+    </plurals>
+    <plurals name="gtb_spring_festival_colored_egg">
+        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
+        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -321,8 +369,8 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="one">%d app gevonden</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">"%d risico's gevonden, nu oplossen"</item>
-        <item quantity="one">%d risico gevonden, nu oplossen</item>
+        <item quantity="other">"%d risico's gedetecteerd"</item>
+        <item quantity="one">%d risico gedetecteerd</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Datagebruik bijhouden voor %d-apps</item>
@@ -632,6 +680,10 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">items</item>
         <item quantity="one">item</item>
     </plurals>
+    <plurals name="power_center_unoffical_battery_dialog_negative">
+        <item quantity="other">Annuleren (%d s)</item>
+        <item quantity="one">Annuleren (%d s)</item>
+    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s dagen resterend</item>
         <item quantity="one">%s dag resterend</item>
@@ -745,8 +797,8 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="one">Vond %d onofficiële app</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">Vond %d virus-apps en onveilige apps</item>
-        <item quantity="one">Vond %d virus-app</item>
+        <item quantity="other">%d schadelijke apps gedetecteerd</item>
+        <item quantity="one">%d schadelijke app gedetecteerd</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">Zoek %d apps</item>
@@ -824,9 +876,19 @@ U kunt nu een gratis proefperiode van %d dag krijgen!"</item>
         <item quantity="other">%d apps</item>
         <item quantity="one">%d app</item>
     </plurals>
+    <plurals name="videobox_settings_timing_bubble">
+        <item quantity="other">"U kijkt al %d uur naar video's.
+Neem een pauze!"</item>
+        <item quantity="one">"U kijkt al %d uur naar video's.
+Neem een pauze!"</item>
+    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d weergaves</item>
         <item quantity="one">%1$d weergave</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">%d geselecteerde apps wissen?</item>
+        <item quantity="one">%d geselecteerde app wissen?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Gevaarlijke apps: %d</item>

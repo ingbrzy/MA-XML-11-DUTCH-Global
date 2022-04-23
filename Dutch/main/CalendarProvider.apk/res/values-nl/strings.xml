@@ -17,9 +17,9 @@
     <string name="debug_tool_message">U gaat uw kalender database kopiëren naar de SD-kaart/USB-opslag die door iedere app gelezen kan worden, en de database versturen via email. Denk eraan om de kopie te verwijderen zodra u deze succesvol gebackupt heeft of wanneer de email die u gaat sturen is aangekomen.</string>
     <string name="debug_tool_start_button">Start</string>
     <string name="holiday_data_no_network">Kan geen verbinding maken met het netwerk. Controleer uw dataverbinding en probeer het opnieuw.</string>
-    <string name="holiday_data_update_failed">Kan niet updaten. Controleer uw verbinding en probeer opnieuw.</string>
+    <string name="holiday_data_update_failed">Kon niet updaten. Controleer uw verbinding en probeer opnieuw.</string>
     <string name="holiday_data_update_succeed">Update voltooid</string>
-    <string name="holiday_data_updating">Bezig met updaten…</string>
+    <string name="holiday_data_updating">Bijwerken…</string>
     <string name="holiday_update_summary">Tik om agenda info updaten.</string>
     <string name="holiday_update_title">Update beschikbaar</string>
     <string name="provider_label">Kalender</string>

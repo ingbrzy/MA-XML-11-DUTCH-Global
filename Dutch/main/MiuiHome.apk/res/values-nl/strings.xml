@@ -159,7 +159,7 @@
     <string name="auto_add_app_shortcut">Plaats nieuwe apps op het Startscherm</string>
     <string name="auto_delete_category_dialog_content">Huidige apps worden uit deze categorie verwijderd en de categorie wordt verwijderd. Deze categorie nu verwijderen?</string>
     <string name="auto_delete_category_dialog_title">Categorie verwijderen</string>
-    <string name="auto_disable_screenbuttons_summary">Dubbeltik op een navigatieknop om opnieuw in te schakelen</string>
+    <string name="auto_disable_screenbuttons_summary">Schakel navigatieknoppen automatisch uit wanneer de statusbalk niet wordt weergegeven. Dubbeltik op een navigatieknop om deze opnieuw in te schakelen.</string>
     <string name="auto_disable_screenbuttons_title">Navigatieknoppen automatisch uitschakelen</string>
     <string name="back">Terug</string>
     <string name="backup_fail">Kon geen back-up maken van de launcher</string>
@@ -460,6 +460,7 @@
     <string name="menu_launcher_setting">Launcher instellingen</string>
     <string name="menu_lock">Startscherm lay-out vergrendelen</string>
     <string name="menu_more">Meer</string>
+    <string name="menu_no_word">Geen tekst weergeven</string>
     <string name="menu_picktheme">Selecteer een thema</string>
     <string name="menu_reset_scene">Resetten naar standaard lay-out</string>
     <string name="menu_search">Zoeken</string>
@@ -472,6 +473,7 @@
     <string name="midnight">Nacht</string>
     <string name="minus_one_screen">App-kluis</string>
     <string name="miui_screen_config_title">Startscherm instellingen</string>
+    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -664,6 +666,11 @@
     <string name="recents_title_market">Apps zoeken</string>
     <string name="recents_title_security_scan">Beveiligingsscan</string>
     <string name="recents_tv_small_window_text">Zwevende vensters</string>
+    <string name="recents_worldcirculate_text">Laat los om te selecteren</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">De app werkt op %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Tik om het hier terug te brengen.</string>
+    <string name="recnets_worldcirculate_display_pad_info">De app werkt op %s.</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">App-suggesties</string>
     <string name="recommend_apps_default_title">Leeg</string>
@@ -731,6 +738,7 @@
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />

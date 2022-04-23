@@ -82,9 +82,10 @@
     <string name="account_verify_guide_bind_mail_desc">Een e-mailadres voor herstel toevoegen</string>
     <string name="account_verify_guide_bind_phone_desc">Voeg een hersteltelefoon toe</string>
     <string name="account_verify_guide_set_password_desc">Wachtwoord instellen</string>
+    <string name="account_verify_guide_verify_phone_desc">Hersteltelefoon bevestigen</string>
     <string name="account_xiaomi_service">Diensten</string>
     <string name="action_add_phone">Telefoonnummer toevoegen</string>
-    <string name="action_retry">Opieuw proberen</string>
+    <string name="action_retry">Opnieuw proberen</string>
     <string name="action_update_phone">Telefoonnummer wijzigen</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
@@ -121,6 +122,10 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="cloud_description_closed">Bezet | Synchronisatie is uitgeschakeld</string>
     <string name="cloud_description_normal">Bezet</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_status_backup_not_open">Back-up is uitgeschakeld</string>
+    <string name="cloud_service_status_cloud_not_open">Uit</string>
+    <string name="cloud_service_status_storage_full">Opslag is vol</string>
+    <string name="cloud_service_status_storage_not_enough">Niet genoeg ruimte</string>
     <string name="collect_diagnosis_log">Diagnostische logbestanden genereren</string>
     <string name="com_facebook_device_auth_instructions">Ga naar &lt;b>facebook.com/device&lt;/b> en voer de bovenstaande code in.</string>
     <string name="com_facebook_image_download_unknown_error">Onverwachte fout bij downloaden van afbeelding.</string>
@@ -128,7 +133,7 @@ U kunt nu aanmelden op uw Mi Account met %s."</string>
     <string name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
     <string name="com_facebook_like_button_liked">Vind ik leuk</string>
     <string name="com_facebook_like_button_not_liked">Vind ik leuk</string>
-    <string name="com_facebook_loading">Laden...</string>
+    <string name="com_facebook_loading">Laden…</string>
     <string name="com_facebook_loginview_cancel_action">Annuleren</string>
     <string name="com_facebook_loginview_log_in_button">Aanmelden</string>
     <string name="com_facebook_loginview_log_in_button_continue">Doorgaan met Facebook</string>
@@ -441,6 +446,8 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="notify_network_restricted_content_hidden_state">Achtergrondactiviteit van Mi Account is beperkt. Tik om toe te staan.</string>
     <string name="notify_network_restricted_content_mobile_network">Internettoegang van Mi Account is beperkt. Tik om toe te staan.</string>
     <string name="notify_network_restricted_title">Mi Account kon geen verbinding met het netwerk maken</string>
+    <string name="notify_verify_again_security_phone">Bevestigen</string>
+    <string name="notify_verify_security_phone">Telefoon</string>
     <string name="oauth_get_scopes_failed">Kon account info niet verkrijgen</string>
     <string name="oauth_getting_scopes">Account verifiëren…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> zal volgende toestemming krijgen:&lt;br> &lt;br> %3$s</string>
@@ -620,7 +627,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_registered_phone_user_ID">Gebruikers-ID: %s</string>
     <string name="passport_registered_phone_user_name">Gebruikersnaam: %s</string>
     <string name="passport_reject_recycle_account">Nee</string>
-    <string name="passport_relogin">Log opnieuw in</string>
+    <string name="passport_relogin">Opnieuw aanmelden</string>
     <string name="passport_relogin_notice">Je moet opnieuw inloggen</string>
     <string name="passport_remove_confirm">Uitloggen</string>
     <string name="passport_remove_unactivated_account_notice">Je account is niet geactiveerd.</string>
@@ -628,7 +635,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="passport_reset_fail_title">Kon niet resetten</string>
     <string name="passport_reset_password_prompt">Wachtwoord is onjuist</string>
     <string name="passport_reset_password_title">Wachtwoord resetten</string>
-    <string name="passport_restart">Begin opnieuw</string>
+    <string name="passport_restart">Opnieuw beginnen</string>
     <string name="passport_restart_register_prompt">Er kan een ander verificatiebericht nodig zijn om je account aan te maken.</string>
     <string name="passport_restart_register_title">Creëer een Mi Account</string>
     <string name="passport_retry">Opnieuw proberen</string>
@@ -705,7 +712,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="permission_instructions">Toestemming gebruik</string>
     <string name="permission_read_sms">Toegang tot berichten</string>
     <string name="permission_withdraw">Intrekken</string>
-    <string name="permission_write_external_storage">Toegang tot en opslaan van items in de opslag</string>
+    <string name="permission_write_external_storage">Toegang tot en het opslaan van bestanden in de opslag</string>
     <string name="personal_info_desc">Foto, bijnaam en meer</string>
     <string name="phone_num_use_for">Telefoonnummer wordt gebruikt voor:</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
@@ -738,7 +745,7 @@ Stuur deze code naar de leidinggevende."</string>
     <string name="resend_email_reach_limit_message">Je hebt te veel verificatie e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de map ongewenst zit</string>
     <string name="resend_email_reach_limit_title">Kan e-mail niet verzenden</string>
     <string name="resend_email_success">E-mail herverzonden</string>
-    <string name="restart_action">Begin opnieuw</string>
+    <string name="restart_action">Opnieuw beginnen</string>
     <string name="restart_phone_bind_message">Het kan enige tijd duren om de SMS te ontvangen. Toch opnieuw beginnen?</string>
     <string name="restart_phone_bind_title">Verander hersteltelefoon</string>
     <string name="revoke_privacy_policy">Intrekking van toestemming</string>

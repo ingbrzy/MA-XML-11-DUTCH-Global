@@ -23,9 +23,10 @@
     <string name="dialog_alert_title">Let op</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Deze video kan niet worden gestreamd naar dit apparaat.</string>
     <string name="selectTextMode">Tekst selecteren</string>
-    <string name="fingerprint_icon_content_description">Vingerafdruk-pictogram</string>
+    <string name="status_bar_notification_info_overflow">999 +</string>
+    <string name="fingerprint_icon_content_description">Vingerafdruk-icoon</string>
     <string name="paste_as_plain_text">Plakken als platte tekst</string>
-    <string name="autofill">Automatisch aanvullen</string>
+    <string name="autofill">Automatisch invullen</string>
     <string name="BaMmi">Gesprek blokkeren</string>
     <string name="CLIRDefaultOffNextCallOff">"Beller-ID standaard ingesteld op 'onbeperkt'. Volgend gesprek: onbeperkt."</string>
     <string name="CLIRDefaultOffNextCallOn">"Beller-ID standaard ingesteld op 'onbeperkt'. Volgend gesprek: beperkt."</string>
@@ -190,7 +191,7 @@
     <string name="accessibility_service_screen_control_title">Scherm bekijken en bedienen</string>
     <string name="accessibility_service_warning_description">Volledige controle is gepast voor apps die je helpen met toegankelijkheid, maar voor de meeste apps is het ongepast.</string>
     <string name="accessibility_shortcut_disabling_service">Volumetoetsen ingedrukt gehouden. %1$s uitgeschakeld.</string>
-    <string name="accessibility_shortcut_enabling_service">Volumetoetsen ingedrukt gehouden. %1$s is ingeschakeld.</string>
+    <string name="accessibility_shortcut_enabling_service">Volumetoetsen ingedrukt gehouden. %1$s staat aan.</string>
     <string name="accessibility_shortcut_menu_item_status_off">UIT</string>
     <string name="accessibility_shortcut_menu_item_status_on">AAN</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
@@ -200,15 +201,15 @@
 Huidige functies:
 %1$s
 Je kunt de geselecteerde functies wijzigen via Instellingen > Toegankelijkheid."</string>
-    <string name="accessibility_shortcut_multiple_service_warning_title">Toegankelijkheidsfuncties inschakelen?</string>
-    <string name="accessibility_shortcut_off">Niet inschakelen</string>
-    <string name="accessibility_shortcut_on">Inschakelen</string>
+    <string name="accessibility_shortcut_multiple_service_warning_title">Toegankelijkheidsfuncties aanzetten?</string>
+    <string name="accessibility_shortcut_off">Niet aanzetten</string>
+    <string name="accessibility_shortcut_on">Aanzetten</string>
     <string name="accessibility_shortcut_single_service_warning">"Als je beide volumetoetsen een paar seconden ingedrukt houdt, wordt de toegankelijkheidsfunctie %1$s ingeschakeld. Hierdoor kan de manier veranderen waarop je apparaat werkt.
 
 Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegankelijkheid."</string>
-    <string name="accessibility_shortcut_single_service_warning_title">%1$s inschakelen?</string>
+    <string name="accessibility_shortcut_single_service_warning_title">%1$s aanzetten?</string>
     <string name="accessibility_shortcut_spoken_feedback">Houd beide volumetoetsen drie seconden ingedrukt om %1$s te gebruiken</string>
-    <string name="accessibility_shortcut_toogle_warning">Als de snelkoppeling is ingeschakeld, kun je drie seconden op beide volumeknoppen drukken om een toegankelijkheidsfunctie te starten.</string>
+    <string name="accessibility_shortcut_toogle_warning">Als de snelkoppeling aanstaat, houd je beide volumeknoppen 3 seconden ingedrukt om een toegankelijkheidsfunctie te starten.</string>
     <string name="accessibility_shortcut_warning_dialog_title">Snelkoppeling toegankelijkheid gebruiken?</string>
     <string name="accessibility_system_action_back_label">Terug</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">Snelkoppeling voor toegankelijkheid</string>
@@ -227,9 +228,9 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="action_bar_up_description">Omhoog navigeren</string>
     <string name="action_menu_overflow_description">Meer opties</string>
-    <string name="action_mode_done">Gereed</string>
+    <string name="action_mode_done">Klaar</string>
     <string name="activity_chooser_view_dialog_title_default">Een activiteit kiezen</string>
-    <string name="activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="activity_chooser_view_see_all">Alles tonen</string>
     <string name="activity_list_empty">Geen overeenkomende activiteiten gevonden.</string>
     <string name="activity_resolver_use_always">Altijd</string>
     <string name="activity_resolver_use_once">Eén keer</string>
@@ -257,8 +258,8 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="alert_windows_notification_channel_group_name">Weergeven vóór andere apps</string>
     <string name="alert_windows_notification_channel_name">%s wordt weergegeven over andere apps</string>
     <string name="alert_windows_notification_message">Als je niet wilt dat %s deze functie gebruikt, tik je om de instellingen te openen en schakel je de functie uit.</string>
-    <string name="alert_windows_notification_title">%s wordt weergegeven over apps</string>
-    <string name="alert_windows_notification_turn_off_action">Uitschakelen</string>
+    <string name="alert_windows_notification_title">%s wordt weergegeven vóór andere apps</string>
+    <string name="alert_windows_notification_turn_off_action">Uitzetten</string>
     <string name="allow">Toestaan</string>
     <string name="alwaysUse">Standaard gebruiken voor deze actie.</string>
     <string name="android_preparing_apk">%1$s voorbereiden.</string>
@@ -308,12 +309,12 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="autofill_error_cannot_autofill">Content kan niet automatisch worden aangevuld</string>
     <string name="autofill_island">Eiland</string>
     <string name="autofill_parish">Gemeente</string>
-    <string name="autofill_picker_accessibility_title">Opties voor automatisch aanvullen</string>
-    <string name="autofill_picker_no_suggestions">Geen suggesties van Automatisch aanvullen</string>
+    <string name="autofill_picker_accessibility_title">Opties voor automatisch invullen</string>
+    <string name="autofill_picker_no_suggestions">Geen suggesties van Automatisch invullen</string>
     <string name="autofill_postal_code">Postcode</string>
     <string name="autofill_prefecture">Prefectuur</string>
     <string name="autofill_province">Provincie</string>
-    <string name="autofill_save_accessibility_title">Opslaan voor Automatisch aanvullen</string>
+    <string name="autofill_save_accessibility_title">Opslaan voor Automatisch invullen</string>
     <string name="autofill_save_never">Nooit</string>
     <string name="autofill_save_no">Nee, bedankt</string>
     <string name="autofill_save_notnow">Niet nu</string>
@@ -331,13 +332,13 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="autofill_save_type_username">gebruikersnaam</string>
     <string name="autofill_save_yes">Opslaan</string>
     <string name="autofill_state">Staat</string>
-    <string name="autofill_this_form">Autom. aanvullen</string>
+    <string name="autofill_this_form">Autom. invullen</string>
     <string name="autofill_update_title">Updaten in <b>%1$s</b>?</string>
     <string name="autofill_update_title_with_2types">%1$s en %2$s updaten in <b>%3$s</b>?</string>
     <string name="autofill_update_title_with_3types">Deze items updaten in <b>%4$s</b>: %1$s, %2$s en %3$s?</string>
     <string name="autofill_update_title_with_type">%1$s updaten in <b>%2$s</b>?</string>
     <string name="autofill_update_yes">Updaten</string>
-    <string name="autofill_window_title">Automatisch aanvullen met %1$s</string>
+    <string name="autofill_window_title">Automatisch invullen met %1$s</string>
     <string name="autofill_zip_code">Postcode</string>
     <string name="back_button_label">Vorige</string>
     <string name="badPin">De oude pincode die je hebt ingevoerd, is onjuist.</string>
@@ -345,12 +346,12 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="battery_saver_charged_notification_summary">Telefoon is voldoende opgeladen. Functies worden niet meer beperkt.</string>
     <string name="battery_saver_description">"Batterijbesparing doet het volgende om de batterijduur te verlengen:
 
-•Het donkere thema aanzetten
-•Achtergrondactiviteit, bepaalde visuele effecten en andere functies (zoals 'Hey Google') uitzetten of beperken"</string>
+• Donker thema aanzetten.
+• Achtergrondactiviteit, bepaalde visuele effecten en andere functies (zoals 'Hey Google') uitzetten of beperken."</string>
     <string name="battery_saver_description_with_learn_more">"Batterijbesparing doet het volgende om de batterijduur te verlengen:
 
-•Het donkere thema aanzetten
-•Achtergrondactiviteit, bepaalde visuele effecten en andere functies (zoals 'Hey Google') uitzetten of beperken
+• Donkere thema aanzetten
+• Achtergrondactiviteit, bepaalde visuele effecten en andere functies (zoals 'Hey Google') uitzetten of beperken
 
 "<annotation id="url">Meer informatie</annotation></string>
     <string name="battery_saver_notification_channel_name">Batterijbesparing</string>
@@ -375,7 +376,7 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="byteShort">B</string>
     <string name="capability_desc_canCaptureFingerprintGestures">Kan gebaren registreren die op de vingerafdruksensor van het apparaat worden getekend.</string>
     <string name="capability_desc_canControlMagnification">Het zoomniveau en de positionering van het scherm bedienen.</string>
-    <string name="capability_desc_canPerformGestures">Kan tikken, vegen, samenknijpen en andere gebaren uitvoeren.</string>
+    <string name="capability_desc_canPerformGestures">Kan tikken, swipen, knijpen en andere gebaren uitvoeren.</string>
     <string name="capability_desc_canRequestFilterKeyEvents">Omvat persoonsgegevens zoals creditcardnummers en wachtwoorden.</string>
     <string name="capability_desc_canRequestTouchExploration">Aangetikte items worden hardop benoemd en het scherm kan worden verkend via gebaren.</string>
     <string name="capability_desc_canRetrieveWindowContent">De content inspecteren van een venster waarmee je interactie hebt.</string>
@@ -384,7 +385,7 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="capability_title_canControlMagnification">Schermvergroting bedienen</string>
     <string name="capability_title_canPerformGestures">Gebaren uitvoeren</string>
     <string name="capability_title_canRequestFilterKeyEvents">Tekst observeren die je typt</string>
-    <string name="capability_title_canRequestTouchExploration">"'Verkennen via aanraking' inschakelen"</string>
+    <string name="capability_title_canRequestTouchExploration">Verkennen via aanraking aanzetten</string>
     <string name="capability_title_canRetrieveWindowContent">Content van vensters ophalen</string>
     <string name="capability_title_canTakeScreenshot">Screenshot maken</string>
     <string name="capital_off">UIT</string>
@@ -412,14 +413,14 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="color_inversion_feature_name">Kleurinversie</string>
     <string name="common_name">Algemene naam:</string>
     <string name="condition_provider_service_binding_label">Provider van voorwaarden</string>
-    <string name="conference_call">Conferencecall</string>
+    <string name="conference_call">Telefonische vergadering</string>
     <string name="config_pdp_reject_dialog_title" />
     <string name="config_pdp_reject_multi_conn_to_same_pdn_not_allowed" />
     <string name="config_pdp_reject_service_not_subscribed" />
     <string name="config_pdp_reject_user_authentication_failed" />
     <string name="confirm_battery_saver">OK</string>
     <string name="console_running_notification_message">Dit is van invloed op de prestaties. Controleer de bootloader om dit uit te schakelen.</string>
-    <string name="console_running_notification_title">Seriële console ingeschakeld</string>
+    <string name="console_running_notification_title">Seriële console staat aan</string>
     <string name="contentServiceSync">Synchroniseren</string>
     <string name="contentServiceSyncNotificationTitle">Kan niet synchroniseren</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Geprobeerd om te veel instanties van %s te verwijderen.</string>
@@ -433,8 +434,8 @@ Je kunt deze sneltoets op een andere functie instellen via Instellingen > Toegan
     <string name="country_selection_title">Regiovoorkeur</string>
     <string name="create_contact_using">"Contact maken
 met %s"</string>
-    <string name="data_saver_description">Databesparing beperkt het datagebruik door te voorkomen dat sommige apps gegevens verzenden of ontvangen op de achtergrond. De apps die je open hebt, kunnen nog steeds data verbruiken, maar doen dit minder vaak. Afbeeldingen worden dan bijvoorbeeld niet weergegeven totdat je erop tikt.</string>
-    <string name="data_saver_enable_button">Inschakelen</string>
+    <string name="data_saver_description">Databesparing beperkt het datagebruik door te voorkomen dat sommige apps gegevens sturen of ontvangen op de achtergrond. De apps die je open hebt, kunnen nog steeds data verbruiken, maar doen dit minder vaak. Afbeeldingen worden dan bijvoorbeeld niet weergegeven totdat je erop tikt.</string>
+    <string name="data_saver_enable_button">Aanzetten</string>
     <string name="data_saver_enable_title">Databesparing aanzetten?</string>
     <string name="data_usage_limit_body">Data onderbroken voor de rest van de factureringscyclus</string>
     <string name="data_usage_limit_snoozed_body">Je hebt %s meer verbruikt dan je ingestelde limiet</string>
@@ -460,7 +461,7 @@ met %s"</string>
     <string name="date_picker_next_month_button">Volgende maand</string>
     <string name="date_picker_prev_month_button">Vorige maand</string>
     <string name="date_time">%2$s %1$s</string>
-    <string name="date_time_done">Gereed</string>
+    <string name="date_time_done">Klaar</string>
     <string name="date_time_set">Instellen</string>
     <string name="day">dag</string>
     <string name="days">dagen</string>
@@ -481,20 +482,20 @@ met %s"</string>
     <string name="deny">Weigeren</string>
     <string name="deprecated_target_sdk_app_store">Controleren op update</string>
     <string name="deprecated_target_sdk_message">Deze app is ontwikkeld voor een oudere versie van Android en werkt mogelijk niet op de juiste manier. Controleer op updates of neem contact op met de ontwikkelaar.</string>
-    <string name="description_target_unlock_tablet">Vegen om te ontgrendelen</string>
+    <string name="description_target_unlock_tablet">Swipen om te ontgrendelen</string>
     <string name="device_ownership_relinquished">De beheerder heeft het apparaat afgestaan voor persoonlijk gebruik</string>
     <string name="device_storage_monitor_notification_channel">Apparaatopslag</string>
     <string name="dial_number_using">"Nummer bellen
 met %s"</string>
-    <string name="disable_accessibility_shortcut">Sneltoets uitschakelen</string>
+    <string name="disable_accessibility_shortcut">Sneltoets uitzetten</string>
     <string name="display_manager_built_in_display_name">Ingebouwd scherm</string>
     <string name="display_manager_hdmi_display_name">HDMI-scherm</string>
     <string name="display_manager_overlay_display_name">Overlay %1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, beveiligd</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
     <string name="dlg_ok">OK</string>
-    <string name="done_accessibility_shortcut_menu_button">Gereed</string>
-    <string name="done_label">Gereed</string>
+    <string name="done_accessibility_shortcut_menu_button">Klaar</string>
+    <string name="done_label">Klaar</string>
     <string name="double_tap_toast">Tip: dubbeltik om in en uit te zoomen.</string>
     <string name="dump_heap_notification">%1$s heeft geheugenlimiet overschreden</string>
     <string name="dump_heap_notification_detail">Heap dump verzameld. Tik om te delen.</string>
@@ -511,14 +512,14 @@ met %s"</string>
     <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
     <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="emailTypeCustom">Aangepast</string>
-    <string name="emailTypeHome">Thuis</string>
+    <string name="emailTypeHome">Privé</string>
     <string name="emailTypeMobile">Mobiel</string>
     <string name="emailTypeOther">Overig</string>
     <string name="emailTypeWork">Werk</string>
     <string name="emergency_call_dialog_number_for_display">Alarmnummer</string>
     <string name="emergency_calls_only">Alleen noodoproepen</string>
     <string name="enablePin">Mislukt. Schakel SIM/RUIM-vergrendeling in.</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s wil 'Verkennen via aanraking' inschakelen. Wanneer 'Verkennen via aanraking' is ingeschakeld, kunt u beschrijvingen beluisteren of bekijken van wat er onder je vinger staat of aanraakbewerkingen uitvoeren op de telefoon."</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s wil Verkennen via aanraking aanzetten. Als Verkennen via aanraking aanstaat, kun je beschrijvingen beluisteren of bekijken van wat er onder je vinger staat of aanraakbewerkingen uitvoeren op de telefoon.</string>
     <string name="enable_explore_by_touch_warning_title">"'Verkennen via aanraking' aan?"</string>
     <string name="error_message_change_not_allowed">Deze wijziging is niet toegestaan door je beheerder</string>
     <string name="error_message_title">Fout</string>
@@ -531,7 +532,7 @@ met %s"</string>
     <string name="eventTypeBirthday">Verjaardag</string>
     <string name="eventTypeCustom">Aangepast</string>
     <string name="eventTypeOther">Overig</string>
-    <string name="expand_action_accessibility">uitvouwen in-/uitschakelen</string>
+    <string name="expand_action_accessibility">uitvouwen aan- of uitzetten</string>
     <string name="expand_button_content_description_collapsed">Uitvouwen</string>
     <string name="expand_button_content_description_expanded">Samenvouwen</string>
     <string name="expires_on">Verloopt op:</string>
@@ -560,7 +561,7 @@ met %s"</string>
     <string name="ext_media_status_ejecting">Uitwerpen…</string>
     <string name="ext_media_status_formatting">Formatteren…</string>
     <string name="ext_media_status_missing">Niet geplaatst</string>
-    <string name="ext_media_status_mounted">Gereed</string>
+    <string name="ext_media_status_mounted">Klaar</string>
     <string name="ext_media_status_mounted_ro">Alleen lezen</string>
     <string name="ext_media_status_removed">Verwijderd</string>
     <string name="ext_media_status_unmountable">Beschadigd</string>
@@ -571,7 +572,7 @@ met %s"</string>
     <string name="ext_media_unmountable_notification_title">Probleem met %s</string>
     <string name="ext_media_unmounting_notification_message">Niet verwijderen</string>
     <string name="ext_media_unmounting_notification_title">%s uitwerpen</string>
-    <string name="ext_media_unsupported_notification_message">Dit apparaat biedt geen ondersteuning voor deze %s. Tik om te configureren in een ondersteunde indeling.</string>
+    <string name="ext_media_unsupported_notification_message">Dit apparaat biedt geen ondersteuning voor deze %s. Tik om in te stellen in een ondersteunde indeling.</string>
     <string name="ext_media_unsupported_notification_title">%s niet ondersteund</string>
     <string name="extract_edit_menu_button">Bewerken</string>
     <string name="face_acquired_insufficient">Geen accurate gegevens. Probeer het nog eens.</string>
@@ -626,6 +627,7 @@ Neem contact op met de beheerder van je organisatie als je vragen hebt."</string
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Functiecode voltooid.</string>
     <string name="fcError">Verbindingsprobleem of ongeldige functiecode.</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">Vinden</string>
     <string name="find_next">Volgende zoeken</string>
     <string name="find_on_page">Zoeken op pagina</string>
@@ -666,7 +668,7 @@ Neem contact op met de beheerder van je organisatie als je vragen hebt."</string
     <string name="global_action_lock">Schermvergrendeling</string>
     <string name="global_action_lockdown">Lockdown</string>
     <string name="global_action_logout">Sessie beëindigen</string>
-    <string name="global_action_power_off">Uitschakelen</string>
+    <string name="global_action_power_off">Uitzetten</string>
     <string name="global_action_power_options">Aan/uit</string>
     <string name="global_action_restart">Opnieuw opstarten</string>
     <string name="global_action_screenshot">Screenshot</string>
@@ -688,7 +690,7 @@ Neem contact op met de beheerder van je organisatie als je vragen hebt."</string
     <string name="gpsVerifNo">Nee</string>
     <string name="gpsVerifYes">Ja</string>
     <string name="grant_credentials_permission_message_footer">Wil je dit verzoek toestaan?</string>
-    <string name="grant_credentials_permission_message_header">De volgende apps verzoeken om toegang tot je account, nu en in de toekomst.</string>
+    <string name="grant_credentials_permission_message_header">De volgende apps willen toegangsrechten voor je account, nu en in de toekomst.</string>
     <string name="grant_permissions_header_text">Verzoek om toegang</string>
     <string name="granularity_label_character">teken</string>
     <string name="granularity_label_line">lijn</string>
@@ -734,16 +736,16 @@ Neem contact op met de beheerder van je organisatie als je vragen hebt."</string
     <string name="imTypeOther">Overig</string>
     <string name="imTypeWork">Werk</string>
     <string name="ime_action_default">Uitvoeren</string>
-    <string name="ime_action_done">Gereed</string>
+    <string name="ime_action_done">Klaar</string>
     <string name="ime_action_go">Ga</string>
     <string name="ime_action_next">Volgende</string>
     <string name="ime_action_previous">Vorige</string>
     <string name="ime_action_search">Zoeken</string>
     <string name="ime_action_send">Verzenden</string>
     <string name="imei">IMEI</string>
-    <string name="immersive_cling_description">Veeg omlaag vanaf de bovenkant van het scherm om af te sluiten.</string>
+    <string name="immersive_cling_description">Swipe omlaag vanaf de bovenkant van het scherm om af te sluiten.</string>
     <string name="immersive_cling_positive">Ik snap het</string>
-    <string name="immersive_cling_title">Volledig scherm wordt weergegeven</string>
+    <string name="immersive_cling_title">Volledig scherm wordt getoond</string>
     <string name="importance_from_person">Dit is belangrijk vanwege de betrokken mensen.</string>
     <string name="importance_from_user">Je stelt het belang van deze meldingen in.</string>
     <string name="inputMethod">Invoermethode</string>
@@ -768,7 +770,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annuleren</string>
     <string name="keyboardview_keycode_delete">Delete</string>
-    <string name="keyboardview_keycode_done">Gereed</string>
+    <string name="keyboardview_keycode_done">Klaar</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyboardview_keycode_mode_change">Modus wijzigen</string>
     <string name="keyboardview_keycode_shift">Shift</string>
@@ -833,6 +835,7 @@ Ga naar "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Verwijderen</string>
     <string name="kg_sim_pin_instructions">Geef de pincode van de simkaart op</string>
     <string name="kg_sim_unlock_progress_dialog_message">Simkaart ontgrendelen...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Je hebt je wachtwoord %1$d keer onjuist getypt. 
 
 Probeer het opnieuw over %2$d seconden."</string>
@@ -878,7 +881,7 @@ Om dit los te maken, houd je de home- en de aan/uit-knop tegelijkertijd ingedruk
     <string name="lockscreen_access_pattern_detected">Patroon voltooid</string>
     <string name="lockscreen_access_pattern_start">Patroon gestart</string>
     <string name="lockscreen_carrier_default">Geen service</string>
-    <string name="lockscreen_emergency_call">Noodgeval</string>
+    <string name="lockscreen_emergency_call">Noodoproep</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">Je hebt nu %1$d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. Na nog eens %2$d mislukte pogingen worden de fabrieksinstellingen hersteld op de telefoon en gaan alle gebruikersgegevens verloren.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"Je hebt je ontgrendelingspatroon %1$d keer onjuist getekend. Na nog eens %2$d mislukte pogingen wordt u gevraagd je telefoon te ontgrendelen met je aanmeldingsgegevens voor Google.
 
@@ -1089,7 +1092,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="mobile_no_internet">Mobiel netwerk heeft geen internettoegang</string>
     <string name="month_day_year" formatted="false">%-e %B %Y</string>
     <string name="more_item_label">Meer</string>
-    <string name="muted_by">%1$s dempt sommige geluiden</string>
+    <string name="muted_by">%1$s zet sommige geluiden uit</string>
     <string name="needPuk">Je simkaart is vergrendeld met de pukcode. Typ de pukcode om te ontgrendelen.</string>
     <string name="needPuk2">Voer de PUK2-code in om de simkaart te ontgrendelen.</string>
     <string name="negative_duration">−%1$s</string>
@@ -1152,6 +1155,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="notification_hidden_text">Nieuwe melding</string>
     <string name="notification_history_title_placeholder">Aangepaste app-melding</string>
     <string name="notification_listener_binding_label">Listener voor meldingen</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_ranker_binding_label">Rangschikkingsservice voor meldingen</string>
     <string name="notification_reply_button_accessibility">Beantwoorden</string>
     <string name="notification_title">"Fout bij aanmelding voor '%1$s'"</string>
@@ -1164,7 +1168,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="old_app_action">Ga terug naar %1$s</string>
     <string name="older">Ouder</string>
     <string name="oneMonthDurationPast">1 maand geleden</string>
-    <string name="open_permission_deny">Je hebt geen toestemming om deze pagina te openen.</string>
+    <string name="open_permission_deny">Je hebt geen rechten om deze pagina te openen.</string>
     <string name="orgTypeCustom">Aangepast</string>
     <string name="orgTypeOther">Overig</string>
     <string name="orgTypeWork">Werk</string>
@@ -1194,8 +1198,8 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_accessNetworkConditions">Hiermee kan een app controleren op waarnemingen met betrekking tot netwerkomstandigheden. Nooit vereist voor normale apps.</string>
     <string name="permdesc_accessNetworkState">Hiermee kan de app informatie bekijken over netwerkverbindingen, zoals welke netwerken er zijn en welke verbonden zijn.</string>
     <string name="permdesc_accessNotifications">Hiermee kan de app meldingen ophalen, onderzoeken en wissen, waaronder meldingen die zijn verzonden door andere apps.</string>
-    <string name="permdesc_accessWifiState">Hiermee kan de app informatie over wifi-netwerken bekijken, zoals of wifi is ingeschakeld en de naam van apparaten waarmee via wifi verbinding is gemaakt.</string>
-    <string name="permdesc_accessWimaxState">Hiermee kan de app bepalen of WiMAX is ingeschakeld en informatie bekijken over alle WiMAX-netwerken waarmee verbinding is gemaakt.</string>
+    <string name="permdesc_accessWifiState">Hiermee kan de app informatie over wifi-netwerken bekijken, zoals of wifi is aangezet en de naam van apparaten waarmee via wifi verbinding is gemaakt.</string>
+    <string name="permdesc_accessWimaxState">Hiermee kan de app bepalen of WiMAX aanstaat en informatie bekijken over alle WiMAX-netwerken waarmee verbinding is gemaakt.</string>
     <string name="permdesc_access_notification_policy">Hiermee kan de app configuratie voor Niet storen lezen en schrijven.</string>
     <string name="permdesc_activityRecognition">Deze app kan je fysieke activiteit herkennen.</string>
     <string name="permdesc_addVoicemail">Hiermee kan de app berichten toevoegen aan de inbox van je voicemail.</string>
@@ -1210,7 +1214,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_bind_connection_service">Hiermee kan de app met telefonische diensten communiceren zodat je kunt bellen of gebeld worden.</string>
     <string name="permdesc_bind_incall_service">Hiermee kan de app bepalen wanneer en hoe de gebruiker het scherm in een actief gesprek te zien krijgt.</string>
     <string name="permdesc_bluetooth">Hiermee kan de app de Bluetooth-configuratie van de telefoon bekijken en verbindingen met gekoppelde apparaten maken en accepteren.</string>
-    <string name="permdesc_bluetoothAdmin">Hiermee kan de app de lokale bluetooth-telefoon configureren en externe apparaten zoeken en koppelen.</string>
+    <string name="permdesc_bluetoothAdmin">Hiermee kan de app de lokale bluetooth-telefoon instellen en externe apparaten zoeken en koppelen.</string>
     <string name="permdesc_bodySensors">Hiermee kan de app toegang krijgen tot gegevens van sensoren die je lichamelijke conditie controleren, zoals je hartslag.</string>
     <string name="permdesc_broadcastSticky">Hiermee kan de app sticky broadcasts verzenden die behouden blijven nadat de broadcast is beëindigd. Bij overmatig gebruik kan de telefoon traag of instabiel worden omdat er te veel geheugenruimte wordt gebruikt.</string>
     <string name="permdesc_callCompanionApp">Hiermee kan de app actieve gesprekken op het apparaat bekijken en beheren. Dit omvat informatie zoals nummers voor gesprekken en de status van de gesprekken.</string>
@@ -1224,9 +1228,9 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_changeWimaxState">Hiermee kan de app de telefoon verbinden met WiMAX-netwerken en de verbinding daarmee verbreken.</string>
     <string name="permdesc_connection_manager">Hiermee kan de app telecomverbindingen beheren.</string>
     <string name="permdesc_control_incall_experience">Hiermee kan de app een gebruikerservaring bieden tijdens een gesprek.</string>
-    <string name="permdesc_createNetworkSockets">Hiermee kan de app netwerksockets maken en aangepaste netwerkprotocollen gebruiken. De browser en andere apps bieden mogelijkheden om gegevens via internet te verzenden, dus deze toestemming is niet vereist om gegevens via internet te verzenden.</string>
-    <string name="permdesc_disableKeyguard">Hiermee kan de app de toetsenblokkering en bijbehorende wachtwoordbeveiliging uitschakelen. Zo kan de telefoon de toetsenblokkering uitschakelen wanneer je wordt gebeld en de toetsenblokkering weer inschakelen als het gesprek is beëindigd.</string>
-    <string name="permdesc_enableCarMode">Hiermee kan de app de automodus inschakelen.</string>
+    <string name="permdesc_createNetworkSockets">Hiermee kan de app netwerksockets maken en aangepaste netwerkprotocollen gebruiken. De browser en andere apps bieden mogelijkheden om gegevens via internet te verzenden, dus deze rechten zijn niet vereist om gegevens via internet te verzenden.</string>
+    <string name="permdesc_disableKeyguard">Hiermee kan de app de toetsenblokkering en bijbehorende wachtwoordbeveiliging uitzetten. Zo kan de telefoon de toetsenblokkering uitzetten als je wordt gebeld en de toetsenblokkering weer aanzetten als het gesprek is beëindigd.</string>
+    <string name="permdesc_enableCarMode">Hiermee kan de app de automodus aanzetten.</string>
     <string name="permdesc_exemptFromAudioRecordRestrictions">De app vrijstellen van beperkingen voor audio-opnamen.</string>
     <string name="permdesc_expandStatusBar">Hiermee kan de app de statusbalk uitvouwen of samenvouwen.</string>
     <string name="permdesc_foregroundService">Hiermee kan de app gebruikmaken van services op de voorgrond.</string>
@@ -1254,25 +1258,25 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_readCallLog">Deze app kan je gespreksgeschiedenis lezen.</string>
     <string name="permdesc_readCellBroadcasts">Toestaan dat de app infodienstberichten leest die worden ontvangen op je apparaat. Infodienstberichten worden verzonden naar bepaalde locaties om u te waarschjeen voor noodsituaties. Schadelijke apps kunnen de prestaties of verwerking van je apparaat verstoren wanneer een infodienstbericht wordt ontvangen.</string>
     <string name="permdesc_readContacts">Hiermee kan de app gegevens lezen over de contacten die zijn opgeslagen op je telefoon. Apps hebben ook toegang tot de accounts op je telefoon waarvoor contacten zijn gemaakt. Dit kan accounts omvatten die zijn gemaakt door apps die je hebt geïnstalleerd. Met dit recht kunnen apps je contactgegevens opslaan en kunnen schadelijke apps zonder je medeweten contactgegevens delen.</string>
-    <string name="permdesc_readHistoryBookmarks">"Hiermee kan de app de geschiedenis lezen van alle URL's die in de systeemeigen browser zijn bezocht, en alle bookmarks in de systeemeigen browser. Let op: deze toestemming kan niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden."</string>
+    <string name="permdesc_readHistoryBookmarks">"Hiermee kan de app de geschiedenis lezen van alle URL's die in de systeemeigen browser zijn bezocht, en alle bookmarks in de systeemeigen browser. Let op: deze rechten kunnen niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden."</string>
     <string name="permdesc_readInstallSessions">Hiermee wordt een app toegestaan installatiesessies te lezen. Zo kan de app informatie bekijken over actieve pakketinstallaties.</string>
     <string name="permdesc_readNetworkUsageHistory">Hiermee kan de app historisch netwerkgebruik voor specifieke netwerken en apps lezen.</string>
     <string name="permdesc_readPhoneNumbers">Hiermee kan de app toegang krijgen tot de telefoonnummers van het apparaat.</string>
-    <string name="permdesc_readPhoneState">"Hiermee kan de app toegang krijgen tot de telefoonfuncties van het apparaat, Met deze toestemming kan de app het telefoonnummer en de apparaat-ID's bepalen, of een gesprek actief is, en het andere telefoonnummer waarmee wordt gebeld."</string>
+    <string name="permdesc_readPhoneState">"Hiermee kan de app toegang krijgen tot de telefoonfuncties van het apparaat, Met deze rechten kan de app het telefoonnummer en de apparaat-ID's bepalen, of een gesprek actief is, en het andere telefoonnummer waarmee wordt gebeld."</string>
     <string name="permdesc_readSms">Deze app kan alle sms-berichten lezen die zijn opgeslagen op je telefoon.</string>
     <string name="permdesc_readSyncSettings">Hiermee kan de app de synchronisatie-instellingen voor een account lezen. Dit kan bijvoorbeeld bepalen of de app Personen wordt gesynchroniseerd met een account.</string>
     <string name="permdesc_readSyncStats">Hiermee kan een app de synchronisatiestatistieken voor een account lezen, inclusief de geschiedenis van synchronisatie-activiteiten en hoeveel gegevens zijn gesynchroniseerd.</string>
     <string name="permdesc_receiveBootCompleted">Hiermee kan de app zichzelf starten zodra het systeem klaar is met opstarten. Hierdoor kan het langer duren voordat de telefoon is opgestart en kan de app de telefoonprocessen vertragen door altijd actief te zijn.</string>
-    <string name="permdesc_receiveMms">Hiermee kan de app MMS-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verzonden, kan bijhouden of verwijderen zonder deze aan u weer te geven.</string>
-    <string name="permdesc_receiveSms">Hiermee kan de app sms-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verzonden, kan bijhouden of verwijderen zonder deze aan u weer te geven.</string>
-    <string name="permdesc_receiveWapPush">Hiermee kan de app WAP-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verzonden, kan bijhouden of verwijderen zonder deze aan u weer te geven.</string>
+    <string name="permdesc_receiveMms">Hiermee kan de app mms-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verstuurd, kan bijhouden of verwijderen zonder deze te tonen.</string>
+    <string name="permdesc_receiveSms">Hiermee kan de app sms-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verstuurd, kan bijhouden of verwijderen zonder deze te tonen.</string>
+    <string name="permdesc_receiveWapPush">Hiermee kan de app WAP-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar je apparaat zijn verstuurd, kan bijhouden of verwijderen zonder deze te tonen.</string>
     <string name="permdesc_recordAudio">Deze app kan op elk moment audio opnemen met de microfoon.</string>
     <string name="permdesc_register_call_provider">Hiermee kan de app nieuwe telecomverbindingen registreren.</string>
     <string name="permdesc_register_sim_subscription">Hiermee kan de app nieuwe telecom-sim-verbindingen registreren.</string>
     <string name="permdesc_removeDrmCertificates">Toestaan dat een app DRM-certificaten verwijdert. Nooit vereist voor normale apps.</string>
     <string name="permdesc_reorderTasks">Hiermee kan de app taken naar de voor- en achtergrond verplaatsen. De app kan dit doen zonder om je bevestiging te vragen.</string>
     <string name="permdesc_requestDeletePackages">Hiermee kan een app verwijdering van pakketten aanvragen.</string>
-    <string name="permdesc_requestIgnoreBatteryOptimizations">Hiermee kan een app toestemming vragen om batterijoptimalisatie voor die app te negeren.</string>
+    <string name="permdesc_requestIgnoreBatteryOptimizations">Hiermee kan een app rechten vragen om batterijoptimalisatie voor die app te negeren.</string>
     <string name="permdesc_requestInstallPackages">Hiermee kan een app installatie van pakketten aanvragen.</string>
     <string name="permdesc_requestPasswordComplexity">Hiermee krijgt de app toestemming om het complexiteitsniveau van de schermvergrendeling te achterhalen (hoog, midden, laag of geen). Dat geeft een indicatie van het mogelijke lengtebereik en type van de schermvergrendeling. De app kan gebruikers ook voorstellen de schermvergrendeling naar een bepaald niveau te updaten, maar gebruikers kunnen dit altijd negeren en de app verlaten. De schermvergrendeling wordt niet opgeslagen als platte tekst, zodat de app het precieze wachtwoord niet weet.</string>
     <string name="permdesc_route_media_output">Hiermee kan een app media-uitvoer naar andere externe apparaten doorsturen.</string>
@@ -1287,7 +1291,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_setWallpaperHints">Hiermee kan de app de grootte van de achtergrond instellen.</string>
     <string name="permdesc_sim_communication">Hiermee kan de app opdrachten verzenden naar de simkaart. Dit is erg gevaarlijk.</string>
     <string name="permdesc_startViewPermissionUsage">Hiermee kan de houder het rechtengebruik voor een app starten. Nooit vereist voor normale apps.</string>
-    <string name="permdesc_statusBar">Hiermee kan de app de statusbalk uitschakelen of systeempictogrammen toevoegen en verwijderen.</string>
+    <string name="permdesc_statusBar">Hiermee kan de app de statusbalk uitzetten of systeemiconen toevoegen en verwijderen.</string>
     <string name="permdesc_statusBarService">Hiermee kan de app de statusbalk zijn.</string>
     <string name="permdesc_subscribedFeedsRead">Hiermee kan de app details over de huidige gesynchroniseerde feeds achterhalen.</string>
     <string name="permdesc_systemAlertWindow">Deze app kan op de voorgrond worden weergegeven vóór andere apps of andere gedeelten van het scherm. Dit kan het normale app-gebruik verstoren en de manier wijzigen waarop andere apps worden weergegeven.</string>
@@ -1307,7 +1311,7 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permdesc_writeCallLog">Toestaan dat de app de gesprekslijst van je telefoon aanpast, waaronder gegevens over inkomende en uitgaande gesprekken. Schadelijke apps kunnen hiermee je gesprekslijst wissen of aanpassen.</string>
     <string name="permdesc_writeContacts">Hiermee kan de app gegevens wijzigen over de contacten die zijn opgeslagen op je telefoon. Met dit recht kunnen apps contactgegevens verwijderen.</string>
     <string name="permdesc_writeGeolocationPermissions">Hiermee kan de app de geolocatierechten van de browser aanpassen. Schadelijke apps kunnen dit gebruiken om locatiegegevens te verzenden naar willekeurige websites.</string>
-    <string name="permdesc_writeHistoryBookmarks">Hiermee kan de app de webgeschiedenis wijzigen in de systeemeigen browser en de bookmarks die zijn opgeslagen op je telefoon. Deze toestemming kan niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden.</string>
+    <string name="permdesc_writeHistoryBookmarks">Hiermee kan de app de webgeschiedenis wijzigen in de systeemeigen browser en de bookmarks die zijn opgeslagen op je telefoon. Deze rechten kunnen niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden.</string>
     <string name="permdesc_writeSettings">Hiermee kan de app de instellingsgegevens van het systeem aanpassen. Schadelijke apps kunnen de configuratie van je systeem verstoren.</string>
     <string name="permdesc_writeSyncSettings">Hiermee kan een app de synchronisatie-instellingen aanpassen voor een account. Deze toestemming kan bijvoorbeeld worden gebruikt om synchronisatie van de app Personen in te schakelen voor een account.</string>
     <string name="permgroupdesc_activityRecognition">toegang tot je fysieke activiteit</string>
@@ -1334,8 +1338,8 @@ Probeer het opnieuw over %2$d seconden."</string>
     <string name="permgrouplab_storage">Bestanden en media</string>
     <string name="permission_request_notification_for_app_with_subtitle">"Toegang gevraagd door %1$s
 voor account %2$s."</string>
-    <string name="permission_request_notification_title">Toestemming gevraagd</string>
-    <string name="permission_request_notification_with_subtitle">"Toestemming gevraagd
+    <string name="permission_request_notification_title">Rechten gevraagd</string>
+    <string name="permission_request_notification_with_subtitle">"Rechten gevraagd
 voor account %s."</string>
     <string name="permlab_acceptHandover">een gesprek voortzetten vanuit een andere app</string>
     <string name="permlab_accessBackgroundLocation">toegang tot locatie op de achtergrond</string>
@@ -1345,9 +1349,9 @@ voor account %s."</string>
     <string name="permlab_accessImsCallService">toegang tot IMS-service voor bellen</string>
     <string name="permlab_accessLocationExtraCommands">toegang tot extra opdrachten van locatieaanbieder</string>
     <string name="permlab_accessNetworkConditions">controleren op waarnemingen met betrekking tot netwerkomstandigheden</string>
-    <string name="permlab_accessNetworkState">netwerkverbindingen weergeven</string>
+    <string name="permlab_accessNetworkState">netwerkverbindingen bekijken</string>
     <string name="permlab_accessNotifications">toegang tot meldingen</string>
-    <string name="permlab_accessWifiState">wifi-verbindingen weergeven</string>
+    <string name="permlab_accessWifiState">wifi-verbindingen bekijken</string>
     <string name="permlab_accessWimaxState">WiMAX-verbinding maken en verbreken</string>
     <string name="permlab_access_notification_policy">"toegang tot 'Niet storen'"</string>
     <string name="permlab_activityRecognition">fysieke activiteit herkennen</string>
@@ -1378,8 +1382,8 @@ voor account %s."</string>
     <string name="permlab_connection_manager">telecomverbindingen beheren</string>
     <string name="permlab_control_incall_experience">een gebruikerservaring bieden tijdens een gesprek</string>
     <string name="permlab_createNetworkSockets">volledige netwerktoegang</string>
-    <string name="permlab_disableKeyguard">je schermvergrendeling uitschakelen</string>
-    <string name="permlab_enableCarMode">automodus inschakelen</string>
+    <string name="permlab_disableKeyguard">je schermvergrendeling uitzetten</string>
+    <string name="permlab_enableCarMode">automodus aanzetten</string>
     <string name="permlab_exemptFromAudioRecordRestrictions">vrijstellen van beperkingen voor audio-opnamen</string>
     <string name="permlab_expandStatusBar">statusbalk uitvouwen/samenvouwen</string>
     <string name="permlab_foregroundService">service op de voorgrond uitvoeren</string>
@@ -1407,7 +1411,7 @@ voor account %s."</string>
     <string name="permlab_readCallLog">gesprekslijst lezen</string>
     <string name="permlab_readCellBroadcasts">infodienstberichten lezen</string>
     <string name="permlab_readContacts">je contacten lezen</string>
-    <string name="permlab_readHistoryBookmarks">je webbladwijzers en -geschiedenis lezen</string>
+    <string name="permlab_readHistoryBookmarks">je webbookmarks en -geschiedenis lezen</string>
     <string name="permlab_readInstallSessions">installatiesessies lezen</string>
     <string name="permlab_readNetworkUsageHistory">historisch netwerkgebruik lezen</string>
     <string name="permlab_readPhoneNumbers">telefoonnummers lezen</string>
@@ -1440,7 +1444,7 @@ voor account %s."</string>
     <string name="permlab_setWallpaperHints">je achtergrondformaat aanpassen</string>
     <string name="permlab_sim_communication">opdrachten verzenden naar de simkaart</string>
     <string name="permlab_startViewPermissionUsage">rechtengebruik starten</string>
-    <string name="permlab_statusBar">statusbalk uitschakelen of wijzigen</string>
+    <string name="permlab_statusBar">statusbalk uitzetten of wijzigen</string>
     <string name="permlab_statusBarService">de statusbalk zijn</string>
     <string name="permlab_subscribedFeedsRead">Geabonneerde feeds lezen</string>
     <string name="permlab_systemAlertWindow">Deze app kan op de voorgrond vóór andere apps worden weergegeven</string>
@@ -1459,12 +1463,12 @@ voor account %s."</string>
     <string name="permlab_writeCallLog">gesprekslijst schrijven</string>
     <string name="permlab_writeContacts">je contacten aanpassen</string>
     <string name="permlab_writeGeolocationPermissions">geolocatierechten voor browser aanpassen</string>
-    <string name="permlab_writeHistoryBookmarks">webbladwijzers en -geschiedenis schrijven</string>
+    <string name="permlab_writeHistoryBookmarks">webbookmarks en -geschiedenis schrijven</string>
     <string name="permlab_writeSettings">systeeminstellingen aanpassen</string>
-    <string name="permlab_writeSyncSettings">synchronisatie in- en uitschakelen</string>
+    <string name="permlab_writeSyncSettings">synchronisatie aan- of uitzetten</string>
     <string name="perms_description_app">Geleverd door %1$s.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NIEUW: </font></string>
-    <string name="personal_apps_suspended_turn_profile_on">Inschakelen</string>
+    <string name="personal_apps_suspended_turn_profile_on">Aanzetten</string>
     <string name="personal_apps_suspension_soon_text">Apps die worden gebruikt voor persoonlijke doeleinden, worden geblokkeerd op %1$s om %2$s. Je IT-beheerder staat niet toe dat je werkprofiel langer dan %3$d dagen is uitgeschakeld.</string>
     <string name="personal_apps_suspension_text">Je persoonlijke apps zijn geblokkeerd totdat je je werkprofiel inschakelt</string>
     <string name="personal_apps_suspension_title">Schakel je werkprofiel in</string>
@@ -1504,8 +1508,8 @@ voor account %s."</string>
     <string name="policydesc_watchLogin_secondaryUser">Bijhouden hoe vaak onjuiste wachtwoorden worden ingevoerd wanneer het scherm wordt ontgrendeld en de telefoon vergrendelen of alle gegevens van deze gebruiker wissen als te veel onjuiste wachtwoorden worden ingevoerd.</string>
     <string name="policydesc_wipeData">De gegevens van de telefoon zonder waarschuwing wissen door de fabrieksinstellingen te herstellen.</string>
     <string name="policydesc_wipeData_secondaryUser">De gegevens van deze gebruiker op deze telefoon zonder waarschuwing wissen.</string>
-    <string name="policylab_disableCamera">"Camera's uitschakelen"</string>
-    <string name="policylab_disableKeyguardFeatures">Bepaalde functies voor schermvergrendeling uitschakelen</string>
+    <string name="policylab_disableCamera">"Camera's uitzetten"</string>
+    <string name="policylab_disableKeyguardFeatures">Bepaalde functies voor schermvergrendeling uitzetten</string>
     <string name="policylab_encryptedStorage">Codering voor opslag instellen</string>
     <string name="policylab_expirePassword">Verlopen van wachtwoord voor schermvergrendeling instellen</string>
     <string name="policylab_forceLock">Het scherm vergrendelen</string>
@@ -1521,7 +1525,7 @@ voor account %s."</string>
     <string name="postalTypeOther">Overig</string>
     <string name="postalTypeWork">Werk</string>
     <string name="power_dialog">Telefoonopties</string>
-    <string name="power_off">Uitschakelen</string>
+    <string name="power_off">Uitzetten</string>
     <string name="prepend_shortcut_label">Menu+</string>
     <string name="preposition_for_date">op %s</string>
     <string name="preposition_for_time">om %s</string>
@@ -1581,7 +1585,7 @@ voor account %s."</string>
     <string name="resolver_no_work_apps_available_share">Er zijn geen werk-apps die deze content kunnen ondersteunen</string>
     <string name="resolver_personal_tab">Persoonlijk</string>
     <string name="resolver_personal_tab_accessibility">Persoonlijke weergave</string>
-    <string name="resolver_switch_on_work">Inschakelen</string>
+    <string name="resolver_switch_on_work">Aanzetten</string>
     <string name="resolver_turn_on_work_apps">Werkprofiel is onderbroken</string>
     <string name="resolver_work_tab">Werk</string>
     <string name="resolver_work_tab_accessibility">Werkweergave</string>
@@ -1626,9 +1630,9 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="save_password_never">Nooit</string>
     <string name="save_password_notnow">Niet nu</string>
     <string name="save_password_remember">Onthouden</string>
-    <string name="screen_compat_mode_hint">U kunt dit opnieuw inschakelen via Systeeminstellingen > Apps > Gedownload.</string>
+    <string name="screen_compat_mode_hint">Je kunt dit opnieuw aanzetten via Systeeminstellingen > Apps > Gedownload.</string>
     <string name="screen_compat_mode_scale">Schaal</string>
-    <string name="screen_compat_mode_show">Altijd weergeven</string>
+    <string name="screen_compat_mode_show">Altijd tonen</string>
     <string name="screen_lock">Schermvergrendeling</string>
     <string name="screenshot_edit">Bewerken</string>
     <string name="search_hint">Zoeken…</string>
@@ -1645,7 +1649,7 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="select_hours">Uren selecteren</string>
     <string name="select_input_method">Invoermethode selecteren</string>
     <string name="select_keyboard_layout_notification_message">Tik om een taal en indeling te selecteren</string>
-    <string name="select_keyboard_layout_notification_title">Fysiek toetsenbord configureren</string>
+    <string name="select_keyboard_layout_notification_title">Fysiek toetsenbord instellen</string>
     <string name="select_minutes">Minuten selecteren</string>
     <string name="select_year">Jaar selecteren</string>
     <string name="sendText">Een actie voor tekst selecteren</string>
@@ -1661,12 +1665,12 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="serviceClassSMS">SMS</string>
     <string name="serviceClassVoice">Spraak</string>
     <string name="serviceDisabled">Service is uitgeschakeld.</string>
-    <string name="serviceEnabled">Service is ingeschakeld.</string>
-    <string name="serviceEnabledFor">Service is ingeschakeld voor:</string>
+    <string name="serviceEnabled">Service staat aan.</string>
+    <string name="serviceEnabledFor">Service staat aan voor:</string>
     <string name="serviceErased">Wissen uitgevoerd.</string>
     <string name="serviceNotProvisioned">Service niet voorzien.</string>
     <string name="serviceRegistered">De registratie is voltooid.</string>
-    <string name="setup_autofill">Autom. aanvullen instellen</string>
+    <string name="setup_autofill">Autom. invullen instellen</string>
     <string name="sha1_fingerprint">SHA-1-vingerafdruk:</string>
     <string name="sha256_fingerprint">SHA-256-vingerafdruk</string>
     <string name="share">Delen</string>
@@ -1682,17 +1686,17 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="shortcut_restore_signature_mismatch">Kan snelkoppeling niet herstellen vanwege een niet-overeenkomende app-ondertekening</string>
     <string name="shortcut_restore_unknown_issue">Kan snelkoppeling niet herstellen</string>
     <string name="shortcut_restored_on_lower_version">App-versie gedowngraded of niet geschikt voor deze snelkoppeling</string>
-    <string name="show_ime">Dit op het scherm weergeven terwijl het fysieke toetsenbord actief is</string>
+    <string name="show_ime">Op het scherm tonen terwijl het fysieke toetsenbord actief is</string>
     <string name="shutdown_confirm">Je telefoon wordt uitgeschakeld.</string>
     <string name="shutdown_confirm_question">Wil je afsluiten?</string>
-    <string name="shutdown_progress">Uitschakelen...</string>
+    <string name="shutdown_progress">Uitzetten…</string>
     <string name="silent_mode">Stille modus</string>
     <string name="silent_mode_ring">Belsoftware aan</string>
     <string name="silent_mode_silent">Belsoftware uit</string>
     <string name="silent_mode_vibrate">Belsoftware op trillen</string>
     <string name="sim_added_message">Start je apparaat opnieuw voor toegang tot het mobiele netwerk.</string>
     <string name="sim_added_title">Simkaart aangesloten</string>
-    <string name="sim_done_button">Gereed</string>
+    <string name="sim_done_button">Klaar</string>
     <string name="sim_removed_message">Het mobiele netwerk is niet beschikbaar totdat u het apparaat opnieuw start met een geldige simkaart.</string>
     <string name="sim_removed_title">Simkaart verwijderd</string>
     <string name="sim_restart_button">Opnieuw starten</string>
@@ -1702,7 +1706,7 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="sipAddressTypeWork">Werk</string>
     <string name="skip_button_label">Overslaan</string>
     <string name="slice_more_content">+ %1$d</string>
-    <string name="slices_permission_request">%1$s wil segmenten van %2$s weergeven</string>
+    <string name="slices_permission_request">%1$s wil segmenten van %2$s tonen</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> verzendt moment een groot aantal sms-berichten. Wil je toestaan ​​dat deze app berichten blijft verzenden?</string>
     <string name="sms_control_no">Weigeren</string>
     <string name="sms_control_title">SMS-berichten verzenden</string>
@@ -1750,7 +1754,8 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="taking_remote_bugreport_notification_title">Bugrapport genereren…</string>
     <string name="terabyteShort">TB</string>
     <string name="test_harness_mode_notification_message">Reset de fabrieksinstellingen om de test harness-modus uit te schakelen.</string>
-    <string name="test_harness_mode_notification_title">Test harness-modus is ingeschakeld</string>
+    <string name="test_harness_mode_notification_title">Test harness-modus staat aan</string>
+    <string name="tethered_notification_message">Tik om in te stellen.</string>
     <string name="tethered_notification_multi_device_message">%1$s verbonden apparaten</string>
     <string name="tethered_notification_no_device_message">Geen verbonden apparaat</string>
     <string name="tethered_notification_one_device_message">%1$s verbonden apparaat</string>
@@ -1774,8 +1779,8 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="time_picker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
     <string name="toolbar_collapse_description">Samenvouwen</string>
     <string name="tooltip_popup_title">Knopinfo</string>
-    <string name="turn_off_radio">Draadloos uitschakelen</string>
-    <string name="turn_on_radio">Draadloos inschakelen</string>
+    <string name="turn_off_radio">Draadloos uitzetten</string>
+    <string name="turn_on_radio">Draadloos aanzetten</string>
     <string name="tutorial_double_tap_to_zoom_message_short">Tik twee keer voor zoomregeling</string>
     <string name="twilight_service">Service voor schemering</string>
     <string name="undo">Ongedaan maken</string>
@@ -1784,9 +1789,9 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="unread_convo_overflow">%1$d+</string>
     <string name="unsupported_compile_sdk_check_update">Controleren op update</string>
     <string name="unsupported_compile_sdk_message">%1$s is gemaakt voor een niet-geschikte versie van het Android-besturingssysteem en kan onverwacht gedrag vertonen. Mogelijk is er een geüpdatete versie van de app beschikbaar.</string>
-    <string name="unsupported_compile_sdk_show">Altijd weergeven</string>
+    <string name="unsupported_compile_sdk_show">Altijd tonen</string>
     <string name="unsupported_display_size_message">%1$s biedt geen ondersteuning voor de huidige instelling voor weergavegrootte en kan onverwacht gedrag vertonen.</string>
-    <string name="unsupported_display_size_show">Altijd weergeven</string>
+    <string name="unsupported_display_size_show">Altijd tonen</string>
     <string name="upload_file">Bestand kiezen</string>
     <string name="usb_accessory_notification_title">USB-accessoire verbonden</string>
     <string name="usb_charging_notification_title">Dit apparaat wordt opgeladen via USB</string>
@@ -1820,7 +1825,7 @@ Als je langere tijd op hoog volume naar muziek luistert, raakt je gehoor mogelij
     <string name="volume_alarm">Wekkervolume</string>
     <string name="volume_bluetooth_call">Volume tijdens gesprek in bluetooth-modus</string>
     <string name="volume_call">Volume inkomend gesprek</string>
-    <string name="volume_dialog_ringer_guidance_silent">Gesprekken en meldingen zijn gedempt</string>
+    <string name="volume_dialog_ringer_guidance_silent">Telefoon- en meldingsgeluid wordt uitgezet</string>
     <string name="volume_dialog_ringer_guidance_vibrate">Trillen bij gesprekken en meldingen</string>
     <string name="volume_icon_description_bluetooth">Bluetooth</string>
     <string name="volume_icon_description_incall">Oproep</string>
@@ -1898,8 +1903,8 @@ Wil je de pagina sluiten?"</string>
     <string name="wifi_no_internet_detailed">Tik voor opties</string>
     <string name="wireless_display_route_description">Draadloze weergave</string>
     <string name="work_mode_off_message">Je werk-apps, meldingen, gegevens en andere functies van je werkprofiel worden uitgeschakeld</string>
-    <string name="work_mode_off_title">Werkprofiel inschakelen?</string>
-    <string name="work_mode_turn_on">Inschakelen</string>
+    <string name="work_mode_off_title">Werkprofiel aanzetten?</string>
+    <string name="work_mode_turn_on">Aanzetten</string>
     <string name="work_profile_deleted">Werkprofiel verwijderd</string>
     <string name="work_profile_deleted_description_dpm_wipe">Je werkprofiel is niet meer beschikbaar op dit apparaat</string>
     <string name="work_profile_deleted_details">De beheer-app van het werkprofiel ontbreekt of is beschadigd. Als gevolg hiervan zijn je werkprofiel en alle gerelateerde gegevens verwijderd. Neem contact op met je beheerder voor hulp.</string>
@@ -1917,6 +1922,7 @@ Wil je de pagina sluiten?"</string>
     <string name="zen_mode_feature_name">Niet storen</string>
     <string name="zen_mode_forever">Totdat je uitschakelt</string>
     <string name="zen_mode_forever_dnd">"Totdat u 'Niet storen' uitschakelt"</string>
+    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Tot %1$s</string>
     <string name="zen_upgrade_notification_content">Tik om te controleren wat er is geblokkeerd.</string>
     <string name="zen_upgrade_notification_title">"'Niet storen' is gewijzigd"</string>

@@ -60,6 +60,7 @@
     <string name="alert_title">Kalendermeldingen</string>
     <string name="all_events">Alle gebeurtenissen</string>
     <string name="all_records">Alle records</string>
+    <string name="already_num">Tijd sinds %s</string>
     <string name="am">AM</string>
     <string name="anniversary_event_title">Jubileum: %1$s</string>
     <string name="anniversary_secondary_tag">Jubileum</string>
@@ -138,6 +139,7 @@
     <string name="copy">Kopiëren</string>
     <string name="copy_email">E-mailadres kopiëren</string>
     <string name="copy_number">Telefoonnummer kopiëren</string>
+    <string name="count_down_date_view">Aftellen</string>
     <string name="countdown_event_title">Aftellen: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Aftellen: %1$s in %2$d dagen</string>
     <string name="countdown_notify_title">Aftellen: %1$s</string>
@@ -175,8 +177,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_today">" (vandaag)"</string>
+    <string name="date_view">Datum</string>
     <string name="day">Dag</string>
     <string name="day_view_new_event_hint">Nieuwe gebeurtenis</string>
     <string name="default_reminder_mode">Herinneringen</string>
@@ -374,6 +378,7 @@
     <string name="import_action">Importeer</string>
     <string name="import_birthday">Importeer verjaardag</string>
     <string name="imported">Geïmporteerd</string>
+    <string name="in_progress">Bezig</string>
     <string name="insert_event_dialog_btn_negative">Nee</string>
     <string name="insert_event_dialog_btn_positive">Ja</string>
     <string name="insert_event_dialog_message">Deze gebeurtenis toevoegen aan kalender?</string>
@@ -525,6 +530,7 @@
     <string name="movie_card_title">Films</string>
     <string name="movie_card_trailer">Trailer</string>
     <string name="name_title_menstruation_today_end">Menstruatie eindigt naar verwachting vandaag</string>
+    <string name="near_agenda_view">Aankomende evenementen</string>
     <string name="network_not_available">Kan geen verbinding maken met het netwerk</string>
     <string name="never">Nooit</string>
     <string name="new_event_description">Nieuw</string>
@@ -728,9 +734,12 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip">Overslaan</string>
     <string name="small_week_date_format">EEE dd-MM-yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">Speciale evenementen</string>
     <string name="start_date_calculate">Berekenen</string>
     <string name="stats_title">Statistieken</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="still_num">Tijd tot %s</string>
     <string name="storage_permission_denied">Sta eerst toegang tot de opslag toe</string>
     <string name="subscribe_card">Nu abonneren</string>
     <string name="subscribe_card_success">Succesvol geabonneerd! Bekijk de details op de startpagina.</string>
@@ -855,6 +864,7 @@ U kunt ook herinneringen toevoegen zodat u nooit iets belangrijks mist."</string
     <string name="today">Vandaag</string>
     <string name="today_at_time_fmt">Vandaag om %s</string>
     <string name="today_icon_voice_contentdescription">Terug naar vandaag</string>
+    <string name="today_no_event">Geen gebeurtenissen voor vandaag.</string>
     <string name="today_no_events">Geen gebeurtenissen</string>
     <string name="todays_panchang_title">Panchang van vandaag</string>
     <string name="todo_audio_event">"[Spraaktaak] "</string>
@@ -920,7 +930,13 @@ U kunt ook herinneringen toevoegen zodat u nooit iets belangrijks mist."</string
     <string name="widget_events">Volgende gebeurtenis</string>
     <string name="widget_get_weather_info">Haal weersinfo op</string>
     <string name="widget_no_events">Geen gebeurtenissen</string>
+    <string name="widget_normal_agenda_tip_empty">Geen gebeurtenissen voor vandaag.</string>
+    <string name="widget_normal_agenda_today_done">Alle gebeurtenissen voor vandaag zijn voltooid.</string>
+    <string name="widget_normal_more_event">Meer evenementen</string>
+    <string name="widget_normal_new_event">Voeg gebeurtenis toe</string>
+    <string name="widget_normal_weekN">Week %d</string>
     <string name="widget_select_style">Kies een stijl</string>
+    <string name="widget_spec_agenda_birth_today">Vandaag</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">Kalender is een systeem-app waarmee u gebeurtenissen kunt maken en beheren. Sommige functies zijn nog steeds beschikbaar nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_calendar_delete_title">\"Kalender\" verwijderen uit het Startscherm?</string>

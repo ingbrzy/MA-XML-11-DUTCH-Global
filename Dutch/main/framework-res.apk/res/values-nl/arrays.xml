@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Thuis</item>
+        <item>Privé</item>
         <item>Werk</item>
         <item>Overig</item>
         <item>Aangepast</item>

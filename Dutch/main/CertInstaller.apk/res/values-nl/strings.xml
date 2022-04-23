@@ -16,7 +16,7 @@
     <string name="credential_info">Het pakket bevat:</string>
     <string name="credential_password">Typ het wachtwoord om de certificaten uit te pakken.</string>
     <string name="credential_usage_label">Gebruik van certificaatgegevens:</string>
-    <string name="done_label">GEREED</string>
+    <string name="done_label">KLAAR</string>
     <string name="extracting_pkcs12">Uitpakken...</string>
     <string name="install_done">Inloggegevens voor %1$s zijn toegevoegd aan de opgeslagen wifi-netwerken.</string>
     <string name="install_done_title">Inloggegevens ingesteld</string>
@@ -43,7 +43,7 @@
     <string name="redirect_ca_certificate_title">CA-certificaten installeren in Instellingen</string>
     <string name="redirect_ca_certificate_with_app_info_message">Dit certificaat van %1$s moet worden geïnstalleerd in Instellingen. Installeer alleen CA-certificaten van organisaties die je vertrouwt.</string>
     <string name="select_certificate_usage_title">Een certificaattype kiezen</string>
-    <string name="unable_to_save_cert">Kan het certificaat niet opslaan. Opslag van certificaatgegevens is niet ingeschakeld of niet correct geïnitialiseerd.</string>
+    <string name="unable_to_save_cert">Kan het certificaat niet opslaan. Opslag van certificaatgegevens staat niet aan of is niet correct geïnitialiseerd.</string>
     <string name="user_cert_is_added">Gebruikerscertificaat geïnstalleerd</string>
     <string name="user_certificate">VPN- en app-gebruikerscertificaat</string>
     <string name="userkey_type">Algoritme:</string>

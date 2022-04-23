@@ -37,6 +37,13 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">Hallo wereld!</string>
     <string name="menu_settings">Instellingen</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="tencent_dialog_cloudscan">App-namen en details uploaden en scannen met behulp van online virusdefinities.</string>
     <string name="tencent_dialog_dbupdate">Virusdefinities automatisch bijwerken</string>
     <string name="tencent_dialog_header">Deze functie versleutelt en upload het ID van uw apparaat naar de server van Tencent (%s).</string>

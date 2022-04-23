@@ -36,10 +36,6 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">Kan %s items niet synchroniseren</item>
-        <item quantity="one">Kan %s item niet synchroniseren</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d blokkeerlijst invoeren</item>
         <item quantity="one">%d blokkeerlijst invoer</item>
@@ -68,10 +64,6 @@
         <item quantity="other">%d berichten</item>
         <item quantity="one">%d bericht</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d nummers</item>
-        <item quantity="one">%d nummer</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d notities</item>
         <item quantity="one">%d notitie</item>
@@ -92,10 +84,6 @@
         <item quantity="other">%d opnames</item>
         <item quantity="one">%d opname</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">"%d verborgen foto's niet gesynchroniseerd. Meld u af nadat alle items zijn gesynchroniseerd om deze te behouden, anderzijds zullen items worden verwijderd."</item>
-        <item quantity="one">%d verborgen foto niet gesynchroniseerd. Meld u af nadat alle items zijn gesynchroniseerd om deze te behouden, anderzijds zullen items worden verwijderd.</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d Wifi-netwerken</item>
         <item quantity="one">%d Wifi-netwerk</item>
@@ -104,9 +92,25 @@
         <item quantity="other">%d WLAN-netwerken</item>
         <item quantity="one">%d WLAN-netwerk</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s uur</item>
+        <item quantity="one">%s uur</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minuten</item>
+        <item quantity="one">%s minuut</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s seconden</item>
+        <item quantity="one">%s seconde</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Probeer het opnieuw in %d seconden</item>
         <item quantity="one">Probeer het opnieuw in %d seconde</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Kon %s items niet synchroniseren</item>
+        <item quantity="one">Kon %s item niet synchroniseren</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>

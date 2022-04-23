@@ -100,6 +100,18 @@
         <item quantity="other">"%d video's"</item>
         <item quantity="one">%d video</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d van %2$2d afleveringen beschikbaar</item>
+        <item quantity="one">%1$1d van %2$2d aflevering beschikbaar</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d van %2$2d afleveringen beschikbaar</item>
+        <item quantity="one">%1$1d van %2$2d aflevering beschikbaar</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d afleveringen totaal</item>
+        <item quantity="one">%d aflevering totaal</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s sec over</item>
         <item quantity="one">%s sec over</item>
@@ -107,6 +119,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
     </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>

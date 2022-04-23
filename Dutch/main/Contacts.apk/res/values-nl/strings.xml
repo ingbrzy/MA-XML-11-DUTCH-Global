@@ -147,6 +147,7 @@
     <string name="calllog_menu_blacklist">Blokkeren</string>
     <string name="calllog_menu_edit_before_call">Bewerken</string>
     <string name="calllog_menu_send_sms">Een bericht sturen</string>
+    <string name="calllog_record_none_toast">Geen gespreksopnames om weer te geven</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">Niet verbonden</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -161,12 +162,12 @@
     <string name="callrecordview_menu_blocklist">Blokkeerlijst</string>
     <string name="callrecordview_menu_conference">Groepsgesprek</string>
     <string name="callrecordview_menu_delete">Verwijderen</string>
-    <string name="callrecordview_menu_delete_accepted">Beantwoorde gesprekken verwijderen</string>
+    <string name="callrecordview_menu_delete_accepted">Beantwoorde oproepen wissen</string>
     <string name="callrecordview_menu_delete_called">Uitgaande gesprekken verwijderen</string>
-    <string name="callrecordview_menu_delete_missed">Gemiste gesprekken verwijderen</string>
+    <string name="callrecordview_menu_delete_missed">Gemiste oproepen wissen</string>
     <string name="callrecordview_menu_delete_one">Verwijderen van belgeschiedenis</string>
     <string name="callrecordview_menu_delete_sim">Records belgeschiedenis wissen (%s)</string>
-    <string name="callrecordview_menu_delete_stranger">Onbekende nummers verwijderen</string>
+    <string name="callrecordview_menu_delete_stranger">Onbekende nummers wissen</string>
     <string name="callrecordview_menu_identify_numbers">Telefoonnummers identificeren</string>
     <string name="callrecordview_menu_mobiledata">Data kopen</string>
     <string name="callrecordview_menu_recharge">Opwaarderen</string>
@@ -194,8 +195,8 @@
     <string name="chat_qq">Chatten via QQ</string>
     <string name="chat_skype">Chatten via Skype</string>
     <string name="chat_yahoo">Chatten via Yahoo</string>
-    <string name="clearCallLogProgress_title">Belgeschiedenis verwijderen…</string>
-    <string name="clear_default">Standaardwaarden verwijderen</string>
+    <string name="clearCallLogProgress_title">Belgeschiedenis wissen…</string>
+    <string name="clear_default">Standaardwaarden wissen</string>
     <string name="clear_digits">Verwijder telefoonnummer</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
@@ -213,7 +214,7 @@
     <string name="composer_has_no_exportable_contact">Er zijn geen exporteerbare contactpersonen. Als u wel contacten op uw apparaat hebt, staan ​​sommige dataproviders mogelijk niet toe dat de contactpersonen worden geëxporteerd vanaf het apparaat.</string>
     <string name="composer_not_initialized">De vCard editor is niet correct gestart.</string>
     <string name="conference_call_disable_tip">Kan niet bellen. Zorg ervoor dat uw apparaat is verbonden met een 4G-netwerk met VoLTE-ondersteuning.</string>
-    <string name="confirm_delete_contact_all_call_logs">Alle %sgeschiedenis wissen?</string>
+    <string name="confirm_delete_contact_all_call_logs">Alle geschiedenis van %s wissen?</string>
     <string name="confirm_delete_selected_all_call_logs">Belgeschiedenis wissen?</string>
     <string name="confirm_delete_sim_entry_miui_title">Verwijderen</string>
     <string name="confirm_export_message">Uw lijst met contactpersonen wordt geëxporteerd naar het bestand: %s.</string>
@@ -292,7 +293,7 @@
     <string name="deleteConfirmation_title">Deze contactpersoon verwijderen?</string>
     <string name="delete_call_log_message">Belgeschiedenis wissen?</string>
     <string name="delete_call_log_selected_title">De geselecteerde belgeschiedenis wissen?</string>
-    <string name="delete_call_log_title">Oproepgeschiedenis wissen</string>
+    <string name="delete_call_log_title">Belgeschiedenis wissen</string>
     <string name="delete_conference_call_log_message">Wilt u nu alle conferentiegesprekgegevens verwijderen die aan dit contact zijn gekoppeld?</string>
     <string name="delete_conference_call_log_title">Conferentiegesprekgegevens verwijderen</string>
     <string name="delete_duplicate">Samenvoegen</string>
@@ -502,6 +503,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -627,6 +629,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -720,6 +723,12 @@ Reden: \"%s\""</string>
     <string name="name_phonetic_middle">Fonetisch gespelde tweede voornaam</string>
     <string name="name_prefix">Voorvoegsel van naam</string>
     <string name="name_suffix">Achtervoegsel van naam</string>
+    <string name="new_saf_permission_dialog_content">"Contacten toestemmingen zijn bijgewerkt. Geef Contacten toegang tot gespreksopnames.
+
+Hoe toestemming te verlenen
+Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Volgende</string>
+    <string name="new_saf_permission_dialog_title"><b>Toestemmingen vereist</b></string>
     <string name="next">Volgende</string>
     <string name="next_birthday">Volgende verjaardag: %s</string>
     <string name="nfc_vcard_file_name">Contact via NFC</string>
@@ -777,6 +786,7 @@ Reden: \"%s\""</string>
     <string name="permission_retry_dialog_msg_pad">Om uw SIM-kaart met deze app te kunnen gebruiken en uw contacten te kunnen beheren, moet u deze app toegang geven tot uw contacten en deze bewerken, evenals toegang tot apparaat info.</string>
     <string name="permission_retry_setting">Instellingen</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -834,7 +844,7 @@ Reden: \"%s\""</string>
     <string name="preference_privacy_settings_title">Privacy</string>
     <string name="preference_remove_duplicate">Voeg dubbele contacten samen</string>
     <string name="preference_show_firewall_calllog">Toon geblokkeerde oproepen in de oproepgeschiedenis</string>
-    <string name="preference_show_yellowpage_tab_description">Het Telefoonboek kan niet correct werken wanneer deze functie is uitgeschakeld.</string>
+    <string name="preference_show_yellowpage_tab_description">Telefoonboek en de bijbehorende services worden niet weergegeven als u deze functie uitschakelt</string>
     <string name="preference_show_yellowpage_tab_title">Toon Telefoonboek</string>
     <string name="preference_simple_mode_title">"Toon foto's en info"</string>
     <string name="preference_smart_group_company_summary">Groepeer per bedrijf</string>
@@ -845,6 +855,7 @@ Reden: \"%s\""</string>
     <string name="preference_smart_group_location_title">Per locatie</string>
     <string name="preference_smart_group_title">Slimme groepen</string>
     <string name="preference_tone_title">Weergeven</string>
+    <string name="preference_yellowpage_function_setting">Instellingen voor Telefoonboek</string>
     <string name="previous">Vorige</string>
     <string name="privacy_password_message1">"Wachtwoord voor privacybescherming werkt voor foto's, notities en verborgen mappen."</string>
     <string name="privacy_password_message2">"Gebruik wachtwoord voor privacybescherming. Het werkt voor foto's, notities en verborgen mappen."</string>
@@ -854,6 +865,7 @@ Reden: \"%s\""</string>
     <string name="privacy_password_title2">Gebruik wachtwoord voor privacybescherming</string>
     <string name="privacy_password_title3">Upgrade uw wachtwoord</string>
     <string name="privacy_password_title4">Wachtwoord geüpgradet</string>
+    <string name="privacy_settings_blue_scan_connect">Maak verbinding met apparaten in de buurt</string>
     <string name="privacy_settings_call_phone">Bellen</string>
     <string name="privacy_settings_call_phone_description">Voor bellen via Startscherm snelkoppelingen</string>
     <string name="privacy_settings_call_phone_description_for_pad">Voor bellen in apps van derden</string>
@@ -1017,6 +1029,7 @@ Reden: \"%s\""</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1058,6 +1071,7 @@ Reden: \"%s\""</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
@@ -1116,6 +1130,7 @@ Reden: \"%s\""</string>
     <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
     <string name="the_valentines_day">Valentijnsdag</string>
     <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="this_folder">Deze map gebruiken</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
@@ -1133,6 +1148,7 @@ Reden: \"%s\""</string>
     <string name="toast_for_failed_saving_nickname">Kon bijnaam niet opslaan</string>
     <string name="toast_for_saving_nickname">Bijnaam opgeslagen</string>
     <string name="toast_join_with_empty_contact">Geef een contactnaam op voordat u dit contact samenvoegt met een ander contact.</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Sta deze functie toe om via Bluetooth verbinding te maken met apparaten in de buurt om contacten van andere apparaten te kunnen importeren.</string>
     <string name="toast_not_show_camera_perm_req">"Om de camera te kunnen gebruiken voor het maken van profielfoto's, moet deze app eerst foto's maken en video's opnemen."</string>
     <string name="toast_not_show_location_perm_req">Om contacten van andere apparaten via Bluetooth te kunnen importeren, moet u deze app eerst toegang geven tot uw locatie.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Geef deze app eerst toegang tot de belgeschiedenis om de belgeschiedenis te kunnen bekijken.</string>
@@ -1186,7 +1202,7 @@ Kies een van de volgende opties:"</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
     <string name="wifi_pad_disable_phone">Kan niet bellen op dit apparaat</string>
-    <string name="wipe_data">Verwijder data</string>
+    <string name="wipe_data">Gegevens wissen</string>
     <string name="yellowPageNavigationLabel">Telefoonboek</string>
     <string name="yellowpage_address_tag">Adres</string>
     <string name="yellowpage_provider_label">Technische ondersteuning voor Beller ID/Afzender-ID herkenning aangeboden door</string>

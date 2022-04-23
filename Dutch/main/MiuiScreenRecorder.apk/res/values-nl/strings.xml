@@ -37,7 +37,7 @@
 Tik om te bekijken"</string>
     <string name="app_notification_title">Schermrecorder</string>
     <string name="auto_stop_title">Video succesvol opgeslagen</string>
-    <string name="battery_not_allowed" formatted="false">Kan niet opnemen wanneer het batterijniveau beneden 3% is. Zorg ervoor dat de batterij minimaal voor 20% is opgeladen.</string>
+    <string name="battery_not_allowed_warning">Kan niet opnemen wanneer het batterijniveau beneden %1$s is. Zorg ervoor dat de batterij minimaal voor %2$s is opgeladen.</string>
     <string name="bit_rate">Videokwaliteit</string>
     <string name="bit_rate_summary">Hogere kwaliteit betekent groter bestandsformaat</string>
     <string name="bubble_text">Tik om opname te starten</string>
@@ -46,7 +46,7 @@ Tik om te bekijken"</string>
     <string name="button_confirm">OК</string>
     <string name="button_goon_recorder">Hervatten</string>
     <string name="cancel_edit">Annuleren</string>
-    <string name="cannot_change_frames">De frame rate kan alleen worden aangepast voor opnames met een vaste frame rate.</string>
+    <string name="cannot_change_frames">De framesnelheid kan alleen worden aangepast voor opnamen met een vaste framesnelheid.</string>
     <string name="cannot_change_parames">Kon parameters niet wijzigen tijdens opname</string>
     <string name="cannot_record">Kon niet opnemen, probeer later opnieuw.</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
@@ -73,7 +73,7 @@ Tik om te bekijken"</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="first_using_mic_dialog_message">De schermrecorder heeft toegang tot uw microfoon nodig om audio op te nemen. Toestaan?</string>
     <string name="first_using_mic_dialog_title">Toestemmingen vereist</string>
-    <string name="fixed_frame_rate">Vaste frame rate</string>
+    <string name="fixed_frame_rate">Vaste framesnelheid</string>
     <string name="fixed_frame_rate_summary">"Het opnemen van video's met een vaste framesnelheid verbetert het afspelen op sociale media platforms en verkort de levensduur van de batterij."</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -149,8 +149,8 @@ Tik om te bekijken"</string>
     <string name="low_battery_for_pad">Laad uw apparaat op voordat u begint met opnemen</string>
     <string name="low_battery_title">Batterij bijna leeg</string>
     <string name="low_battery_warning">Batterijniveau te laag. Opname gestopt en video opgeslagen.</string>
-    <string name="low_memory">U hebt minder dan 1GB beschikbare opslagruimte. U kunt nu tot 20 minuten opnemen.</string>
     <string name="low_memory_for_pad">U hebt minder dan %1$d GB beschikbare opslagruimte. U kunt nu tot %2$d minuten opnemen.</string>
+    <string name="low_memory_for_phone">U hebt minder dan %1$d GB beschikbare opslagruimte. U kunt nu tot %2$d minuten opnemen.</string>
     <string name="low_memory_title">Niet genoeg opslagruimte</string>
     <string name="low_momery_warning">Niet genoeg opslagruimte. Opname gestopt en video opgeslagen.</string>
     <string name="memory_not_allowed">Geen opslagruimte beschikbaar. Maak wat opslagruimte vrij om te kunnen opnemen.</string>

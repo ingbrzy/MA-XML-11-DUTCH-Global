@@ -37,6 +37,7 @@
     <string name="add_clock">Klok toevoegen</string>
     <string name="add_common_timer">Timer toevoegen</string>
     <string name="add_timer">Veelgebruikte timer</string>
+    <string name="add_timer_dialog_title">Timer toevoegen</string>
     <string name="add_timezone_title">Tijdzone toevoegen</string>
     <string name="afternoon">Middag</string>
     <string name="agree">Akkoord</string>
@@ -439,6 +440,10 @@
     <string name="reach_upper_limit">Kan niet meer timers toevoegen</string>
     <string name="read_external_storage_permission_desc">Voor het instellen van aangepaste beltonen</string>
     <string name="read_internal_storage">Toegang tot opslag</string>
+    <string name="read_phone_state">Toegang tot apparaat info</string>
+    <string name="read_phone_state_desc">Toegang tot de oproepstatus wanneer het alarm afgaat</string>
+    <string name="read_phone_state_desc_when_request">Voor toegang tot de oproepstatus om alarmen automatisch te pauzeren bij het ontvangen van oproepen</string>
+    <string name="remark_hint">Voer label in</string>
     <string name="remind_ringtone">Beltoon</string>
     <string name="repeat_count">Keer</string>
     <string name="repeat_count_value_five">5</string>
@@ -483,6 +488,8 @@
     <string name="shortcut_new_alarm">Alarm instellen</string>
     <string name="shortcut_start_timer">Timer starten</string>
     <string name="shortcut_stop_watch">Stopwatch starten</string>
+    <string name="show_life_post_desc">Ochtendrapporten worden niet weergegeven als u deze functie uitschakelt</string>
+    <string name="show_life_post_lable">Toon het ochtendrapport</string>
     <string name="shut_down_keep_screen">Het scherm wordt niet aangehouden</string>
     <string name="shutdown_alarm_alert_enable_summary">Uitschakel alarmen gaan ten minste 10 minuten nadat u uw apparaat uitschakelt af</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Schakel dit in om de ingestelde alarmen af te laten gaan wanneer uw apparaat is uitgeschakeld. Alleen alarmen die zijn ingesteld voor ten minste %d minuten nadat u het apparaat hebt uitgeschakeld, gaan af.</string>
@@ -491,10 +498,12 @@
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">Slaapgegevens verstrekt door Xiaomi Health</string>
+    <string name="sleep_date_provider_text_new">Slaapgegevens worden geleverd door Mi Fitness</string>
     <string name="sleep_duration">"Slaap duur: "</string>
     <string name="sleep_duration_avg_text_diff">Gemiddelde slaapduur (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Geslapen voor %1$s %2$s</string>
@@ -510,6 +519,7 @@
     <string name="sleep_record">Slaap bijhouden</string>
     <string name="sleep_record_desc">Schakel in om te beginnen met het opnemen van slaapgegevens</string>
     <string name="sleep_record_desc_detailed">Slaap bijhouden functionaliteit wordt geleverd door Xiaomi Health. Eenmaal ingeschakeld, registreert Xiaomi Health automatisch uw slaap op basis van uw telefoongebruik, activiteitsstatistieken, evenals in slaap vallen en de wektijd die u instelt en toont u statistieken in de vorm van grafieken. Laat Xiaomi Health automatisch starten om de slaap nauwkeuriger te volgen. Alle gerelateerde gegevens worden lokaal op uw apparaat opgeslagen, zodat u deze gemakkelijk kunt beheren.</string>
+    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
     <string name="sleep_record_no_data">Uw statistieken worden hier weergegeven nadat Xiaomi Health voldoende gegevens heeft geanalyseerd</string>
     <string name="sleep_remind">Herinnering voor het slapengaan</string>
     <string name="sleep_time">In slaap vallen</string>
@@ -534,6 +544,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -542,6 +553,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -609,6 +621,7 @@
     <string name="timer_alert_type_beach">Strand</string>
     <string name="timer_alert_type_forest">Bos</string>
     <string name="timer_alert_type_mute">Standaard</string>
+    <string name="timer_alert_type_no">Geen</string>
     <string name="timer_alert_type_rain">Motregen</string>
     <string name="timer_alert_type_spring_rain">Zomerregen</string>
     <string name="timer_alert_type_stove_fire">Kachelvuur</string>
@@ -620,6 +633,9 @@
     <string name="timer_continue">Doorgaan</string>
     <string name="timer_continue_timer">Timer hervatten</string>
     <string name="timer_created">Timer succesvol toegevoegd</string>
+    <string name="timer_desc_use_brush_teeth">Tanden poetsen</string>
+    <string name="timer_desc_use_facial_mask">Gezichtsmasker</string>
+    <string name="timer_desc_use_sleep">Dutje</string>
     <string name="timer_end_time">Timer stopt bij %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -628,6 +644,7 @@
     <string name="timer_is_paused">Timer is gepauzeerd</string>
     <string name="timer_item_delete">Verwijderen</string>
     <string name="timer_item_duration_display">%1$d min %2$d sec</string>
+    <string name="timer_item_edit">Bewerken</string>
     <string name="timer_item_label_hint">Timer naam</string>
     <string name="timer_item_picker_hour">U</string>
     <string name="timer_item_picker_minute">M</string>
@@ -657,6 +674,8 @@
     <string name="upcoming_alarm_hint">U kunt dit alarm nu uitschakelen</string>
     <string name="update_health_app">Update Xiaomi Health</string>
     <string name="update_health_app_desc">Slaap bijhouden functionaliteit wordt geleverd door Xiaomi Health. Update Xiaomi Health naar de nieuwste versie voor toegang tot gerelateerde functies.</string>
+    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
+    <string name="update_health_app_new">Mi Fitness bijwerken</string>
     <string name="update_it">Update</string>
     <string name="update_notification_info">Gegevens bijwerken op de achtergrond…</string>
     <string name="usage_start">Start</string>
@@ -681,6 +700,7 @@
     <string name="wednesday_shortest">Wo</string>
     <string name="week_ringtone_recommend_desc">Natuuralarm speelt afhankelijk van de datum verschillende geluiden af. Stel het in als uw standaardwekker?</string>
     <string name="white_noise">Omgevingsgeluid</string>
+    <string name="white_noise_guide_desc">Voeg een achtergrondgeluid toe om u gefocust te houden</string>
     <string name="white_noise_selector">Audio selecteren</string>
     <string name="workday_alarm_clock">Werkdag alarm</string>
     <string name="worldclock_edit_label">Wereldklok</string>
@@ -692,6 +712,7 @@
     <string name="worldclock_search_city">Selecteer een stad</string>
     <string name="worldclock_second_time">Tijd in %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Klok</string>
     <string name="worldclock_world_time">Tijdzones</string>
     <string name="worldcolock_date_display_prefix">Nu: </string>
