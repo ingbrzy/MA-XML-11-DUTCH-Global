@@ -141,6 +141,7 @@ Tik om te bekijken"</string>
     <string name="hint_volume_down">Volume omlaag</string>
     <string name="hint_volume_up">Volume omhoog</string>
     <string name="home_title_none">Selecteer items</string>
+    <string name="invisible_mode_error_tip">U bent incognito. Kan geen audio opnemen.</string>
     <string name="is_checked">Geselecteerd</string>
     <string name="is_go_home">Teruggaan naar Schermrecorder</string>
     <string name="is_go_home_summary">De startpagina van Schermrecorder openen nadat een opname gestopt is</string>

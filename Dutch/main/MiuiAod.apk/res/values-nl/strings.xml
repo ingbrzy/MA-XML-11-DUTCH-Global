@@ -167,6 +167,7 @@ dd.MM"</string>
     <string name="midnight">Nacht</string>
     <string name="mini_time">Kleine klok</string>
     <string name="minimalist_clock">Simpele klok</string>
+    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -270,7 +271,7 @@ dd.MM"</string>
     <string name="select_notification_notify_style">Selecteer meldingseffect</string>
     <string name="send">Verzenden</string>
     <string name="share">Delen</string>
-    <string name="share_to_community">Deel met Mi Community</string>
+    <string name="share_to_community">Deel met Xiaomi Community</string>
     <string name="show_battery">Batterijstatus tonen</string>
     <string name="show_battery_status">Batterijstatus tonen</string>
     <string name="show_lunar">Traditionele Chinese kalender tonen</string>
@@ -283,10 +284,11 @@ dd.MM"</string>
 moois op het punt staat te gebeuren"</string>
     <string name="standard_clock_panel">Standaard</string>
     <string name="standard_style">Standaard</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">Stappentelling wordt geleverd door Xiaomi Health. Ga akkoord met de Algemene Voorwaarden van Xiaomi Health om door te gaan.</string>
     <string name="step_component_info_desc">Stappentelling verandert in een trofee wanneer uw doel is bereikt. Stappentelling wordt geleverd door Xiaomi Health.</string>
     <string name="step_component_info_tip">Stappentelling wordt geleverd door Xiaomi Health. Installeer of update Xiaomi Health en ga akkoord met de Algemene Voorwaarden om door te gaan.</string>
-    <string name="step_to_image_community">Vind meer in Mi Community</string>
+    <string name="step_to_image_community">Vind meer in Xiaomi Community</string>
     <string name="summary">Om het stroomverbruik te verminderen, worden items niet weergegeven als uw apparaat lange tijd in het donker ligt.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
@@ -338,6 +340,7 @@ moois op het punt staat te gebeuren"</string>
     <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
     <string name="the_valentines_day">Valentijnsdag</string>
     <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="theme_manager_other">Meer items</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">Do</string>

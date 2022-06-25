@@ -36,6 +36,7 @@
     <string name="add_alarm">Alarm toevoegen</string>
     <string name="add_clock">Klok toevoegen</string>
     <string name="add_common_timer">Timer toevoegen</string>
+    <string name="add_new_sound">Beltoon toevoegen</string>
     <string name="add_timer">Veelgebruikte timer</string>
     <string name="add_timer_dialog_title">Timer toevoegen</string>
     <string name="add_timezone_title">Tijdzone toevoegen</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">Geen alarmen</string>
     <string name="alarmclock_silent_hint">Alarm is gedempt</string>
     <string name="alert">Beltoon</string>
+    <string name="alert_page_desc">Houd ingedrukt en veeg omhoog om het alarm uit te schakelen</string>
     <string name="alert_ringtone">Alarm beltoon</string>
     <string name="alert_vibrate_enable_summary">Trillen wanneer het alarm afgaat</string>
     <string name="alert_volume">Beltoonvolume</string>
@@ -125,6 +127,7 @@
     <string name="common_timer_selector">Timer selecteren</string>
     <string name="confirm">Bevestigen</string>
     <string name="confirm_abort">Verwijderen</string>
+    <string name="confirm_remove_custom_ringtone">Als u deze beltoon verwijdert, spelen alarmen en timers die deze gebruiken in plaats daarvan de standaardbeltoon af. Nu verwijderen?</string>
     <string name="content_desc_keep_screen">\"Scherm aanhouden\" knop</string>
     <string name="continue_operation">Doorgaan</string>
     <string name="continue_step">Volgende</string>
@@ -132,6 +135,7 @@
     <string name="control_set_alarm_with_existing">Alarm ingesteld: %s</string>
     <string name="copy">Kopiëren</string>
     <string name="current_stopwatch_time">Huidige timing</string>
+    <string name="custom_ringtone_lost_permissions">Geen toegang tot dit geluid.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -147,6 +151,7 @@
     <string name="delete_timer_item_title">Verwijder timer taak</string>
     <string name="delete_timezone_title">Verwijder tijdzone</string>
     <string name="deskclock_sleep_no_disturbance">Klok - Beheer bedtijd - Niet Storen modus</string>
+    <string name="device_sounds">Apparaatgeluiden</string>
     <string name="dialog_confirm_abort">Wijzigingen negeren?</string>
     <string name="dialog_legal_off_day">&lt;Data>Het lijkt erop dat u vakantie alarmen gebruikt. Deze functie heeft verbinding met het internet nodig om normaal te kunnen functioneren. Voordat u deze functie gebruikt, dient u akkoord te gaan met onze &lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a> en ons &lt;a href=\"%2$s\">Privacybeleid&lt;/a>. Akkoord?&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">Klok heeft geen toegang tot het internet om info over vakanties bij te werken. Vakantie alarmen zullen afgaan op zaterdag en zondag.</string>
@@ -498,6 +503,7 @@
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -543,6 +549,7 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -551,6 +558,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
@@ -666,6 +674,7 @@
     <string name="tv_blank_list_show_text">Nog niets om te weergeven. Zoek naar een locatie om deze aan uw wereldklok toe te voegen.</string>
     <string name="tv_world_clock_edit_title1">Locaties weergegeven op het Startscherm</string>
     <string name="tv_world_clock_edit_title2">Andere opgeslagen locaties</string>
+    <string name="unknown_ringtone_title">Onbekend</string>
     <string name="unselect_all">Alles deselecteren</string>
     <string name="upcoming_alarm">Aankomend alarm: %s</string>
     <string name="upcoming_alarm_hint">U kunt dit alarm nu uitschakelen</string>
@@ -698,6 +707,8 @@
     <string name="week_ringtone_recommend_desc">Natuuralarm speelt afhankelijk van de datum verschillende geluiden af. Stel het in als uw standaardwekker?</string>
     <string name="white_noise">Omgevingsgeluid</string>
     <string name="white_noise_guide_desc">Voeg een achtergrondgeluid toe om u gefocust te houden</string>
+    <string name="white_noise_not_selected">Niet geselecteerd</string>
+    <string name="white_noise_selected">Geselecteerd</string>
     <string name="white_noise_selector">Audio selecteren</string>
     <string name="workday_alarm_clock">Werkdag alarm</string>
     <string name="worldclock_edit_label">Wereldklok</string>
@@ -721,4 +732,5 @@
     <string name="worldcolock_timezone_local">Hetzelfde als de lokale tijd</string>
     <string name="xiaoai_ringtone_title">Mi AI-beltonen</string>
     <string name="yesterday">Gisteren</string>
+    <string name="your_sounds">Mijn geluiden</string>
 </resources>

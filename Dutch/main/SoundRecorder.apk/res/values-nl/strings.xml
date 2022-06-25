@@ -204,6 +204,7 @@
     <string name="low_battery_error_for_pad">Minder dan %s batterij resterend. Stop en sla uw opname op zodat deze niet verloren gaat.</string>
     <string name="low_battery_error_title">Batterij bijna leeg</string>
     <string name="lyric_item_point_count">%1$d tot %2$d</string>
+    <string name="manage_external_storage">Toegang tot alle bestanden</string>
     <string name="mark_point_list_title">Tekens</string>
     <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
     <string name="material_hour_selection">Selecteer uur</string>
@@ -296,6 +297,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -570,6 +572,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="sync_desc_state_complete">Gesynchroniseerd met de cloud: %1$s</string>
     <string name="tab_all">Alle</string>
     <string name="tab_apps">Apps</string>
     <string name="tab_call">Oproepen</string>

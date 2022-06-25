@@ -63,7 +63,7 @@ Verificatiemethode: EAP-%5$s
     <string name="wifi_installer_detail">Stel wifi-inloggegevens in om verbinding te maken met netwerken die beschikbaar zijn via %1$s.</string>
     <string name="wifi_installer_download_error">Er zijn problemen opgetreden met het gedownloade bestand en het kan niet worden geïnstalleerd. Zorgt dat u het bestand downloadt via de juiste bron.</string>
     <string name="wifi_installer_fail">Kan wifi-inloggegevens niet instellen. Probeer het bestand opnieuw te downloaden.</string>
-    <string name="wifi_installer_fail_no_wifi">Schakel wifi in en probeer het opnieuw.</string>
+    <string name="wifi_installer_fail_no_wifi">Zet wifi aan en probeer het opnieuw.</string>
     <string name="wifi_installer_fail_no_wifi_title">Installatie geannuleerd</string>
     <string name="wifi_installer_fail_title">Kan niet installeren</string>
     <string name="wifi_installing_label">Installeren</string>

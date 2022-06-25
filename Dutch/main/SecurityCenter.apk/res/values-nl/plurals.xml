@@ -256,6 +256,10 @@ Als je mobiele data opnieuw inschakelt, kan je provider extra kosten in rekening
         <item quantity="other">Deïnstalleren %2$d games (inclusief %1$s)</item>
         <item quantity="one">Deïnstalleren %2$d game (inclusief %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">"Neem automatisch belangrijke momenten op en genereer video's met sessiehoogtepunten. U kunt ervoor kiezen om ze na elke gamesessie permanent op te slaan. Niet-opgeslagen video's worden automatisch verwijderd na %1$d dagen."</item>
+        <item quantity="one">"Neem automatisch belangrijke momenten op en genereer video's met sessiehoogtepunten. U kunt ervoor kiezen om ze na elke gamesessie permanent op te slaan. Niet-opgeslagen video's worden automatisch verwijderd na %1$d dag."</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d AI-opnames zijn opgeslagen in Game Turbo</item>
         <item quantity="one">%d AI-opname is opgeslagen in Game Turbo</item>

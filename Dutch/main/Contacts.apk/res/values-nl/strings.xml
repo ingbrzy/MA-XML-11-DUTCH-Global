@@ -48,8 +48,8 @@
     <string name="add_field">Nog een veld toevoegen</string>
     <string name="add_field_toast">Geen velden meer om toe te voegen.</string>
     <string name="add_new_account">Nieuw account toevoegen</string>
-    <string name="add_xiaomi_account_dialog_btn">Mi Account gebruiken</string>
-    <string name="add_xiaomi_account_dialog_msg">Maak een back-up van uw contacten naar uw Mi Account zodat ze overal beschikbaar zijn!</string>
+    <string name="add_xiaomi_account_dialog_btn">Xiaomi Account gebruiken</string>
+    <string name="add_xiaomi_account_dialog_msg">Maak een back-up van uw contacten naar uw Xiaomi Account zodat ze overal beschikbaar zijn!</string>
     <string name="add_xiaomi_account_dialog_title">Kies account</string>
     <string name="afternoon">Middag</string>
     <string name="aggregation_suggestion_edit_dialog_message">Wilt u overschakelen naar het bewerken van het geselecteerde contactpersoon? Gegevens die u tot nu toe heeft ingevoerd worden gekopiëerd.</string>
@@ -148,6 +148,7 @@
     <string name="calllog_menu_edit_before_call">Bewerken</string>
     <string name="calllog_menu_send_sms">Een bericht sturen</string>
     <string name="calllog_record_none_toast">Geen gespreksopnames om weer te geven</string>
+    <string name="calllog_record_searching_toast">Gespreksopnames zoeken…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$ds</string>
     <string name="callrecordview_item_op_time_missed">Niet verbonden</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -503,6 +504,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -559,7 +561,7 @@ Reden: \"%s\""</string>
     <string name="import_to_xiaomi_account_confirm">Importeren</string>
     <string name="import_to_xiaomi_account_progress_finish">Contacten geïmporteerd</string>
     <string name="import_to_xiaomi_account_progress_message">Importeren…</string>
-    <string name="import_to_xiaomi_account_title">Importeren naar Mi Account</string>
+    <string name="import_to_xiaomi_account_title">Importeren naar Xiaomi Account</string>
     <string name="import_vcard_dialog_message">vCard importeren?</string>
     <string name="importing_sim_contacts_miui">Importeren van SIM contacten…</string>
     <string name="importing_sim_contacts_miui_prepare">Contactpersonen voorbereiden…</string>
@@ -568,6 +570,11 @@ Reden: \"%s\""</string>
     <string name="importing_vcard_finished_title">Importeren van vCard %s voltooid</string>
     <string name="insertContactDescription">Contact maken</string>
     <string name="invalidContactMessage">Het contact bestaat niet.</string>
+    <string name="invisible_mode_dialog_cancel">Annuleren</string>
+    <string name="invisible_mode_dialog_to_close">Uitschakelen</string>
+    <string name="invisible_mode_title">U bent incognito</string>
+    <string name="invisible_mode_unable_connect_camera">Schakel de Incognito modus uit om de camera te kunnen gebruiken. Nu uitschakelen?</string>
+    <string name="invisible_mode_unable_get_location">Schakel de Incognito modus uit om locatieservices te kunnen gebruiken en contacten van andere apparaten via Bluetooth te kunnen importeren. Nu uitschakelen?</string>
     <string name="item_offical">Officieel</string>
     <string name="keep_local">Niet syncen</string>
     <string name="keep_local_btn">Gebruik de interne opslag van het apparaat</string>
@@ -594,6 +601,9 @@ Reden: \"%s\""</string>
     <string name="low_memory_toast">Kan deze functie niet gebruiken vanwege weinig geheugen.</string>
     <string name="lunarBirthdayLabelsGroup">Verjaardag</string>
     <string name="make_primary">Onthoud mijn voorkeur</string>
+    <string name="manage_external_storage_dialog_message">Geef deze app toegang tot alle bestanden om gespreksopnames te beheren.</string>
+    <string name="manage_external_storage_dialog_positive">Instellingen</string>
+    <string name="manage_external_storage_dialog_title">Toestemmingen vereist</string>
     <string name="map_custom">%s adres weergeven</string>
     <string name="map_home">Thuisadres weergeven</string>
     <string name="map_other">Adres weergeven</string>
@@ -628,6 +638,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -784,6 +795,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="permission_retry_dialog_msg_pad">Om uw SIM-kaart met deze app te kunnen gebruiken en uw contacten te kunnen beheren, moet u deze app toegang geven tot uw contacten en deze bewerken, evenals toegang tot apparaat info.</string>
     <string name="permission_retry_setting">Instellingen</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -817,9 +829,9 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="pref_key_sim_manage">SIM kaarten</string>
     <string name="pref_key_sim_manage1">Instellen SIM kaart 1</string>
     <string name="pref_key_sim_manage2">Instellen SIM kaart 2</string>
-    <string name="pref_summary_import_from_account">Contacten overdragen van Google en Exchange accounts naar mijn Mi Account</string>
+    <string name="pref_summary_import_from_account">Contacten overdragen van Google en Exchange accounts naar mijn Xiaomi Account</string>
     <string name="pref_title_account_import">Contacten importeren</string>
-    <string name="pref_title_import_from_account">Importeren naar Mi Account</string>
+    <string name="pref_title_import_from_account">Importeren naar Xiaomi Account</string>
     <string name="preference_contacts">Contacten</string>
     <string name="preference_contacts_filter">Contactlijsten configureren</string>
     <string name="preference_contacts_more">Organiseer contacten</string>
@@ -1026,6 +1038,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1067,6 +1080,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
@@ -1170,6 +1184,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="unknown_contact_name">Onbekend contact</string>
     <string name="unknown_details_add_to_contact">Bestaand</string>
     <string name="unknown_details_new_contact">Nieuw</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Kan geen QR-codes weergeven tijdens Gesplitst scherm</string>
     <string name="update_sim_contact_photo_toast">"Kan geen profielfoto's instellen voor contactpersonen op SIM-kaart"</string>
     <string name="upgrade_in_progress">Lijst met contactpersonen wordt bijgewerkt.</string>
     <string name="upgrade_out_of_memory">"Contacten worden bijgewerkt. 

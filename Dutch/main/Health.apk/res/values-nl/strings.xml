@@ -235,6 +235,11 @@ Xiaomi Health zal alleen melden bij belangrijke dingen."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">Laat Xiaomi Health automatisch starten om de slaap nauwkeuriger te volgen.</string>
     <string name="dialog_sure">OK</string>
+    <string name="dialog_upgrade_description">"1. Nieuw ontwerp.
+2. Synchroniseer gegevens op verschillende apparaten.
+3. Bekijk gezondheidsgegevens van Health, Xiaomi Wear en andere apps op één plek."</string>
+    <string name="dialog_upgrade_positive_btn">Bijwerken</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">Welkom bij Xiaomi Health! U kunt deze app gebruiken om stappen te tellen, slaap, menstruatie en gewicht bij te houden, evenals uw statistieken te synchroniseren met de cloud.</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="disable">Off</string>

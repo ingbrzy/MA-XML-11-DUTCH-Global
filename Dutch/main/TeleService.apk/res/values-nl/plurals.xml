@@ -102,6 +102,10 @@ Wil je nu afsluiten?"</item>
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
@@ -111,5 +115,9 @@ Wil je nu afsluiten?"</item>
 %d pogingen resterend."</item>
         <item quantity="one">"
 %d poging resterend."</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d apparaten verbonden</item>
+        <item quantity="one">%1$d apparaat verbonden</item>
     </plurals>
 </resources>

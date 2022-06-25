@@ -81,16 +81,16 @@
         <item quantity="one">%d min</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
-        <item quantity="other">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
-        <item quantity="one">De schermtijd vandaag is gelijk aan uw %d-dag gemiddelde</item>
+        <item quantity="other">De schermtijd vandaag is gelijk aan uw %d dag gemiddelde</item>
+        <item quantity="one">De schermtijd vandaag is gelijk aan uw %d dag gemiddelde</item>
     </plurals>
     <plurals name="trend_from_last_several_day_less">
-        <item quantity="other">%2$s minder schermtijd vandaag dan uw %1$d-dag gemiddelde</item>
-        <item quantity="one">%2$s minder schermtijd vandaag dan uw %1$d-dag gemiddelde</item>
+        <item quantity="other">%2$s minder schermtijd vandaag dan uw %1$d dag gemiddelde</item>
+        <item quantity="one">%2$s minder schermtijd vandaag dan uw %1$d dag gemiddelde</item>
     </plurals>
     <plurals name="trend_from_last_several_day_more">
-        <item quantity="other">%2$s vandaag meer schermtijd dan uw %1$d-dag gemiddelde</item>
-        <item quantity="one">%2$s vandaag meer schermtijd dan uw %1$d-dag gemiddelde</item>
+        <item quantity="other">%2$s vandaag meer schermtijd dan uw %1$d dag gemiddelde</item>
+        <item quantity="one">%2$s vandaag meer schermtijd dan uw %1$d dag gemiddelde</item>
     </plurals>
     <plurals name="unlock_times">
         <item quantity="other">%.2f keren</item>

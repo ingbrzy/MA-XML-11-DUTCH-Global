@@ -666,6 +666,7 @@ Met Dubbele telefoonopname kunt u ook verbinding maken met een ander apparaat in
     <string name="edit_smile">Glimlach</string>
     <string name="edit_solid">Contour</string>
     <string name="emoticon">Stickerpakket</string>
+    <string name="empty" />
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="error_fail_to_start_audio_capture">Kon audio-opname niet starten</string>
@@ -874,6 +875,9 @@ in Portretmodus"</string>
     <string name="live_sticker_updating">Bijwerken…</string>
     <string name="live_workspace_title">Concepten</string>
     <string name="live_workspace_title_edit">Selecteer items om te verwijderen</string>
+    <string name="live_workspace_title_pause">Stoppen</string>
+    <string name="live_workspace_title_play">Afspelen</string>
+    <string name="live_workspace_title_pre_edit">Selecteer items om te verwijderen</string>
     <string name="location_access_allow">Akkoord</string>
     <string name="location_fromkeyguard_not_permission">Camera heeft nu geen toegang tot uw locatie. Ontgrendel eerst uw apparaat.</string>
     <string name="location_permission_des">"Locaties voor foto's en video's herinneren"</string>
@@ -1069,6 +1073,10 @@ er groter uit te laten zien op foto's"</string>
     <string name="module_name_multi_camera">Multicam</string>
     <string name="module_name_new_slow_motion">Slow motion</string>
     <string name="module_name_panorama">Panorama</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scanner</string>
@@ -1206,6 +1214,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="popup_tips_near_range_mode">Nauwe focus</string>
     <string name="popup_tips_privacy_watermark_edit">Watermerk bewerken</string>
     <string name="portait_effect_entry_blackwhite">Zwart-wit</string>
+    <string name="portait_effect_entry_cold_white">Sterrenlicht</string>
     <string name="portait_effect_entry_cool">Munt</string>
     <string name="portait_effect_entry_dusk">Schemering</string>
     <string name="portait_effect_entry_fairytale">Jeugd</string>
@@ -1223,6 +1232,7 @@ er groter uit te laten zien op foto's"</string>
     <string name="portait_effect_entry_riddle">Snoep</string>
     <string name="portait_effect_entry_romance">Romantisch</string>
     <string name="portait_effect_entry_sepia">Sepia</string>
+    <string name="portait_effect_entry_shallots">Zonnestraal</string>
     <string name="portait_effect_entry_story">Verhaal</string>
     <string name="portait_effect_entry_tea">Thee</string>
     <string name="portrait_bokeh_first_tips">"Gebruik Portretmodus om de achtergrond
@@ -1285,6 +1295,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_auxiliary_close">Uit</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Belichtingsverificatie</string>
     <string name="pref_camera_auxiliary_focus_peak">Focus peaking</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">Hoog</string>
     <string name="pref_camera_beautify_entry_low">Laag</string>
     <string name="pref_camera_beautify_entry_normal">Medium</string>
@@ -1414,8 +1425,8 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_portrait_mode_entry_off">Portretmodus staat uit</string>
     <string name="pref_camera_portrait_mode_entry_on">Portretmodus staat aan</string>
     <string name="pref_camera_portrait_mode_title">Portretmodus</string>
-    <string name="pref_camera_predictive_shutter_description">"Volg de beweging om wazige foto's van kinderen, huisdieren en andere actieve onderwerpen te minimaliseren"</string>
-    <string name="pref_camera_predictive_shutter_title">Volg beweging</string>
+    <string name="pref_camera_predictive_shutter_description">"Volg beweging om onscherpte op de foto's van kinderen, huisdieren en andere actieve onderwerpen te minimaliseren"</string>
+    <string name="pref_camera_predictive_shutter_title">Bewegingsopname</string>
     <string name="pref_camera_proximity_lock_summary">Vergrendel aanraakgebaren als het in een broekzak is geplaatst</string>
     <string name="pref_camera_proximity_lock_title">Broekzakmodus</string>
     <string name="pref_camera_quick_settings">Snelle instellingen</string>
@@ -1477,10 +1488,12 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_tip_id_card">ID-scanner</string>
     <string name="pref_camera_touchafaec_entry_off">Uit</string>
     <string name="pref_camera_touchafaec_entry_on">Aan</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
+    <string name="pref_camera_track_eye_preferred_description">Door oogbewegingen te volgen, kunt u scherpstellen wanneer één persoon op de foto staat</string>
+    <string name="pref_camera_track_eye_preferred_title">Focus op het volgen van ogen</string>
+    <string name="pref_camera_track_focus_intro_description">"Wanneer u foto's of video's maakt met bewegende onderwerpen, detecteert deze functie mensen, katten en honden en houdt ze automatisch scherp. Bovendien kunt u ook dubbeltikken op een onderwerp om beweging te volgen."</string>
     <string name="pref_camera_track_focus_intro_goto">Inschakelen</string>
     <string name="pref_camera_track_focus_preferred_description">Houd bewegende mensen, katten en honden automatisch scherp of dubbeltik op een onderwerp om te volgen</string>
-    <string name="pref_camera_track_focus_preferred_title">Focus-tracking</string>
+    <string name="pref_camera_track_focus_preferred_title">Focus op bewegingsregistratie</string>
     <string name="pref_camera_ubifocus_title">Herfocussen</string>
     <string name="pref_camera_ultra_wide_ldc_description">Corrigeer automatisch vervormde objecten</string>
     <string name="pref_camera_ultra_wide_ldc_title">Vervorming in ultra wijde opnames corrigeren</string>
@@ -1496,6 +1509,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_camera_video_tag_description">Tik tijdens het opnemen van een video op \"Tag\" om terug te keren naar gemarkeerde momenten tijdens het afspelen</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Sluiter</string>
     <string name="pref_camera_volumekey_function_entry_timer">Sluiter aftelling</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%d s)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volume</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
     <string name="pref_camera_volumekey_function_title">Volumeknoppen functie</string>
@@ -1549,6 +1563,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">"Neem video's met hoge resolutie op in HDR10+/HDR10 om kleuren en dynamisch bereik te optimaliseren. Opgenomen video's kunnen alleen worden afgespeeld op apparaten die compatibel zijn met HDR10+/HDR10."</string>
     <string name="pref_hdr10_video_mode_description">"Optimaliseer kleuren en contrast automatisch voor 4K en 8K-video's. Geoptimaliseerde video's kunnen alleen worden afgespeeld op HDR10-compatibele apparaten."</string>
     <string name="pref_hdr10plus_video_mode_description">"Optimaliseer kleuren en pas het contrast aan voor 4K en 8K-video's. Deze functie werkt alleen op HDR10+ compatibele apparaten."</string>
+    <string name="pref_hybrid_video_mode_description">"Gebruik HLG-technologie om de kleuren en het dynamische bereik van de video's die zijn opgenomen in hoge resolutie te verbeteren"</string>
     <string name="pref_i_n_r_b">Slimme geluidsreductie</string>
     <string name="pref_k_h">Live in-ear monitor</string>
     <string name="pref_k_s_i">Controleer opgenomen geluid met bedrade oortelefoons wanneer deze zijn verbonden</string>
@@ -1856,7 +1871,7 @@ Houd het object scherp terwijl de achtergrond onscherp wordt gemaakt."</string>
     <string name="timer_burst_param_total_count">"Aantal foto's"</string>
     <string name="timerburst_pressed_hint">Tik opnieuw om te stoppen</string>
     <string name="title_snap_double_confirm">Opnieuw bevestigen</string>
-    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shot kan niet gebruikt worden als audio opname ingeschakeld is</string>
+    <string name="toast_burst_snap_forbidden_when_audio_capture_open">Burst shoot kan niet gebruikt worden als audio-opname ingeschakeld is</string>
     <string name="toast_saving">Foto opslaan…</string>
     <string name="toast_start_audio_capture">Maak een geluid om een foto te maken</string>
     <string name="today">Vandaag</string>

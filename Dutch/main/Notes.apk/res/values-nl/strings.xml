@@ -496,6 +496,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -557,6 +558,7 @@
     <string name="note_sort_way">Sorteren</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Notes is een systeem-app. U kunt deze app niet gebruiken nadat u deze heeft verwijderd.</string>
     <string name="notes_description_title">Notities deïnstalleren?</string>
     <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
@@ -946,6 +948,7 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="view_all_notes">Alles bekijken</string>
     <string name="warn_cannot_add_new_bullet">Kan geen nieuwe lijst met opsommingstekens toevoegen omdat de notitie te lang is</string>
     <string name="warn_cannot_add_new_checkbox">Kan geen nieuw selectievakje toevoegen omdat de notitie te lang is</string>
+    <string name="warn_cannot_add_new_content">Kan geen nieuwe inhoud toevoegen omdat de notitie te lang is</string>
     <string name="warn_cannot_add_new_doodle">Kan geen nieuwe doodle toevoegen omdat de notitie te lang is</string>
     <string name="warn_cannot_add_new_element">Kan geen nieuw item toevoegen omdat de notitie te lang is</string>
     <string name="warn_cannot_add_new_link_card">Kan geen nieuwe link toevoegen omdat de notitie te lang is</string>
@@ -972,6 +975,8 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="widget_size_item_big">Groot</string>
     <string name="widget_size_item_medium">Medium</string>
     <string name="widget_size_item_small">Klein</string>
+    <string name="widget_size_item_super_big">Extra groot</string>
+    <string name="widget_size_not_support">Extra grote widgets worden niet ondersteund op dit apparaat</string>
     <string name="widget_take_notes_title">Notities</string>
     <string name="yesterday">Gisteren</string>
 </resources>

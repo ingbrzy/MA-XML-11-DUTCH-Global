@@ -55,7 +55,7 @@
         <item>VPN</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Als je wilt bellen en berichten wilt verzenden via wifi, moet je eerst je provider vragen deze service in te stellen. Schakel bellen via wifi vervolgens opnieuw in via Instellingen. (Foutcode: %1$s)</item>
+        <item>Als je wilt bellen en berichten wilt sturen via wifi, moet je eerst je provider vragen deze service in te stellen. Zet bellen via wifi dan opnieuw aan via Instellingen. (Foutcode: %1$s)</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Probleem bij registratie van Bellen via wifi bij je provider: %1$s</item>

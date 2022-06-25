@@ -41,8 +41,8 @@
         <item quantity="one">Gefocust. %d gezicht gedetecteerd</item>
     </plurals>
     <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">"%d foto's in een burst shot"</item>
-        <item quantity="one">%d foto in een burst shot</item>
+        <item quantity="other">"%d foto's in een burst-opname"</item>
+        <item quantity="one">%d foto in een burst-opname</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
         <item quantity="other">Interval: %d seconden</item>
@@ -129,7 +129,7 @@
         <item quantity="one">%1$s foto</item>
     </plurals>
     <plurals name="toast_burst_snap_finished_summary">
-        <item quantity="other">"Burst shot voltooid, %1$s foto's genomen"</item>
-        <item quantity="one">Burst shot voltooid, %1$s foto genomen</item>
+        <item quantity="other">"Burst-opname voltooid, %1$s foto's genomen"</item>
+        <item quantity="one">Burst-opname voltooid, %1$s foto genomen</item>
     </plurals>
 </resources>

@@ -447,7 +447,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="modem_tool_log_finish_title">Modem logbestand opgenomen</string>
     <string name="module_communication">Communicatie</string>
     <string name="module_data">Opslag en Dubbele apps</string>
-    <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes &amp; opnieuw opstarten\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Opwarmen\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobiele netwerken\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wifi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Andere fouten\",\"categoryId\":10,\"order\":2}]</string>
+    <string name="module_default_json">[{\"packageName\":\"com.miui.device.reboot\",\"problemType\":12,\"isForceShow\":1,\"parentType\":0,\"title\":\"Crashes en opnieuw opstarten\",\"categoryId\":1,\"order\":1},{\"packageName\":\"com.miui.Theraml\",\"problemType\":274,\"isForceShow\":1,\"parentType\":0,\"title\":\"Opwarmen\",\"categoryId\":1,\"order\":2},{\"packageName\":\"com.miui.device.signal\",\"problemType\":14,\"isForceShow\":1,\"parentType\":0,\"title\":\"Mobiele netwerken\",\"categoryId\":2,\"order\":1},{\"packageName\":\"com.miui.device.wifi\",\"problemType\":15,\"isForceShow\":1,\"parentType\":0,\"title\":\"Wifi\",\"categoryId\":2,\"order\":2},{\"packageName\":\"com.miui.device.other\",\"problemType\":17,\"isForceShow\":1,\"parentType\":0,\"title\":\"Andere fouten\",\"categoryId\":10,\"order\":2}]</string>
     <string name="module_desktop">Startscherm en instellingen</string>
     <string name="module_finance">Financiën en Mi Wallet</string>
     <string name="module_google_apps">Google apps</string>
@@ -697,7 +697,7 @@ Lees en ga akkoord met de nieuwe versie van %3$s voordat u doorgaat."</string>
     <string name="system_app_select">Ingebouwde apps</string>
     <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="tab_title_chat">Veelgestelde vragen</string>
-    <string name="tab_title_my_reports">Mijn rapporten</string>
+    <string name="tab_title_my_reports">Mijn feedback</string>
     <string name="tab_title_preferences">Instellingen</string>
     <string name="tab_title_report">Feedback</string>
     <string name="temporary_not_available">Deze functie wordt nog niet ondersteund</string>

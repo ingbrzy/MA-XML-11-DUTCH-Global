@@ -463,7 +463,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="network_confirm_content">Koersconverter, belasting- en hypotheekcalculators moeten verbonden zijn met het internet en toegang hebben tot locatie services om normaal te kunnen functioneren.</string>
     <string name="network_confirm_title">Toestemmingen vereist</string>
     <string name="network_purpose">"Welkom bij Rekenmachine! Met Rekenmachine kunt u valuta's omzetten, hypotheek terugbetalingen berekenen en meer."</string>
-    <string name="new_privacy_string">&lt;Data>Welkom bij Rekenmachine!&lt;br/>Deze app bevat de volgende functies:&lt;br/>• Basis rekenmachine&lt;br/>• Grafische rekenmachine&lt;br/>• Universele omzetter (Bijv. valuta, meeteenheden, etc.)&lt;br/>• Berekeningssjablonen voor leningen, investeringen, EMI en meer&lt;br/>Rekenmachine heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href= \"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Rekenmachine gebruikt. U kunt uw toestemming voor het Privacybeleid van Rekenmachine op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
+    <string name="new_privacy_string">&lt;Data>Welkom bij Rekenmachine!&lt;br/>Deze app bevat de volgende functies:&lt;br/>• Basis rekenmachine&lt;br/>• Grafische rekenmachine&lt;br/>• Universele omzetter (Bijv. valuta, meeteenheden, etc.)&lt;br/>• Berekeningssjablonen voor leningen, investeringen, EMI en meer&lt;br/>Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Rekenmachine gebruikt. U kunt uw toestemming voor het Privacybeleid van Rekenmachine op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
     <string name="night">Avond</string>
     <string name="none">Geen</string>
     <string name="noon">Tussen de middag</string>
@@ -602,6 +602,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="tax_total_insurance_provident_fund">Verzekering en woonfonds</string>
     <string name="tax_unemployment">Werkloosheid</string>
     <string name="tax_update_time_format">Gegevens verstrekt door HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s en %2$s</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -695,6 +696,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -1037,12 +1039,15 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de app hebt verwijderd.</string>
     <string name="xiaomi_calculator_delete_title">Rekenmachine deïnstalleren?</string>
     <string name="xiaomi_calculator_remove_icon_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_calculator_remove_icon_title">\"Rekenmachine\" verwijderen uit het Startscherm?</string>
     <string name="xiaomi_connect_download_manager_fail">Kon niet verbinden met Downloads. Controleer of de app de vereiste toestemmingen heeft in Instellingen > Geïnstalleerde apps.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar. Controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"De nieuwe versie %1$s
 Grootte: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"De nieuwe versie %1$s

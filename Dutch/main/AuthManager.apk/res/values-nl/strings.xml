@@ -166,6 +166,7 @@
     <string name="clipboard_read_allow_once">%1$s heeft toegang tot items op het klembord</string>
     <string name="clipboard_read_deny_dialog_title">Beperkte toegang tot klembord voor %1$s</string>
     <string name="close">Sluiten</string>
+    <string name="copy">Kopiëren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -177,6 +178,7 @@
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
+    <string name="expand_button_title">Geavanceerd</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -323,6 +325,7 @@
     <string name="night">Avond</string>
     <string name="no">Nee</string>
     <string name="noon">Tussen de middag</string>
+    <string name="not_set">Niet ingesteld</string>
     <string name="notification_click_tip">Tik om details te bekijken</string>
     <string name="ok">OK</string>
     <string name="perm_action_allow">Toestaan</string>
@@ -366,6 +369,7 @@
     <string name="permission_warning_template_ask">%1$s de volgende permissies toestaan?</string>
     <string name="permisson_reject_notice_toast_text2">heeft geen toestemming voor %1$s.</string>
     <string name="pm">PM</string>
+    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="real_location_off">De geschatte locatie is ingeschakeld</string>
     <string name="real_location_on">De geschatte locatie is uitgeschakeld</string>
     <string name="saturday">Zaterdag</string>
@@ -390,6 +394,7 @@
     <string name="storage_policy_notify_gallery_title">%1$s heeft geen toegang tot Galerij</string>
     <string name="storage_policy_notify_sociality_title">%1$s heeft geen toegang tot berichten in apps voor sociale media</string>
     <string name="storage_policy_notify_title">%1$s heeft geen toegang tot Galerij</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
@@ -444,6 +449,8 @@
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
+    <string name="v7_preference_off">UIT</string>
+    <string name="v7_preference_on">AAN</string>
     <string name="virtual_reject_notice_content">Er is een blanco antwoord naar de app gestuurd om uw persoonlijke gegevens te beschermen</string>
     <string name="virtual_reject_notice_title_calendar">Toegang tot kalender door %1$s</string>
     <string name="virtual_reject_notice_title_calllog">Toegang tot belgeschiedenis door %1$s</string>

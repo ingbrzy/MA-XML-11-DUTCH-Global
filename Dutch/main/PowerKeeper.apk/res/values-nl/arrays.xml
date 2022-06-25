@@ -22,11 +22,11 @@
         <item>Gebalanceerd</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Standaard controlemodus temperatuur</item>
+        <item>Standaard temperatuurcontrole modus</item>
         <item>Prestatiemodus</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>Prioriteer temperatuurbeheer</item>
+        <item>Prioriteer temperatuurcontrole</item>
         <item>Prioriteer prestaties</item>
         <item>Niet ondersteund door Extreme batterijbesparing</item>
     </string-array>

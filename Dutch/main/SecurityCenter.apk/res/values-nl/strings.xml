@@ -37,7 +37,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -919,6 +919,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Aanmaken</string>
     <string name="card_main_xspace_summary">Maak dubbele accounts aan voor elke app</string>
     <string name="card_main_xspace_title">Dubbele apps</string>
@@ -971,6 +972,8 @@ U zult geen app-gegevens verliezen."</string>
     <string name="cmcc_app_check_dialog_negative">Later</string>
     <string name="cmcc_app_check_dialog_positive">Nu herstarten</string>
     <string name="cmcc_app_check_dialog_title">Systeem gerepareerd</string>
+    <string name="columbus_ad_flag_text">Advertentie</string>
+    <string name="columbus_skip_ad">Overslaan</string>
     <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="confirmSecondSpacePassword">Bevestig wachtwoord voor Tweede ruimte</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
@@ -1179,6 +1182,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="dual_setting_simcard1">sim 1</string>
     <string name="dual_setting_simcard2">sim 2</string>
     <string name="early_morning">Ochtend</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Geen apps</string>
@@ -1253,7 +1257,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_notification_channel_name">Downloads</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -1507,6 +1513,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gamebox_app_not_find">Installeer eerst de app.</string>
     <string name="gamebox_brightness">Helderheid</string>
     <string name="gamebox_browser_not_find">Installeer eerst Mi Browser</string>
+    <string name="gamebox_bullet_chat">Opmerkingen op het scherm</string>
     <string name="gamebox_collimator">Vizier</string>
     <string name="gamebox_display_1">Geen</string>
     <string name="gamebox_display_2">Verzadigd</string>
@@ -1608,6 +1615,10 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="gb_dialog_record_way_ai">AI-opnamen worden opgeslagen in de gamebox en daar 7 dagen bewaard.</string>
     <string name="gb_dialog_record_way_finish">Gereed</string>
     <string name="gb_dialog_record_way_manual">"Neem handmatig video's van maximaal 30 seconden op"</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Neem %d-%d seconden van video tijdens gamesessie handmatig op.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Verhoogd stroomverbruik en vertraging</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Deze functie kan de volgende problemen veroorzaken:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Conflicten met andere schermrecorders</string>
     <string name="gb_dialog_record_way_setting_tips">Opmerking: Het opnemen van uw gamesessies vereist een hoger stroomverbruik, wat kan leiden tot vertraging.</string>
     <string name="gb_dialog_record_way_title">Opnamemethode selecteren</string>
     <string name="gb_first_guide_function_shiled_title">Systeemfuncties uitschakelen wanneer Game Turbo is ingeschakeld</string>
@@ -1636,6 +1647,7 @@ Neem sequenties op en gebruik ze op elk moment!"</string>
     <string name="gb_game_video_page_null">Neem de belangrijke momenten van uw gamesessies op</string>
     <string name="gb_game_video_record_finish_tips">Handmatig opgenomen video opgeslagen in Game Turbo</string>
     <string name="gb_game_video_save">Opslaan</string>
+    <string name="gb_game_video_save_tip">Succesvol opgeslagen</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">Neem op met AI</string>
     <string name="gb_game_video_type_manual">Handmatig</string>
@@ -1648,6 +1660,7 @@ Neem sequenties op en gebruik ze op elk moment!"</string>
     <string name="gb_gpu_driver_update_app_tips">De huidige versie is up-to-date</string>
     <string name="gb_have_signed">Vandaag ingecheckt</string>
     <string name="gb_manual_record_dialog_del_video_message">"Geselecteerde video's permanent verwijderen?"</string>
+    <string name="gb_manual_video_record_title">Opnames</string>
     <string name="gb_msg_completely_shielded">Berichten verbergen</string>
     <string name="gb_msg_completely_shielded_summary">Verbergen</string>
     <string name="gb_msg_not_shielded_summary">Tonen</string>
@@ -1667,26 +1680,39 @@ terwijl de ververssnelheid en temperatuurlimieten worden verlaagd"</string>
     <string name="gb_performance_tips">"Prestatiemodus verbetert de grafische prestaties,
 maar verhoogt ook het stroomverbruik en zorgt ervoor dat uw apparaat oververhit raakt"</string>
     <string name="gb_shortcut_pref_title">Startscherm snelkoppeling</string>
-    <string name="gb_shoulder_key">Schouderknoppen</string>
+    <string name="gb_shoulder_guide_message1">Verplaats [L] naar een functionele positie om het te gebruiken via de pop-uptrigger</string>
+    <string name="gb_shoulder_guide_message2">Actie [1] wordt geactiveerd door op de knop te drukken. Actie [2] wordt geactiveerd door de knop los te laten.</string>
+    <string name="gb_shoulder_guide_tips1">Gereedschapskist openen en pop-uptriggers configureren</string>
+    <string name="gb_shoulder_guide_title1">Actie</string>
+    <string name="gb_shoulder_guide_title2">Volgorde</string>
+    <string name="gb_shoulder_key">Pop-uptriggers</string>
     <string name="gb_shoulder_key_add_show_btn">Toon virtuele knoppen tijdens games</string>
-    <string name="gb_shoulder_key_add_tips">Verplaats de [L]- en [R]-knoppen naar een willekeurige functionele positie en gebruik ze via schouderknoppen</string>
+    <string name="gb_shoulder_key_add_tips">Verplaats [L] en [R] naar een functionele positie en gebruik ze via pop-uptriggers</string>
     <string name="gb_shoulder_key_btn_cancel">Annuleren</string>
     <string name="gb_shoulder_key_btn_save_exit">Opslaan</string>
-    <string name="gb_shoulder_key_dialog_message">U kunt beide schouderknoppen tegelijkertijd gebruiken om Game Turbo te starten wanneer u geen games speelt.</string>
-    <string name="gb_shoulder_key_dialog_txt">U kunt Game Turbo inschakelen met schouderknoppen.</string>
+    <string name="gb_shoulder_key_dialog_message">U kunt beide pop-uptriggers tegelijkertijd gebruiken om Game Turbo te starten wanneer u geen games speelt.</string>
+    <string name="gb_shoulder_key_dialog_txt">U kunt Game Turbo inschakelen door pop-uptriggers te gebruiken.</string>
     <string name="gb_shoulder_key_guide_btn_done">Begrepen</string>
     <string name="gb_shoulder_key_guide_btn_next">Volgende</string>
-    <string name="gb_shoulder_key_guide_tips">Configureer schouderknoppen om als een professional te spelen!</string>
-    <string name="gb_shoulder_key_guide_tips1">Open gereedschapskist en configureer de schouderknoppen</string>
+    <string name="gb_shoulder_key_guide_tips">Configureer pop-uptriggers om als een pro te spelen!</string>
+    <string name="gb_shoulder_key_guide_tips1">Gereedschapskist openen en pop-uptriggers configureren</string>
     <string name="gb_shoulder_key_light_effect">Kleuranimaties</string>
     <string name="gb_shoulder_key_light_effect_color">Kleur</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">Kleuranimaties worden weergegeven wanneer de schouderknoppen zijn ingeschakeld en wanneer u games speelt</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">Kleuranimaties worden weergegeven wanneer pop-uptriggers zijn ingeschakeld en wanneer u games speelt</string>
     <string name="gb_shoulder_key_light_effect_title">Animaties</string>
     <string name="gb_shoulder_key_settings_guide_tips1">Verplaats de [L]- en [R]-knoppen naar een willekeurige functionele positie om de configuratie te voltooien</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">Gebruik schouderknoppen voor de functies die u tijdens games aan hen hebt toegewezen</string>
-    <string name="gb_shoulder_key_settings_summary">Gebruik beide schouderknoppen om Game Turbo te starten wanneer u geen games speelt</string>
-    <string name="gb_shoulder_key_settings_title">Gebruik schouderknoppen voor Game Turbo</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">Gebruik pop-uptriggers voor de functies die u eraan hebt toegewezen tijdens games</string>
+    <string name="gb_shoulder_key_settings_summary">Gebruik beide pop-uptriggers om Game Turbo te starten wanneer u geen games speelt</string>
+    <string name="gb_shoulder_key_settings_title">Gebruik pop-uptriggers voor Game Turbo</string>
     <string name="gb_shoulder_key_settings_title_new">Snelle start Game Turbo</string>
+    <string name="gb_shoulder_set_left_right">Instellen [%s]</string>
+    <string name="gb_shoulder_set_title">Schakel pop-uptriggers in om ze te configureren</string>
+    <string name="gb_shoulder_set_title2">Verplaats [%s] naar een functionele positie en gebruik deze via de pop-uptriggers</string>
+    <string name="gb_shoulder_single_trigger">Actie</string>
+    <string name="gb_shoulder_subsection_down">Drukken</string>
+    <string name="gb_shoulder_subsection_trigger">Volgorde</string>
+    <string name="gb_shoulder_subsection_up">Loslaten</string>
+    <string name="gb_shoulder_update_left_right">%s bewerken</string>
     <string name="gb_sign_gift">Check in om beloningen te krijgen</string>
     <string name="gb_sign_gift_button_text">Ontvangen</string>
     <string name="gb_sign_notification_summary">Speel games zonder netwerkvertraging</string>
@@ -2182,6 +2208,7 @@ Uw apparaat is %d%% sneller nu."</string>
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2190,6 +2217,7 @@ Uw apparaat is %d%% sneller nu."</string>
     <string name="menu_text_optimize_manage">Boost snelheid</string>
     <string name="menu_text_optimize_manage_1">Boost snelheid</string>
     <string name="menu_text_power_manager">Batterij</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_ime_not_used">Gebruik een toetsenbord dat is geautoriseerd door Xiaomi</string>
@@ -2606,7 +2634,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pc_fast_charge_notifi_action_text_on">Boosten</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Stel het batterijniveau in voor herinneringen</string>
     <string name="pc_fast_charge_notifi_summary">Tot %s sneller opladen dan normaal…</string>
-    <string name="pc_fast_charge_notifi_summary_on">Deze functie kan uw apparaat opwarmen</string>
+    <string name="pc_fast_charge_notifi_summary_on">De oplaadsnelheid wordt verhoogd wanneer het scherm is uitgeschakeld. Uw apparaat wordt warm.</string>
     <string name="pc_fast_charge_notifi_switch_summary">Melden over het verhogen van de oplaadsnelheid wanneer de meegeleverde %dW oplader is aangesloten en de batterij onder het ingestelde niveau is</string>
     <string name="pc_fast_charge_notifi_switch_title">Melden over boosten</string>
     <string name="pc_fast_charge_notifi_title">%dW opladen</string>
@@ -2820,6 +2848,11 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_dialog_msg_top">Wanneer Batterijbesparing ingeschakeld is, zal MIUI de volgende optimalisaties uitvoeren:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid van het scherm automatisch aan</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -3078,6 +3111,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_normal_traffic_limit">Wanneer het data-abonnement verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Wanneer u over uw data-abonnement gaat</string>
     <string name="pref_package_traffic_settings">Data-abonnement</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
@@ -3328,6 +3362,7 @@ Terwijl u kalibreert, stuurt MIUI een sms naar uw provider om de kalibratietempl
     <string name="privacy_using_record">Audio opnemen</string>
     <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
     <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Advertentie</string>
@@ -3403,6 +3438,7 @@ Terwijl u kalibreert, stuurt MIUI een sms naar uw provider om de kalibratietempl
     <string name="result_sms_title_antispam">"Bedreigd door kwaadaardige sms URL's"</string>
     <string name="result_sms_title_auth">Risico op lekken van financiële sms bestaat</string>
     <string name="result_wifi_header">"Wifi-risico's gedetecteerd"</string>
+    <string name="resume">Herstellen</string>
     <string name="right_precent">100%</string>
     <string name="risk_app_install_agree_button">Vertrouw deze app</string>
     <string name="risk_app_install_agree_checkbox">"Ik ben bereid alle mogelijke risico's te nemen."</string>
@@ -4425,7 +4461,7 @@ De overgebleven data bevat de data die is meegenomen van de vorige maand."</stri
     <string name="vb_video_effects_3d">Surround sound</string>
     <string name="vb_video_effects_3d_summary">Verbeter de diepte van de geluidsweergave voor oortelefoons en speakers</string>
     <string name="vb_video_effects_3d_summary_headset">Verhoog het gevoel van onderdompeling en omhulling bij het luisteren naar audio in de oortelefoons</string>
-    <string name="vb_video_effects_3d_surround">Surround sound</string>
+    <string name="vb_video_effects_3d_surround">Virtueel meeslepend geluid</string>
     <string name="vb_video_effects_display_style">Stijl</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">Verbeterde dialoog</string>
@@ -4453,7 +4489,7 @@ De overgebleven data bevat de data die is meegenomen van de vorige maand."</stri
     <string name="vb_video_effects_settings_stereo">Volume</string>
     <string name="vb_video_effects_some_headphone">Ondersteund door geselecteerde oortelefoonmodellen</string>
     <string name="vb_video_effects_spatial">Volg hoofdbeweging</string>
-    <string name="vb_video_effects_spatial_summary">"Pas surround sound aan op basis van hoofdbewegingen
+    <string name="vb_video_effects_spatial_summary">"Pas meeslepend geluid aan op basis van hoofdbewegingen
 *Alleen ondersteund op gaming-oortelefoonmodellen"</string>
     <string name="vb_video_effects_srs_premium_sound">Geluid</string>
     <string name="vb_video_super_division">Opschalen</string>

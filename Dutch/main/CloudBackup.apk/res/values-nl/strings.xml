@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="about_to_recover">Een ogenblik geduld…</string>
+    <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
@@ -364,6 +365,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">Als u doorgaat met het herstellen van deze items, zal mobiele data gebruikt worden voor het downloaden.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> van de bestanden zullen gedownload worden."</string>
     <string name="network_error">Maak verbinding met het internet</string>
+    <string name="network_error_info">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="network_timeout_info">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="night">Avond</string>
     <string name="no_account">Niet aangemeld op Mi Account.</string>
     <string name="no_backup">Geen back-ups op Xiaomi Cloud.</string>
@@ -374,10 +377,13 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Kan items niet herstellen in PC-modus. Schakel de PC-modus uit en probeer het opnieuw.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="process_whole_recovery">Herstellen \"%s\"</string>
+    <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="provision_back">Terug</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
     <string name="provision_error_connect_msg">Test het netwerk en probeer het opnieuw. Back-ups zijn niet beschikbaar wanneer uw apparaat offline is.</string>
@@ -457,6 +463,7 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -514,6 +521,7 @@ Controleer uw netwerkinstellingen en probeer het opnieuw."</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
+    <string name="unknown_error_info">Onbekende fout</string>
     <string name="unselected">Niet geselecteerd</string>
     <string name="unsupported_home">Werk MIUI bij naar de nieuwste versie.</string>
     <string name="v7_preference_off">UIT</string>

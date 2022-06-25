@@ -120,6 +120,10 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>
         <item quantity="one">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dag tot %3$s.</item>

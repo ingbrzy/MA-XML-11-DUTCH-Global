@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -178,6 +178,7 @@
     <string name="saturday_shortest">Za</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="send">Verzenden</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
