@@ -98,6 +98,14 @@ Alleen vandaag beschikbaar"</item>
         <item quantity="other">U hebt vandaag %d minuten gekeken</item>
         <item quantity="one">U hebt vandaag %d minuut gekeken</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Succesvol gedeeld. U hebt %d punten verdiend.</item>
+        <item quantity="one">Succesvol gedeeld. U hebt %d punt verdiend.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Succesvol geabonneerd. U hebt %d punten verdiend.</item>
+        <item quantity="one">Succesvol geabonneerd. U hebt %d punt verdiend.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">Verdien %d punten!</item>
         <item quantity="one">Verdien %d punt!</item>

@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="add_remark_hint">Vul hier uw opmerking in</string>
     <string name="add_remark_tip">Tik om een opmerking toe te voegen</string>
@@ -85,6 +86,8 @@
     <string name="dialog_privacy_revoke_tips">Nadat u de toestemming intrekt, stopt de app met het verzamelen van gegevens en worden alle gerelateerde gegevens van de servers verwijderd. Hierdoor kan de app praktisch onbruikbaar worden. Toestemming toch intrekken? Meld u aan op i.mi.com voor het intrekken van toestemming voor Xiaomi Cloud services om de veiligheid van uw account te garanderen.</string>
     <string name="dialog_title_storage_full">Niet genoeg opslagruimte</string>
     <string name="download">Downloaden</string>
+    <string name="download_pause">Download onderbroken. Tik om te hervatten.</string>
+    <string name="downloading">Downloaden. Tik om te pauzeren.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>
@@ -220,9 +223,9 @@
     <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
     <string name="menu">Menu</string>
     <string name="message_file_size_error">Opname heeft maximale lengte bereikt dat is ondersteund door %s</string>
-    <string name="mi_account_msg">Meld u aan met uw Mi Account om bestanden om te zetten in de cloud en de eerste 60 minuten gratis te krijgen.</string>
+    <string name="mi_account_msg">Meld u aan met uw Xiaomi Account om bestanden om te zetten in de cloud en de eerste 60 minuten gratis te krijgen.</string>
     <string name="mi_account_ok">Aanmelden</string>
-    <string name="mi_account_title">Aanmelden met Mi Account</string>
+    <string name="mi_account_title">Aanmelden met Xiaomi Account</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
@@ -297,6 +300,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -323,6 +327,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
+    <string name="network_error_info">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="network_timeout_info">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="network_tip_dialog_cancel">Niet akkoord</string>
     <string name="network_tip_dialog_content">Recorder moet verbinding met het internet maken om normaal te kunnen werken. Akkoord?</string>
     <string name="network_tip_dialog_ok">Akkoord</string>
@@ -422,6 +428,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="privacy_policy_title">Privacybeleid</string>
     <string name="privacy_settings">Privacy</string>
     <string name="progress">Voortgangsbalk afspelen</string>
+    <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="recognition_button_add_to_queue">Aan de wachtrij toevoegen</string>
     <string name="recognition_button_cancel">Niet nu</string>
     <string name="recognition_button_start">Omzetten</string>
@@ -572,6 +579,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
     <string name="sync_desc_state_complete">Gesynchroniseerd met de cloud: %1$s</string>
+    <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="tab_all">Alle</string>
     <string name="tab_apps">Apps</string>
     <string name="tab_call">Oproepen</string>
@@ -654,6 +662,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="tuesday_shortest">Di</string>
     <string name="uninstall_warning_content">Recorder is een systeem-app. U kunt geen audio- en spraakoproepen opnemen en transcriberen nadat u deze hebt verwijderd.</string>
     <string name="uninstall_warning_title">Recorder deïnstalleren?</string>
+    <string name="unknown_error_info">Onbekende fout</string>
     <string name="usage_description">Audio omzetten en items synchroniseren met de cloud</string>
     <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">UIT</string>

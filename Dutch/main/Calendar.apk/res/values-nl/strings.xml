@@ -55,6 +55,8 @@
     <string name="agenda_tomorrow">MORGEN, %1$s</string>
     <string name="agenda_view">Gebeurtenissen</string>
     <string name="alarm_label">Afwijzen</string>
+    <string name="alarm_open_reminder">Herinnering inschakelen</string>
+    <string name="alarm_reminder_already">Herinnering is ingeschakeld</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">Verlopen</string>
     <string name="alert_title">Kalendermeldingen</string>
@@ -90,6 +92,7 @@
     <string name="birthday_term">verjaardag</string>
     <string name="button_record_menstruation">Registreren</string>
     <string name="calendar_permission_desc">Gebeurtenissen beheren</string>
+    <string name="calendar_privacy_policy">Privacybeleid</string>
     <string name="can_not_create_long_event">Naam gebeurtenis is te lang</string>
     <string name="can_not_modify_allday_event">Kan hele dag gebeurtenis niet wijzigen</string>
     <string name="can_not_modify_event">Kan gebeurtenis niet wijzigen</string>
@@ -145,10 +148,10 @@
     <string name="countdown_notify_title">Aftellen: %1$s</string>
     <string name="countdown_secondary_tag">Aftellen</string>
     <string name="countdown_today">Vandaag</string>
-    <string name="create_an_account_desc">"Kalender werkt beter met een Mi Account.
+    <string name="create_an_account_desc">"Kalender werkt beter met een Xiaomi Account.
 
-•Toegang vanaf alle webbrowsers.
-• Maak veilig back-ups van uw gebeurtenissen."</string>
+• Open het vanuit elke webbrowser.
+• Maak veilig een back-up van uw evenementen."</string>
     <string name="create_kundli">Kundli creëren</string>
     <string name="creating_event">Gebeurtenis gecreëerd</string>
     <string name="creating_event_with_guest">Uitnodigingen versturen…</string>
@@ -177,11 +180,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_today">" (vandaag)"</string>
     <string name="date_view">Datum</string>
     <string name="day">Dag</string>
     <string name="day_view_new_event_hint">Nieuwe gebeurtenis</string>
+    <string name="default_reminder_later_time">Standaardinterval voor \"Later herinneren\"</string>
     <string name="default_reminder_mode">Herinneringen</string>
     <string name="delete_menstruation_record_confirm">Dit record wissen?</string>
     <string name="delete_recurring_event_title">%s verwijderen?</string>
@@ -212,8 +217,10 @@
     <string name="edit_event_label">Gegevens</string>
     <string name="edit_event_no_reminder_value">Niet meer herinneren</string>
     <string name="edit_event_reminder_3_days_before">En herinner %d dagen ervoor</string>
+    <string name="edit_event_reminder_3_days_before_time">Herinner ook %d dagen ervoor</string>
     <string name="edit_event_reminder_summary">Op die dag om %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d dagen van tevoren en op die dag om %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d dagen van tevoren en om %1$s op ingestelde dag</string>
     <string name="edit_event_reminder_text">Op %1$s om %2$s</string>
     <string name="edit_event_reminder_time">Herinneringstijd</string>
     <string name="edit_event_reminder_with_another_day_text">Op %1$s, %2$s om %3$s</string>
@@ -222,6 +229,14 @@
     <string name="edit_event_tab_birthday">Verjaardag</string>
     <string name="edit_event_tab_countdown">Aftellen</string>
     <string name="edit_event_tab_event">Gebeurtenis</string>
+    <string name="edit_event_title_create_agenda">Evenement aanmaken</string>
+    <string name="edit_event_title_create_anniversary">Jubileum aanmaken</string>
+    <string name="edit_event_title_create_birthday">Verjaardag aanmaken</string>
+    <string name="edit_event_title_create_countdown">Aftellen aanmaken</string>
+    <string name="edit_event_title_edit_agenda">Bewerk gebeurtenis</string>
+    <string name="edit_event_title_edit_anniversary">Bewerk jubileum</string>
+    <string name="edit_event_title_edit_birthday">Bewerk verjaardag</string>
+    <string name="edit_event_title_edit_countdown">Aftellen bewerken</string>
     <string name="edit_event_to_label">Tot</string>
     <string name="edit_your_long_holidays">Vakanties bewerken</string>
     <string name="ee_dd_short_month">EEE dd MMM</string>
@@ -390,7 +405,9 @@
     <string name="item_num_selected">%1$d geselecteerd</string>
     <string name="language_change_confirmation">Succesvol gewijzigd. U kunt de taal in de Kalender-instellingen wijzigen.</string>
     <string name="launch_weather_comment">Tik hier om weersinformatie te krijgen</string>
-    <string name="load_more_hint">Laad gebeurtenissen van %1$d</string>
+    <string name="load_more_events">Bekijk %d evenementen</string>
+    <string name="load_more_events_default">Bekijk de evenementen van volgend jaar</string>
+    <string name="load_more_hint">Bekijk %1$d evenementen</string>
     <string name="loading">Een ogenblik geduld…</string>
     <string name="local_calendar_display_name">Lokale kalender</string>
     <string name="local_owner_account_name">Opgeslagen in dit apparaat</string>
@@ -543,6 +560,7 @@
     <string name="no_internet_dialog_message">Uw apparaat moet verbinding maken met het netwerk om uw toestemming te kunnen intrekken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="no_internet_dialog_title">Er is een fout opgetreden</string>
     <string name="no_long_holidays">Er zijn geen aankomende lange vakanties</string>
+    <string name="no_more_events">Geen evenementen meer om te tonen</string>
     <string name="no_network">"Kon niet verbinden met het netwerk.
 Controleer instellingen en probeer opnieuw."</string>
     <string name="no_network_btn">Opnieuw proberen</string>
@@ -596,6 +614,7 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Partner compatibiliteit</string>
     <string name="path_calendar_settings">Systeem apps/Kalender/Instellingen</string>
+    <string name="permission_description">Toestemmingen details</string>
     <string name="picker_day">Geselecteerde dag: %1$d. Veeg verticaal om te selecteren.</string>
     <string name="picker_month">Geselecteerde maand: %1$d. Veeg verticaal om te selecteren.</string>
     <string name="picker_year">Geselecteerd jaar: %1$d. Veeg verticaal om te selecteren.</string>
@@ -609,14 +628,20 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="pref_title_notification_remind">Meldingsherinneringen</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preferences_additional_cal_default">0</string>
+    <string name="preferences_alarms_category_title">Alarm herinneringen</string>
+    <string name="preferences_alarms_sound">Geluid</string>
+    <string name="preferences_alarms_vibrateWhen">Trillen</string>
     <string name="preferences_alerts_ringtone_title">Geluid</string>
     <string name="preferences_alerts_vibrateWhen_title">Trillen</string>
     <string name="preferences_alerts_vibrate_title">Trillen en beltoon</string>
+    <string name="preferences_allow_remind">Herinneringen toestaan</string>
     <string name="preferences_default_allday_reminder_title">Standaard hele dag herinneringstijd</string>
     <string name="preferences_default_reminder_dialog">Standaard herinneringstijd</string>
     <string name="preferences_default_reminder_title">Standaard herinneringstijd</string>
     <string name="preferences_home_tz_title">Eigen tijdzone</string>
     <string name="preferences_notification_ringtone_title">Geluid</string>
+    <string name="preferences_popup_alert_smart_summary_new">Tijdgevoelige gebeurtenissen zijn gebeurtenissen met een exacte tijd</string>
+    <string name="preferences_popup_alert_title">Pop-upherinneringen</string>
     <string name="preferences_show_indic_date_title">Indische kalender tonen</string>
     <string name="preferences_title">Kalender</string>
     <string name="preferences_use_home_tz_descrip">Laat kalenders en tijden van gebeurtenissen in uw eigen tijdzone zien terwijl u reist</string>
@@ -624,12 +649,18 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Begin van de week</string>
     <string name="preferences_week_start_day_title">Begin van de week</string>
+    <string name="privacy_and_permissions">Privacy en toestemmingen</string>
     <string name="privacy_card_description">Ga akkoord met ons Privacybeleid voor toegang tot alle functies.</string>
     <string name="privacy_policy_dialog_agree">Akkoord</string>
     <string name="privacy_policy_dialog_dont_agree">Niet akkoord</string>
     <string name="privacy_policy_dialog_message">&lt;Data>Welkom bij Kalender!&lt;br/>U kunt deze app gebruiken om evenementen te maken en te beheren, herinneringen in te stellen en aanvullende informatie te ontvangen die specifiek is voor uw locatie.&lt;br/>Kalender heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>.&lt;br/>Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Kalender gebruikt. U kunt uw toestemming voor het Privacybeleid van Kalender op elk moment in de Instellingen intrekken.&lt;br/> Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
     <string name="privacy_policy_dialog_title">Algemene voorwaarden</string>
     <string name="privacy_revoke_switch_text">Intrekking van toestemming</string>
+    <string name="pull_refresh_events">Bekijk %d evenementen</string>
+    <string name="pull_refresh_events_default">Bekijk de evenementen van vorig jaar</string>
+    <string name="pull_refresh_progress_load_finish">Succesvol geladen</string>
+    <string name="pull_refresh_progress_loading">Een ogenblik geduld…</string>
+    <string name="pull_refresh_progress_release_to_load">Laat los om te laden</string>
     <string name="pull_to_refresh_hint">Trek om gebeurtenissen van %1$d te laden</string>
     <string name="recorded_menstruation">Geregistreerde ongesteldheid</string>
     <string name="refresh">Vernieuw</string>
@@ -686,6 +717,8 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="search_calendar">Datum;Zon Termen;Maan;Almanac;Geluk;Agenda;Vergadering;Herinnering;Vakantie;Feestdag;Verjaardag;2016;2017;Lentefestival;Nieuwjaarsdag;Internationale Dag van de Arbeid;Mid-winterfestival</string>
     <string name="search_calendar_edit_event">Vergadering;Herinnering;Agenda</string>
     <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
+    <string name="search_events">Zoek evenementen</string>
+    <string name="search_history">Zoekgeschiedenis</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="second_saturday_holiday">Elke tweede zaterdag is een vrije dag</string>
     <string name="select_date">Spring naar datum</string>
@@ -705,7 +738,9 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="setting_features_title">Functie instellingen</string>
     <string name="setting_holiday_display_desc">Vakantiekaarten bevinden zich onder uw agenda op de startpagina</string>
     <string name="setting_holiday_reminder">Vakantie herinnering</string>
+    <string name="setting_import_events">Evenementen importeren</string>
     <string name="setting_others">Extra</string>
+    <string name="setting_show_reject_agenda">Geweigerde evenementen weergeven</string>
     <string name="setting_title_about">Over</string>
     <string name="setting_title_holiday_display">Toon feestdagen</string>
     <string name="setting_title_import_todo">Taken importeren</string>
@@ -768,6 +803,10 @@ U kunt ook herinneringen toevoegen zodat u nooit iets belangrijks mist."</string
     <string name="tab_title_day">Dag</string>
     <string name="tab_title_month">Maand</string>
     <string name="tab_title_week">Week</string>
+    <string name="tab_view_day">Dag</string>
+    <string name="tab_view_month">Maand</string>
+    <string name="tab_view_week">Week</string>
+    <string name="tab_view_year">Jaar</string>
     <string name="talk_back_read_date">%1$s (%2$s volgens de maankalender).</string>
     <string name="talk_back_setting">Instellingen</string>
     <string name="talk_back_tab_switch">Schakel tussen weergaven</string>
@@ -939,7 +978,7 @@ U kunt ook herinneringen toevoegen zodat u nooit iets belangrijks mist."</string
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">Kalender is een systeem-app waarmee u gebeurtenissen kunt maken en beheren. Sommige functies zijn nog steeds beschikbaar nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_calendar_delete_title">\"Kalender\" verwijderen uit het Startscherm?</string>
-    <string name="xiaomi_calendar_display_name">Mi Account Kalender</string>
+    <string name="xiaomi_calendar_display_name">Xiaomi Account Kalender</string>
     <string name="year">Jaar</string>
     <string name="yearly">Jaarlijks (op %s)</string>
     <string name="yearly_plain">Jaarlijks</string>

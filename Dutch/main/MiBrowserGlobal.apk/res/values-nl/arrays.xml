@@ -62,6 +62,19 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Beperken</item>
+        <item>Vragen</item>
+        <item>Toestaan</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Beperken</item>
+        <item>Vragen</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Beperken</item>
+        <item>Toestaan</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Zoeken</item>
         <item>Nieuws</item>
@@ -92,7 +105,7 @@
     </string-array>
     <string-array name="user_guide_title_array">
         <item>"Video's downloaden"</item>
-        <item>WhatsApp Status Bespaarder</item>
+        <item>WhatsApp Status Bewaarder</item>
         <item>Privébestanden</item>
     </string-array>
 </resources>

@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -35,13 +35,13 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
+    <string name="cast_image_des">Casten tutorial</string>
     <string name="casting_tips">Aan het casten…</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
     <string name="close_hotspot_hint">Schakel draagbare hotspot uit voor casten</string>
     <string name="close_slave_wifi_hint">Verbreek de verbinding met auxiliaire Wi-Fi-netwerken voordat u gaat casten</string>
     <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
-    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">Xiaomi Conference Tapcast Wi-Fi</string>
     <string name="connect_device_fail">Kon geen verbinding maken met apparaat</string>
@@ -89,7 +89,7 @@ Bekijk help als u problemen ondervindt bij het maken van een verbinding."</strin
     <string name="dialog_scanning_device">Zoeken naar apparaten in de buurt…</string>
     <string name="dialog_scanning_precondition">Schakel Wi-Fi en Bluetooth op uw telefoon in om het Draadloos scherm te gebruiken.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">Schakel wifi, Bluetooth en locatieservices in om casten te kunnen gebruiken. Nu inschakelen?</string>
+    <string name="dialog_scanning_precondition_new_global">Schakel wifi en locatieservices in om casten te kunnen gebruiken. Nu inschakelen?</string>
     <string name="dialog_select_tv">Selecteer apparaat (%1$d)</string>
     <string name="dialog_show_help">Help</string>
     <string name="disconnect">Stoppen met casten</string>
@@ -164,6 +164,7 @@ Bekijk help als u problemen ondervindt bij het maken van een verbinding."</strin
     <string name="global_privacy_main">Projecteren van de items van het scherm van uw telefoon op een grotere externe monitor.</string>
     <string name="global_privacy_negative">Niet akkoord</string>
     <string name="global_privacy_positive">Akkoord</string>
+    <string name="global_privacy_screencast">"Tijdens het opnemen of casten kan de service die deze functie biedt alle gevoelige informatie vastleggen die op uw scherm wordt weergegeven of wordt afgespeeld vanaf uw apparaat, inclusief gevoelige informatie zoals audio, wachtwoorden, betalingsgegevens, foto's en berichten."</string>
     <string name="global_privacy_tip">&lt;Data>We hebben de nodige persoonlijke informatie nodig om u de basisdiensten te kunnen bieden en het proces van casten te optimaliseren. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=%1$s>Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid op elk moment in de Instellingen intrekken.&lt;/Data></string>
     <string name="hang_up">Casten terwijl het scherm uitgeschakeld is</string>
     <string name="hang_up_alert_dialog_content">Blijf casten terwijl het scherm van uw apparaat uitgeschakeld is. Deze functie vermindert energieverbruik. Druk op de aan/uit-knop om het scherm weer in te schakelen.</string>
@@ -367,6 +368,8 @@ Als u Miracast moet inschakelen, druk dan op de knop [MENU] en selecteer Mijn ap
     <string name="privacy_permission_nfc_desc">Voor het koppelen van apparaten met NFC</string>
     <string name="privacy_permission_optional">Optionele toestemmingen</string>
     <string name="privacy_permission_optional_desc">Gebruikt voor extra functies terwijl u ze gebruikt</string>
+    <string name="privacy_permission_screencast">Toegang tot informatie op het scherm</string>
+    <string name="privacy_permission_screencast_desc">"Tijdens het opnemen of casten kan de service die deze functie biedt alle gevoelige informatie vastleggen die op uw scherm wordt weergegeven of wordt afgespeeld vanaf uw apparaat, inclusief gevoelige informatie zoals audio, wachtwoorden, betalingsgegevens, foto's en berichten"</string>
     <string name="privacy_permission_wlan">Wifi in- en uitschakelen</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">Voor het vinden van beschikbare apparaten in de buurt</string>

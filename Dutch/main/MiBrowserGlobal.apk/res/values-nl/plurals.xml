@@ -61,12 +61,20 @@
         <item quantity="one">%1$d dag geleden</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d geselecteerd</item>
-        <item quantity="one">%1$d geselecteerd</item>
+        <item quantity="other">%1$d items geselecteerd</item>
+        <item quantity="one">%1$d item geselecteerd</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">%d taken verwijderen?</item>
         <item quantity="one">%d taak verwijderen?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d seconden vooruitspoelen</item>
+        <item quantity="one">%d seconde vooruitspoelen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d seconden terugspoelen</item>
+        <item quantity="one">%d seconde terugspoelen</item>
     </plurals>
     <plurals name="file_count">
         <item quantity="other">%1$d items</item>
@@ -108,9 +116,17 @@
         <item quantity="other">in %d minuten</item>
         <item quantity="one">in 1 minuut</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">%d keer beschermd</item>
+        <item quantity="one">%d keer beschermd</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">%d bestanden succesvol gedownload</item>
-        <item quantity="one">%d bestand succesvol gedownload</item>
+        <item quantity="other">%1$s items succesvol gedownload</item>
+        <item quantity="one">%1$s item succesvol gedownload</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
@@ -148,6 +164,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">%s keer beschermd</item>
+        <item quantity="one">%s keer beschermd</item>
+    </plurals>
     <plurals name="players">
         <item quantity="other">%d spelers</item>
         <item quantity="one">%d speler</item>
@@ -155,6 +175,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">Geblokkeerd %d advertenties</item>
         <item quantity="one">Geblokkeerd %d advertentie</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">%1$d resultaten gevonden</item>
+        <item quantity="one">%1$d resultaat gevonden</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s zoekopdrachten</item>
@@ -176,6 +200,10 @@
         <item quantity="other">%d populaire nummers</item>
         <item quantity="one">%d populair nummer</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d tabbladen</item>
+        <item quantity="one">%d tabblad</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d items geselecteerd</item>
         <item quantity="one">%1$d item geselecteerd</item>
@@ -183,6 +211,10 @@
     <plurals name="video_collection_reminder_view">
         <item quantity="other">"U heeft %d van uw favoriete video's al lang niet meer bekeken."</item>
         <item quantity="one">"U heeft %d favoriete video's al lang niet meer bekeken."</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s weergaven</item>
+        <item quantity="one">%s weergave</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">Check %1$d nieuwe videos</item>
@@ -199,5 +231,45 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d personen hebben gestemd</item>
         <item quantity="one">%d persoon heeft gestemd</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">%d advertenties geblokkeerd</item>
+        <item quantity="one">%d advertentie geblokkeerd</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">%d keer toegestaan</item>
+        <item quantity="one">%d keer toegestaan</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">Beperkt %d keer</item>
+        <item quantity="one">Beperkt %d keer</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">%d keer gestopt</item>
+        <item quantity="one">%d keer gestopt</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">%s advertenties geblokkeerd</item>
+        <item quantity="one">%s advertentie geblokkeerd</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">%s keer toegestaan</item>
+        <item quantity="one">%s keer toegestaan</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">Beperkt %s keer</item>
+        <item quantity="one">Beperkt %s keer</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">%s keer gestopt</item>
+        <item quantity="one">%s keer gestopt</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s dagen</item>
+        <item quantity="one">%s dag</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s keer</item>
+        <item quantity="one">%s keer</item>
     </plurals>
 </resources>

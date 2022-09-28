@@ -123,6 +123,7 @@
     <string name="cast_closed_captions_unavailable">Ondertiteling niet beschikbaar</string>
     <string name="cast_connecting_to_device">Verbinden met %1$s</string>
     <string name="cast_disconnect">Verbinding verbreken</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Afbeelding die wordt weergegeven terwijl de Cast-receiver een advertentie afspeelt</string>
     <string name="cast_expanded_controller_ad_in_progress">Advertentie wordt uitgevoerd…</string>
     <string name="cast_expanded_controller_background_image">Albumhoes</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -166,6 +168,8 @@
     <string name="choose">Selecteren</string>
     <string name="choose_to_signin">Ja</string>
     <string name="choose_to_signup">Nee, ik maak er een</string>
+    <string name="chromecast_connecting">Verbinding maken met Chromecast…</string>
+    <string name="chromecast_playing">U bekijkt deze video met Chromecast</string>
     <string name="clear_text_end_icon_content_description">Tekst wissen</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="click_to_open_pip">Tik om over te schakelen naar Afbeelding-in-Afbeelding</string>
@@ -233,6 +237,7 @@
     <string name="continue_play">Hervatten</string>
     <string name="controller_bar_edit">Bewerken</string>
     <string name="copy">Kopiëren</string>
+    <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="data_empty">Geen items hier</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -244,6 +249,8 @@ Mi Video is klaar voor een update.
 Werk de app nu bij om onze nieuwe coole functies te bekijken!
 Mi Video Team"</string>
     <string name="description">Beschrijving</string>
+    <string name="desktop_widget_local_media">Mediabestanden</string>
+    <string name="desktop_widget_new">Nieuw</string>
     <string name="detail_select_source">Selecteer een afspeelbron</string>
     <string name="diagnosis_log_send_failed">Kon logbestanden niet verzenden. Probeer het opnieuw.</string>
     <string name="diagnosis_log_sent_format">"Logbestanden succesvol verzonden. 
@@ -379,8 +386,11 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="explore_on_mi_video">Vind meer op Mi Video</string>
     <string name="exposed_dropdown_menu_content_description">Dropdownmenu weergeven</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al verbonden aan een andere Mi Account</string>
-    <string name="failed_to_fetch_data">Kan informatie niet laden.</string>
+    <string name="failed_to_fetch_data">Kon informatie niet laden.</string>
     <string name="failure">Kon niet downloaden</string>
+    <string name="fallback_menu_item_copy_link">Link kopiëren</string>
+    <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
+    <string name="fallback_menu_item_share_link">Link delen</string>
     <string name="favor_movie">Films</string>
     <string name="favor_online_video">"Video's"</string>
     <string name="favor_playlist">Afspeellijsten</string>
@@ -538,6 +548,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="galleryplus_notification_linkvideo_title4">"Honderden video's, tijdelijk gratis"</string>
     <string name="galleryplus_notification_linkvideo_title5">"Stream uw favoriete programma's gratis"</string>
     <string name="galleryplus_notification_try_now_btn">Probeer nu</string>
+    <string name="galleryplus_notification_type_link_video">"Overschakelen naar lokale video's"</string>
     <string name="galleryplus_online_cta">Mi Video moet verbinding maken met internet om normaal te werken. Akkoord?</string>
     <string name="galleryplus_online_cta_agree">Akkoord</string>
     <string name="galleryplus_online_cta_disagree">Niet akkoord</string>
@@ -642,8 +653,10 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="incentive_exchange">Inwisselen</string>
     <string name="incentive_exchange_code">Code</string>
     <string name="incentive_exchange_code_copy">Kopiëren</string>
+    <string name="incentive_exchange_code_copy_and_start">Gebruiken</string>
     <string name="incentive_exchange_details">Details</string>
     <string name="incentive_exchange_details_current">Totale bestelling</string>
+    <string name="incentive_exchange_details_dotask">Verdien punten</string>
     <string name="incentive_exchange_details_total">Saldo</string>
     <string name="incentive_exchange_empty_tip">Hier nog niets. Wissel punten in om aan de slag te gaan.</string>
     <string name="incentive_exchange_expire_tip">Niet-geclaimde punten verdwijnen om middernacht</string>
@@ -651,6 +664,7 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="incentive_exchange_successful">Succesvol ingewisseld</string>
     <string name="incentive_exchange_tip">Deze punten zijn alleen vandaag beschikbaar</string>
     <string name="incentive_login_for_claim">Log in op uw Google account om punten te claimen</string>
+    <string name="incentive_login_success_for_already_claimd">Succesvol ingelogd. Punten geclaimd.</string>
     <string name="incentive_login_tip">Log in om punten te verdienen en beloningen te krijgen</string>
     <string name="incentive_my_points">Mijn punten</string>
     <string name="incentive_popup_window_share">Delen om punten te verdienen</string>
@@ -666,10 +680,16 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="incentive_task_title_novice">Voor nieuwkomers</string>
     <string name="incentive_task_to_get">Starten</string>
     <string name="incentive_task_to_login">Inloggen</string>
+    <string name="incentive_toast_share_success_new">Succesvol gedeeld</string>
+    <string name="incentive_toast_subscribe_success_new">Succesvol geabonneerd</string>
+    <string name="incentive_ui_tab_earn_credits">Punten</string>
     <string name="incentive_view_all_prizes">Bekijk alle beloningen</string>
     <string name="incentive_view_details">Details</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
     <string name="init_channels">Standaard herstellen</string>
+    <string name="inline_auto_play_tip">"Mobiele data gebruiken… "</string>
+    <string name="inline_auto_play_to_set">Instellingen</string>
+    <string name="inline_mute_click_tip">Tik om het dempen op te heffen</string>
     <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
     <string name="input_new_pwd">Voer nieuw wachtwoord in</string>
     <string name="input_size_tips_new">U kunt maximaal %d tekens invoeren</string>
@@ -684,6 +704,7 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="item_download_path">Locatie downloaden</string>
     <string name="item_download_path_setting">Locatie instellingen downloaden</string>
     <string name="item_setting_go_back">Intrekking van toestemming</string>
+    <string name="item_title_for_search_page_hot">Populair</string>
     <string name="item_title_unknown">Onbekende titel</string>
     <string name="item_view_role_description">Tabblad</string>
     <string name="just_a_second">Een ogenblik geduld…</string>
@@ -695,8 +716,14 @@ voor video's"</string>
     <string name="later">Later</string>
     <string name="live_now">Live nu</string>
     <string name="live_title">Live TV</string>
+    <string name="live_tv_dialog_item_passed">Dit programma is afgelopen. Kijk een andere keer!</string>
+    <string name="live_tv_dialog_subscirbe_button">Abonneren</string>
+    <string name="live_tv_dialog_subscirbe_tips">Abonneer u op %1$s en mis nooit meer een aflevering</string>
     <string name="live_tv_title">Live TV</string>
+    <string name="live_tv_toast_item_subscirbe">U bent al geabonneerd op dit programma</string>
     <string name="loading">Een ogenblik geduld…</string>
+    <string name="local_adjust_zoom_mode_hint">U kijkt in %s</string>
+    <string name="local_crop_zoom_mode">Foto is bijgesneden</string>
     <string name="local_diversion_all_local_videos">"Alle video's op apparaat"</string>
     <string name="local_diversion_close_recommend">Afsluiten</string>
     <string name="local_diversion_download_more_video">"Meer video's"</string>
@@ -714,6 +741,7 @@ voor video's"</string>
     <string name="local_push_setting_power_tag">"Meldingen over lokale video's"</string>
     <string name="local_push_title">Vandaag populair</string>
     <string name="local_push_video_title">"Zoeken naar nieuwe lokale video's"</string>
+    <string name="local_stretch_zoom_mode">Foto is uitgerekt</string>
     <string name="local_video_create_a_new_playlist">Nieuwe afspeellijst</string>
     <string name="local_video_date">Datum</string>
     <string name="local_video_dialog_default">Standaard</string>
@@ -734,6 +762,7 @@ voor video's"</string>
     <string name="local_video_size">Grootte</string>
     <string name="local_video_space">Bezet: %s</string>
     <string name="local_video_time">Duur</string>
+    <string name="local_zoom_adjust_button">Weergavemodus wisselen</string>
     <string name="lock_screen">Vergrendelscherm</string>
     <string name="login">Aanmelden</string>
     <string name="login_tip">Meld u aan om antwoorden op uw feedback te kunnen ontvangen.</string>
@@ -761,6 +790,7 @@ voor video's"</string>
     <string name="lp_video_zoom_title">Zoom</string>
     <string name="lv_advance_sound">Audio verbeteren</string>
     <string name="lv_airkan_control_device_des">Om afspelen te beheren, tik onderaan op de balk.</string>
+    <string name="lv_airkan_device_my_device">Mijn apparaat</string>
     <string name="lv_airkan_device_xiaomi_phone">Mijn Mi Phone</string>
     <string name="lv_airkan_playing">Casten op %s</string>
     <string name="lv_airkan_tips">Tik om te casten</string>
@@ -839,10 +869,10 @@ voor video's"</string>
     <string name="lv_subtitle_no_subtitle">Ondertitels zijn niet beschikbaar</string>
     <string name="lv_subtitle_non_subtitle_file">Geen ondertitelbestanden beschikbaar</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d s</string>
-    <string name="lv_subtitle_offset_add_dot5s_new">+%f s</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%.1f s</string>
     <string name="lv_subtitle_offset_normal">Ondertitels niet verplaatsen</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%d s</string>
-    <string name="lv_subtitle_offset_sub_dot5s_new">-%f s</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">-%.1f s</string>
     <string name="lv_subtitle_onlinesub_language">Taal: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Ondertitels laden…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Ondertitels laden…</string>
@@ -969,10 +999,11 @@ voor video's"</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
-    <string name="mr_button_content_description">Cast-icoon</string>
-    <string name="mr_cast_button_connected">Cast-icoon. Verbonden</string>
-    <string name="mr_cast_button_connecting">Cast-icoon. Verbinding maken</string>
-    <string name="mr_cast_button_disconnected">Cast-icoon. Verbinding verbroken</string>
+    <string name="mr_button_content_description">Casten</string>
+    <string name="mr_cast_button_connected">Casten. Verbonden.</string>
+    <string name="mr_cast_button_connecting">Casten. Verbinding maken.</string>
+    <string name="mr_cast_button_disconnected">Casten. Verbinding verbroken.</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Geen informatie beschikbaar</string>
     <string name="mr_chooser_searching">Apparaten zoeken</string>
     <string name="mr_chooser_title">Casten naar</string>
     <string name="mr_controller_album_art">Albumhoes</string>
@@ -988,6 +1019,9 @@ voor video's"</string>
     <string name="mr_controller_stop">Stoppen</string>
     <string name="mr_controller_stop_casting">Casten stoppen</string>
     <string name="mr_controller_volume_slider">Volumeschuifregelaar</string>
+    <string name="mr_dialog_default_group_name">Groep</string>
+    <string name="mr_dialog_groupable_header">Een apparaat toevoegen</string>
+    <string name="mr_dialog_transferable_header">Afspelen in een groep</string>
     <string name="mr_system_route_name">Systeem</string>
     <string name="mr_user_route_category_name">Apparaten</string>
     <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
@@ -996,6 +1030,7 @@ voor video's"</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1063,6 +1098,7 @@ voor video's"</string>
     <string name="notification_recall_desc">"Mi Video kan u een waarschuwing geven over populaire video's en uw abonnementen."</string>
     <string name="notification_recall_title">Meldingen inschakelen</string>
     <string name="notification_tool">Gereedschapskist</string>
+    <string name="notification_type_channel_music">Muziek afspelen</string>
     <string name="notify_apk_installed">Succesvol gedownload</string>
     <string name="offline_notification_text">Tik om advertentie te openen</string>
     <string name="offline_notification_title">De advertentie bekijken die je hebt opgeslagen toen je offline was</string>
@@ -1073,7 +1109,12 @@ voor video's"</string>
     <string name="offline_opt_in_title">Advertentie openen als je weer online bent</string>
     <string name="ok">OK</string>
     <string name="online_play_hint">Bijvoorbeeld: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Een ogenblik geduld…</string>
+    <string name="online_play_start_ready_loading_tip_b">Laden %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Laden %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Laden %.2f MB/s</string>
     <string name="online_play_title">Voer URL in</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="out_of_memory_background_playback_is_suspended">Afspelen op de achtergrond onderbroken vanwege onvoldoende geheugen</string>
@@ -1119,7 +1160,7 @@ voor video's"</string>
     <string name="ovp_home_item_folder">Bestanden</string>
     <string name="ovp_home_local">Lokaal</string>
     <string name="ovp_home_me">Account</string>
-    <string name="ovp_home_no_data_callback">Kon geen info verkrijgen. Trek naar beneden om te vernieuwen.</string>
+    <string name="ovp_home_no_data_callback">Kon informatie niet laden. Trek naar beneden om te vernieuwen.</string>
     <string name="ovp_home_online">Online</string>
     <string name="ovp_home_online_content_title">Online</string>
     <string name="ovp_info_video_loading">Een ogenblik geduld…</string>
@@ -1168,7 +1209,7 @@ Werk Mi Video eerst bij naar de nieuwste versie."</string>
     <string name="ovp_start_error_msg">Deze video kan niet worden afgespeeld</string>
     <string name="ovp_video_bad_network_condition">Kon niet verbinden met het netwerk.</string>
     <string name="ovp_video_create_video_error_info">Plugin kon niet worden geïnitialiseerd. Wacht een paar minuten en probeer het opnieuw.</string>
-    <string name="ovp_video_invalid_cp_info">Info kan niet worden geladen. Start de app opnieuw op.</string>
+    <string name="ovp_video_invalid_cp_info">Kon informatie niet laden. Start de app opnieuw op.</string>
     <string name="ovp_video_loading">%1$s zal afgespeeld worden…</string>
     <string name="ovp_video_plugin_installation">%1$s installeren…</string>
     <string name="ovp_video_plugin_installation_failure">Kon %1$s niet installeren</string>
@@ -1434,6 +1475,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="popup_click_for_download_video">Video downloaden</string>
     <string name="popup_pip_activate_button">Instellingen</string>
     <string name="popup_pip_not_activated">Sta Mi Video eerst toe Afbeelding-in-Afbeelding te gebruiken.</string>
+    <string name="popup_recommend_text">"Ontdek meer video's die u geweldig zult vinden"</string>
     <string name="popup_window_home_tip">"Online video's downloaden"</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_agree_subtitle">Door toestemming te geven voor het Privacybeleid kunt u alle functies van Mi Video gebruiken</string>
@@ -1534,6 +1576,15 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sending">Verzenden…</string>
     <string name="service_error">Server fout</string>
     <string name="set_success">Succesvol gewijzigd</string>
+    <string name="settings_inline_auto_play">Altijd automatisch afspelen</string>
+    <string name="settings_inline_auto_play_close">Automatisch afspelen uit</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Altijd uit</string>
+    <string name="settings_inline_auto_play_tip_close_month">Uitgeschakeld voor een maand</string>
+    <string name="settings_inline_auto_play_tip_open">Aan</string>
+    <string name="settings_inline_auto_play_tip_title">Herinneringen voor mobiel datagebruik</string>
+    <string name="settings_inline_auto_play_title">Automatisch afspelen</string>
+    <string name="settings_inline_auto_play_wify">Alleen automatisch afspelen via wifi</string>
+    <string name="settings_inline_title">Startpagina automatisch afspelen</string>
     <string name="settings_manager_hidden_folder">"Verborgen video's beheren"</string>
     <string name="share">Delen</string>
     <string name="share_fail">Kon niet delen. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
@@ -1554,13 +1605,14 @@ De beveiliging van uw account verbeteren."</string>
     <string name="small_video_load_more_hint">"Veeg omhoog om meer video's af te spelen"</string>
     <string name="small_video_snack_download_description">"Download SnackVideo om de nieuwste video's van uw favoriete makers te zien."</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Tap for more short videos</string>
+    <string name="small_video_tab_expose_hint">"Tik voor meer korte video's"</string>
     <string name="sms_send_success">Succesvol verzonden</string>
     <string name="sns_access_token_expired_warning">Sessie is verlopen. Meld u opnieuw aan om deze account opnieuw te koppelen.</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
     <string name="start_download_tip">Toegevoegd aan wachtrij. Bekijk de voortgang in Profiel > Downloads.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>
@@ -1831,6 +1883,12 @@ De beveiliging van uw account verbeteren."</string>
     <string name="welcome_tip_into_mivideo">Aan de slag</string>
     <string name="welcome_tip_skip">Overslaan</string>
     <string name="welcome_tip_title">Welkom bij Mi Video</string>
+    <string name="widget_local_video">"Lokale video's"</string>
+    <string name="widget_local_video_click">"Tik om video's te bekijken die op uw apparaat zijn opgeslagen"</string>
+    <string name="widget_more_channel">Meer kanalen</string>
+    <string name="widget_more_channel_click">Tik om tv-kanalen te bekijken</string>
+    <string name="widget_trending_click">"Tik om de populairste video's van vandaag te zien"</string>
+    <string name="widget_trending_today">Vandaag populair</string>
     <string name="yesterday">Gisteren</string>
     <string name="yt_subscription_notification_setting_title">Abonnementsmeldingen</string>
     <string name="ytb_account">Accounts</string>

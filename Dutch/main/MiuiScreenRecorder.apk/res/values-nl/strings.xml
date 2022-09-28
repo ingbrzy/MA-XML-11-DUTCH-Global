@@ -33,7 +33,7 @@
     <string name="app_name">Schermrecorder</string>
     <string name="app_notification_channel_record_complete">Meldingen over voltooide opnames</string>
     <string name="app_notification_info">Schermrecorder werkt op de achtergrond</string>
-    <string name="app_notification_record_complete">"Opgeslagen schermopname in Galerij
+    <string name="app_notification_record_saved">"Opname succesvol opgeslagen
 Tik om te bekijken"</string>
     <string name="app_notification_title">Schermrecorder</string>
     <string name="auto_stop_title">Video succesvol opgeslagen</string>

@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -68,6 +68,7 @@
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
     <string name="auth_fail_warning">Sessie verlopen. Meld u opnieuw aan.</string>
+    <string name="back">Vorige</string>
     <string name="bind_sign_in_title">Mi Account toevoegen</string>
     <string name="change_activate_email">E-mailadres wijzigen</string>
     <string name="change_password">Wachtwoord wijzigen</string>
@@ -75,6 +76,7 @@
     <string name="choose_to_signup">Nee, ik maak er een</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
+    <string name="close_country_code_content_description">Landcode verwijderen</string>
     <string name="collect_diagnosis_log">Logbestanden verzamelen</string>
     <string name="confirm_activate_email">Geverifieerd</string>
     <string name="confirm_bundled_phone_dialog_title">Bevestig gekoppeld telefoonnummer</string>
@@ -102,6 +104,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="evening">Middag</string>
     <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al verbonden aan een andere Mi Account.</string>
     <string name="expand_button_title">Geavanceerd</string>
+    <string name="facebook_login_btn_content_description">Inloggen met Facebook</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al verbonden aan een andere Mi Account</string>
     <string name="find_psw">Wachtwoord vergeten</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -164,7 +167,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="get_ph_ticket">Haal code op</string>
     <string name="get_phone_bind_exceed_limit">U kunt tot 3 Mi Accounts aan een telefoonnummer koppelen. Er kunnen geen nieuwe accounts meer worden toegevoegd.</string>
     <string name="get_phone_verifycode_exceed_limit">Er zijn te veel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer het opnieuw.</string>
+    <string name="google_login_btn_content_description">Aanmelden met Google</string>
     <string name="goto_sign_up">Account aanmaken</string>
+    <string name="header_help">Help</string>
     <string name="i_know">Begrepen</string>
     <string name="identity">Identificatie</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
@@ -181,6 +186,23 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="login_with_sns">Andere manieren om aan te melden</string>
     <string name="logout_account">Afmelden</string>
     <string name="midnight">Nacht</string>
+    <string name="miui_clock_city_name_local">Lokaal</string>
+    <string name="miui_clock_city_name_second">Tweede klok</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
@@ -352,8 +374,12 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
+    <string name="protocal_dialog_cancel">Annuleren</string>
+    <string name="protocal_dialog_confirm">Akkoord</string>
+    <string name="protocal_dialog_title">Let op</string>
     <string name="psw_hint">Wachtwoord</string>
     <string name="psw_sign_in">Log in met een wachtwoord</string>
+    <string name="qq_login_btn_content_description">Inloggen met QQ</string>
     <string name="register_by_local_phone_long_text">Account aanmaken</string>
     <string name="register_by_local_phone_short_text">Account aanmaken</string>
     <string name="request_agree">Toestaan</string>
@@ -389,6 +415,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="sns_access_token_expired_warning">Sessie is verlopen. Meld u opnieuw aan om deze account opnieuw te koppelen.</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
@@ -463,6 +490,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="user_agreement_hint_with_mobile">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="user_avatar_update_title">Profielfoto wijzigen</string>
     <string name="user_avatar_uploading">Een ogenblik geduld…</string>
     <string name="user_id_hint">E-mail/Telefoonnummer/Mi Account ID</string>
@@ -473,5 +501,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
+    <string name="weibo_login_btn_content_description">Inloggen met Weibo</string>
+    <string name="weixin_login_btn_content_description">Inloggen met WeChat</string>
     <string name="yesterday">Gisteren</string>
 </resources>

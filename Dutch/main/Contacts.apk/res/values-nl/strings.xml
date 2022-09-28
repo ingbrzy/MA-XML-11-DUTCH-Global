@@ -179,6 +179,7 @@
     <string name="callrecordview_menu_show_missed">Gemiste gesprekken</string>
     <string name="callrecordview_menu_show_sim">%s gesprekken</string>
     <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi AI oproep-assistent</string>
     <string name="cancel">Annuleren</string>
     <string name="cancel_confirmation_dialog_message">Uw wijzigingen annuleren?</string>
     <string name="cancel_confirmation_dialog_title">Annuleren</string>
@@ -504,6 +505,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -637,6 +639,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -793,6 +796,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="permission_retry_dialog_msg_pad">Om uw SIM-kaart met deze app te kunnen gebruiken en uw contacten te kunnen beheren, moet u deze app toegang geven tot uw contacten en deze bewerken, evenals toegang tot apparaat info.</string>
     <string name="permission_retry_setting">Instellingen</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -862,6 +866,9 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="preference_smart_group_title">Slimme groepen</string>
     <string name="preference_tone_title">Weergeven</string>
     <string name="preference_yellowpage_function_setting">Instellingen voor Telefoonboek</string>
+    <string name="presentation_payphone">Betaal telefoon</string>
+    <string name="presentation_private">Privé nummer</string>
+    <string name="presentation_unknown">Onbekend nummer</string>
     <string name="previous">Vorige</string>
     <string name="privacy_password_message1">"Wachtwoord voor privacybescherming werkt voor foto's, notities en verborgen mappen."</string>
     <string name="privacy_password_message2">"Gebruik wachtwoord voor privacybescherming. Het werkt voor foto's, notities en verborgen mappen."</string>
@@ -938,7 +945,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="remove_duplicate">"MIUI zal u helpen met het vinden en samenvoegen van dubbele contacten.
 
  Om te beginnen tikt u op het Samenvoeg icoon onderaan het scherm."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_app_btn_cancel">Annuleren</string>
     <string name="restore_app_btn_restore">OK</string>
     <string name="restore_app_description_content">Voeg een Startscherm snelkoppeling toe om sneller toegang te krijgen tot uw contacten.</string>
@@ -1035,6 +1042,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1076,6 +1084,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>
@@ -1200,6 +1209,7 @@ Kies een van de volgende opties:"</string>
     <string name="video_chat">Videochat</string>
     <string name="viewContactDesription">Contact weergeven</string>
     <string name="viewContactTitle">Details van contact</string>
+    <string name="view_more_call_logs">Meer bekijken</string>
     <string name="view_updates_from_group">Updates weergeven</string>
     <string name="voicemail">Voicemail</string>
     <string name="websiteLabelsGroup">Website</string>
