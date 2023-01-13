@@ -237,6 +237,7 @@ Tik om te bekijken"</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">Schermrecorder verlaten</string>
+    <string name="record_time_too_short">Opgenomen video is te kort</string>
     <string name="recording_failure">Kon niet opnemen, start opnieuw</string>
     <string name="recording_max_size">Opname werd gestopt en opgeslagen omdat het videobestand de limiet van zijn bestandsgrootte bereikte. Start, wanneer u nog niet klaar bent, de opname van waar deze werd gestopt.</string>
     <string name="recording_without_mic">Microfoon is bezig en kan nu geen geluid opnemen.</string>

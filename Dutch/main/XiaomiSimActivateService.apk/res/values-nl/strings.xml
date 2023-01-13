@@ -260,6 +260,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="search_menu_title">Zoeken</string>
     <string name="send">Verzenden</string>
     <string name="sim_activate_failed">Kon service niet activeren</string>
+    <string name="sim_activate_notificat_channel">Activeringsmeldingen</string>
     <string name="sim_activate_prepare">Dienst activeren</string>
     <string name="sim_activated_failed_msg">Kon service niet activeren. Tik om het opnieuw te proberen.</string>
     <string name="sim_unactivated_feature_title">\"%s\" is niet geactiveerd</string>

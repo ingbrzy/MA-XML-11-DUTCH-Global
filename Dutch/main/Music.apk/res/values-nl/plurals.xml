@@ -130,6 +130,10 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d seconden terugspoelen</item>
         <item quantity="one">%d seconde terugspoelen</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s weergaven</item>
+        <item quantity="one">%s weergave</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d gratis downloads resterend</item>
         <item quantity="one">%d gratis download resterend</item>

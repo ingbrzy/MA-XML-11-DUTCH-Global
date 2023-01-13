@@ -146,13 +146,21 @@
     <string name="am">AM</string>
     <string name="app_cache">Cache</string>
     <string name="app_library_category_entertainment">Entertainment</string>
+    <string name="app_library_category_financial_management">Financieel</string>
     <string name="app_library_category_games">Games</string>
+    <string name="app_library_category_health_and_exercise">Gezondheid</string>
+    <string name="app_library_category_individualization">Personalisatie</string>
     <string name="app_library_category_information">Media</string>
     <string name="app_library_category_lifestyle">Levensstijl</string>
+    <string name="app_library_category_originality">Creativiteit</string>
     <string name="app_library_category_others">Overige</string>
     <string name="app_library_category_productivity">Productiviteit</string>
+    <string name="app_library_category_reading_and_information">Nieuws</string>
+    <string name="app_library_category_shopping_and_food">Winkelen</string>
     <string name="app_library_category_social">Sociaal</string>
+    <string name="app_library_category_travel">Reizen</string>
     <string name="app_library_category_utility">Hulpmiddelen</string>
+    <string name="app_library_category_work_and_efficiency">Productiviteit</string>
     <string name="app_library_title">Apps</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Camera</string>
@@ -171,6 +179,7 @@
     <string name="app_update_install">Gereed om update te installeren.</string>
     <string name="application">Apps</string>
     <string name="application_name">Browser</string>
+    <string name="application_upgrade">Updates</string>
     <string name="aqi_quality_index_break">Erg gevaarlijk</string>
     <string name="aqi_quality_index_dangerous">Gevaarlijk</string>
     <string name="aqi_quality_index_good">Goed</string>
@@ -202,6 +211,7 @@
     <string name="bookmark_btn_select_all">Alles selecteren</string>
     <string name="bookmark_btn_select_none">Alles deselecteren</string>
     <string name="bookmark_cannot_save_url">Deze URL kan niet worden toegevoegd aan bladwijzers.</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Functiesnelkoppelingen en bladermodi zijn hier te vinden</string>
     <string name="bookmark_folder_needs_title">Voer een groepsnaam in</string>
     <string name="bookmark_group_lable">Groep</string>
     <string name="bookmark_needs_title">Bladwijzer moet een naam hebben</string>
@@ -296,9 +306,12 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="choose_to_signin">Ja</string>
     <string name="choose_to_signup">Nee, ik maak er een</string>
     <string name="choosertitle_sharevia">Delen via</string>
+    <string name="clean_cache">Cache wissen</string>
     <string name="clear">Wissen</string>
     <string name="clear_history">Geschiedenis wissen</string>
     <string name="clear_most_visited">Recente geschiedenis</string>
+    <string name="clear_result_page_more_content">Ontdek meer</string>
+    <string name="clear_result_page_show_more">Meer bekijken</string>
     <string name="clear_search_history">Geschiedenis wissen</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="cleared_garbage">%d MB aan rommel gewist</string>
@@ -317,6 +330,7 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="close_all_tab_alert_title">Sluit alle tabbladen</string>
     <string name="close_cant_recommand">U ontvangt geen gepersonaliseerde inhoudsservices als u deze functie uitschakelt.</string>
     <string name="close_cloud_tab_tip">Cloud tabbladen sluiten op %s?</string>
+    <string name="close_desktop">Desktopversie uitgeschakeld</string>
     <string name="cloud_loading_tips">Trek naar beneden om te synchroniseren</string>
     <string name="cloud_no_new_data_toast">Alles is up-to-date</string>
     <string name="cloud_sync_closed_toast">Kan niet updaten omdat synchroniseren is uitgeschakeld</string>
@@ -361,7 +375,7 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="common_business_web_error_page_reload">Vernieuwen</string>
     <string name="common_business_web_error_page_tip">Er is iets misgegaan. Probeer de pagina te vernieuwen.</string>
     <string name="common_google_play_services_enable_button">Aanzetten</string>
-    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services aanzet.</string>
     <string name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
     <string name="common_google_play_services_install_button">Installeren</string>
     <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
@@ -415,6 +429,7 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="contextmenu_webpage_snapshot">Pagina opslaan</string>
     <string name="continue_reading">Lees verder</string>
     <string name="copy">Kopiëren</string>
+    <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="copy_url">URL kopiëren</string>
     <string name="core_functions_of_browser">Kernfuncties binnen handbereik</string>
     <string name="could_not_load_data">Het ophalen van de gegevens is mislukt, vernieuw de pagina en probeer het opnieuw</string>
@@ -426,7 +441,7 @@ Schakel uit om de synchronisatie te stoppen."</string>
     <string name="current_version_pc">Desktop</string>
     <string name="current_version_phone">Telefoon</string>
     <string name="custom">Voer URL in</string>
-    <string name="custom_head_card_text">Altijd geloven dat er iets moois staat te gebeuren</string>
+    <string name="custom_head_card_text">Geloof altijd dat iets moois staat te gebeuren</string>
     <string name="custom_head_card_text_incognito">"U bent incognito!
 Pagina's die u bekijkt verschijnen niet in de geschiedenis."</string>
     <string name="custom_page_guide_content">Bladwijzers, instellingen en gereedschappen zijn hier!</string>
@@ -473,6 +488,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="display__quick_entry_of_search">Functiesnelkoppelingen weergeven in het Meldingenpaneel</string>
     <string name="doc_viewer_label">Lezer (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">Om een bestand te openen en te bekijken dat is ontvangen van externe bronnen, moet deze app eerst een kopie van het bestand maken. Doorgaan?</string>
+    <string name="doc_viewer_user_guide_profile">Bekijk hier het item dat u aan het bekijken was</string>
     <string name="document_download_background_btn">Downloaden op de achtergrond</string>
     <string name="document_download_cancel_btn">Annuleren</string>
     <string name="document_download_failed">Kon niet downloaden</string>
@@ -646,17 +662,16 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="exo_controls_pause_description">Pauzeren</string>
     <string name="exo_controls_play_description">Afspelen</string>
     <string name="exo_controls_playback_speed">Snelheid</string>
-    <string name="exo_controls_playback_speed_normal">Normaal</string>
     <string name="exo_controls_previous_description">Vorige</string>
-    <string name="exo_controls_repeat_all_description">Alles herhalen</string>
-    <string name="exo_controls_repeat_off_description">Niets herhalen</string>
-    <string name="exo_controls_repeat_one_description">Eén herhalen</string>
+    <string name="exo_controls_repeat_all_description">Huidige modus: Alles herhalen. Herhaalmodus schakelen.</string>
+    <string name="exo_controls_repeat_off_description">Huidige modus: Niets herhalen. Herhaalmodus schakelen.</string>
+    <string name="exo_controls_repeat_one_description">Huidige modus: 1 herhalen. Herhaalmodus schakelen.</string>
     <string name="exo_controls_rewind_description">Terugspoelen</string>
     <string name="exo_controls_seek_bar_description">Afspeelvoortgang</string>
     <string name="exo_controls_settings_description">Instellingen</string>
     <string name="exo_controls_show">Afspeelbediening tonen</string>
-    <string name="exo_controls_shuffle_off_description">Shuffle uit</string>
-    <string name="exo_controls_shuffle_on_description">Shuffle aan</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle aanzetten</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle uitzetten</string>
     <string name="exo_controls_stop_description">Stoppen</string>
     <string name="exo_controls_vr_description">VR-modus</string>
     <string name="exo_download_completed">Downloaden voltooid</string>
@@ -664,6 +679,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="exo_download_downloading">Downloaden</string>
     <string name="exo_download_failed">Downloaden mislukt</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
@@ -687,11 +705,13 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="experience_improve">Gebruikerservaringprogramma</string>
     <string name="external_app_restricted_access_error">Mi browser heeft geen toegang tot dit item.</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al verbonden aan een andere Mi Account</string>
+    <string name="fallback_menu_item_copy_link">Link kopiëren</string>
+    <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
+    <string name="fallback_menu_item_share_link">Link delen</string>
     <string name="fast_search_title">Snelzoeken</string>
     <string name="fast_than">Vooruitlopend op %1$s%% gebruikers</string>
     <string name="fb_login_tips">"Meld u aan om video's te downloaden van Facebook"</string>
     <string name="fb_register_btn">Account creëren</string>
-    <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="featured_this_week">Uitgelicht deze week</string>
     <string name="feedback_bad">Nee</string>
     <string name="feedback_general">Enigszins</string>
@@ -724,6 +744,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="file_picker">Pad kiezen</string>
     <string name="filename_empty_alert_message">Voer bestandsnaam in</string>
     <string name="filename_illegal_alert_message">Er is een ongeldig teken uit de bestandsnaam verwijderd</string>
+    <string name="files_stored_in_the_phone">Bestanden die op dit apparaat zijn opgeslagen</string>
     <string name="find_garbage">%d MB rommel gevonden</string>
     <string name="find_new_version">NIEUWE UPDATE BESCHIKBAAR</string>
     <string name="find_on_page_cancel">Annuleren</string>
@@ -801,6 +822,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="game_center">Games</string>
     <string name="game_center_recommend_play">Spelen</string>
     <string name="game_center_recommend_title">Aanbevolen voor u</string>
     <string name="game_play">Spelen</string>
@@ -870,6 +892,10 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="homepage_setting">Instellingen startpagina</string>
     <string name="homepage_top_card_menu">Boven</string>
     <string name="hot_games">Populair</string>
+    <string name="hot_news_notify_summary">Pushmeldingen voor topnieuwsverhalen</string>
+    <string name="hot_news_notify_tips_light">U kunt Nieuwsmeldingen uitschakelen in &lt;font color=\"#0D84FF\">Instellingen&lt;/font></string>
+    <string name="hot_news_notify_title">Nieuwsmeldingen</string>
+    <string name="hour_minute">%1$s %2$s</string>
     <string name="i_know">Stoppen</string>
     <string name="identity">Identificatie</string>
     <string name="if_cancel">Deze bewerking annuleren?</string>
@@ -952,6 +978,8 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="loading_tips">Trek naar beneden om te vernieuwen</string>
     <string name="local_apps">Lokale apps</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Lokale bestanden</string>
+    <string name="local_video_player_label">Videospeler (Mi Browser)</string>
     <string name="location_permission_name">Toegang tot locatie</string>
     <string name="lockpattern_continue_button_text">Volgende</string>
     <string name="lockpattern_need_to_confirm">Bevestig ontgrendelpatroon</string>
@@ -980,6 +1008,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="media_error_video_not_exist">Video bestaat niet</string>
     <string name="memory_clear_nothing_result">Niets om te wissen in cache</string>
     <string name="memory_clear_result">%1$s gewist</string>
+    <string name="memory_management">Opslag beheren</string>
     <string name="memory_usage">Geheugen</string>
     <string name="menu_addtodesk">Toevoegen aan Startscherm</string>
     <string name="menu_exit_nightmode">Sluiten</string>
@@ -1079,6 +1108,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
+    <string name="more_convenient_features_and_content">Bekijk welke nieuwe gereedschappen en inhoud Browser te bieden heeft!</string>
     <string name="more_description">Menu</string>
     <string name="more_info">Meer informatie</string>
     <string name="more_option">Meer opties</string>
@@ -1265,6 +1295,7 @@ Deze pagina nu verlaten?"</string>
     <string name="my_account">Mijn account</string>
     <string name="my_cahnnel">Mijn kanalen</string>
     <string name="my_channel">Mijn kanalen</string>
+    <string name="my_prize_entry">Mijn beloningen</string>
     <string name="name_empty">U moet een naam invoeren.</string>
     <string name="nav_bottom_bar_back">Terug</string>
     <string name="nav_bottom_bar_close_all">Alles sluiten</string>
@@ -1280,7 +1311,7 @@ Deze pagina nu verlaten?"</string>
     <string name="navigationbar_rightbutton_actiontext_search">Zoeken</string>
     <string name="net_error">Netwerkfout</string>
     <string name="network_show_wifi_setting_tip_dialog_description">Er is een Wi-Fi hotspot in de buurt gevonden. Proberen verbinding te maken?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi netwerk is beschikbaar</string>
+    <string name="network_show_wifi_setting_tip_dialog_title">Wifi netwerk is beschikbaar</string>
     <string name="new_update_available">Er is een update beschikbaar</string>
     <string name="new_version_name">Nieuwe versie %s</string>
     <string name="news_flow_more_recommend">Meer aanbevolen items</string>
@@ -1318,6 +1349,7 @@ Deze pagina nu verlaten?"</string>
     <string name="no_network">Controleer uw netwerkverbinding en probeer opnieuw.</string>
     <string name="no_phone">Geen telefoonnummer</string>
     <string name="no_recent_files">Geen recente bestanden</string>
+    <string name="no_scalable_applications">Alle apps zijn up-to-date</string>
     <string name="no_space_alert_cancel">Later</string>
     <string name="no_space_alert_clean">Ruimte vrijmaken</string>
     <string name="no_space_alert_text">Niet genoeg opslagruimte</string>
@@ -1349,6 +1381,7 @@ Deze pagina nu verlaten?"</string>
     <string name="novel_continue_read_popup">Lezen</string>
     <string name="novel_tab_popup">Bekijk hier uw nieuwste boeken</string>
     <string name="novel_tab_popup_ok">OК</string>
+    <string name="occupy">%s gebruikt</string>
     <string name="offline_notification_text">Tik om advertentie te openen</string>
     <string name="offline_notification_title">De advertentie bekijken die je hebt opgeslagen toen je offline was</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -1359,6 +1392,7 @@ Deze pagina nu verlaten?"</string>
     <string name="ok">OК</string>
     <string name="one_prefect_author">Maker</string>
     <string name="open_app_confirm_message">Deze pagina toestaan om %s te openen?</string>
+    <string name="open_desktop">Succesvol overgeschakeld naar desktopversie</string>
     <string name="open_google_gaid">Om deze functie te kunnen gebruiken, moet u ervoor zorgen dat u zich niet hebt afgemeld voor personalisatie van advertenties in Instellingen > Google > Advertenties.</string>
     <string name="open_personalized_services">Schakel gepersonaliseerde services in om deze functie te kunnen gebruiken.</string>
     <string name="open_private_folder">Vrijgeven om verborgen mappen te bekijken</string>
@@ -1371,6 +1405,7 @@ Deze pagina nu verlaten?"</string>
     <string name="operation_rename">Hernoemen</string>
     <string name="operation_rename_message">Voer een nieuwe naam in</string>
     <string name="operation_send">Versturen</string>
+    <string name="opr_activity_title">Bekijk het seizoen en ontvang beloningen</string>
     <string name="other_channel">Klik om meer kanalen toe te voegen.</string>
     <string name="page_info">Pagina informatie</string>
     <string name="page_info_address">Adres:</string>
@@ -1537,12 +1572,13 @@ Deze pagina nu verlaten?"</string>
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">Deze site toestaan een pop-upvenster te openen?</string>
     <string name="positive_confirm_message">Toch uitschakelen</string>
+    <string name="power_saving_settings">Batterijbesparing</string>
     <string name="pref_accessibility">Toegankelijkheid</string>
     <string name="pref_accessibility_title">Toegankelijkheid</string>
     <string name="pref_adblock_summary">"Pagina's laden mogelijk langzamer wanneer deze functie is ingeschakeld"</string>
     <string name="pref_adblock_title">Adblocker</string>
     <string name="pref_auto_update">Automatisch updaten</string>
-    <string name="pref_auto_update_under_wifi">Bijwerken met behulp van Wi-Fi</string>
+    <string name="pref_auto_update_under_wifi">Bijwerken met behulp van Wifi</string>
     <string name="pref_automatic_matching_searchengines_title">Overstappen naar de reguliere zoekmachine</string>
     <string name="pref_check_security_url_summary">"Verstuur website URL naar Mi's servers om de veiligheid te controleren"</string>
     <string name="pref_check_security_url_summary_international">"Sta browser toe om de URL's te openen van de websites die u bezoekt om meer relevante aanbevelingen te ontvangen."</string>
@@ -1750,6 +1786,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="pwa_hint_added_success">Succesvol toegevoegd</string>
     <string name="qr_code_title">QR-code</string>
     <string name="qr_description">Scan QR-code</string>
+    <string name="quick_access_to_common_functions">Snel toegang tot uw favoriete functies</string>
     <string name="quick_search_and_access_to_functions">Snel zoeken geeft u eenvoudig toegang tot de functies die u het meest gebruikt.</string>
     <string name="quicklink_bookmark_save">Opslaan naar</string>
     <string name="quicklink_cannot_save_url">Deze URL kan niet worden toegevoegd.</string>
@@ -1767,6 +1804,9 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="quicklinks_most_visited">Aan startpagina toevoegen</string>
     <string name="quicklinks_most_visited_subtitle">Recent bezochte websites weergeven in nieuw tabblad</string>
     <string name="quicklinks_most_visited_title">Aan startpagina toevoegen</string>
+    <string name="reading__business_recommend_at_end_more">Meer bekijken</string>
+    <string name="reading__business_recommend_at_end_other_docs">Blijf lezen</string>
+    <string name="reading__business_recommend_at_end_title">Aanbevolen inhoud</string>
     <string name="reading__cancel">Annuleren</string>
     <string name="reading__menu_open_with_another_app">Openen met een andere app</string>
     <string name="reading__menu_play">Diavoorstelling</string>
@@ -1774,6 +1814,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="reading__menu_search">Zoeken</string>
     <string name="reading__menu_share">Delen</string>
     <string name="reading__menu_thumbnail">Paginaminiaturen</string>
+    <string name="reading__reading_end">Beëindigen</string>
     <string name="reading__reading_first_page">Dit is de eerste pagina</string>
     <string name="reading__reading_last_page">Dit is de laatste pagina</string>
     <string name="reading__search_cancel">Annuleren</string>
@@ -1892,6 +1933,9 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="search_bar_hint_content">Zoek apps en inhoud</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Ga</string>
+    <string name="search_card_online_rec_app">App-markten</string>
+    <string name="search_card_online_rec_app_install">Installeren</string>
+    <string name="search_card_online_rec_app_open">Openen</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">Kon niks vinden</string>
@@ -1966,6 +2010,8 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="setting_searchable_content">Zoekbare items</string>
     <string name="setting_sms_content">SMS-inhoud</string>
     <string name="setting_swipe_up">Veeg omhoog op Startscherm</string>
+    <string name="settings_search_online_apps">App-markten</string>
+    <string name="settings_search_online_apps_desc">Inhoud van app-markten</string>
     <string name="share_image_text">Kijk wat ik deelde! @MIUI</string>
     <string name="share_page_text">Kijk wat ik deelde: %1$s @MIUI |%2$s</string>
     <string name="share_slide_video_text">Kijk wat ik heb gedeeld: %1$s</string>
@@ -2002,6 +2048,11 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="speed_test_no_network">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="speed_test_ping">Vertraging</string>
     <string name="speed_test_upload">Uploaden</string>
+    <string name="sport_card_match_week">Week %d</string>
+    <string name="sports_card_match_season">Seizoen</string>
+    <string name="sports_card_match_status_1">Aankomend</string>
+    <string name="sports_card_match_status_2">Aan de gang</string>
+    <string name="sports_card_match_status_3">Afgelopen</string>
     <string name="ssl_bad_clock_date_settings">Datum instellen</string>
     <string name="ssl_bad_clock_warning" formatted="false">Er kan geen privéverbinding met %s1 tot stand worden gebracht omdat de datum en tijd van uw apparaat (%s2) niet juist zijn.</string>
     <string name="ssl_bad_expired_warning">Dit kanaal wordt geleverd door %1$s. De datum en tijd die zijn ingesteld op uw apparaat (%2$s) staan echter niet toe om een veilige verbinding tot stand te brengen met %1$s. U kunt de juiste datum en tijd instellen of op \"Doorgaan\" tikken als u dit kanaal nog steeds wilt gebruiken.</string>
@@ -2118,6 +2169,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
     <string name="the_valentines_day">Valentijnsdag</string>
     <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="third_image_viewer_label">Afbeeldingsviewer (Mi Browser)</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">Do</string>
@@ -2150,6 +2202,11 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="translation_query_error_network">Kon niet vertalen. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="translation_result_empty">Kon niet vertalen. Probeer het opnieuw.</string>
     <string name="translation_to">Vertalen naar</string>
+    <string name="trash_cleaner_unit_b">B</string>
+    <string name="trash_cleaner_unit_gb">GB</string>
+    <string name="trash_cleaner_unit_kb">KB</string>
+    <string name="trash_cleaner_unit_mb">MB</string>
+    <string name="trash_cleaner_unit_tb">TB</string>
     <string name="trending_apps_more">Meer</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
@@ -2168,6 +2225,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="update_no_network_toast">Kan geen verbinding maken met het netwerk</string>
     <string name="update_now">UPDATE NU</string>
     <string name="update_phone_notice">Veiligheidsinstellingen wijzigen</string>
+    <string name="upgrade">Bijwerken</string>
     <string name="upload_error_log">Logbestanden uploaden</string>
     <string name="upload_usage_statistics">Schakel dit in om gebruiksstatistieken met ons te delen wanneer de Incognito modus is ingeschakeld</string>
     <string name="uploads_disabled">Bestanduploads zijn uitgeschakeld</string>
@@ -2180,7 +2238,7 @@ Sommige sites zullen uw eerdere browsegeschiedenis niet gebruiken om hun adverte
     <string name="url_suggest_indicator_bookmark">Bladwijzers/Geschiedenis</string>
     <string name="url_suggest_indicator_hoturl">Populair</string>
     <string name="url_suggest_indicator_mostvisited">Meest bezocht</string>
-    <string name="use_cellular_network_alert_message">Wi-Fi is niet beschikbaar. Gebruik maken van uw mobiele dataverbinding?</string>
+    <string name="use_cellular_network_alert_message">Wifi is niet beschikbaar. Gebruik maken van uw mobiele dataverbinding?</string>
     <string name="use_cellular_network_alert_title">Datagebruik</string>
     <string name="user_avatar_update_title">Profielfoto wijzigen</string>
     <string name="user_avatar_uploading">Een ogenblik geduld…</string>
@@ -2356,10 +2414,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">"Toon miniaturen van eerder bezochte pagina's"</string>
     <string name="web_tag_tips">Tik hier om een pagina opnieuw te bezoeken</string>
     <string name="web_tag_title">Webpaginaminiaturen</string>
+    <string name="web_tools_moved_here">Gereedschap is hier naartoe verplaatst</string>
     <string name="web_video_accelerate">Snelheid</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Downloaden</string>
     <string name="web_video_download_no_access">Toestemmingen vereist om items te downloaden</string>
     <string name="web_video_enable_long_click_toast">Afspelen met %dX snelheid</string>
+    <string name="web_video_float_drag_msg">Sleep om de grootte aan te passen</string>
     <string name="web_video_list_more">Meer</string>
     <string name="web_video_list_playing">Afspelen</string>
     <string name="web_video_list_replay">Opnieuw afspelen</string>

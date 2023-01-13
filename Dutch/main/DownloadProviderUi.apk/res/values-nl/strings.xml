@@ -81,8 +81,10 @@
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="delete_download">Verwijderen</string>
     <string name="dialog_btn_cancel">Annuleren</string>
+    <string name="dialog_btn_force_download">Downloaden</string>
     <string name="dialog_btn_ok">OК</string>
     <string name="dialog_btn_ok_disabled_net">Netwerkinstellingen</string>
+    <string name="dialog_btn_wait_wifi">Wachten op wifi</string>
     <string name="dialog_clipboard_permission_message">"Downloads toegang geven tot items op het klembord om gekopieerde URL's automatisch toe te voegen?"</string>
     <string name="dialog_clipboard_permission_title">Toestemmingen vereist</string>
     <string name="dialog_confirm_delete_checkbox_message">Lokale bestanden ook verwijderen</string>
@@ -90,8 +92,11 @@
     <string name="dialog_file_missing_body">Bestand kon niet worden gevonden, lijkt erop dat het verwijderd is.</string>
     <string name="dialog_file_missing_title">Kan bestand niet openen</string>
     <string name="dialog_msg_disabled_net">%1$s beperkte downloads in het huidige netwerk. Tik op Netwerkinstellingen om naar de Beveiligings-app te gaan.</string>
+    <string name="dialog_msg_net_disallowed_by_app">Deze download start automatisch wanneer uw apparaat verbinding maakt met wifi. Nu toch downloaden?</string>
+    <string name="dialog_msg_net_slow">Het lijkt erop dat het downloaden van dit item te lang duurt via het huidige netwerk. Toch downloaden?</string>
     <string name="dialog_msg_recommend">U zult geen aanbevolen bronnen meer kunnen zien nadat u dit hebt uitgeschakeld.</string>
     <string name="dialog_title_disabled_net">Internettoegang</string>
+    <string name="dialog_title_download">Wachten op wifi</string>
     <string name="dialog_title_recommend">Aanbevolen bronnen uitschakelen</string>
     <string name="download_complete">Gedownload</string>
     <string name="download_error">Kon niet downloaden</string>

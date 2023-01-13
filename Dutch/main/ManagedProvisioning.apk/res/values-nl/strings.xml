@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -36,9 +36,7 @@
     <string name="admin_has_ability_to_monitor_device">"Je IT-beheerder kan instellingen, zakelijke toegang, apps, rechten en gegevens die zijn gekoppeld aan dit apparaat (waaronder je netwerkactiviteit) bijhouden en beheren, evenals de locatie, gespreksgeschiedenis en zoekgeschiedenis voor contacten van je apparaat.
 
 Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het privacybeleid van je organisatie."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Je IT-beheerder kan instellingen, zakelijke toegang, apps, rechten en gegevens die zijn gekoppeld aan dit profiel (waaronder je netwerkactiviteit) bijhouden en beheren, evenals de locatie, gespreksgeschiedenis en zoekgeschiedenis voor contacten van je apparaat.
-
-Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het privacybeleid van je organisatie."</string>
+    <string name="admin_has_ability_to_monitor_profile">Je IT-beheerder kan instellingen, zakelijke toegang, apps, rechten, gegevens en netwerkactiviteit voor dit profiel bijhouden en beheren, plus je gespreksgeschiedenis en de zoekgeschiedenis voor contacten. Neem contact op met je IT-beheerder voor meer informatie, waaronder het privacybeleid van je organisatie.</string>
     <string name="app_label">Werkinstelling</string>
     <string name="back">Terug</string>
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
@@ -55,18 +53,6 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="cant_replace_or_remove_work_profile">Kan werkprofiel niet vervangen of verwijderen</string>
     <string name="cant_set_up_device">Kan apparaat niet instellen</string>
     <string name="cant_set_up_profile">Kan profiel niet instellen</string>
-    <string name="car_ui_alert_dialog_default_button">Sluiten</string>
-    <string name="car_ui_preference_switch_off">Uit</string>
-    <string name="car_ui_preference_switch_on">Aan</string>
-    <string name="car_ui_restricted_while_driving">Functie niet beschikbaar tijdens het rijden</string>
-    <string name="car_ui_scrollbar_page_down_button">Omlaag scrollen</string>
-    <string name="car_ui_scrollbar_page_up_button">Omhoog scrollen</string>
-    <string name="car_ui_scrolling_limited_message">Scrollen is beperkt tijdens het rijden</string>
-    <string name="car_ui_toolbar_default_search_hint">Zoeken…</string>
-    <string name="car_ui_toolbar_menu_item_overflow_title">Overloop</string>
-    <string name="car_ui_toolbar_menu_item_search_title">Zoeken</string>
-    <string name="car_ui_toolbar_menu_item_settings_title">Instellingen</string>
-    <string name="car_ui_toolbar_nav_icon_content_description">Terug</string>
     <string name="change_device_launcher">Apparaat-launcher wijzigen</string>
     <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
     <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
@@ -86,7 +72,6 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="cope_provisioning_step_2_header">Persoonlijke apps staan apart, verborgen voor werk-apps</string>
     <string name="cope_provisioning_step_3_header">Je IT-beheerder kan dit apparaat beheren en apps blokkeren</string>
     <string name="cope_provisioning_summary">Werk-apps worden in je werkprofiel bewaard en worden beheerd door je IT-beheerder. Persoonlijke apps zijn afgescheiden en verborgen voor werk-apps. Je IT-beheerder kan dit apparaat beheren en bepaalde apps blokkeren.</string>
-    <string name="copy">Kopiëren</string>
     <string name="copying_certs">CA-certificaten instellen</string>
     <string name="couldnt_set_up_device">Kan apparaat niet instellen. Neem contact op met je IT-beheerder voor hulp.</string>
     <string name="default_managed_profile_name">Werkprofiel</string>
@@ -113,9 +98,11 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="error_icon_content_description">Fout</string>
     <string name="error_installation_failed">Kan de beheer-app niet installeren</string>
     <string name="error_package_invalid">Kan de beheer-app niet gebruiken. Er ontbreken onderdelen of de app is beschadigd. Neem contact op met je IT-beheerder voor hulp.</string>
+    <string name="error_role_holder_download_install_failed">Probeer het later opnieuw of vraag je IT-beheerder om hulp</string>
+    <string name="error_role_holder_hash_mismatch">Kan apparaat niet instellen. Neem contact op met je IT-beheerder en verwijs naar een ongeldige controlesom.</string>
+    <string name="error_role_holder_package_invalid">Kan apparaat niet instellen. Neem contact op met je IT-beheerder en verwijs naar ontbrekende of beschadigde componenten.</string>
     <string name="error_wifi">Kan geen verbinding maken met wifi</string>
     <string name="expand">Uitvouwen</string>
-    <string name="expand_button_title">Geavanceerd</string>
     <string name="exposed_dropdown_menu_content_description">Dropdownmenu weergeven</string>
     <string name="financed_device_screen_header">Dit apparaat wordt geleverd door %s</string>
     <string name="financed_make_payments_subheader_description">%1$s kan de %2$s-app installeren zodat je betalingen kunt doen voor dit apparaat.</string>
@@ -177,6 +164,7 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -205,14 +193,12 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
     <string name="navigation_button_description">Terug</string>
     <string name="next">Volgende</string>
-    <string name="not_set">Niet ingesteld</string>
     <string name="ok_setup">OK</string>
     <string name="one_place_for_work_apps">Eén plaats voor werk-apps</string>
     <string name="opening_paragraph_delete_profile">Je hebt al een werkprofiel. Dit wordt beheerd met de volgende app:</string>
     <string name="organization_admin">IT-beheerder</string>
-    <string name="password_toggle_content_description">Wachtwoord weergeven</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
     <string name="pick_launcher">OK</string>
-    <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="profile_benefits_description">Met een werkprofiel kun je je werkgegevens scheiden van je persoonsgegevens</string>
     <string name="profile_owner_cancel_cancel">Nee</string>
     <string name="profile_owner_cancel_message">Instellen stoppen?</string>
@@ -232,6 +218,7 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="section_content">Content van sectie %1$s: %2$s</string>
     <string name="section_heading">Kop van sectie %1$s.</string>
     <string name="set_up_your_device">Je apparaat instellen</string>
+    <string name="setting_up">Instellen…</string>
     <string name="setting_up_workspace">Werkprofiel instellen…</string>
     <string name="setup_device">Je apparaat instellen</string>
     <string name="setup_device_encryption">Je apparaat instellen. Versleuteling</string>
@@ -247,7 +234,6 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="something_went_wrong">Er is iets misgegaan</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_setup_reset_device_question">Instellen stoppen en apparaat resetten?</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sure_you_want_to_delete_profile">Als je doorgaat, worden alle apps en gegevens in dit profiel verwijderd.</string>
     <string name="take_a_few_minutes">Dit kan enkele minuten duren</string>
     <string name="terms">Voorwaarden</string>
@@ -255,12 +241,10 @@ Neem contact op met je IT-beheerder voor meer informatie en bij vragen over het 
     <string name="the_following_is_your_mdm_for_device">Je apparaat wordt beheerd met de volgende app:</string>
     <string name="theft_protection_disabled_warning">Als je diefstalbeveiligingsfuncties wilt gebruiken, moet je een met een wachtwoord beveiligde schermvergrendeling hebben ingesteld voor je apparaat.</string>
     <string name="this_will_reset_take_back_first_screen">Hiermee wordt je apparaat gereset en ga je terug naar het eerste scherm</string>
-    <string name="url_error">Kan deze link niet weergeven.</string>
+    <string name="url_error">Kan deze link niet bekijken.</string>
     <string name="user_consent_msg">Ik ga akkoord</string>
     <string name="user_setup_incomplete">Instellen van gebruikers niet voltooid</string>
-    <string name="v7_preference_off">UIT</string>
-    <string name="v7_preference_on">AAN</string>
-    <string name="view_terms">Servicevoorwaarden bekijken</string>
+    <string name="view_terms">Voorwaarden bekijken</string>
     <string name="work_profile_cant_be_added_contact_admin">Er kan geen werkprofiel worden toegevoegd aan dit apparaat. Neem bij vragen contact op met je IT-beheerder.</string>
     <string name="work_profile_description">Je werk-apps worden in dit profiel bewaard en beheerd door je organisatie</string>
     <string name="work_profile_info">Informatie over werkprofiel</string>

@@ -44,6 +44,18 @@
         <item quantity="other">%s sterren geselecteerd</item>
         <item quantity="one">%s ster geselecteerd</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d seconden vooruitspoelen</item>
+        <item quantity="one">%d seconde vooruitspoelen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d seconden terugspoelen</item>
+        <item quantity="one">%d seconde terugspoelen</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Kijk nog %s seconden van een video om punten te verdienen en beloningen in te wisselen</item>
+        <item quantity="one">Kijk nog %s seconde van een video om punten te verdienen en beloningen in te wisselen</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Zal teruggaan naar de startpagina over %1$d seconden…</item>
         <item quantity="one">Zal teruggaan naar de startpagina over %1$d seconde…</item>
@@ -51,6 +63,10 @@
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s weergaven</item>
+        <item quantity="one">%s weergave</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Binnen 1 uur</item>
@@ -194,6 +210,10 @@ Alleen vandaag beschikbaar"</item>
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d nummers</item>
+        <item quantity="one">%d nummer</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Succesvol gedeeld. U hebt %d punten verdiend. Claim in het Puntencentrum.</item>
         <item quantity="one">Succesvol gedeeld. U hebt %d punt verdiend. Claim in het Puntencentrum.</item>
@@ -277,6 +297,10 @@ Alleen vandaag beschikbaar"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Voeg tot %d bladwijzers toe</item>
         <item quantity="one">Voeg tot %d bladwijzer toe</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">%d geselecteerde bestanden verbergen?</item>
+        <item quantity="one">%d geselecteerd bestand verbergen?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s likes</item>

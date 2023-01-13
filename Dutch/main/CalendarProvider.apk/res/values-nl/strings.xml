@@ -23,6 +23,5 @@
     <string name="holiday_update_summary">Tik om agenda info updaten.</string>
     <string name="holiday_update_title">Update beschikbaar</string>
     <string name="provider_label">Kalender</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">Kalender database updaten…</string>
 </resources>

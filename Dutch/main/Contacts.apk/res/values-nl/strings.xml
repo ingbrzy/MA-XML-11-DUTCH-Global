@@ -87,6 +87,7 @@
     <string name="call_disambig_title">Nummer kiezen</string>
     <string name="call_fax_home">Fax privé bellen</string>
     <string name="call_fax_work">Fax werk bellen</string>
+    <string name="call_feature_vilte">ViLTE</string>
     <string name="call_feature_volte">VoLTE</string>
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Privé bellen</string>
@@ -176,7 +177,7 @@
     <string name="callrecordview_menu_show_accepted">Beantwoorde gesprekken</string>
     <string name="callrecordview_menu_show_all">Alle gesprekken</string>
     <string name="callrecordview_menu_show_called">Uitgaande gesprekken</string>
-    <string name="callrecordview_menu_show_missed">Gemiste gesprekken</string>
+    <string name="callrecordview_menu_show_missed">Gemiste oproepen</string>
     <string name="callrecordview_menu_show_sim">%s gesprekken</string>
     <string name="callrecordview_menu_show_stranger">Gesprekken van onbekende nummers</string>
     <string name="callrecordview_menu_xiaoaiphone">Mi AI oproep-assistent</string>
@@ -505,6 +506,7 @@ Reden: \"%s\""</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Naam</string>
     <string name="gallery">Galerij</string>
     <string name="ghostData_company">Bedrijf</string>
@@ -638,6 +640,7 @@ Reden: \"%s\""</string>
     <string name="menu_sync_remove">Synchronisatiegroep verwijderen</string>
     <string name="midnight">Nacht</string>
     <string name="miprofile_account_type">Contact kaarten</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Profiel bewerken</string>
     <string name="miprofile_name">Mijn profiel</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -761,6 +764,10 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notification_click_detail">Tik om details te bekijken</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud wil enkele van uw contacten verwijderen</string>
+    <string name="notification_missedCallTitle">Gemiste oproep</string>
+    <string name="notification_missedCall_call_back">Terugbellen</string>
+    <string name="notification_missedCall_message">SMS verzenden</string>
+    <string name="notification_missedCallsTitle">Gemiste oproepen</string>
     <string name="open_contact">Geef contact weer</string>
     <string name="open_dial_pad_description">Open toetsenblok</string>
     <string name="option_delete_contact">Verwijderen</string>
@@ -794,6 +801,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="permission_retry_dialog_msg_pad">Om uw SIM-kaart met deze app te kunnen gebruiken en uw contacten te kunnen beheren, moet u deze app toegang geven tot uw contacten en deze bewerken, evenals toegang tot apparaat info.</string>
     <string name="permission_retry_setting">Instellingen</string>
     <string name="phoneLabelsGroup">Telefoon</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Het nummer is te lang</string>
     <string name="phone_primary">Primaire</string>
     <string name="photoPickerNotFoundText">Er zijn geen afbeeldingen beschikbaar op het apparaat.</string>
@@ -1039,6 +1047,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Geen groepsleden</string>
     <string name="six_letter">MNO</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Per bedrijf</string>
     <string name="smart_group_company_unavailable">Geen bedrijf</string>
     <string name="smart_group_frequency_1">Afgelopen maand</string>
@@ -1080,6 +1089,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="starred_contacts">Favoriten</string>
     <string name="status_available">Beschikbaar</string>
     <string name="status_away">Niet beschikbaar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">Bezet</string>
     <string name="strequentList">Favorieten</string>
     <string name="success_message_import_from_account">Contact geimporteerd</string>

@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -59,6 +59,7 @@
     <string name="copies_increase">Plus één kopie</string>
     <string name="copy">Kopiëren</string>
     <string name="could_not_create_file">Kan bestand niet maken</string>
+    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -262,6 +263,7 @@
     <string name="printer_busy">Printer is bezet</string>
     <string name="printer_error">Printer fout</string>
     <string name="printer_error_msg">Printer fout: %1$s</string>
+    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Meer informatie over deze printer</string>
     <string name="printer_notification_error_title">Kon niet printen %1$s</string>
     <string name="printer_unavailable">Printer is niet beschikbaar</string>

@@ -157,6 +157,8 @@
     <string name="audio_ad_pass">Advertentie overslaan</string>
     <string name="audio_picker_title">Kies een nummer</string>
     <string name="auth_fail_warning">Sessie verlopen. Meld u opnieuw aan.</string>
+    <string name="auto_play_switch">"Video's automatisch afspelen"</string>
+    <string name="auto_play_toast">Automatisch afspelen is ingeschakeld. U kunt het uitschakelen in Instellingen.</string>
     <string name="auto_recommend">Automatisch (aanbevolen)</string>
     <string name="auto_sound_quality">Automatisch</string>
     <string name="auto_update">Automatisch updaten</string>
@@ -169,6 +171,7 @@
     <string name="back">Terug</string>
     <string name="back_confirm">Tik nogmaals om de app naar de achtergrond te drukken</string>
     <string name="best_experience">Beste ervaring</string>
+    <string name="billion_char">%sB</string>
     <string name="bluetooth_device">Bluetooth audio-apparaat</string>
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
     <string name="btn_text_edit">Bewerken</string>
@@ -207,9 +210,9 @@
     <string name="columbus_ad_flag_text">Advertentie</string>
     <string name="columbus_skip_ad">Overslaan</string>
     <string name="comment_format" formatted="false">%s: %s</string>
-    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_button">Aanzetten</string>
     <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
-    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
     <string name="common_google_play_services_install_button">Installeren</string>
     <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
     <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
@@ -232,6 +235,7 @@
     <string name="connecting_apk">Verbinden…</string>
     <string name="content_failed_to_load">Kon inhoud niet laden</string>
     <string name="copy">Kopiëren</string>
+    <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="create_playlist">Afspeellijst maken</string>
     <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
     <string name="create_playlist_input_hint">Voer de naam van de afspeellijst in</string>
@@ -287,11 +291,11 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_my_playlist_online_changed_merge">Bewaren</string>
     <string name="dialog_my_playlist_online_changed_message">Het lijkt erop dat de afspeellijst is gewijzigd. U kunt deze vervangen met de nieuwe versie of de oude behouden.</string>
     <string name="dialog_my_playlist_online_changed_replace">Vervangen</string>
-    <string name="dialog_my_playlist_set_to_public">Deel deze afspeellijst met alle gebruikers van Mi Music en Hungama music</string>
+    <string name="dialog_my_playlist_set_to_public">Deel deze afspeellijst met alle gebruikers van Mi Music en hungama Music</string>
     <string name="dialog_queued_body">Dit bestand staat in de wachtrij om later te downloaden.</string>
     <string name="dialog_renew_failure">Sorry, actie gefaald</string>
-    <string name="dialog_renew_free_end">Uw gratis proefperiode is afgelopen. Abonnement nemen voor Hungama PRO?</string>
-    <string name="dialog_renew_positive_text">Gaaf! Ik wil rocken als een pro</string>
+    <string name="dialog_renew_free_end">Uw gratis proefperiode is voorbij. Abonneren op hungama Goud?​</string>
+    <string name="dialog_renew_positive_text">Verleng mijn Gouden lidmaatschap!</string>
     <string name="dialog_renew_success">Bedankt voor uw bevestiging</string>
     <string name="dialog_score_btn_good">Beoordelen</string>
     <string name="dialog_score_msg_score_explorer">Vindt u Mi Music leuk?</string>
@@ -360,7 +364,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -404,7 +410,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="empty_page_no_album">Geen albums.</string>
     <string name="empty_page_no_artist">Geen artiesten.</string>
     <string name="enabled">Ingeschakeld</string>
-    <string name="enjoy_hungama_pro">Geniet van Hungama PRO</string>
+    <string name="enjoy_hungama_pro">Geniet van hungama Goud</string>
     <string name="enroll_in">Inschrijven</string>
     <string name="enter_garbage_clean">Ruim interne opslag op.</string>
     <string name="entertainment">Entertainment</string>
@@ -469,7 +475,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -495,6 +503,9 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="failed_obtain_permissions">Kon geen toestemmingen krijgen</string>
     <string name="failed_to_connect_hint">Controleer uw netwerkinstellingen en probeer het opnieuw</string>
     <string name="failed_to_connect_text">Kon niet verbinden met het netwerk</string>
+    <string name="fallback_menu_item_copy_link">Link kopiëren</string>
+    <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
+    <string name="fallback_menu_item_share_link">Link delen</string>
     <string name="fans">Volgers</string>
     <string name="fav_login_msg">Meld u aan op uw Xiaomi Account om nummers te downloaden</string>
     <string name="favorite_canceled">Verwijderd uit favorieten</string>
@@ -504,7 +515,6 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="favorite_to_playlist">Aan afspeellijst toevoegen</string>
     <string name="favorite_tracks">Favorieten</string>
     <string name="favorites">Favorieten</string>
-    <string name="fcm_fallback_notification_channel_label">Overige</string>
     <string name="feed_back">Feedback</string>
     <string name="file_and_media_permissions_for_display">Toegang tot bestanden: voor het scannen, weergeven en afspelen van lokale bestanden</string>
     <string name="file_not_found">Bestand bestaat niet</string>
@@ -620,17 +630,17 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Zoeken</string>
     <string name="hot_icon_in_fast_indexer">H</string>
-    <string name="hungama_batch_download_alert_summary">Alleen PRO-leden kunnen meerdere nummers downloaden. Nu een PRO-lidmaatschap aanvragen?</string>
+    <string name="hungama_batch_download_alert_summary">Alleen Gouden leden kunnen meerdere nummers downloaden. Nu een Gouden lidmaatschap aanvragen?</string>
     <string name="hungama_batch_download_alert_summary_toast">Word abonnee om de hele afspeellijst te downloaden.</string>
-    <string name="hungama_download_subscription_toast">Abonneer u op Hungama Music om dit nummer te downloaden</string>
-    <string name="hungama_free_download_out_summary">U kunt niet meer gratis nummers downloaden. PRO-lidmaatschap aanvragen om ongelimiteerd nummers te downloaden?</string>
+    <string name="hungama_download_subscription_toast">Abonneer u op hungama Music om dit nummer te downloaden</string>
+    <string name="hungama_free_download_out_summary">U kunt niet meer gratis nummers downloaden. Gouden lidmaatschap aanvragen om ongelimiteerd nummers te downloaden?</string>
     <string name="hungama_free_download_out_summary_toast">U heeft al %d nummers gedownload. Abonneer om meer te downloaden.</string>
-    <string name="hungama_privacy_desc">Hungama privacybeleid (optioneel)</string>
-    <string name="hungama_privacy_tips_content">Om toegang te krijgen tot online inhoud, moet u akkoord gaan met het <a href="/link/click">Hungama Privacybeleid</a>.</string>
-    <string name="hungama_privacy_tips_title">Hungama Privacybeleid</string>
-    <string name="hungama_subscribe_message">Koop PRO-lidmaatschap om muziek in hoge kwaliteit te downloaden.</string>
-    <string name="hungama_subscribe_positive_button">Koop PRO-lidmaatschap</string>
-    <string name="hungama_subscribe_title">PRO-lidmaatschap</string>
+    <string name="hungama_privacy_desc">hungama privacybeleid (optioneel)</string>
+    <string name="hungama_privacy_tips_content">Om toegang te krijgen tot online inhoud, moet u akkoord gaan met het <a href="/link/click">hungama Privacybeleid</a>.</string>
+    <string name="hungama_privacy_tips_title">hungama Privacybeleid</string>
+    <string name="hungama_subscribe_message">Koop een Gouden lidmaatschap om muziek in hoge kwaliteit te downloaden.</string>
+    <string name="hungama_subscribe_positive_button">Koop Gouden lidmaatschap</string>
+    <string name="hungama_subscribe_title">Gouden lidmaatschap</string>
     <string name="i_know">OК</string>
     <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="imported">Geïmporteerd</string>
@@ -775,6 +785,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="middle_sound_quality">Standaard</string>
     <string name="midnight">Nacht</string>
     <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Update MIUI.</string>
+    <string name="million_char">%sM</string>
     <string name="millions_songs">Miljoenen nummers</string>
     <string name="missing_title">&lt;Onbekend></string>
     <string name="miuishare_account_login_ok">Aanmelden</string>
@@ -866,6 +877,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1003,7 +1015,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="online_switch_confirm_title">Als u online inhoudsservices uitschakelt, zijn alle online-functies niet beschikbaar. Toch uitschakelen?</string>
     <string name="online_switch_message">Het uitschakelen van online services zal effect hebben op VIP-services en -aanbevelingen. Toch uitschakelen?</string>
     <string name="online_switch_setting">Online inhoudinstellingen</string>
-    <string name="only_pro_can_choose_hd_sound_quality">Hoge kwaliteit audio is alleen beschikbaar voor PRO-leden</string>
+    <string name="only_pro_can_choose_hd_sound_quality">Hoge kwaliteit audio is alleen beschikbaar voor Gouden leden</string>
     <string name="open_online_service">U moet online services aanzetten om deze functie te gebruiken. Nu aanzetten?</string>
     <string name="open_service">Inschakelen</string>
     <string name="open_settings">Instellingen</string>
@@ -1111,7 +1123,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="paused_waiting_for_network">Wachten op verbinding</string>
     <string name="paused_waiting_to_retry">Wachten om opnieuw te proberen</string>
     <string name="pay_now">Huidige service</string>
-    <string name="payment_success_message">Dank u! Uw betaling is succesvol verwerkt. Geniet van de PRO-diensten.</string>
+    <string name="payment_success_message">Dank u! Uw betaling is succesvol verwerkt. Geniet van Gouden diensten.</string>
     <string name="payment_success_title">Gefeliciteerd!</string>
     <string name="pending_apk">Afwachten…</string>
     <string name="permission_declaration_message">Geef toegang tot de opslag in Beveiliging > Toestemmingen > Toestemmingen > Opslag > Muziek zodat Muziek normaal kan worden gebruikt.</string>
@@ -1150,6 +1162,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="please_select_song">Kies eerst een nummer</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Batterijbesparing staat aan. Nu beginnen met downloaden?</string>
+    <string name="pre_watched">Bekeken</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preset_music_playlist">Mi Music-afspeellijst</string>
     <string name="priority_storage">Gebruik een externe SD-kaart</string>
@@ -1160,6 +1173,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
 Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
@@ -1168,7 +1182,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
 - Online streamingdiensten"</string>
     <string name="privacy_request_subtitle_offline">Welkom bij Mi Music! Deze app biedt een lokale speler voor audiobestanden.</string>
     <string name="privacy_request_title">Algemene voorwaarden</string>
-    <string name="pro_member">PRO-lid</string>
+    <string name="pro_member">Gouden lid</string>
     <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="project_device">Mi Phone</string>
     <string name="prompt_grant_write_settings_permission">Wijziging systeeminstellingen toestaan</string>
@@ -1179,7 +1193,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
     <string name="qq_login_btn_content_description">Inloggen met QQ</string>
     <string name="queue_is_empty">Afspeelwachtrij is leeg.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>Ik heb de Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
     <string name="read_and_agree_protocol">Lees en ga akkoord met onze Gebruikersovereenkomst en Privacybeleid voordat u doorgaat.</string>
@@ -1189,6 +1203,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="recommend_songs_when_playing_audio_files">Ontvang aanbevelingen voor nummers terwijl u naar muziek luistert</string>
     <string name="recommended_file_size_download_in_mobile">%s van mobiele data gebruiken om dit bestand te downloaden?</string>
     <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
+    <string name="refresh">Vernieuwen</string>
     <string name="register_by_local_phone_long_text">Account aanmaken</string>
     <string name="register_by_local_phone_short_text">Account aanmaken</string>
     <string name="remove">Verwijderen</string>
@@ -1217,7 +1232,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="retry">Opnieuw proberen</string>
     <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer de verbinding en probeer het opnieuw.</string>
     <string name="retry_download">Opnieuw proberen</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">Online nummers worden niet gesynchroniseerd met Hungama</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">Online nummers worden niet gesynchroniseerd met hungama</string>
     <string name="ringtone_editing">Beltoon bewerker</string>
     <string name="ringtone_not_support">Het formaat van dit nummer wordt niet ondersteund</string>
     <string name="ringtone_selected">Geselecteerd</string>
@@ -1253,6 +1268,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="search_more">Meer</string>
+    <string name="search_recommend">Aanbevolen</string>
     <string name="search_result_local_songs">Lokaal</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Zoeken naar liedjes</string>
@@ -1315,7 +1331,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="sleep_mode_canceled">Slaapmodus uitgeschakeld</string>
     <string name="sleep_mode_summary">Stop de player na een bepaalde tijd</string>
     <string name="sleep_mode_title">Slaaptimer</string>
-    <string name="sliding_pro_center">PRO-centrum</string>
+    <string name="sliding_pro_center">hungama Goud</string>
     <string name="sns_access_token_expired_warning">Sessie is verlopen. Meld u opnieuw aan om deze account opnieuw te koppelen.</string>
     <string name="sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
@@ -1338,6 +1354,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Voorbereiden om af te spelen…</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -1430,6 +1447,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="the_united_nations_day">Dag van de Verenigde Naties</string>
     <string name="the_valentines_day">Valentijnsdag</string>
     <string name="the_water_lantern_festival">Water Lantaarn Festival</string>
+    <string name="thousand_char">%sK</string>
     <string name="thursday">Donderdag</string>
     <string name="thursday_short">Do</string>
     <string name="thursday_shortest">Do</string>
@@ -1439,6 +1457,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_to_upgrade">Er is een update beschikbaar</string>
+    <string name="tips_click_here_to_continue">Tik om het afspelen te hervatten</string>
     <string name="title_online_fm_recommend">Uitgelichte FM</string>
     <string name="title_online_recommend">Uitgelichte afspeellijsten</string>
     <string name="title_search_history">Zoekgeschiedenis</string>
@@ -1451,8 +1470,8 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="toast_download_in_process">Downloaden bezig</string>
     <string name="toast_favorite_has_been_added">Succesvol toegevoegd aan afspeellijst</string>
     <string name="toast_follow_success">Succesvol gevolgd</string>
-    <string name="toast_hungama_vip_song">Dit nummer is alleen beschikbaar voor PRO-leden. Neem een abonnement om dit nummer te downloaden.</string>
-    <string name="toast_is_pro">Je bent al een PRO-lid.</string>
+    <string name="toast_hungama_vip_song">Dit nummer is alleen beschikbaar voor Gouden leden. Neem een abonnement om dit nummer te downloaden.</string>
+    <string name="toast_is_pro">Je bent al een Gouden lid</string>
     <string name="toast_my_playlist_illegal_name">De titel van deze afspeellijst is ongeldig. Hernoem de afspeellijst.</string>
     <string name="toast_my_playlist_set_to_private">Deze afspeellijst is nu privé. Anderen kunnen hem niet zien.</string>
     <string name="toast_my_playlist_set_to_public">Deze afspeellijst is nu openbaar. Anderen kunnen hem zien.</string>
@@ -1461,7 +1480,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="toast_new_playlist_name_too_long">Naam afspeellijst is te lang</string>
     <string name="toast_normal_songs_for_download">Downloadkwaliteit ingesteld op Standaard</string>
     <string name="toast_normal_songs_for_stream">Streaming kwaliteit ingesteld op Standaard</string>
-    <string name="toast_not_pro">Deze functie is alleen beschikbaar voor PRO-leden.</string>
+    <string name="toast_not_pro">Deze functie is alleen beschikbaar voor Gouden leden</string>
     <string name="toast_playlist_has_been_added">Succesvol toegevoegd aan wachtrij</string>
     <string name="toast_playlist_has_been_private">Deze afspeellijst is privé</string>
     <string name="toast_playlist_has_been_public">Deze afspeellijst is openbaar</string>
@@ -1500,8 +1519,8 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_favorite_setting_title">Nummers synchroniseren</string>
     <string name="upload_playlist_to_hungama_negative_text">Niet synchroniseren</string>
     <string name="upload_playlist_to_hungama_positive_text">Synchroniseren</string>
-    <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar Hungama om ze te kunnen openen op andere apparaten waarop u uw Xiaomi Account gebruikt.</string>
-    <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met Hungama</string>
+    <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar hungama om ze te kunnen openen op andere apparaten waarop u uw Xiaomi Account gebruikt.</string>
+    <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Mi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
@@ -1512,6 +1531,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="user_agreement_hint_with_mobile">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>Ik heb de Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Ik heb Mi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals de &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_avatar_update_title">Profielfoto wijzigen</string>
     <string name="user_avatar_uploading">Een ogenblik geduld…</string>
     <string name="user_experience_program_open">Vanwege copyrightbeperkingen moet u zich inschrijven voor het Gebruikerservaringprogramma om gedownloade nummers te kunnen afspelen. U kunt dit doen in Instellingen > Wachtwoorden en beveiliging > Privacy > Schrijf u in voor Gebruikerservaringprogramma.</string>
@@ -1533,7 +1553,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="video_retry_btn">Opnieuw proberen</string>
     <string name="view_album">Album bekijken</string>
     <string name="vip_required">Haal het Premium Nummerspakket om dit nummer af te spelen. Het nummer wordt nu overgeslagen.</string>
-    <string name="vip_required_with_song">%s is alleen beschikbaar voor PRO-leden. Sloeg deze nummers over.</string>
+    <string name="vip_required_with_song">%s is alleen beschikbaar voor Gouden leden. Heb dit nummer even overgeslagen.</string>
     <string name="voice_search_first_hint">Probeer spraakgestuurd zoeken uit!</string>
     <string name="watch_video">Bekijk video</string>
     <string name="wednesday">Woensdag</string>
@@ -1549,5 +1569,16 @@ Tik%s  om deze download te starten als u de volgende keer met een Wi-Fi netwerk 
     <string name="yesterday">Gisteren</string>
     <string name="you_can_switch_mode_in_settings">U kunt tussen modi wisselen in de Instellingen</string>
     <string name="you_may_like">Misschien vindt u dit ook leuk</string>
+    <string name="youtube_download_canl">Annuleren</string>
+    <string name="youtube_download_fail_net">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="youtube_download_fail_source">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="youtube_download_fail_space">Kon niet downloaden. Niet genoeg opslagruimte.</string>
+    <string name="youtube_download_fail_unknown">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="youtube_download_hint">De audio van deze video wordt op uw apparaat opgeslagen in MP3-formaat met de videotitel als bestandsnaam. Nu downloaden?</string>
+    <string name="youtube_download_ing">Een ogenblik geduld…</string>
+    <string name="youtube_download_start">Downloaden</string>
+    <string name="youtube_download_suc">Succesvol gedownload</string>
     <string name="youtube_play_history">Afspeelgeschiedenis</string>
+    <string name="youtube_share_guide_tip">"U kunt nu video's delen met vrienden"</string>
+    <string name="youtube_tab_explore">Ontdek</string>
 </resources>

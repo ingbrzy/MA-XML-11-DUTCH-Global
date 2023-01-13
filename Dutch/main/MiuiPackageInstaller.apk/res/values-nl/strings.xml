@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
@@ -190,6 +191,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -216,12 +218,15 @@
     <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
+    <string name="network_error_info">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="network_timeout_info">Kan geen verbinding met het netwerk maken. Probeer het opnieuw.</string>
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="password_toggle_content_description">Wachtwoord tonen</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
+    <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="saturday">Zaterdag</string>
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
@@ -239,6 +244,7 @@
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
+    <string name="system_error_info">Systeem is bezet. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -290,6 +296,7 @@
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
+    <string name="unknown_error_info">Onbekende fout</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="wednesday">Woensdag</string>

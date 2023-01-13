@@ -40,6 +40,10 @@
         <item quantity="other">%d resultaten gevonden</item>
         <item quantity="one">%d resultaat gevonden</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d mensen</item>
+        <item quantity="one">%d persoon</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>

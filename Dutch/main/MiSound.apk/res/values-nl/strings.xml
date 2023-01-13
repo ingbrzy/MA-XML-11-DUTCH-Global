@@ -150,7 +150,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">De test zal ongeveer 3 minuten duren.</string>
+    <string name="four_note">De test duurt ongeveer %d minuten om te voltooien.</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
@@ -270,6 +270,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -307,7 +308,7 @@
     <string name="music_audio_effect_settings">Effecten instellingen</string>
     <string name="music_audio_visual_wake_lock">Houd het scherm wakker</string>
     <string name="music_audio_visual_wake_lock_summary">Schakel het scherm niet uit wanneer visuele effecten worden weergegeven</string>
-    <string name="music_below_thirty_years">Tot 30 jaar</string>
+    <string name="music_below_thirty_years">Tot %d jaar oud</string>
     <string name="music_customized_sound_summary">Pas het volume aan aan de hand van uw auditieve perceptie</string>
     <string name="music_customized_sound_title">Volume aanpassing</string>
     <string name="music_delete">Verwijderen</string>
@@ -404,10 +405,10 @@
     <string name="music_sound_num">Aangepaste preset %s</string>
     <string name="music_sound_sample">Systeem presets</string>
     <string name="music_sure_to_delete_sound_msg">Geselecteerde presets nu verwijderen?</string>
-    <string name="music_thirty_to_sixty_years">30-60 jaar</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d jaar oud</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">USB-headsets niet ondersteund</string>
-    <string name="music_upper_sixty_years">Ouder dan 60 jaar</string>
+    <string name="music_upper_sixty_years">Meer dan %d jaar oud</string>
     <string name="name">Naam</string>
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>
@@ -512,7 +513,8 @@
     <string name="sound_transmission_start">Starten</string>
     <string name="sound_transmission_stop">Pauzeren</string>
     <string name="sound_transmission_title">Draadloze microfoon</string>
-    <string name="spatial_audio_summary">Pas meeslepend geluid aan op basis van hoofdbeweging</string>
+    <string name="spatial_audio">Meeslepend geluid</string>
+    <string name="spatial_audio_summary">Ervaar onderdompeling en een gevoel van ruimte wanneer audio wordt afgespeeld via oortelefoons</string>
     <string name="speaker_scenario_resume">Herstel originele effecten</string>
     <string name="start_test_sound">Test starten</string>
     <string name="status_bar_notification_info_overflow">999+</string>

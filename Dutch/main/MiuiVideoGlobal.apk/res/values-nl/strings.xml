@@ -7,7 +7,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -63,6 +63,10 @@
     <string name="account_user_phone">Telefoonnummer voor herstel</string>
     <string name="account_user_region">Regio</string>
     <string name="action_add_phone">Telefoonnummer toevoegen</string>
+    <string name="action_setting_ab_playing">In een lus…</string>
+    <string name="action_setting_ab_reset">Resetten</string>
+    <string name="action_setting_ab_set_end">Eindpunt instellen</string>
+    <string name="action_setting_ab_set_start">Startpunt instellen</string>
     <string name="action_update_phone">Telefoonnummer wijzigen</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="activate_email_notice">Zorg ervoor dat u uw account binnen 24 uur activeert</string>
@@ -135,6 +139,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -180,6 +185,7 @@
     <string name="cloud_online_player">Speler</string>
     <string name="cloud_online_switch">Gepersonaliseerde aanbevelingen</string>
     <string name="cloud_online_switch_open_time">Toon aanbevelingen voor gepersonaliseerde inhoud</string>
+    <string name="cmp_tier_privacy_policy">Privacybeleid van externe partijen</string>
     <string name="collect_diagnosis_log">Logbestanden verzamelen</string>
     <string name="columbus_ad_flag_text">Advertentie</string>
     <string name="columbus_skip_ad">Overslaan</string>
@@ -268,8 +274,11 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_clearn_title">Geschiedenis wissen</string>
     <string name="dialog_confirm">OK</string>
     <string name="dialog_delete_bookmarks_content">Bladwijzer nu verwijderen?</string>
+    <string name="dialog_disagree_continue">Doorgaan</string>
+    <string name="dialog_disagree_info">"Als u niet akkoord gaat met het Mi Video Privacybeleid, kunt u onze online services niet gebruiken en kunt u alleen video's bekijken die op uw apparaat zijn opgeslagen. Toch doorgaan?"</string>
     <string name="dialog_disagree_privacychange_info">U kunt de online streamingdiensten van Mi Video niet gebruiken als u niet akkoord gaat met ons Privacybeleid. Tik op \"Annuleren\" om terug te gaan of op \"Niet akkoord\" om door te gaan en Mi Video alleen als lokale speler te gebruiken.</string>
     <string name="dialog_disagree_privacychange_title">Niet akkoord?</string>
+    <string name="dialog_disagree_title">Privacybeleid</string>
     <string name="dialog_edit_bookmarks">Bladwijzer bewerken</string>
     <string name="dialog_edit_hint_bookmarks_name">Bladwijzernaam</string>
     <string name="dialog_edit_hint_bookmarks_url">URL</string>
@@ -329,7 +338,6 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="download_paused">Gepauzeerd</string>
     <string name="download_pending">In de wachtrij…</string>
     <string name="download_power_off_tips">Deze functie is nu niet beschikbaar</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_retry">Opnieuw proberen</string>
     <string name="download_unable_tip">Kan dit item niet downloaden</string>
     <string name="download_video">Video downloaden</string>
@@ -346,23 +354,39 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="evening">Middag</string>
     <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al verbonden aan een andere Mi Account.</string>
     <string name="exit">Sluiten</string>
+    <string name="exo_controls_cc_disabled_description">Ondertiteling aanzetten</string>
+    <string name="exo_controls_cc_enabled_description">Ondertiteling uitzetten</string>
     <string name="exo_controls_fastforward_description">Vooruitspoelen</string>
-    <string name="exo_controls_fullscreen_description">"Modus 'Volledig scherm'"</string>
-    <string name="exo_controls_next_description">Volgende track</string>
+    <string name="exo_controls_fullscreen_enter_description">Volledig scherm openen</string>
+    <string name="exo_controls_fullscreen_exit_description">Volledig scherm sluiten</string>
+    <string name="exo_controls_hide">Afspeelbediening verbergen</string>
+    <string name="exo_controls_next_description">Volgende</string>
+    <string name="exo_controls_overflow_hide_description">Aanvullende instellingen verbergen</string>
+    <string name="exo_controls_overflow_show_description">Aanvullende instellingen tonen</string>
     <string name="exo_controls_pause_description">Pauzeren</string>
     <string name="exo_controls_play_description">Afspelen</string>
-    <string name="exo_controls_previous_description">Vorige track</string>
+    <string name="exo_controls_playback_speed">Snelheid</string>
+    <string name="exo_controls_playback_speed_normal">Normaal</string>
+    <string name="exo_controls_previous_description">Vorige</string>
     <string name="exo_controls_repeat_all_description">Alles herhalen</string>
     <string name="exo_controls_repeat_off_description">Niets herhalen</string>
     <string name="exo_controls_repeat_one_description">Eén herhalen</string>
     <string name="exo_controls_rewind_description">Terugspoelen</string>
-    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_seek_bar_description">Afspeelvoortgang</string>
+    <string name="exo_controls_settings_description">Instellingen</string>
+    <string name="exo_controls_show">Afspeelbediening tonen</string>
+    <string name="exo_controls_shuffle_off_description">Shuffle uit</string>
+    <string name="exo_controls_shuffle_on_description">Shuffle aan</string>
     <string name="exo_controls_stop_description">Stoppen</string>
+    <string name="exo_controls_vr_description">VR-modus</string>
     <string name="exo_download_completed">Downloaden voltooid</string>
     <string name="exo_download_description">Downloaden</string>
     <string name="exo_download_downloading">Downloaden</string>
     <string name="exo_download_failed">Downloaden mislukt</string>
     <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
@@ -371,6 +395,10 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatief</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Commentaar</string>
+    <string name="exo_track_role_supplementary">Aanvullend</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Geen</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -390,6 +418,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="fallback_menu_item_copy_link">Link kopiëren</string>
     <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
     <string name="fallback_menu_item_share_link">Link delen</string>
+    <string name="fast_channel_popular">Populaire kanalen</string>
     <string name="favor_movie">Films</string>
     <string name="favor_online_video">"Video's"</string>
     <string name="favor_playlist">Afspeellijsten</string>
@@ -399,6 +428,18 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="favorite_fail">Kon niet aan favorieten toevoegen. Probeer het opnieuw.</string>
     <string name="favorite_success">Succesvol aan favorieten toegevoegd</string>
     <string name="fcm_push_title">"Populaire video's"</string>
+    <string name="fcmpts_dialog_continue">Kijk</string>
+    <string name="fcmpts_dialog_not_interested">Nee, bedankt</string>
+    <string name="fcmpts_dialog_two" formatted="false">Kijk nog %d seconden %d extra video om een Mi Store coupon te verdienen</string>
+    <string name="fcmpts_popup_final">Succesvol geclaimd! Tik om beloningen in te wisselen.</string>
+    <string name="fcmpts_popup_final_redeem">Inwisselen</string>
+    <string name="fcmpts_popup_four" formatted="false">Succesvol geclaimd! Kijk nog %d seconden %d extra video om een Mi Store coupon te verdienen.</string>
+    <string name="fcmpts_popup_one" formatted="false">"Kijk vandaag nog %d video's om een Mi Store coupon van %d punten te verdienen"</string>
+    <string name="fcmpts_popup_one_cts">Kijk</string>
+    <string name="fcmpts_popup_three" formatted="false">%d seconden bekeken. U hebt %d punten verdiend!</string>
+    <string name="fcmpts_popup_three_claim">Claimen</string>
+    <string name="fcmpts_popup_three_login_claim">Inloggen</string>
+    <string name="fcmpts_popup_two" formatted="false">Kijk deze video voor %d seconden om %d punten te verdienen</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Voer uw contactinformatie in</string>
@@ -662,7 +703,7 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="incentive_exchange_lack">Niet beschikbaar</string>
     <string name="incentive_exchange_successful">Succesvol ingewisseld</string>
     <string name="incentive_exchange_tip">Deze punten zijn alleen vandaag beschikbaar</string>
-    <string name="incentive_login_for_claim">Log in op uw Google account om punten te claimen</string>
+    <string name="incentive_login_for_claim">Log in op uw Google-account om punten te claimen</string>
     <string name="incentive_login_success_for_already_claimd">Succesvol ingelogd. Punten geclaimd.</string>
     <string name="incentive_login_tip">Log in om punten te verdienen en beloningen te krijgen</string>
     <string name="incentive_my_points">Mijn punten</string>
@@ -1029,6 +1070,7 @@ voor video's"</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1112,6 +1154,7 @@ voor video's"</string>
     <string name="online_play_start_ready_loading_tip_kb">Laden %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Laden %.2f MB/s</string>
     <string name="online_play_title">Voer URL in</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="out_of_memory_background_playback_is_suspended">Afspelen op de achtergrond onderbroken vanwege onvoldoende geheugen</string>
@@ -1330,7 +1373,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Afspeellijst maken</string>
     <string name="play_list_save_dialog_title">Aan afspeellijst toevoegen</string>
-    <string name="play_list_sign_in_dialog_message">Log in met uw Google Account om al uw afspeellijsten te bekijken.</string>
+    <string name="play_list_sign_in_dialog_message">Log in met uw Google-account om al uw afspeellijsten te bekijken.</string>
     <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
     <string name="play_list_user_local">Lokaal</string>
     <string name="play_list_user_online">Online</string>
@@ -1463,6 +1506,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="plus_shortcut_existed">Deze snelkoppeling bestaat al</string>
     <string name="plus_sort_title">Sorteren</string>
     <string name="plus_sort_type_default">Standaard</string>
+    <string name="plus_sort_type_duration">Lengte</string>
     <string name="plus_sort_type_name">Naam</string>
     <string name="plus_sort_type_size">Grootte</string>
     <string name="plus_sort_type_time">Tijd</string>
@@ -1508,6 +1552,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="recommend_online_switch">Online aanbevelingen</string>
     <string name="recommend_online_tips">Schakel in om online video aanbevelingen te ontvangen</string>
     <string name="recommend_page_replay">OPNIEUW AFSPELEN</string>
+    <string name="recommend_slide_to_more">Veeg voor meer</string>
     <string name="recommend_switch_alert">Om deze sectie te verwijderen, ga naar instellingen in Mi Video</string>
     <string name="recommend_to_you">Aanbevolen voor jou</string>
     <string name="reload_sub_title">Tik om opnieuw te proberen.</string>
@@ -1591,7 +1636,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="show_the_location">Soorten meldingen</string>
     <string name="sign_in">Aanmelden</string>
     <string name="sign_in_google_account">Aanmelden met Google</string>
-    <string name="sign_in_google_account_hint">"Log in op uw Google Account om meer video's te zien die u leuk vindt"</string>
+    <string name="sign_in_google_account_hint">"Log in op uw Google-account om meer video's te zien die u leuk vindt"</string>
     <string name="sign_in_mi_account">Aanmelden met Xiaomi Account</string>
     <string name="sign_in_progress">Aanmelden…</string>
     <string name="sign_in_title">Log in met je Mi-account</string>
@@ -1609,6 +1654,7 @@ De beveiliging van uw account verbeteren."</string>
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
     <string name="start_download_tip">Toegevoegd aan wachtrij. Bekijk de voortgang in Profiel > Downloads.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
     <string name="submit">Indienen</string>
@@ -1617,12 +1663,12 @@ De beveiliging van uw account verbeteren."</string>
     <string name="subscribe_author_recommend_title">"Abonneer u om de nieuwste video's van deze makers te zien"</string>
     <string name="subscribe_dialog_import_agree">Importeren</string>
     <string name="subscribe_dialog_import_cancel">Annuleren</string>
-    <string name="subscribe_dialog_import_content">Importeer uw Mi Video abonnementen naar uw Google Account om al uw abonnementen op één plek te hebben. U kunt ze allemaal bekijken op Mi Video. Nu importeren?</string>
-    <string name="subscribe_dialog_import_title">Importeren naar Google Account</string>
+    <string name="subscribe_dialog_import_content">Importeer uw Mi Video abonnementen naar uw Google-account om al uw abonnementen op één plek te hebben. U kunt ze allemaal bekijken op Mi Video. Nu importeren?</string>
+    <string name="subscribe_dialog_import_title">Importeren naar Google-account</string>
     <string name="subscribe_error_toast">Kon niet abonneren</string>
     <string name="subscribe_import_hint_btn">Importeren</string>
-    <string name="subscribe_import_hint_content">Abonnementen importeren naar uw Google Account</string>
-    <string name="subscribe_login_for_video">Log in op uw Google Account om al uw abonnementen te bekijken</string>
+    <string name="subscribe_import_hint_content">Abonnementen importeren naar uw Google-account</string>
+    <string name="subscribe_login_for_video">Log in op uw Google-account om al uw abonnementen te bekijken</string>
     <string name="subscribed">GEABONNEERD</string>
     <string name="subscriptions">Abonnementen</string>
     <string name="subtitle_add_subtitle_failed">Kon ondertiteling niet toevoegen. Controleer of het bestand niet beschadigd is.</string>
@@ -1741,12 +1787,14 @@ De beveiliging van uw account verbeteren."</string>
     <string name="tip_subscribe_guide_hint_a">Makers van uw Google-abonnementen bekijken</string>
     <string name="tip_subscribe_guide_hint_b">Bekijk updates van de YouTube-kanalen waarop u bent geabonneerd zonder advertenties</string>
     <string name="tip_tap_download_button">%d. Tik op \"Downloaden\"</string>
+    <string name="title_ab_loop">A-B-loop</string>
     <string name="title_bookmarks">Bladwijzers</string>
     <string name="title_continue_to_borwser">Openen in browser</string>
     <string name="title_download_setting">Instellingen downloaden</string>
     <string name="title_history">Geschiedenis</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (Aflevering %d)</string>
     <string name="title_mangotv_subtitle_language">Ondertitelingstaal</string>
+    <string name="title_more_wonderful_smallvideo">"Meer korte video's"</string>
     <string name="title_publisher">Makers</string>
     <string name="title_select_directory">Map selecteren</string>
     <string name="title_selected">Geselecteerd</string>
@@ -1879,6 +1927,11 @@ De beveiliging van uw account verbeteren."</string>
     <string name="welcome_tip_into_mivideo">Aan de slag</string>
     <string name="welcome_tip_skip">Overslaan</string>
     <string name="welcome_tip_title">Welkom bij Mi Video</string>
+    <string name="widget_add_dialog_button_add">Toevoegen</string>
+    <string name="widget_add_dialog_button_cancel">Annuleren</string>
+    <string name="widget_add_dialog_desc_local">Met deze widget kunt u audio- en videobestanden afspelen die op uw apparaat zijn opgeslagen met één tik vanaf uw Startscherm. Nu toevoegen?</string>
+    <string name="widget_add_dialog_desc_online">"Met deze widget kunt u de populaire video's van vandaag bekijken met één tik vanaf uw Startscherm. Nu toevoegen?"</string>
+    <string name="widget_add_dialog_title">Widget toevoegen</string>
     <string name="widget_local_video">"Lokale video's"</string>
     <string name="widget_local_video_click">"Tik om video's te bekijken die op uw apparaat zijn opgeslagen"</string>
     <string name="widget_more_channel">Meer kanalen</string>

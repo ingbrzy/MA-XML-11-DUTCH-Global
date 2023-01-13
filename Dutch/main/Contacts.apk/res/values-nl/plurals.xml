@@ -168,6 +168,10 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d gemiste oproepen</item>
+        <item quantity="one">%d gemiste oproep</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d geselecteerd</item>
         <item quantity="one">%1$d geselecteerd</item>

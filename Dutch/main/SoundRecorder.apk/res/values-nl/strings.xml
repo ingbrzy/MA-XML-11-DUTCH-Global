@@ -300,6 +300,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -653,7 +654,7 @@ Tik op \"%1$s\" en selecteer vervolgens \"%2$s\"."</string>
     <string name="toast_uninstall_fileexplorer">Bestandsbeheer is niet geïnstalleerd</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
-    <string name="trash_box">Onlangs verwijderde items</string>
+    <string name="trash_box">Recent verwijderde items</string>
     <string name="trash_box_close_tip">Sluit prompt</string>
     <string name="trash_box_delete_all">Alle items definitief uit de prullenbak verwijderen?</string>
     <string name="tuesday">Dinsdag</string>

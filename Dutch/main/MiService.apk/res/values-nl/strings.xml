@@ -32,6 +32,7 @@
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="copy">Kopiëren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -105,6 +106,7 @@
     <string name="icon_remove_description_content">\"Services en feedback\" is een systeem-app. U kunt het nog steeds gebruiken via Instellingen nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="icon_remove_description_title">\"Services en feedback\" verwijderen uit het Startscherm?</string>
     <string name="mi_service_app_name">Services en feedback</string>
+    <string name="mi_service_back">Terug</string>
     <string name="midnight">Nacht</string>
     <string name="miservice_channel_update_notification_info">\"Services en feedback\" verzoekt online data…</string>
     <string name="miservice_notification_boot_content">Meer informatie over wat MIUI kan doen</string>
@@ -114,7 +116,7 @@
     <string name="miservice_notification_open_feedback_title">Introductie van \"Services en feedback\"</string>
     <string name="miservice_notification_scan_content">Gebruik Scanner om woorden en zinnen te vertalen</string>
     <string name="miservice_notification_scan_title">Vertaal in een handomdraai</string>
-    <string name="miui_feedback_answer_detail_community">Je kunt antwoorden op je vragen vinden in Mi Community</string>
+    <string name="miui_feedback_answer_detail_community">U kunt antwoorden op uw vragen vinden in Xiaomi Community</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Ja</string>
     <string name="miui_feedback_answer_detail_feedback_result">Bedankt voor uw feedback!</string>
     <string name="miui_feedback_answer_detail_feedback_title">Was deze informatie nuttig?</string>
@@ -180,9 +182,8 @@
     <string name="miui_feedback_edit_title_reproductivity">Reproduceerbaarheid selecteren</string>
     <string name="miui_feedback_edit_toast_description_required">Beschrijf eerst het probleem</string>
     <string name="miui_feedback_edit_toast_module_required">Selecteer item</string>
-    <string name="miui_feedback_edit_toast_more_desc_required">Uw omschrijving zou langer moeten zijn</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">Uw beschrijving zou wat langer mogen zijn</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Categorie selecteren</string>
-    <string name="miui_feedback_edit_toast_screenshot_too_large">"Afbeeldingen of video's groter dan 100MB kunnen niet worden geüpload"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Vul naam van de app in</string>
     <string name="miui_feedback_main_answer_title">Er is een antwoord op deze vraag</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Klantenservice: 0120-300-521
@@ -205,15 +206,6 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_title">Feedback</string>
     <string name="miui_feedback_main_withdraw">Intrekken</string>
     <string name="miui_feedback_main_withdraw_consent_hint">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van %1$s in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien %2$s zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van toestemming beschouwd als een weigering om %3$s diensten te accepteren. Toestemming nu intrekken?</string>
-    <string name="miui_guide_accessibility_image_desc">Afbeelding</string>
-    <string name="miui_guide_clear_db_service">\"Services en feedback\" wissen de taalcache…</string>
-    <string name="miui_guide_footer_desc">"Beginnershandleiding is ontworpen om u te helpen meer te weten te komen over uw apparaat en MIUI. Sommige afbeeldingen en video/'s in de handleiding zijn alleen ter referentie gemaakt en kunnen afwijken van het daadwerkelijke product. De functies die in deze handleiding worden beschreven, kunnen verschillen, afhankelijk van uw apparaatmodel, MIUI-versie en gebruiksomgeving."</string>
-    <string name="miui_guide_item_complete">Voltooid</string>
-    <string name="miui_guide_item_new">Nieuw</string>
-    <string name="miui_guide_item_progress">%1$d/%2$d voltooid</string>
-    <string name="miui_guide_menu_privacy">Privacybeleid</string>
-    <string name="miui_guide_top_bar_sub_title">Ontdek wat MIUI kan doen</string>
-    <string name="miui_guide_top_bar_title">Beginnershandleiding</string>
     <string name="miui_main_back">Terug</string>
     <string name="miui_main_bottom_bar_feedback">Feedback</string>
     <string name="miui_main_bottom_bar_guide">Beginnershandleiding</string>
@@ -222,6 +214,10 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="miui_main_control_center_desc">Of schakel over naar de oude versie in Instellingen > Meldingen en Controlecentrum</string>
     <string name="miui_main_control_center_open">Nieuwe Controlecentrum</string>
     <string name="miui_main_control_center_title">Veeg om te schakelen tussen het Meldingenpaneel en het Controlecentrum</string>
+    <string name="miui_main_icon_callback">Startscherm snelkoppeling</string>
+    <string name="miui_main_icon_callback_create">Creëren</string>
+    <string name="miui_main_icon_callback_desc">Een Startscherm snelkoppeling nu creëren?</string>
+    <string name="miui_main_icon_callback_nocreate">Annuleren</string>
     <string name="miui_main_mirror_tab_desc1">Automatisch verbinden</string>
     <string name="miui_main_mirror_tab_desc2">Bekijk afbeeldingen op een groter scherm</string>
     <string name="miui_main_mirror_tab_desc3">Deel bestanden in een handomdraai</string>
@@ -325,7 +321,7 @@ E-mail: service.jp@xiaomi.com"</string>
     <string name="permission_china_version_msg">&lt;Data>Voordat u \"Services en feedback\" gebruikt, moet u lezen en ermee akkoord gaan met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>. Deze app heeft ook verbinding met het internet nodig om normaal te functioneren.&lt;/Data></string>
     <string name="permission_complete">Gereed</string>
     <string name="permission_contacts_info">Toegang tot account info</string>
-    <string name="permission_contacts_introduce">Om aan te melden met Mi Account</string>
+    <string name="permission_contacts_introduce">Om aan te melden met Xiaomi Account</string>
     <string name="permission_device_info">Toegang tot apparaat info</string>
     <string name="permission_device_introduce">Voor het bepalen van een beperkte garantieperiode</string>
     <string name="permission_exit">Sluiten</string>

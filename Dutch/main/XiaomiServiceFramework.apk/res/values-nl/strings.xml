@@ -3,7 +3,7 @@
     <string name="accept">OK</string>
     <string name="app_name">Xiaomi service kader</string>
     <string name="error_device_id_message">"Ongeldig apparaat-ID: %s
-Apparaat-ID moet een geldig IMEI- of MAC-adres zijn. Zonder apparaat-ID zijn sommige Mi Account en Xiaomi Cloud-functies niet beschikbaar."</string>
+Apparaat-ID moet een geldig IMEI- of MAC-adres zijn. Zonder apparaat-ID zijn sommige Xiaomi Account en Xiaomi Cloud-functies niet beschikbaar."</string>
     <string name="error_device_id_title">Kan apparaat-ID niet valideren</string>
     <string name="explain_send_sms_permission_button">Verifieer</string>
     <string name="explain_send_sms_permission_msg">Om %s in te schakelen zal Xiaomi Service Framework een SMS versturen om uw telefoonnummer te verifiëren. U betaalt de reguliere kosten van een SMS aan uw provider.</string>

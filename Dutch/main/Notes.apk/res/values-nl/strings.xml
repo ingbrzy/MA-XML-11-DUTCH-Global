@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="access_denied_info">Te veel pogingen. Wacht een paar minuten en probeer het opnieuw.</string>
+    <string name="access_photos_and_videos">"Toegang tot foto's en video's"</string>
     <string name="action_collapse">Verbergen</string>
     <string name="action_expand">Meer tonen</string>
     <string name="action_folder_description">Mappen bekijken</string>
@@ -41,7 +42,7 @@
     <string name="actionbar_button_up_description">Terug</string>
     <string name="actionbar_close_description">Afsluiten</string>
     <string name="actionbar_home_description">Vorige</string>
-    <string name="add_account_desc">Uw notities synchroniseren met uw Mi Account?</string>
+    <string name="add_account_desc">Uw notities synchroniseren met uw Xiaomi Account?</string>
     <string name="afternoon">Middag</string>
     <string name="alarm_bar_title">Herinnering</string>
     <string name="alert_action_edit_anyway">Blijf bewerken</string>
@@ -61,6 +62,9 @@
     <string name="app_name">Notities</string>
     <string name="app_notification_info">Notities wordt op de achtergrond uitgevoerd</string>
     <string name="app_widget">Opmerkingen</string>
+    <string name="app_widget_name_create_note">Notities aanmaken</string>
+    <string name="app_widget_name_create_todo">Taken aanmaken</string>
+    <string name="app_widget_name_fast_entry">Snelkoppelingen</string>
     <string name="app_widget_name_new">Notities</string>
     <string name="application_icon">App-icoon</string>
     <string name="audio_btn_mode_meeting">Vergadering</string>
@@ -193,7 +197,7 @@
     <string name="empty_folder_import_notes">Notities importeren</string>
     <string name="empty_folder_no_notes">Geen notities hier</string>
     <string name="enable_sync">Sync</string>
-    <string name="enable_sync_desc">Uw notities synchroniseren met uw Mi Account (%1$s)?</string>
+    <string name="enable_sync_desc">Uw notities synchroniseren met uw Xiaomi Account (%1$s)?</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="error_contact_not_exist">Het contact bestaat niet</string>
@@ -498,6 +502,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -532,6 +537,7 @@
     <string name="new_audio_create_guide_tip">Houd ingedrukt om een spraaknotitie te maken</string>
     <string name="new_audio_create_talkback_des">Tik om een tekstnotitie te maken. Houd ingedrukt om een spraaknotitie te maken. Laat de knop los om de opname te stoppen en de notitie te maken, of schuif omhoog om te annuleren.</string>
     <string name="new_data_empty_note">Nog geen items hier</string>
+    <string name="new_lite_audio_create_talkback_des">Tik om een notitie te maken</string>
     <string name="night">Avond</string>
     <string name="no_network">Kan geen verbinding maken met het netwerk</string>
     <string name="noon">Tussen de middag</string>
@@ -563,6 +569,7 @@
     <string name="note_write_hint">Begin met schrijven</string>
     <string name="notealert_enter">Open notitie</string>
     <string name="notealert_ok">Afwijzen</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Notes is een systeem-app. U kunt deze app niet gebruiken nadat u deze heeft verwijderd.</string>
     <string name="notes_description_title">Notities deïnstalleren?</string>
     <string name="notification_content_add_todo_from_other_app">U heeft een nieuwe taak toegevoegd. Tik om te bekijken.</string>
@@ -623,6 +630,8 @@
     <string name="permission_microphone_desc">Voor het opnemen van spraaknotities</string>
     <string name="permission_network_for_cloud_desc">Om notities te synchroniseren met de cloud, heeft u verbinding met het internet nodig. Mobiele data kan gebruikt worden om items te synchroniseren. Nu verbinding maken?</string>
     <string name="permission_phone_state_desc">Voor het stoppen van het opnemen van spraaknotities tijdens gesprekken</string>
+    <string name="permission_photos_desc">Voor het toevoegen van afbeeldingen aan notities</string>
+    <string name="permission_photos_desc_pad">Voor het toevoegen van afbeeldingen aan notities</string>
     <string name="permission_read_contact_desc">De notities die gemaakt zijn tijdens gesprekken met contacten hier aan koppelen</string>
     <string name="permission_storage_desc">Voor het opslaan van notities als afbeeldingen</string>
     <string name="permission_storage_desc_new_v12">Voor het toevoegen van afbeeldingen aan notities en het opslaan van notities als afbeeldingen</string>
@@ -725,6 +734,7 @@
     <string name="search_setting_description">Zoek tekst in uw notities</string>
     <string name="select_account_prompt">Notities synchroniseren</string>
     <string name="send">Verzenden</string>
+    <string name="send_notifications_for_reminder">Voor het versturen van herinneringen</string>
     <string name="set_alarm_description">Alarm instellen</string>
     <string name="setting_big_screen_layout_columns">Zijbalk</string>
     <string name="setting_big_screen_layout_flat">Tegels</string>
@@ -868,6 +878,7 @@ Sta Notities toe om uw contacten te lezen en accounts te vinden op het apparaat.
 Sta Notities toe om de inhoud van uw SD-kaart te lezen."</string>
     <string name="toast_refuse_to_use_phone_state">"Telefoon toestemmingen zijn beperkt.
 Sta Notities toe de telefoonstatus en identiteit te lezen."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">"Geef deze app toegang tot uw foto's om afbeeldingen aan notities toe te kunnen voegen"</string>
     <string name="toast_refuse_to_use_record_audio">"Microfoon toestemmingen zijn beperkt.
 Sta Notities toe om audio op te nemen."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Geef Notities toegang tot opslag om afbeeldingen aan uw notities toe te voegen</string>
@@ -974,6 +985,9 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
+    <string name="widget_all_notes_name">Alle notities</string>
+    <string name="widget_all_todo_name">Alle taken</string>
+    <string name="widget_click_check">Tik om te bekijken</string>
     <string name="widget_content_loading">Een ogenblik geduld…</string>
     <string name="widget_create_select_size">Grootte selecteren</string>
     <string name="widget_empty_content">Tik om een notitie te selecteren</string>
@@ -990,5 +1004,7 @@ Sta Notities toe om audio op te nemen."</string>
     <string name="widget_size_item_super_big">Extra groot</string>
     <string name="widget_size_not_support">Extra grote widgets worden niet ondersteund op dit apparaat</string>
     <string name="widget_take_notes_title">Notities</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="yesterday">Gisteren</string>
 </resources>

@@ -7,7 +7,6 @@
 Als je de back-up niet zelf hebt aangevraagd, moet je niet toestaan dat de bewerking wordt uitgevoerd."</string>
     <string name="backup_confirm_title">Volledige back-up</string>
     <string name="backup_enc_password_optional">Als je de gegevens van de volledige back-up wilt versleutelen, geef je daarvoor hieronder een wachtwoord op:</string>
-    <string name="backup_enc_password_required">Aangezien je apparaat is gecodeerd, moet je je back-up coderen. Geef hieronder een wachtwoord op:</string>
     <string name="backup_enc_password_text">Geef een wachtwoord op dat je wilt gebruiken voor het coderen van de gegevens van de volledige back-up. Als je dit leeg laat, wordt je huidige back-upwachtwoord gebruikt:</string>
     <string name="current_password_text">Geef hieronder je huidige back-upwachtwoord op:</string>
     <string name="deny_backup_button_label">Geen back-up maken</string>

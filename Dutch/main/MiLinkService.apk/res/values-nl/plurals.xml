@@ -36,6 +36,14 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">%1$d apparaten</item>
+        <item quantity="one">%1$d apparaat</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">%1$d apparaten</item>
+        <item quantity="one">%1$d apparaat</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -63,6 +71,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>

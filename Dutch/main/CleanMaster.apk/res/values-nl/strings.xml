@@ -193,9 +193,9 @@
     <string name="close">Sluiten</string>
     <string name="columbus_ad_flag_text">Advertentie</string>
     <string name="columbus_skip_ad">Overslaan</string>
-    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_button">Aanzetten</string>
     <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
-    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
     <string name="common_google_play_services_install_button">Installeren</string>
     <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
     <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
@@ -215,6 +215,7 @@
     <string name="conn_of_function_safe">Netwerkverbinding voor veiligheid</string>
     <string name="connecting">Verbinden…</string>
     <string name="copy">Kopiëren</string>
+    <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -301,6 +302,7 @@
     <string name="download">Downloaden</string>
     <string name="downloading">Downloaden</string>
     <string name="early_morning">Ochtend</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Leeg</string>
     <string name="empty_content_no_privacy">Leeg</string>
     <string name="empty_content_no_similar_image">"Geen foto's"</string>
@@ -318,6 +320,15 @@
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
+    <string name="exo_download_completed">Downloaden voltooid</string>
+    <string name="exo_download_description">Downloaden</string>
+    <string name="exo_download_downloading">Downloaden</string>
+    <string name="exo_download_failed">Downloaden mislukt</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
+    <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="facebook_clean_exit_confirm_cancel">Doorgaan met scannen</string>
     <string name="facebook_clean_exit_confirm_msg">Facebook is nog niet volledig gescand. Toch stoppen?</string>
@@ -328,6 +339,9 @@
     <string name="facebook_group_gif">Gifs</string>
     <string name="facebook_group_image">Afbeeldingen</string>
     <string name="facebook_group_video">"Video's"</string>
+    <string name="fallback_menu_item_copy_link">Link kopiëren</string>
+    <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
+    <string name="fallback_menu_item_share_link">Link delen</string>
     <string name="file">Bestanden</string>
     <string name="file_not_found">Bestand niet gevonden</string>
     <string name="flow_rank_title">Datagebruik</string>
@@ -477,6 +491,7 @@
     <string name="hints_garbage_cleanup_result_safe">Alles ziet er goed uit</string>
     <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Leeg</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Bijna nooit gebruikt</string>
     <string name="hints_installed_app_near">Recent gebruikt</string>
     <string name="hints_installed_app_never">Nooit gebruikt</string>

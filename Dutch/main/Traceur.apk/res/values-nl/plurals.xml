@@ -4,12 +4,4 @@
         <item quantity="other">%d nieuwe meldingen</item>
         <item quantity="one">%d nieuwe melding</item>
     </plurals>
-    <plurals name="num_categories_selected">
-        <item quantity="other">%d geselecteerd</item>
-        <item quantity="one">%d geselecteerd</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d apparaten verbonden</item>
-        <item quantity="one">%1$d apparaat verbonden</item>
-    </plurals>
 </resources>

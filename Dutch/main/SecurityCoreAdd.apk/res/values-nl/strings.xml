@@ -43,6 +43,7 @@ zal deze functie automatisch ook aan Tweede ruimte worden toegevoegd."</string>
     <string name="air_space_exit">Verlaat ruimte</string>
     <string name="air_space_setting">Ruimte-instellingen</string>
     <string name="airspace_users_full">Kon niet meer werkruimte aanmaken</string>
+    <string name="alwaysUsePrompt">Mijn keuze onthouden</string>
     <string name="am">AM</string>
     <string name="appData">Geïnstalleerde apps</string>
     <string name="app_name">Beveiliging kerncomponent</string>
@@ -264,8 +265,7 @@ Zorg dat de naam van uw organisatie correct is. Lees en ga akkoord met het gerel
     <string name="green_guard_title3">Apps beheren</string>
     <string name="greenguard_child_des">Beheer de apparaten van uw vrienden en familie</string>
     <string name="greenguard_child_des_title">Scan QR-code om apparaat toe te voegen</string>
-    <string name="greenguard_functional_description">"Beheer apparaten op afstand, bekijk locatie info,
- gebruik geïnstalleerde apps en blokkeer gebruik"</string>
+    <string name="greenguard_functional_description">Beheer apparaten op afstand, bekijk locatie info en bedien geïnstalleerde apps</string>
     <string name="greenguard_install_cancle">Nee, bedankt</string>
     <string name="greenguard_install_confirm">Installeren</string>
     <string name="greenguard_install_message">Ouderlijk toezicht is een systeem-app. U heeft geen internet nodig om het te installeren.</string>
@@ -300,7 +300,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="input_space_password">Nu instellen</string>
     <string name="instagram_send">Delen op Instagram</string>
     <string name="install">Installeren</string>
-    <string name="install_error">Kon niet installeren, probeer opnieuw.</string>
+    <string name="install_error">Kon niet installeren. Probeer het opnieuw.</string>
     <string name="invalid_qr_code">Ongeldige QR-code</string>
     <string name="kid_mode_label">Kinderruimte</string>
     <string name="list_empty_text">Leeg</string>
@@ -311,7 +311,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="loading_success">Met succes geladen</string>
     <string name="lock_screen_open_second_space">Open Tweede ruimte vanaf het Vergrendelscherm</string>
     <string name="master_clear_apply_step_1">"Voor het intrekken van toestemming is het uitvoeren van een fabrieksreset op uw apparaat vereist. Dit zal permanent alle bestanden en gegevens verwijderen, inclusief accounts, contacten, foto's en apps. Maak een back-up op uw computer van alle belangrijke bestanden voordat u toestemming intrekt."</string>
-    <string name="master_clear_apply_step_2">"Zorg dat u op uw pc een back-up gemaakt hebt van alle belangrijke bestanden. Nadat u op \"OK\" tikt zal er een fabrieksreset uitgevoerd worden op uw apparaat, waarbij alle bestanden en gegevens permanent verwijderd worden, inclusief accounts, contacten, foto's en apps."</string>
+    <string name="master_clear_apply_step_2">"Zorg dat u op uw computer een back-up gemaakt hebt van alle belangrijke items. Nadat u op \"OK\" tikt zal er een fabrieksreset uitgevoerd worden op uw apparaat, waarbij alle bestanden en gegevens permanent verwijderd worden, inclusief accounts, contacten, foto's en apps."</string>
     <string name="master_clear_apply_title">Let op</string>
     <string name="master_clear_not_available">Fabrieksreset is geblokkeerd door uw bedrijf.</string>
     <string name="master_clear_not_available_ep">U mag nu geen fabrieksreset uitvoeren of uw autorisatie intrekken. Neem contact op met uw supervisor.</string>
@@ -411,7 +411,7 @@ U kunt ze ook apart downloaden."</string>
     <string name="notification_setting_second_space">Stel Tweede ruimte in</string>
     <string name="notification_setting_second_space_desc">Voeg wachtwoord voor Tweede ruimte toe en verplaats gegevens</string>
     <string name="ok_button">OK</string>
-    <string name="openPasswordGuard">Stel wachtwoord voor Tweede ruimte in</string>
+    <string name="openPasswordGuard">Stel wachtwoord in voor Tweede ruimte</string>
     <string name="openSuccess">Ingeschakeld</string>
     <string name="opened">Aan</string>
     <string name="other">Overig</string>
@@ -692,6 +692,7 @@ Voor sommige dubbele apps is ondersteuning door Google Services Framework vereis
     <string name="xspace_guide_description">"Elke account
 verdient zijn eigen app"</string>
     <string name="xspace_guide_title">Probeer Dubbele apps</string>
+    <string name="xspace_head">Dubbele app</string>
     <string name="xspace_header">Dubbele apps</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Dubbele app succesvol gemaakt. &lt;/font>&lt;font color=#0D84FF>Nu openen&lt;/font>.</string>
@@ -707,11 +708,12 @@ verdient zijn eigen app"</string>
     <string name="xspace_notification_error">Meld u aan bij duale WeChat en probeer het opnieuw</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Dubbele app-accounts verwijderen</string>
+    <string name="xspace_resolver_activity_title">Selecteer app</string>
     <string name="xspace_setting_label">Dubbele app-instellingen</string>
     <string name="xspace_settins">Instellen</string>
     <string name="xspace_start">Aanmaken</string>
     <string name="xspace_uninstall_completed">Dubbele app succesvol verwijderd</string>
-    <string name="xspace_uninstall_dialog_content">Door de dubbele app te verwijderen, worden alle app-gegevens verwijderd.</string>
+    <string name="xspace_uninstall_dialog_content">Als u de dubbele app verwijdert, worden alle app-gegevens verwijderd.</string>
     <string name="xspace_uninstall_dialog_title">Dubbele app verwijderen</string>
     <string name="xspace_uninstalling">Verwijderen…</string>
     <string name="xspace_weibo_title">Weibo</string>

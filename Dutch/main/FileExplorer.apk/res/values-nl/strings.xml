@@ -29,8 +29,10 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="access_limit">Toegangsrestricties</string>
     <string name="access_tips">Geen toegang tot items. Probeer in plaats daarvan het Android-opslagtoegangssysteem.</string>
+    <string name="action_cache_to_local">Downloaden naar apparaat</string>
     <string name="action_mode_deselect_all">Alles deselecteren</string>
     <string name="action_mode_select_all">Alles selecteren</string>
+    <string name="action_release_file_cache">Cache wissen</string>
     <string name="actionbar_button_up_description">Terug</string>
     <string name="ad_download">Downloaden</string>
     <string name="add_private">Maak bestanden privé</string>
@@ -66,6 +68,16 @@
     <string name="can_not_send_with_too_many">Kan niet zoveel items tegelijk versturen</string>
     <string name="cancel">Annuleren</string>
     <string name="cancel_error">Kon niet verwijderen. Probeer opnieuw.</string>
+    <string name="cancel_mi_drive">Mi Drive services annuleren</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">Wis alle items van Mi Drive om services te kunnen annuleren. Volg deze stappen om items te wissen:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Houd op de Mi Drive startpagina een item ingedrukt om de knop \"Alles selecteren\" te laten verschijnen. Gebruik deze knop om maximaal 200 bestanden tegelijk te selecteren en te verwijderen.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Wis hierna uw recent verwijderde items.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. We raden u aan een back-up van uw items te maken voordat u ze verwijdert. Ga hiervoor naar i.mi.com, klik op Mi Drive en download uw items naar een computer.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Let er op dat recent verwijderde items niet kunnen worden hersteld nadat u ze heeft verwijderd.</string>
+    <string name="cancel_mi_drive_confirm_button">Diensten annuleren</string>
+    <string name="cancel_mi_drive_confirm_description">Als u doorgaat, annuleert u de Mi Drive services. We zullen stoppen met het verzamelen van uw persoonlijke informatie en de persoonlijke informatie die al is verzameld en bewaard zal binnen de specifieke periode worden verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist.</string>
+    <string name="cancel_mi_drive_confirm_hint">Het annuleren van Mi Drive services heeft geen invloed op uw gebruik van andere Xiaomi producten en services. Als u uw Xiaomi Account wilt verwijderen, kunt u dat &lt;font color=#0097FF>&lt;a href=%1$s>hier&lt;/a>&lt;/font> doen.</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>De volgende items worden permanent verwijderd na annulering van services:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Alle items op Mi Drive, inclusief maar niet beperkt tot documenten, privébestanden en verwijderde items.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Apparaat toestemmingen, instellingen en andere inhoud in het cachegeheugen.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive upload en downloadgeschiedenis.</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">Schakel Mi Drive in en probeer het opnieuw</string>
+    <string name="cancel_mi_drive_success">Diensten succesvol geannuleerd</string>
+    <string name="cancel_mi_drive_title">Diensten annuleren</string>
     <string name="cancel_msg">Alles deselecteren?</string>
     <string name="cancel_operation">Bewerking annuleren</string>
     <string name="cancel_success">Bestanden succesvol verplaatst naar %s</string>
@@ -75,6 +87,7 @@
     <string name="category_all">Alle bestanden</string>
     <string name="category_apk">"APK's"</string>
     <string name="category_bluetooth">Bluetooth</string>
+    <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">Documenten</string>
     <string name="category_download">Downloads</string>
     <string name="category_editor_mode">Bewerken</string>
@@ -110,6 +123,26 @@
     <string name="click_to_switch_volume_pad">Tik om tussen interne opslag en SD-kaart te schakelen</string>
     <string name="clock_in">Aanmelden…</string>
     <string name="close">Sluiten</string>
+    <string name="cloud_copy_to_local_title">Opslaan in…</string>
+    <string name="cloud_drive_files">Mi Drive bestanden</string>
+    <string name="cloud_drive_not_login_summary">Niet ingelogd</string>
+    <string name="cloud_drive_settings">Mi Drive instellingen</string>
+    <string name="cloud_empty_hint_text">"Hier nog niets.
+Probeer bestanden van uw apparaat naar Mi Drive te verplaatsen."</string>
+    <string name="cloud_guide_summary_text">Synchroniseer uw items automatisch met al uw apparaten</string>
+    <string name="cloud_guide_title_text">Synchroniseren met Mi Drive</string>
+    <string name="cloud_permission_storage_desc">"Voor het opslaan van foto's en documenten op uw apparaat"</string>
+    <string name="cloud_recycle_bin">Recent verwijderde items</string>
+    <string name="cloud_space_full">Cloud opslag is vol. Upgrade uw opslagabonnement om meer items te kunnen uploaden.</string>
+    <string name="cloud_transfer_download_error">Kon niet downloaden</string>
+    <string name="cloud_transfer_download_loading">Downloaden</string>
+    <string name="cloud_transfer_downloading">Downloaden</string>
+    <string name="cloud_transfer_pause">Gepauzeerd</string>
+    <string name="cloud_transfer_upload_error">Kon niet uploaden</string>
+    <string name="cloud_transfer_uploading">Uploaden</string>
+    <string name="cloud_transfer_wait_download">Wachten om te downloaden</string>
+    <string name="cloud_transfer_wait_network">Wachten op internet</string>
+    <string name="cloud_transfer_wait_upload">Wachten om te uploaden</string>
     <string name="compress_fail">Kon niet comprimeren. Er bestaat al een bestand met dezelfde naam.</string>
     <string name="compress_fail_unknown">Kon niet comprimeren. Opslag is vol of er is een onbekende fout opgetreden.</string>
     <string name="compress_message">Comprimeren naar…</string>
@@ -124,6 +157,10 @@
     <string name="copy_to">Kopiëren naar…</string>
     <string name="create_folder">Aanmaken</string>
     <string name="create_shortcut_success">Snelkoppeling succesvol toegevoegd</string>
+    <string name="cta_function_account_operation">Voor snelle aanmelding bij uw Xiaomi Account</string>
+    <string name="data_consume_dialog_message">U gebruikt momenteel mobiele data. Als u doorgaat, zal dit %s aan gegevens gebruiken.</string>
+    <string name="data_consume_dialog_title">Mobiele data gebruiken?</string>
+    <string name="data_consume_dialog_upload_title">Uploaden met mobiele data</string>
     <string name="data_consumption_cancel">Niet akkoord</string>
     <string name="data_consumption_checkbox_hint">Niet meer tonen</string>
     <string name="data_consumption_confirm">OК</string>
@@ -157,7 +194,14 @@
     <string name="delete_folder">Deze map verwijderen?</string>
     <string name="des_hide_pwd">Wachtwoord verbergen</string>
     <string name="des_show_pwd">Wachtwoord weergeven</string>
+    <string name="dialog_account_permission_denied_msg">Geef deze app toegang tot apparaataccounts om in te kunnen loggen bij Mi Drive. U kunt deze toestemming verlenen in Instellingen.</string>
+    <string name="dialog_account_permission_denied_negative_button">Annuleren</string>
+    <string name="dialog_account_permission_denied_positive_button">Instellingen</string>
+    <string name="dialog_account_permission_denied_title">Toestemmingen vereist</string>
     <string name="dialog_keep_choice">Mijn keuze onthouden</string>
+    <string name="dialog_open_mi_drive_button">Begrepen</string>
+    <string name="dialog_open_mi_drive_err">Start Mi Drive opnieuw en probeer het opnieuw.</string>
+    <string name="dialog_open_mi_drive_title">Serverfout</string>
     <string name="dialog_select_type">Selecteer type</string>
     <string name="dialog_type_audio">Audio</string>
     <string name="dialog_type_image">Afbeeldingen</string>
@@ -199,6 +243,7 @@
     <string name="error_not_support">Niet ondersteund</string>
     <string name="error_open_file_failed_no_app_found">Kon geen apps vinden om dit bestand te openen.</string>
     <string name="evening">Middag</string>
+    <string name="exception_net_not_available">Controleer uw netwerkinstellingen en probeer het opnieuw</string>
     <string name="exit">Sluiten</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="extended_storage_file_can_not_open">Kan bestand niet openen. Kopieer het bestand naar de interne opslag.</string>
@@ -211,6 +256,7 @@
     <string name="favorite_photo">"Foto's"</string>
     <string name="favorite_ringtone">Beltonen</string>
     <string name="favorite_screen_cap">Screenshots</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Leesbaar: </string>
     <string name="file_info_canwrite">Schrijfbaar: </string>
     <string name="file_info_ishidden">Verborgen: </string>
@@ -307,6 +353,7 @@
     <string name="guide_three_title">Snelkoppelingen rangschikken</string>
     <string name="guide_two_summary">"Galerijfoto's en screenshots zijn standaard verborgen."</string>
     <string name="guide_two_title">Alleen essentiële items bekijken</string>
+    <string name="h5_ppt_to_pdf_introduce_title">"Over het maken van PDF's"</string>
     <string name="hint_switch_to_grid_mode">Overgeschakeld naar rasterweergave</string>
     <string name="hint_switch_to_list_mode">Overgeschakeld naar lijstweergave</string>
     <string name="home_action_up">Terug</string>
@@ -315,10 +362,14 @@
     <string name="homepage_tab_file_view_phone">Opslag</string>
     <string name="homepage_tab_recent">Recent</string>
     <string name="hot_sticker">Stickers</string>
+    <string name="hybrid_provider">Mogelijk gemaakt door %1$s</string>
     <string name="if_cancel">Deze bewerking annuleren?</string>
     <string name="image_loading_error">Kon afbeelding niet laden</string>
     <string name="imm_str_storage">Opslag</string>
     <string name="import_files_from_old_phones">Importeren vanaf oud apparaat</string>
+    <string name="install_media_editor_button_text">Downloaden</string>
+    <string name="install_media_editor_message">Download eerst de plug-in om items te kunnen bewerken. Nu downloaden?</string>
+    <string name="install_media_editor_title">Plug-in vereist</string>
     <string name="instruction">Voer het volgende adres in de FTP-client in: </string>
     <string name="instruction_pre_pad">Beheer bestanden op dit apparaat met een computer</string>
     <string name="instruction_pre_phone">Beheer bestanden op dit apparaat met een computer</string>
@@ -343,6 +394,7 @@
     <string name="make_private_msg_1">Dit bestand privé maken?</string>
     <string name="make_private_msg_2">Deze bestanden privé maken?</string>
     <string name="make_private_msg_3">Alle bestanden in deze map worden privé gemaakt.</string>
+    <string name="manage_cloud_space">Cloud opslag beheren</string>
     <string name="menu_item_cleanup">Opschonen</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_router">Router</string>
@@ -359,6 +411,12 @@
     <string name="mi_router_label">Router</string>
     <string name="mi_share">Mi Share</string>
     <string name="midnight">Nacht</string>
+    <string name="midrive_display_related">Weergeven</string>
+    <string name="midrive_get_cloudvideo_file">Een ogenblik geduld…</string>
+    <string name="midrive_hide_recent_cloud_files">Mi Drive bestanden niet weergeven in Recent</string>
+    <string name="midrive_not_found">Kon geen toegang tot dit item verkrijgen</string>
+    <string name="midrive_overseas_unavailable">Deze functie is alleen beschikbaar op het Chinese vasteland.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">Kon Mi Drive niet inschakelen. Probeer het opnieuw.</string>
     <string name="midriver_install_button_text">Installeren</string>
     <string name="midriver_not_install_title">Mi Drive is verwijderd</string>
     <string name="mirror_can_not_drag_mask">Sleep om Mi Share te gebruiken</string>
@@ -464,6 +522,7 @@
     <string name="need_read_storage_permission">Bestandsbeheer vereist toestemming voor toegang tot opslag van apparaat om normaal te kunnen werken.</string>
     <string name="network_not_available">Kan geen verbinding maken met het netwerk</string>
     <string name="new_folder_name">Nieuwe map</string>
+    <string name="new_storage_info_detail">Gratis: %1$s | Totaal: %2$s</string>
     <string name="next">Volgende</string>
     <string name="night">Avond</string>
     <string name="no">Nee</string>
@@ -472,6 +531,9 @@
     <string name="no_enough_storage_indication">Opslagruimte apparaat is vol.</string>
     <string name="no_enough_storage_title">Niet genoeg opslagruimte</string>
     <string name="no_file">Leeg</string>
+    <string name="no_network">Kan geen verbinding maken met het netwerk</string>
+    <string name="no_network_error_message">Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="no_network_error_title">Kon niet verbinden met het netwerk</string>
     <string name="no_permission">Verleen de vereiste toestemmingen voor toegang tot deze functie</string>
     <string name="no_wifi">Geen wifi-netwerken</string>
     <string name="noon">Tussen de middag</string>
@@ -481,16 +543,29 @@
     <string name="not_use">Niet nu</string>
     <string name="notif_server_starting">Starten FTP server…</string>
     <string name="notif_title">FTP server is actief</string>
+    <string name="notification_title_sync_result">Synchronisatie voltooid</string>
+    <string name="notification_title_syncing">Synchroniseren…</string>
+    <string name="notification_title_syncing_with_count">Items synchroniseren. Resterende bestanden: %1$s</string>
     <string name="online_not_support">Kan dit bestand momenteel niet bekijken.</string>
+    <string name="open_cloud_drive">Mi Drive inschakelen</string>
     <string name="open_or_close_wlan">Wifi in- en uitschakelen</string>
     <string name="open_private_folder">Laat los om privébestanden te bekijken</string>
     <string name="operation_add_fav">Toevoegen aan favorieten…</string>
+    <string name="operation_batch_failed_err">Deze actie kon niet worden voltooid voor meerdere bestanden.</string>
+    <string name="operation_cache_use_data">Downloaden</string>
+    <string name="operation_cache_use_free_network">Wachten op wifi</string>
     <string name="operation_cancel">Annuleren</string>
+    <string name="operation_cloud_copy_to_local">Opslaan in…</string>
     <string name="operation_compress">Comprimeren</string>
     <string name="operation_compressing">Comprimeren…</string>
     <string name="operation_copy">Kopiëren</string>
     <string name="operation_create_folder">Map creëren</string>
     <string name="operation_create_folder_message">Mapnaam invoeren</string>
+    <string name="operation_create_folder_name_conflict">Kon map niet aanmaken. Er bestaat al een map met deze naam.</string>
+    <string name="operation_create_folder_name_illegal_char">Kon map niet aanmaken. Mapnaam bevat niet-ondersteunde tekens.</string>
+    <string name="operation_create_folder_network_not_available">Kon map niet aanmaken. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="operation_create_folder_not_support_for_overseas">Kon map niet aanmaken. Deze functie is alleen beschikbaar op het Chinese vasteland.</string>
+    <string name="operation_create_folder_other">Kon geen map aanmaken</string>
     <string name="operation_decompressing">Uitpakken…</string>
     <string name="operation_del_fav">Uit favorieten verwijderen…</string>
     <string name="operation_delete">Verwijderen</string>
@@ -498,28 +573,59 @@
     <string name="operation_delete_confirm_message_folder">"Alle mapinhoud wordt verwijderd.
 "</string>
     <string name="operation_deleting">Verwijderen…</string>
+    <string name="operation_download">Downloaden</string>
+    <string name="operation_download_error_no_space">Onvoldoende opslagruimte</string>
+    <string name="operation_download_error_other">Er is een systeemfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="operation_download_error_title">Kon niet downloaden</string>
+    <string name="operation_editor">Bewerken</string>
     <string name="operation_encrypt_summary">Versleutel bestanden in de privémap. Het ontsleutelen van grote bestanden kan langer duren dan verwacht.</string>
     <string name="operation_encrypt_title">Versleutel privébestanden</string>
     <string name="operation_favorite">Toevoegen aan favorieten</string>
+    <string name="operation_file_downloading_err">Kon deze actie niet voltooien. Wacht tot dit bestand klaar is met downloaden en probeer het opnieuw.</string>
+    <string name="operation_file_exist_err">Kon deze actie niet voltooien. Dit bestand bestaat al.</string>
+    <string name="operation_file_not_found_err">Kon deze actie niet voltooien. Kon het originele bestand niet vinden.</string>
+    <string name="operation_gallary">Bekijken in Galerij</string>
     <string name="operation_hide_sys">Geen verborgen bestanden weergeven</string>
     <string name="operation_info">Details</string>
     <string name="operation_move">Verplaatsen</string>
     <string name="operation_moving">Verplaatsen…</string>
     <string name="operation_new_folder">Map creëren</string>
+    <string name="operation_no_network_err">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
+    <string name="operation_not_support_directory_rename">Deze map kan niet worden hernoemd.</string>
+    <string name="operation_not_support_err">Deze actie kon niet worden voltooid.</string>
     <string name="operation_open">Openen</string>
     <string name="operation_open_mode">Openen met</string>
     <string name="operation_other_apps">Openen in een andere app</string>
     <string name="operation_paste">Plakken</string>
     <string name="operation_paste_to_folder">Plak in map</string>
     <string name="operation_pasting">Kopiëren…</string>
+    <string name="operation_pic_to_pdf">Maak een pdf</string>
     <string name="operation_refresh">Vernieuwen</string>
     <string name="operation_rename">Hernoemen</string>
+    <string name="operation_rename_err">Kon niet hernoemen</string>
     <string name="operation_rename_message">Voer een nieuwe naam in</string>
+    <string name="operation_retry">Opnieuw proberen</string>
     <string name="operation_send">Versturen</string>
     <string name="operation_send_to_pc">Verplaats naar de computer</string>
+    <string name="operation_set_pic_wallpaper">Instellen als achtergrond</string>
     <string name="operation_show_privacy_policy">Toon Privacybeleid</string>
     <string name="operation_show_sys">Verborgen bestanden weergeven</string>
+    <string name="operation_sync_cloud_data_error">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="operation_unfavorite">Uit favorieten verwijderen</string>
+    <string name="operation_unknown_err">Deze actie kon niet worden voltooid.</string>
+    <string name="operation_upload_buy_space">Upgrade</string>
+    <string name="operation_upload_delete">Verwijderen</string>
+    <string name="operation_upload_err_file_not_found">Het lijkt erop dat dit bestand niet bestaat.</string>
+    <string name="operation_upload_err_file_size_zero">Kan geen lege bestanden uploaden.</string>
+    <string name="operation_upload_err_full_space">Cloud opslag is vol. Upgrade uw opslagabonnement om meer items te kunnen uploaden.</string>
+    <string name="operation_upload_err_illegal_char">Deze bestandsnaam bevat niet-ondersteunde tekens.</string>
+    <string name="operation_upload_err_larger_than_4g">Kan geen bestanden uploaden die groter zijn dan %d GB.</string>
+    <string name="operation_upload_err_not_support_overseas">Alleen gebruikers op het Chinese vasteland kunnen op dit moment items uploaden.</string>
+    <string name="operation_upload_err_other">Er is een systeemfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="operation_upload_error_title">Kon niet uploaden</string>
+    <string name="operation_upload_retry">Opnieuw proberen</string>
+    <string name="operation_upload_save_to_local">Opslaan in…</string>
+    <string name="operation_upload_use_data">Uploaden</string>
     <string name="otg_data_transfer_success">Succesvol overgezet</string>
     <string name="otg_data_transferring">Bestanden overzetten… Ontkoppel de externe opslag niet.</string>
     <string name="otg_file_security_note">Beveiliging OGT</string>
@@ -529,9 +635,16 @@
     <string name="partial_encrypt_success">Kon sommige bestanden niet privé maken. Probeer het opnieuw.</string>
     <string name="path_name_email">E-mail</string>
     <string name="perm_manage_external_storage">Toegang tot alle bestanden</string>
+    <string name="permission_account_desc">Voor toegang tot accountinformatie die op uw apparaat is opgeslagen</string>
+    <string name="permission_account_desc_pad">Voor toegang tot accountinformatie die op uw apparaat is opgeslagen</string>
+    <string name="permission_account_title">Toegang tot apparaataccounts</string>
+    <string name="permission_account_title_pad">Toegang tot apparaataccounts</string>
     <string name="permission_denial">Kon bestanden niet openen. Geef Bestandsbeheer toegang tot bestanden in Instellingen.</string>
     <string name="permission_description">Toestemmingen details</string>
     <string name="permission_required">Kon bestanden niet openen. Geef Bestandsbeheer toegang tot bestanden in Instellingen.</string>
+    <string name="permission_storage_desc_pad">"Voor het opslaan van foto's en documenten op uw apparaat"</string>
+    <string name="permission_storage_title">Toegang tot apparaatopslag</string>
+    <string name="permission_storage_title_pad">Toegang tot apparaatopslag</string>
     <string name="phone">Interne opslag</string>
     <string name="phone_storage">Opslag</string>
     <string name="phone_storage_apk_title">"APK's: "</string>
@@ -550,6 +663,7 @@
     <string name="pick_folder">Map selecteren</string>
     <string name="pm">PM</string>
     <string name="port_range">Poort moet tussen 1024-65535 liggen</string>
+    <string name="pre_privacy_recall">Intrekking van toestemming</string>
     <string name="pref_permission_allowed">Toegekend</string>
     <string name="pref_permission_manage_key_storage">"Toegang tot foto's en bestanden op het apparaat"</string>
     <string name="pref_permission_not_allowed">Niet toegekend</string>
@@ -557,6 +671,14 @@
     <string name="privacy_policy">Privacybeleid</string>
     <string name="privacy_policy_renew">Bijgewerkt Privacybeleid</string>
     <string name="privacy_policy_renew_content">"&lt;Data>Bestandsbeheerder's &lt;a href=\"%1$s\">Privacybeleid&lt;/a> is bijgewerkt. Om uw rechten als gebruiker en de manieren waarop we uw gegevens gebruiken volledig te begrijpen, moet u de nieuwe versie van het Privacybeleid lezen en ermee akkoord gaan voordat u verdergaat.&lt;/Data>"</string>
+    <string name="privacy_recall_alert_description" formatted="false">Wis alle items van Mi Drive om toestemming in te trekken. Volg deze stappen om items te wissen:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. Houd op de Mi Drive startpagina een item ingedrukt om de knop \"Alles selecteren\" te laten verschijnen. Gebruik deze knop om maximaal 200 bestanden tegelijk te selecteren en te verwijderen.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. Wis hierna uw recent verwijderde items.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. We raden u aan een back-up van uw items te maken voordat u ze verwijdert. Ga hiervoor naar i.mi.com, klik op Mi Drive en download uw items naar een computer.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Let er op dat recent verwijderde items niet kunnen worden hersteld nadat u ze heeft verwijderd.</string>
+    <string name="privacy_recall_confirm_button">Intrekken</string>
+    <string name="privacy_recall_confirm_description">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Bestandsbeheer in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist.</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>De volgende items worden permanent verwijderd na intrekking van de toestemming:&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. Alle items op Mi Drive, inclusief maar niet beperkt tot documenten, privébestanden en verwijderde items.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. Apparaat toestemmingen, instellingen en andere inhoud in het cachegeheugen.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. Mi Drive upload en downloadgeschiedenis.</string>
+    <string name="privacy_recall_success">Toestemming succesvol ingetrokken</string>
+    <string name="privacy_recall_title">Intrekking van toestemming</string>
+    <string name="privacy_recalling">Toestemming intrekken…</string>
     <string name="private_files">Privé</string>
     <string name="private_folder">Privébestanden</string>
     <string name="private_folder_no_file_hints">Houd een bestand of map ingedrukt om het privé te maken</string>
@@ -568,11 +690,15 @@
     <string name="pull_to_enter_private">Trek omlaag om de privémap te openen</string>
     <string name="qq_msg">Vanwege Android 11 beperkingen kan Bestandsbeheer geen QQ documenten openen en weergeven.</string>
     <string name="qq_title">Geen toegang tot WeChat documenten</string>
+    <string name="query_quota_exception">Er is een serverfout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
+    <string name="query_quota_searching">Een ogenblik geduld…</string>
     <string name="recent_hide_camera_and_screenshots">Toon geen Galerij items en screenshots tussen recente bestanden</string>
+    <string name="recent_hide_cloud_drive_files">Mi Drive bestanden niet weergeven in Recent</string>
     <string name="refresh_success">Vernieuwen voltooid</string>
     <string name="reinstall_midriver_message">Nu opnieuw installeren?</string>
     <string name="release_enter_private">Laat los om de privémap te openen</string>
     <string name="remainder_size">Resterend: %s</string>
+    <string name="reminder_card_title">Let op</string>
     <string name="rename_alert">Als u de bestandsextensie wijzigt, kunt u deze misschien niet meer openen.</string>
     <string name="rename_alert2">Het bestand wordt verborgen nadat u de extensie hebt gewijzigd.</string>
     <string name="rename_failed">Kon niet hernoemen %1$s</string>
@@ -629,6 +755,7 @@
     <string name="set_pattern">Upgrade uw wachtwoord</string>
     <string name="set_pattern_btn">Instellen</string>
     <string name="set_pattern_msg">"Stel uw wachtwoord opnieuw in. Wachtwoord voor privacybescherming werkt ook voor foto's, berichten en notities."</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">Kleiner dan %d KB</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>
@@ -746,9 +873,12 @@
     <string name="unknown_error">Er is een onbekende fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="unlock_pattern_msg">"Wachtwoord voor privacybescherming werkt ook voor foto's, berichten en notities."</string>
     <string name="unlock_pattern_title">Nieuw wachtwoord</string>
+    <string name="update_no_network">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="upload_user_photo">Uploaden</string>
     <string name="usb_label">USB</string>
     <string name="use">Gebruiken</string>
+    <string name="use_mobile_data_update_summary">Gebruik mobiele data om automatisch wijzigingen te synchroniseren in bestanden die zijn gedownload van Mi Drive</string>
+    <string name="use_mobile_data_update_title">Mobiele data gebruiken om te synchroniseren</string>
     <string name="use_to_all">Toepassen op alles</string>
     <string name="used">Gebruikt</string>
     <string name="user_guide_continue_use">OK</string>
@@ -757,7 +887,12 @@
     <string name="utf8_title">UTF-8</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
+    <string name="video_data_consume_dialog_confirm">Doorgaan</string>
+    <string name="video_data_consume_dialog_title">Mobiele data gebruiken?</string>
     <string name="view_type">Bekijken</string>
+    <string name="web_sso_login_fail">U moet opnieuw inloggen</string>
+    <string name="web_sso_login_message">Bezig met inloggen…</string>
+    <string name="webview_reload">Opnieuw proberen</string>
     <string name="wechat_msg">Vanwege Android 11 beperkingen heeft Bestandsbeheer geen toegang tot de documenten waarvan een voorbeeld in WeChat is weergegeven en kan deze deze niet weergeven. Open en bewaar documenten in WeChat om ze hier te laten verschijnen.</string>
     <string name="wechat_title">Geen toegang tot WeChat documenten</string>
     <string name="wechat_video">Video op %s</string>

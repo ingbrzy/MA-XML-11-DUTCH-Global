@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">Standaard beltoon (%1$s)</string>
     <string name="android_ringtone_silent">Geen</string>
     <string name="android_ringtone_unknown">Onbekende beltoon</string>
+    <string name="app_continuity_channel_name">Aanpassingen app-layout</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">Kon Alipay-betalingscode niet openen</string>
     <string name="application_cannot_open_alipay_scanner">Kon Alipay scanner niet openen</string>
@@ -44,7 +45,7 @@
     <string name="autofill">Automatisch aanvullen</string>
     <string name="autofill_save_message">MIUI toestaan uw accounts en wachtwoorden op te slaan?</string>
     <string name="autofill_save_ok">Toestaan</string>
-    <string name="autofill_save_sub_message">U kunt uw wachtwoorden bekijken en beheren in Instellingen > Wachtwoorden &amp; Beveiliging > %s.</string>
+    <string name="autofill_save_sub_message">U kunt uw wachtwoorden bekijken en beheren in Instellingen > Wachtwoorden en Beveiliging > %s.</string>
     <string name="autofill_save_title">Wachtwoorden automatisch opslaan</string>
     <string name="autofill_service_name">Wachtwoorden beheren</string>
     <string name="battery_authentic_failed_button">Begrepen</string>
@@ -111,6 +112,10 @@
     <string name="crystal">Kristal</string>
     <string name="cut">Knippen</string>
     <string name="dance">Dans</string>
+    <string name="dark_mode_enable">Inschakelen</string>
+    <string name="dark_mode_suggest_message">U kunt bij zonsondergang automatisch overschakelen naar de Donkere modus voor een comfortabelere kijkervaring</string>
+    <string name="dark_mode_suggest_title">Het wordt donker</string>
+    <string name="dark_mode_suggest_toast">Donkere modus wordt vanaf nu automatisch ingeschakeld bij zonsondergang en uitgeschakeld bij zonsopgang</string>
     <string name="data_usage_context">Als Wi-Fi niet is ingeschakeld, maakt uw apparaat verbinding met een mobiel netwerk, wat kan leiden tot extra kosten, afhankelijk van uw betalingsabonnement. Dank u!</string>
     <string name="daydream">Dagdroom</string>
     <string name="default_device_name">Onbekend apparaat</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">Ochtenddauw</string>
     <string name="digitaluniverse">Digitaal universum (stereo)</string>
     <string name="disable_nfc">NFC uitgeschakeld voor draadloos opladen</string>
+    <string name="disable_nfc_haptic_reverse">NFC en vibratie uitgeschakeld voor omgekeerd draadloos opladen</string>
     <string name="disable_nfc_reverse">NFC uitgeschakeld voor omgekeerd draadloos opladen</string>
     <string name="echo">Echo</string>
     <string name="eighthours">8 uur</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">Oplaad pakket inschakelen</string>
     <string name="enable_midrop">Inschakelen</string>
     <string name="enable_nfc">Niet meer aan het opladen. NFC is weer ingeschakeld.</string>
+    <string name="enable_nfc_haptic_reverse">Omgekeerd opladen gestopt. NFC en vibratie zijn weer ingeschakeld.</string>
     <string name="enable_nfc_reverse">Niet langer omgekeerd opladen. NFC is weer ingeschakeld.</string>
     <string name="expect">Spanning</string>
     <string name="fadein">Fade in</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">Draai uw apparaat om om de camera te gebruiken</string>
     <string name="flute">Fluit</string>
     <string name="fm_record_smaple_prefix_miui">FM opname</string>
+    <string name="fold_small_not_split">Gesplitst scherm wordt niet ondersteund op het buitenste scherm</string>
     <string name="force_exit_message">%1$s geforceerd afgesloten</string>
     <string name="force_exit_skip_message">Kan %1$s niet sluiten omdat het nodig is voor het systeem.</string>
     <string name="fourhours">2 uur</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">Schakel Quick tap in</string>
     <string name="freeform_exchange_tip">Laat los om de app te openen</string>
     <string name="freeform_exchange_tip2">Sleep naar de hoek om te annuleren</string>
+    <string name="freeform_exchange_tip3">Zwevend venster openen in volledige schermmodus</string>
     <string name="frenchchic">Chique</string>
     <string name="frequent_email">Veelgebruikte e-mailadressen</string>
     <string name="frequent_phrases">Veelgebruikte zinnen</string>
@@ -172,7 +181,7 @@
     <string name="game">Game</string>
     <string name="glee">Vrolijkheid</string>
     <string name="global_actions_airplane_mode">Vliegtuigmodus</string>
-    <string name="global_actions_reboot">Herstart</string>
+    <string name="global_actions_reboot">Opnieuw opstarten</string>
     <string name="global_actions_shutdown">Uitschakelen</string>
     <string name="global_actions_silent_mode">Stille modus</string>
     <string name="global_pad">Mijn tablet</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">Opladen pakket gebruiken voor internationale oproepen</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spatie</string>
+    <string name="keyboard_connect_failed">Kon toetsenbord niet verbinden. Bevestig opnieuw.</string>
+    <string name="keyboard_identity_reject_confirm">Begrepen</string>
+    <string name="keyboard_identity_reject_message">Het lijkt erop dat uw toetsenbord niet compatibel is met dit apparaat.</string>
+    <string name="keyboard_identity_transfer_error_message">Kon toetsenbord niet verbinden. Probeer het opnieuw.</string>
+    <string name="keyboard_upgrade_failed">Kon toetsenbord niet bijwerken</string>
+    <string name="keyboard_upgrade_start">Toetsenbord bijwerken…</string>
+    <string name="keyboard_upgrade_success">Toetsenbord succesvol bijgewerkt</string>
     <string name="kungfu">Kung fu</string>
     <string name="leisure">Vrije tijd</string>
     <string name="livetalk_not_enable">Pakket opladen uit</string>
@@ -235,6 +251,8 @@
     <string name="miremix">Mi (Remix)</string>
     <string name="miui_forbid_poweroff_when_device_locked">Kan niet uitschakelen, het apparaat is vergrendeld.</string>
     <string name="miui_multiwindow_not_support_cvw">Kan de venstergrootte voor deze app niet aanpassen</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s ondersteunt geen zwevende vensters</string>
+    <string name="miui_multiwindow_not_support_split">%1$s ondersteunt geen Gesplitst scherm</string>
     <string name="miui_screen_ratio_hint">Beeldverhoudingsproblemen</string>
     <string name="miui_screen_ratio_hint_dont_show_again">Niet meer tonen</string>
     <string name="miui_screen_ratio_hint_go_to_settings">Ga naar instellingen</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">Begrepen</string>
     <string name="open_close_tip_content">Om het zwevende venster te sluiten, houd uw actiebalk ingedrukt en veeg vervolgens omhoog</string>
+    <string name="open_miui_optimization">MIUI-optimalisatie eerst inschakelen</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">Oranje</string>
@@ -276,7 +295,7 @@
     <string name="perm_send_push_dspt">Mi Push berichten toestaan</string>
     <string name="perm_send_push_lab">Verstuur pushbericht</string>
     <string name="permdesc_manageLocationPolicy">Staat de app toe om locatie beleid te beheren en app-specifieke regels op te stellen.</string>
-    <string name="permlab_manageLocationPolicy">Locatie toegang</string>
+    <string name="permlab_manageLocationPolicy">Locatietoegang</string>
     <string name="popup_camera_calibrate_failed">Kon niet kalibreren</string>
     <string name="popup_camera_calibrate_now">Kalibreren</string>
     <string name="popup_camera_calibrate_success">Succesvol gekalibreerd. U kunt de voorkant camera nu openen.</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">Herstarten</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">Mijn keuze onthouden</string>
+    <string name="relaunch_dialog_button_cancel">Annuleren</string>
+    <string name="relaunch_dialog_button_confirm">Herstarten</string>
+    <string name="relaunch_dialog_message">Het formaat van deze app kan alleen worden gewijzigd na een herstart. Alle niet-opgeslagen wijzigingen gaan verloren als u de app nu herstart. Toch herstarten?</string>
+    <string name="relaunch_dialog_title">\"%s\" nu herstarten?</string>
+    <string name="relaunch_fold_notification_content">Deze app wordt mogelijk niet correct weergegeven op dit scherm. Start de app opnieuw om de lay-outs aan te passen.</string>
+    <string name="relaunch_notification_title">\"%s\" herstarten</string>
+    <string name="relaunch_unfold_notification_content">Deze app wordt mogelijk niet correct weergegeven op dit scherm. Start de app opnieuw om de lay-outs aan te passen.</string>
     <string name="remain">Resterend: %s</string>
     <string name="replace">Vervangen</string>
+    <string name="rescuepartyplus_config_reset_context">Sommige gegevens zijn mogelijk gewist. Tik om details te bekijken.</string>
+    <string name="rescuepartyplus_config_reset_title">Systeemreparatie voltooid</string>
     <string name="resolver_app_recommend_flag">Aanbevelen</string>
     <string name="resolver_checkbox_always">Altijd</string>
     <string name="resolver_checkbox_once">Eenmalig</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">Samsung</string>
     <string name="samsung_phone">Samsung telefoon</string>
+    <string name="sc_notification_warning_content">Als de app niet correct wordt weergegeven, kunt u de standaardweergave herstellen of de app-weergavevoorkeuren wijzigen in Instellingen.</string>
+    <string name="sc_notification_warning_restore">Herstellen</string>
+    <string name="sc_notification_warning_settings">Instellingen</string>
+    <string name="sc_notification_warning_title">App-weergavevoorkeuren</string>
+    <string name="sc_relaunch_dialog_message">Deze app wordt mogelijk niet correct weergegeven op dit scherm. Start de app opnieuw om de lay-outs aan te passen.</string>
     <string name="scanning_device_tips">Zoeken naar apparaten in de buurt… Zorg ervoor dat het andere apparaat in detecteerbare modus is.</string>
     <string name="screen_button_notification_text">Druk tegelijkertijd op home en aan/uit knop om deze in te schakelen.</string>
     <string name="screen_button_notification_title">Navigatieknoppen zijn uitgeschakeld</string>
@@ -357,10 +392,11 @@
     <string name="set_password_action">Wachtwoord instellen</string>
     <string name="set_password_message">Stel een wachtwoord in om deze functie te gebruiken.</string>
     <string name="set_password_title">Wachtwoord instellen</string>
+    <string name="shortcut_no_support_on_pc_mode">Dit gebaar wordt niet ondersteund in de PC-modus</string>
     <string name="shutdown_confirm_title">Apparaat nu uitschakelen?</string>
     <string name="shutdown_progress">Uitschakelen…</string>
     <string name="silence_mode">Stille modus</string>
-    <string name="sim_added_reboot_confirm">Herstart</string>
+    <string name="sim_added_reboot_confirm">Opnieuw opstarten</string>
     <string name="sim_added_reboot_title">SIM kaart zal geactiveerd worden nadat u uw apparaat opnieuw heeft opgestart.</string>
     <string name="sim_lock_non_ais_msg">Uw simkaart is niet volledig operationeel op deze telefoon omdat het niet voldoet aan de algemene voorwaarden van uw abonnement. Als u vragen heeft of hier meer informatie over wenst, neem dan alstublieft contact op met Xiaomi service centers of de winkel die de producten aan u verkocht heeft.</string>
     <string name="sim_lock_now_ais_title">SIM%1$d</string>
@@ -413,6 +449,8 @@
     <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="stoneskimming_preview">Lichte stappen</string>
     <string name="stop_operate_camera_frequently">U opent de voorkant camera te vaak.</string>
+    <string name="stylus_pen_mask_screenshot">Tik op het scherm om een screenshot te maken</string>
+    <string name="stylus_pen_mask_text">Tik op het scherm om te beginnen met schrijven</string>
     <string name="subinfo_default_name">SIM %d</string>
     <string name="sunlight_notification_content">Pas de helderheid automatisch aan sterk omgevingslicht aan</string>
     <string name="sunlight_notification_title">Schakel de Zonlichtmodus in</string>
@@ -441,6 +479,7 @@
     <string name="unknown_caller">Onbekend nummer</string>
     <string name="unrecognized_manufacture">Onbekend</string>
     <string name="unrecognized_model">Onbekend apparaat</string>
+    <string name="unreplace_freeform_count_max">Kan geen zwevende vensters meer openen</string>
     <string name="user_authentication_failed">AUTHENTICATIE MISLUKT -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">Overschakelen naar Kinderruimte…</string>
     <string name="user_switching_dialog_switch_out_kid_space">Kinderruimte verlaten…</string>

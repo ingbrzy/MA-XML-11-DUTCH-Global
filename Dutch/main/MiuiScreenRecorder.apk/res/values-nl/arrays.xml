@@ -37,6 +37,12 @@
         <item>Microfoon</item>
         <item>Systeemgeluiden</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Geen</item>
+        <item>Microfoon</item>
+        <item>Systeem</item>
+        <item>Beide</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Interne opslag</item>
         <item>Externe opslag</item>

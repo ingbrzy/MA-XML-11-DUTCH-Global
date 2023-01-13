@@ -56,6 +56,10 @@
         <item quantity="other">%1$d dagen geleden</item>
         <item quantity="one">%1$d dag geleden</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">%1$d bestanden van al uw apparaten en de cloud verwijderen? Mi Drive bestanden kunnen worden hersteld van uw recentelijk verwijderde items.</item>
+        <item quantity="one">%1$d bestand van al uw apparaten en de cloud verwijderen? Mi Drive bestanden kunnen worden hersteld van uw recent verwijderde items.</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">Verwijder %1$d bestanden?</item>
         <item quantity="one">Verwijder %1$d bestand?</item>
@@ -135,6 +139,18 @@
     <plurals name="more_gems">
         <item quantity="other">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> edelstenen erbij om deel te kunnen nemen aan de verloting.</item>
         <item quantity="one">Verzamel &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> edelsteen erbij om deel te kunnen nemen aan de verloting.</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Kon %1$s bestanden niet synchroniseren</item>
+        <item quantity="one">Kon %1$s bestand niet synchroniseren</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"%1$s bestanden gesynchroniseerd | "</item>
+        <item quantity="one">"%1$s bestand gesynchroniseerd | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Wachten op netwerkverbinding. %1$s bestanden resterend.</item>
+        <item quantity="one">Wachten op netwerkverbinding. %1$s bestand resterend.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d items geselecteerd</item>

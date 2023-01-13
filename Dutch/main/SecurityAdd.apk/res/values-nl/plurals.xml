@@ -65,11 +65,23 @@
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d dagen resterend vóór Netwerk snelheidsboost sessie eindigt. Verleng de sessie om netwerksnelheidsproblemen te voorkomen.</item>
-        <item quantity="one">%d dag resterend vóór Netwerk snelheidsboost sessie eindigt. Verleng de sessie om netwerksnelheidsproblemen te voorkomen.</item>
+        <item quantity="other">Uw netwerk snelheidsboost-sessie eindigt over %d dag. U kunt netwerkvertragingen ervaren. De sessie nu verlengen?</item>
+        <item quantity="one">Uw netwerk snelheidsboost-sessie eindigt over %d dag. U kunt netwerkvertragingen ervaren. De sessie nu verlengen?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s uren</item>
+        <item quantity="one">%s uur</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s min. resterende schermtijd</item>
+        <item quantity="one">%s min. resterende schermtijd</item>
     </plurals>
 </resources>

@@ -47,6 +47,7 @@
     <string name="calibrate_failed">Hoogte kalibratie mislukt</string>
     <string name="calibrate_failed_no_location">Kan niet kalibreren</string>
     <string name="calibrate_failed_timeout">Kan geen verbinding maken met de server</string>
+    <string name="calibrate_new_tip">Kantel uw apparaat scherp om de bal rond de cirkel te rollen</string>
     <string name="calibrate_rotate_again">Opnieuw proberen</string>
     <string name="calibrate_success">Gekalibreerd</string>
     <string name="calibrate_tip">Kantel uw apparaat om de bal rond de cirkel te laten rollen</string>
@@ -228,7 +229,7 @@
     <string name="morning">Ochtend</string>
     <string name="new_cta_app_purpose">bekijk routebeschrijving en coördinaten</string>
     <string name="new_cta_v2_app_purpose">Met aanwijzingen, coördinaten, atmosfeer druk en huidige hoogte</string>
-    <string name="new_permission_camera_desc">Voor kalibratie</string>
+    <string name="new_permission_camera_desc">Voor het tonen van live voorbeelden</string>
     <string name="new_permission_location_desc">Voor het weergeven van coördinaten</string>
     <string name="night">Avond</string>
     <string name="noon">Tussen de middag</string>

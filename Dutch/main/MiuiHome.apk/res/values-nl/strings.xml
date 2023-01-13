@@ -301,6 +301,7 @@
     <string name="dual_app">Dubbele apps</string>
     <string name="early_morning">Ochtend</string>
     <string name="edit">Bewerken</string>
+    <string name="edit_folder">Map bewerken</string>
     <string name="edit_folder_title">Mapnaam bewerken</string>
     <string name="edit_mode_dual_app">Dubbele app creëren</string>
     <string name="edit_mode_group">Groep</string>
@@ -387,9 +388,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Succesvol aangemaakt</string>
     <string name="fold_pair_install_shortcut_long_click">Houd ingedrukt om toe te voegen aan Startscherm</string>
     <string name="fold_pair_installed_shortcut_launcher">Deze snelkoppeling bestaat al</string>
     <string name="folder_name">Map</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
+    <string name="folder_picker_big_text">Vergroot</string>
+    <string name="folder_picker_default_text">Normaal</string>
+    <string name="folder_picker_options_tab_text">Grootte</string>
+    <string name="folder_picker_sliding_button_tab_text">Gemarkeerde apps voorstellen</string>
+    <string name="folder_picker_tab_text">Map</string>
     <string name="frame_load_failed">Kan frame niet laden</string>
     <string name="free_style_apps_title">App selecteren</string>
     <string name="free_style_drawer_title">Alle apps</string>
@@ -469,6 +477,7 @@
     <string name="icon_style">Stijl</string>
     <string name="image_too_small_message">Originele afbeelding is niet groot genoeg.</string>
     <string name="install">Installeren</string>
+    <string name="intelligent_exposed_button_summary_text">Gebruik slimme suggesties op basis van uw app-gebruik om apps in vergrote mappen te markeren</string>
     <string name="invalid_contact_shortcut">Ongeldig contact</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
     <string name="is_system_wallpaper_message">Kan systeembronnen niet verwijderen</string>
@@ -554,6 +563,7 @@ Verbeterde beveiliging."</string>
     <string name="minus_one_screen">App-kluis</string>
     <string name="miui_screen_config_title">Startscherm instellingen</string>
     <string name="miui_widget_menu_replace_text">Overschakelen</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">App-kluis ondersteunt geen widgets van dit formaat</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
@@ -580,6 +590,8 @@ Verbeterde beveiliging."</string>
     <string name="monday">Maandag</string>
     <string name="monday_short">Ma</string>
     <string name="monday_shortest">Ma</string>
+    <string name="monochrome_summary">Achtergrondkleur wijzigen voor compatibele iconen</string>
+    <string name="monochrome_title">Achtergrondkleur</string>
     <string name="month_april">April</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -624,6 +636,7 @@ Verbeterde beveiliging."</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -795,6 +808,8 @@ Verbeterde beveiliging."</string>
     <string name="quick_search_guide_quick_search">Snelzoeken</string>
     <string name="quick_search_guide_title">Selecteer standaardmodus</string>
     <string name="recent_apps">Recent</string>
+    <string name="recent_menu_item_add_pair">Maak een Startscherm snelkoppeling voor deze combinatie van Gesplitst scherm</string>
+    <string name="recent_menu_item_add_pair_first_toast">Maak een Startscherm snelkoppeling voor deze combinatie van Gesplitst scherm</string>
     <string name="recent_menu_item_info">Informatie</string>
     <string name="recent_menu_item_lock">Vergrendelen</string>
     <string name="recent_menu_item_multi_window">Verdelen</string>
@@ -901,6 +916,7 @@ Verbeterde beveiliging."</string>
     <string name="sort_by_not_defined">Auto sorteren</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="starting_preset_app">Starten…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />
@@ -983,6 +999,8 @@ Verbeterde beveiliging."</string>
     <string name="title_select_shortcut">Snelkoppeling selecteren</string>
     <string name="toast_drag_to_assistant_reject">App-kluis initialiseren…</string>
     <string name="toast_screen_icons_misplaced">Hersteld van een andere bron, enkele iconen kunnen verkeerd zijn geplaatst.</string>
+    <string name="toast_split_app_unsupported">Deze app ondersteunt geen Gesplitst scherm</string>
+    <string name="toast_split_select_app">Tik op een app om Gesplitst scherm te gebruiken</string>
     <string name="today">Vandaag</string>
     <string name="toggle_select_title">Schakelaar selecteren</string>
     <string name="toggle_title">Schakelaars</string>
@@ -1033,8 +1051,12 @@ Verbeterde beveiliging."</string>
     <string name="widget_global_search">Zoeken</string>
     <string name="widget_quick_function">Snelfuncties</string>
     <string name="widgets_preview_title">Widgets toevoegen</string>
+    <string name="work_mode_off_detailed_text">Uw zakelijke apps kunnen u geen meldingen sturen, uw batterij niet gebruiken of toegang krijgen tot uw locatie</string>
     <string name="work_mode_off_label">Meldingen zijn uitgeschakeld en apps zijn nu niet beschikbaar</string>
+    <string name="work_mode_off_text">Zakelijke apps zijn gepauzeerd</string>
     <string name="work_mode_on_label">Beheerd door uw organisatie</string>
+    <string name="work_mode_toggle_off">Zakelijke apps uitschakelen</string>
+    <string name="work_mode_toggle_on">Zakelijke apps inschakelen</string>
     <string name="work_profile_first_content">Persoonlijke gegevens zijn gescheiden en verborgen voor zakelijke apps</string>
     <string name="work_profile_got_button">Begrepen</string>
     <string name="work_profile_next_button">Volgende</string>

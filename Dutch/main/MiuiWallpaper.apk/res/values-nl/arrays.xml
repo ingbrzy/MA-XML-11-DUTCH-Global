@@ -30,9 +30,4 @@
         <item>Achtergrond/Super achtergronden</item>
         <item>Super achtergronden;Achtergrond;Dynamische achtergrond;3D-achtergrond</item>
     </string-array>
-    <string-array name="settings_search_weather">
-        <item>Weer</item>
-        <item>Achtergrond/Super achtergronden/Weer</item>
-        <item>Weer;Weersinformatie;Super achtergrond;Achtergrond</item>
-    </string-array>
 </resources>

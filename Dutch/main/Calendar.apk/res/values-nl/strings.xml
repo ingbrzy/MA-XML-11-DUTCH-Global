@@ -91,6 +91,7 @@
     <string name="birthday_saved">Verjaardag opgeslagen</string>
     <string name="birthday_term">verjaardag</string>
     <string name="button_record_menstruation">Registreren</string>
+    <string name="calendar_account_settings">Account instellingen</string>
     <string name="calendar_permission_desc">Gebeurtenissen beheren</string>
     <string name="calendar_privacy_policy">Privacybeleid</string>
     <string name="can_not_create_long_event">Naam gebeurtenis is te lang</string>
@@ -112,6 +113,7 @@
     <string name="change">Wijzigen</string>
     <string name="change_response_title">Antwoord wijzigen</string>
     <string name="change_zodiac">Sterrenbeeldteken wijzigen</string>
+    <string name="check_new_version">Controleren op updates</string>
     <string name="chips_action_cancel">Annuleren</string>
     <string name="chips_action_copy">Kopiëren</string>
     <string name="chips_permission_text">Contactsuggesties toestaan</string>
@@ -180,6 +182,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_today">" (vandaag)"</string>
     <string name="date_view">Datum</string>
@@ -194,6 +197,7 @@
     <string name="description_calendar_edit_event">Systeem-apps/Kalender/Agenda</string>
     <string name="directory_searching_fmt">%s… aan het zoeken</string>
     <string name="discard_label">Annuleren</string>
+    <string name="display_to_calendar">Weergeven in Kalender</string>
     <string name="does_not_repeat">Eenmalige gebeurtenis</string>
     <string name="dropdown_delete_button_desc">%s verwijderen uit ontvangers</string>
     <string name="early_morning">Ochtend</string>
@@ -387,6 +391,7 @@
     <string name="horoscope">Horoscoop</string>
     <string name="horoscope_card_title">Horoscoop van vandaag</string>
     <string name="horoscope_select_activity_label">Selecteer sterrenbeeld</string>
+    <string name="hour_1">%d uur</string>
     <string name="image_processing">Afbeelding is nog niet klaar</string>
     <string name="import_action">Importeer</string>
     <string name="import_birthday">Importeer verjaardag</string>
@@ -451,6 +456,10 @@
     <string name="mesens_card_title_today_begin">Ongesteldheid begint waarschijnlijk vandaag</string>
     <string name="mesens_card_title_tomorrow_begin">Ongesteldheid begint waarschijnlijk morgen</string>
     <string name="midnight">Nacht</string>
+    <string name="minutes_10">%d minuten</string>
+    <string name="minutes_15">%d minuten</string>
+    <string name="minutes_30">%d minuten</string>
+    <string name="minutes_5">%d minuten</string>
     <string name="missing_name">(Geen naam)</string>
     <string name="missing_required_permission">U hebt beperkte vereiste toestemmingen.</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
@@ -713,7 +722,6 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="save">Opslaan</string>
     <string name="saving_event">Gebeurtenis opgeslagen</string>
     <string name="saving_event_with_guest">Updates versturen…</string>
-    <string name="search_calendar">Datum;Zon Termen;Maan;Almanac;Geluk;Agenda;Vergadering;Herinnering;Vakantie;Feestdag;Verjaardag;2016;2017;Lentefestival;Nieuwjaarsdag;Internationale Dag van de Arbeid;Mid-winterfestival</string>
     <string name="search_calendar_edit_event">Vergadering;Herinnering;Agenda</string>
     <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
     <string name="search_events">Zoek evenementen</string>
@@ -753,6 +761,9 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="share_image_label">Delen via</string>
     <string name="share_title">Deel</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">Gebeurtenis toevoegen</string>
+    <string name="shortcut_next_agenda">Volgend evenement</string>
+    <string name="shortcut_settings">Instellingen</string>
     <string name="show_day_view">Toon dag</string>
     <string name="show_indic_date_summary">Indische kalender is beschikbaar als een van de talen van India is ingesteld als je systeemtaal</string>
     <string name="show_menstruation_info">Menstruatie info weergeven</string>
@@ -792,6 +803,7 @@ U kunt ook herinneringen toevoegen zodat u nooit iets belangrijks mist."</string
     <string name="subtitle_mi_calendar_predict_menstruation">Registreer en schat aankomende ongesteldheden met behulp van Kalender</string>
     <string name="subtitle_record_and_start_predict">Registreer een ongesteldheid om in te schatten wanneer de volgende begint</string>
     <string name="subtitle_stick_record">Registreer uw ongesteldheden om nauwkeurigere voorspellingen te krijgen</string>
+    <string name="suggestions_and_feedback">Feedback</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>

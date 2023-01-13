@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -58,6 +58,7 @@
     <string name="dual_app_title">Dubbele apps</string>
     <string name="dual_app_words">Elke account verdient zijn eigen app</string>
     <string name="early_morning">Ochtend</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
@@ -148,14 +149,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Gratis netwerk snelheidsboost</string>
-    <string name="free_send_net_booster_busniess">Krijg een gratis Xunlei snelheidsboost</string>
-    <string name="free_send_net_booster_busniess_tip">Tik om te ontvangen</string>
-    <string name="free_send_net_booster_tip">Geniet van soepel gamen met de gratis netwerk snelheidsboost.</string>
+    <string name="free_send_net_booster">Probeer Game Turbo gratis uit</string>
+    <string name="free_send_net_booster_busniess">Probeer Game Turbo gratis uit</string>
+    <string name="free_send_net_booster_busniess_tip">Geef uw game-ervaring een boost en win een game-skin. Deze aanbieding is alleen vandaag geldig!</string>
+    <string name="free_send_net_booster_tip">Geef uw game-ervaring een boost en win een Xiaomi-apparaat!</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="game_booster">Game snelheidsbooster</string>
+    <string name="gamebooster_dialog_recover">Verlengen</string>
+    <string name="gamebooster_dialog_start_booster">Starten</string>
     <string name="gamebooster_network_dialog_message">Beveiliging toestaan om verbinding met het netwerk te maken om alle functies van Game Turbo te kunnen gebruiken?</string>
     <string name="gamebooster_network_dialog_message_pad">Beveiliging toestaan om verbinding met het netwerk te maken om alle functies van Game Turbo te kunnen gebruiken?</string>
     <string name="gamebooster_network_dialog_title">Sommige functies zijn niet beschikbaar</string>
@@ -319,7 +322,7 @@
     <string name="morning">Ochtend</string>
     <string name="net_booster_expire_notification">Netwerk snelheidsboost-sessie eindigt binnenkort</string>
     <string name="net_booster_overdue_notification">Netwerk snelheidsboost-sessie eindigt binnenkort</string>
-    <string name="net_booster_overdue_notification_tip">Netwerk snelheidsboost-sessie eindigt binnenkort. Wil je de sessie verlengen?</string>
+    <string name="net_booster_overdue_notification_tip">Netwerk snelheidsboost-sessie is beëindigd. U kunt netwerkvertragingen ervaren. De sessie nu verlengen?</string>
     <string name="network_not_available">Kan geen verbinding maken met het netwerk</string>
     <string name="night">Avond</string>
     <string name="no_network">Kan geen verbinding maken met het netwerk</string>
@@ -331,6 +334,8 @@
     <string name="pc_activity_title">Batterij optimaliseren</string>
     <string name="pm">PM</string>
     <string name="pm_lable_name">Over root toegang</string>
+    <string name="power_center_battery_duration_screen_on">Resterende schermtijd</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s resterende schermtijd</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_declare_dialog_title">Servicevoorwaarden</string>
     <string name="privacy_prompt_traffic_purchase_message">Je telefoonnummer en gegevens van je maatschappij zullen worden versleuteld en geüpload naar de servers van Mi, om meer info over data-aankoopopties te krijgen.</string>
@@ -348,6 +353,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>

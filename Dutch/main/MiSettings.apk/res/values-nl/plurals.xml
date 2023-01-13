@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d minuten resterend voor \"%1$s\" vandaag</item>
+        <item quantity="one">%2$d minuut resterend voor \"%1$s\" vandaag</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -76,9 +80,21 @@
         <item quantity="other">U heeft uw apparaat gebruikt voor %d minuten zonder onderbrekingen</item>
         <item quantity="one">U heeft uw apparaat gebruikt voor %d minuut zonder onderbrekingen</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Rust %d minuten</item>
+        <item quantity="one">Rust %d minuut</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d minuten</item>
         <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">U gebruikt dit apparaat al %d minuten</item>
+        <item quantity="one">U gebruikt dit apparaat al %d minuut</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">U kunt maximaal %d pauzes toevoegen</item>
+        <item quantity="one">U kunt maximaal %d pauze toevoegen</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">De schermtijd vandaag is gelijk aan uw %d dag gemiddelde</item>

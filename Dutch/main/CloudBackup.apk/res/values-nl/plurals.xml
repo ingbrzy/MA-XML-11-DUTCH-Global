@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">Het lijkt erop dat u al %s weken geen back-up van items hebt gemaakt. Maak back-ups om te voorkomen dat u iets belangrijks verliest.</item>
+        <item quantity="one">Het lijkt erop dat u al %s week geen back-up van items hebt gemaakt. Maak back-ups om te voorkomen dat u iets belangrijks verliest.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s back-ups (%2$s)</item>
         <item quantity="one">%1$s back-up (%2$s)</item>
@@ -72,16 +76,16 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d apps op dit apparaat</item>
-        <item quantity="one">%d app op dit apparaat</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Back-up gemaakt van %d apps</item>
+        <item quantity="one">Back-up gemaakt van %d app</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">Normale prioriteit: %d apps</item>
-        <item quantity="one">Normale prioriteit: %d app</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d apps hersteld</item>
+        <item quantity="one">%d app hersteld</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">Hoge prioriteit: %d apps</item>
-        <item quantity="one">Hoge prioriteit: %d app</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">Ongeveer %s min. resterend</item>
+        <item quantity="one">Ongeveer %s min. resterend</item>
     </plurals>
 </resources>

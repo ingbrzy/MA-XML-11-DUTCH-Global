@@ -41,12 +41,12 @@
         <item quantity="one">%d dag geleden</item>
     </plurals>
     <plurals name="abc_slice_duration_min">
-        <item quantity="other">%d min geleden</item>
-        <item quantity="one">%d min geleden</item>
+        <item quantity="other">%d min geleden</item>
+        <item quantity="one">%d min geleden</item>
     </plurals>
     <plurals name="abc_slice_duration_years">
-        <item quantity="other">%d jaar geleden</item>
-        <item quantity="one">%d jaar geleden</item>
+        <item quantity="other">%d jr geleden</item>
+        <item quantity="one">%d jr geleden</item>
     </plurals>
     <plurals name="accessibility_usage_summary">
         <item quantity="other">%1$d apps hebben volledige toegang tot je apparaat</item>
@@ -144,6 +144,10 @@
         <item quantity="other">%d beschikbare apparaten</item>
         <item quantity="one">%d beschikbaar apparaat</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">Elke %d seconden</item>
         <item quantity="one">Elke %d seconde</item>
@@ -237,12 +241,12 @@
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="location_app_permission_summary_location_on">
-        <item quantity="other">%1$d van %2$d apps hebben toegang tot de locatie</item>
-        <item quantity="one">%1$d van %2$d apps heeft toegang tot de locatie</item>
+        <item quantity="other">%1$d van %2$d apps hebben locatietoegang</item>
+        <item quantity="one">%1$d van %2$d apps heeft locatietoegang</item>
     </plurals>
     <plurals name="location_settings_summary_location_on">
-        <item quantity="other">Aan: %1$d apps hebben toegang tot de locatie</item>
-        <item quantity="one">Aan: %1$d app heeft toegang tot de locatie</item>
+        <item quantity="other">Aan: %1$d apps hebben locatietoegang</item>
+        <item quantity="one">Aan: %1$d app heeft locatietoegang</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Moet ten minste %d letters bevatten</item>
@@ -311,6 +315,10 @@
     <plurals name="manage_trust_agents_summary_on">
         <item quantity="other">%d actieve trust agents</item>
         <item quantity="one">1 actieve trust agent</item>
+    </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Hoogstens %d processen</item>
+        <item quantity="one">Hoogstens %d proces</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d apps hebben geheugen gebruikt in de afgelopen %2$s</item>
@@ -468,22 +476,6 @@
         <item quantity="other">Certificaten vertrouwen of verwijderen</item>
         <item quantity="one">Certificaat vertrouwen of verwijderen</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s heeft certificeringsinstanties voor je werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
-
-Neem contact op met je beheerder voor meer informatie over deze certificaten."</item>
-        <item quantity="one">"%s heeft een certificeringsinstantie voor je werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
-
-Neem contact op met je beheerder voor meer informatie over dit certificaat."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s heeft certificeringsinstanties geïnstalleerd op je apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
-
-Neem contact op met je beheerder voor meer informatie over deze certificaten."</item>
-        <item quantity="one">"%s heeft een certificeringsinstantie geïnstalleerd op je apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.
-
-Neem contact op met je beheerder voor meer informatie over dit certificaat."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Certificaten controleren</item>
         <item quantity="one">Certificaat controleren</item>
@@ -495,6 +487,26 @@ Neem contact op met je beheerder voor meer informatie over dit certificaat."</it
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d apps kunnen meldingen weergeven</item>
         <item quantity="one">%d app kan meldingen weergeven</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Na %d minuten</item>
+        <item quantity="one">Na %d minuut</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/sample</item>
+        <item quantity="one">%d bit/sample</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d uren</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minuten</item>
+        <item quantity="one">%d minuut</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d suggesties</item>
@@ -569,7 +581,7 @@ Neem contact op met je beheerder voor meer informatie over dit certificaat."</it
         <item quantity="one">Weekenden: %d minuut</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">Weekdagen: %d uren</item>
+        <item quantity="other">Weekdagen: %d uur</item>
         <item quantity="one">Weekdagen: %d uur</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">

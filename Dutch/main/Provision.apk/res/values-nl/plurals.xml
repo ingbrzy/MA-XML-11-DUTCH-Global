@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="authorization_status_hold_time">
+        <item quantity="other">%d seconden</item>
+        <item quantity="one">%d seconde</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
