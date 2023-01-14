@@ -525,7 +525,6 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">Alarm zal afgaan als u deze ten minste 10 minuten vóór het uitzetten van uw apparaat gezet heeft</string>
     <string name="shutdown_alarm_title">Uitschakel alarm</string>
     <string name="silent_alarm_summary">Stil</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -571,7 +570,6 @@ mm"</string>
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">Geen opgeslagen rondes</string>
     <string name="stopwatch_reset_notification">Stopwatch is gereset</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
@@ -580,7 +578,6 @@ mm"</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">Sta toe dat deze app verbinding maakt met het internet om toegang te krijgen tot alle functies.</string>
     <string name="system_permission_main_purpose">Tijd bekijken, alarmen en timers instellen met stopwatch</string>
     <string name="system_permission_purpose">Weekdag alarmen creëren en aangepaste beltonen instellen</string>
