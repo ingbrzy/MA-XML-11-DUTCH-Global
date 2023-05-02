@@ -32,7 +32,6 @@
     <string name="am">AM</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
-    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
     <string name="copy">Kopiëren</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -184,6 +183,7 @@
     <string name="miui_feedback_edit_toast_module_required">Selecteer item</string>
     <string name="miui_feedback_edit_toast_more_desc_required">Uw beschrijving zou wat langer mogen zijn</string>
     <string name="miui_feedback_edit_toast_problem_class_required">Categorie selecteren</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">"Afbeeldingen of video's groter dan 100MB kunnen niet worden geüpload"</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">Vul naam van de app in</string>
     <string name="miui_feedback_main_answer_title">Er is een antwoord op deze vraag</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"Klantenservice: 0120-300-521

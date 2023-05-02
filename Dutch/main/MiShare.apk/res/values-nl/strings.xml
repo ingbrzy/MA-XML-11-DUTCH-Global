@@ -3,7 +3,7 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_action_mode_done">Klaar</string>
     <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
@@ -396,6 +396,7 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="somepc_send_muchfile_files">%1$s stuurt meer dan %2$d bestanden naar u…</string>
     <string name="start_receive_much_files_from_pc">Meer dan %2$d bestanden ontvangen van %1$s…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sub_title_mishare_switch">Deze functie wordt automatisch uitgeschakeld na %d minuten</string>
     <string name="success_receive_much_file_from_pc">Meer dan %2$d bestanden ontvangen van %1$s. Tik om te bekijken.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
@@ -457,15 +458,19 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">Mi Share</string>
     <string name="to_feedback">Rapporteren</string>
+    <string name="toast_auto_close_in_minutes">Mi Share wordt uitgeschakeld na %d minuten</string>
+    <string name="toast_transfering">Items overzetten. Probeer het later opnieuw.</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
     <string name="transfer_intercept_to_remote">Kon niet verzenden: %1$s</string>
     <string name="transfer_to_pc_summary">De nieuwste versie van AIoT-software die is geïnstalleerd op Mi Notebooks is compatibel met Mi Share. U kunt de lijst met ondersteunde laptopmodellen bekijken op de MIUI-website. Als uw laptop in de lijst staat, maar AIoT is er niet op geïnstalleerd, werk dan het BIOS en netwerkadapterstuurprogramma van uw laptop bij en download AIoT.</string>
     <string name="transfer_to_pc_summary_new">&lt;Data>De laatste versie van MIUI+ die op Mi Notebooks is geïnstalleerd, is compatibel met Mi Share. U kunt de lijst met ondersteunde laptopmodellen bekijken op de MIUI+ website (&lt;a href=%1$s>%2$s&lt;/a>). Als uw laptop op de lijst staat, maar MIUI+ er niet op is geïnstalleerd, werk dan het BIOS en de netwerkadapter driver bij en download MIUI+.&lt;/Data></string>
     <string name="transfer_to_pc_title">Bestanden verzenden naar computers</string>
-    <string name="transfer_to_phone_summary">Schakel Mi Share in met de schakel in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of een bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
+    <string name="transfer_to_phone_summary">Schakel Mi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
+    <string name="transfer_to_phone_summary_new">Schakel Mi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
     <string name="transfer_to_phone_title">Bestanden naar telefoons verzenden</string>
     <string name="transfer_to_summary">Schakel Mi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
+    <string name="transfer_to_summary_new">Schakel Mi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
     <string name="transfer_to_title">Bestanden verzenden naar mobiele apparaten</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>

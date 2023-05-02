@@ -48,10 +48,11 @@
     <string name="add_holiday_desc">Voeg hier vakanties toe</string>
     <string name="add_holiday_title">Vakantie toevoegen</string>
     <string name="additional_cal_dialog_title">Selecteer kalender</string>
-    <string name="additional_cal_pref_title">Extra kalender</string>
+    <string name="additional_cal_pref_title">Aanvullende kalenders</string>
     <string name="additional_calendar_note">Sommige extra kalenders zijn mogelijk niet beschikbaar of variëren afhankelijk van inconstante factoren</string>
     <string name="afternoon">Middag</string>
     <string name="agenda_month_empty_hint">Geen gebeurtenissen voor vandaag</string>
+    <string name="agenda_not_today_empty_hint">Er zijn hier nog geen evenementen. Tik om er een aan te maken.</string>
     <string name="agenda_tomorrow">MORGEN, %1$s</string>
     <string name="agenda_view">Gebeurtenissen</string>
     <string name="alarm_label">Afwijzen</string>
@@ -182,6 +183,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
     <string name="date_today">" (vandaag)"</string>
     <string name="date_view">Datum</string>
@@ -194,6 +196,8 @@
     <string name="delete_this_event_title">Deze gebeurtenis verwijderen?</string>
     <string name="description_calendar">Systeem-apps/Kalender</string>
     <string name="description_calendar_edit_event">Systeem-apps/Kalender/Agenda</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">%s… aan het zoeken</string>
     <string name="discard_label">Annuleren</string>
     <string name="display_to_calendar">Weergeven in Kalender</string>
@@ -270,6 +274,7 @@
     <string name="event_info_when">Wanneer</string>
     <string name="event_info_where">Waar</string>
     <string name="event_reminder_allday_day_zero">Op die dag om %2$s</string>
+    <string name="event_reminder_custom">Aangepast</string>
     <string name="event_reminder_value_zero">Vóór de gebeurtenis</string>
     <string name="event_title">Titel</string>
     <string name="event_view">Bekijk gebeurtenis</string>
@@ -389,6 +394,7 @@
     <string name="holidays_title">Vakanties</string>
     <string name="horoscope">Horoscoop</string>
     <string name="horoscope_card_title">Horoscoop van vandaag</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">Selecteer sterrenbeeld</string>
     <string name="hour_1">%d uur</string>
     <string name="image_processing">Afbeelding is nog niet klaar</string>
@@ -422,6 +428,8 @@
     <string name="long_holiday_week_off">Wekelijkse vrije dagen</string>
     <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">Lunar Datum</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">Vakanties beheren</string>
     <string name="manage_title">Beheren</string>
     <string name="mark_end">Menstruatie is beëindigd</string>
@@ -579,7 +587,7 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="no_visiable_calendar_title">Account toevoegen</string>
     <string name="none">Geen</string>
     <string name="noon">Tussen de middag</string>
-    <string name="not_more_than_three_weekday">U kunt maximaal 3 dagen selecteren</string>
+    <string name="not_more_than_three_weekday">U kunt maximaal %d dagen selecteren</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="notes_hint">Tik om een taak toe te voegen</string>
     <string name="notes_reminders_channel">Notities herinneringen</string>
@@ -594,6 +602,10 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="notes_weekly">Wekelijks</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">Kalender herinneringen</string>
+    <string name="notification_open_setting_button_exit">Nee, bedankt</string>
+    <string name="notification_open_setting_button_ok">Toestaan</string>
+    <string name="notification_open_setting_message">U kunt geen meldingen over afspraken ontvangen, tenzij u Kalender toestemming geeft om uw meldingen te sturen.</string>
+    <string name="notification_open_setting_title">Kalendermeldingen toestaan?</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">Amanta</string>
@@ -621,6 +633,7 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">Partner compatibiliteit</string>
     <string name="path_calendar_settings">Systeem apps/Kalender/Instellingen</string>
+    <string name="permission_denial">Verleen toestemmingen om deze functie te kunnen gebruiken</string>
     <string name="permission_description">Toestemmingen details</string>
     <string name="picker_day">Geselecteerde dag: %1$d. Veeg verticaal om te selecteren.</string>
     <string name="picker_month">Geselecteerde maand: %1$d. Veeg verticaal om te selecteren.</string>
@@ -634,7 +647,6 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="pref_title_no_remind">Geen herinneringen</string>
     <string name="pref_title_notification_remind">Meldingsherinneringen</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
-    <string name="preferences_additional_cal_default">0</string>
     <string name="preferences_alarms_category_title">Alarm herinneringen</string>
     <string name="preferences_alarms_sound">Geluid</string>
     <string name="preferences_alarms_vibrateWhen">Trillen</string>
@@ -653,9 +665,9 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="preferences_title">Kalender</string>
     <string name="preferences_use_home_tz_descrip">Laat kalenders en tijden van gebeurtenissen in uw eigen tijdzone zien terwijl u reist</string>
     <string name="preferences_use_home_tz_title">Gebruik eigen tijdzone</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Begin van de week</string>
     <string name="preferences_week_start_day_title">Begin van de week</string>
+    <string name="premission_description_notice">Voor het versturen van meldingen over evenementen en feestdagen</string>
     <string name="privacy_and_permissions">Privacy en toestemmingen</string>
     <string name="privacy_card_description">Ga akkoord met ons Privacybeleid voor toegang tot alle functies.</string>
     <string name="privacy_policy_dialog_agree">Akkoord</string>
@@ -681,6 +693,8 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="remind_title_menstruation_start">Herinner me wanneer de ongesteldheid begint</string>
     <string name="remind_title_record">Herinner me het te registreren</string>
     <string name="repeat_activity_label">Herhalen</string>
+    <string name="repeat_alarm_close_title">Dit is een terugkerend evenement. Alarmherinnering uitschakelen?</string>
+    <string name="repeat_alarm_open_title">Dit is een terugkerend evenement. Alarmherinnering instellen?</string>
     <string name="repeat_custom_activity_label">Aangepast</string>
     <string name="repeat_custom_prompt_daily">iedere %1$s</string>
     <string name="repeat_custom_prompt_sentence">Gebeurtenis zal zich %1$s herhalen</string>
@@ -702,6 +716,7 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="repeat_label_frequency">Frequentie</string>
     <string name="repeat_label_interval">Iedere</string>
     <string name="repeat_label_week">Week</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">Herhalen</string>
@@ -722,7 +737,9 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="saving_event">Gebeurtenis opgeslagen</string>
     <string name="saving_event_with_guest">Updates versturen…</string>
     <string name="search_calendar_edit_event">Vergadering;Herinnering;Agenda</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">Zoek evenementen</string>
     <string name="search_history">Zoekgeschiedenis</string>
     <string name="search_menu_title">Zoeken</string>
@@ -740,7 +757,7 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="setting_about_summary">Versie:</string>
     <string name="setting_accounts">Kalenderaccounts</string>
     <string name="setting_change_language">Selecteer kalender taal</string>
-    <string name="setting_desc_import_todo">Importeer geplande taken van Notities</string>
+    <string name="setting_desc_import_todo">Tijdgevoelige taken importeren uit Notities</string>
     <string name="setting_features_title">Functie instellingen</string>
     <string name="setting_holiday_display_desc">Vakantiekaarten bevinden zich onder uw agenda op de startpagina</string>
     <string name="setting_holiday_reminder">Vakantie herinnering</string>
@@ -777,6 +794,10 @@ Controleer instellingen en probeer opnieuw."</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip">Overslaan</string>
     <string name="small_week_date_format">EEE dd-MM-yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">Speciale evenementen</string>
     <string name="start_date_calculate">Berekenen</string>

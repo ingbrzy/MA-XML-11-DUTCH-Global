@@ -352,12 +352,17 @@ scrollende screenshot te maken"</string>
     <string name="screen_editor_btn_save">Opslaan</string>
     <string name="screen_editor_btn_shell_off">Apparaatframe verwijderen</string>
     <string name="screen_editor_btn_shell_on">Voeg apparaatframe toe</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">Deze screenshot verwijderen?</string>
     <string name="screen_editor_delete_dialog_picture_msg">Deze afbeelding nu verwijderen?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">Voltooid</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">Kan apparaatframe niet toevoegen aan bijgesneden screenshots</string>
     <string name="screen_editor_shell_net_error">Maak verbinding met het netwerk om het apparaatframe te downloaden</string>
     <string name="screen_editor_shell_res_downloading">Apparaatframe downloaden…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">Annuleren</string>
     <string name="screen_save_dialog_btn_delete">Screenshot verwijderen</string>
     <string name="screen_save_dialog_btn_save">Opslaan in Galerij</string>

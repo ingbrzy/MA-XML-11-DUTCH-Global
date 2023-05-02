@@ -42,7 +42,7 @@
     <string name="app_name">Rekenmachine</string>
     <string name="app_notification_info">Rekenmachine wordt op de achtergrond uitgevoerd</string>
     <string name="base_rate">Basisrente</string>
-    <string name="bmi_error_text">Deze BMI ziet er niet goed uit. Zorg ervoor dat de lengte en het gewicht dat u heeft ingevoerd correct zijn.</string>
+    <string name="bmi_error_text">Voer geldige parameters in</string>
     <string name="bmi_label_information">Informatie</string>
     <string name="bmi_label_normal">Normaal</string>
     <string name="bmi_label_overweight">Overgewicht</string>
@@ -220,6 +220,7 @@
     <string name="global_search_key_word_figure">Financiële tekens</string>
     <string name="golbal_search_calculator_setting">Rekenmachine/Rekenmachine instellingen;Instellingen</string>
     <string name="golbal_search_path_calculator_setting">Systeem-apps/Rekenmachine/Instellingen</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Lengte</string>
     <string name="help_content_desc">Help</string>
@@ -235,6 +236,7 @@
     <string name="install_scanner_to_continued_use">Scanner is gedeïnstalleerd. Opnieuw installeren?</string>
     <string name="interest_rate_hint">Rente invoeren</string>
     <string name="investment_invalid_duration">De investeringsduur moet groter zijn dan nul</string>
+    <string name="investment_loan_result">Details</string>
     <string name="investment_type_once">Eenmalig</string>
     <string name="investment_type_recurring">Terugkerend</string>
     <string name="item_page_title_investment">Investeringscalculator</string>
@@ -593,7 +595,6 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="tax_result_real_get">Netto</string>
     <string name="tax_social_insurance">Sociale verzekering</string>
     <string name="tax_thershold_foreign">%s (Vreemdelingen)</string>
-    <string name="tax_thershold_native">%s (Vasteland China)</string>
     <string name="tax_thershold_native_new">%s (nieuw)</string>
     <string name="tax_thershold_native_new_description">Belasting zal worden berekend volgens de nieuwe belastingwet die op 1 oktober 2018 in werking treedt</string>
     <string name="tax_threshold">Belastingvrije drempel</string>
@@ -696,6 +697,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -801,7 +803,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Vadem</string>
     <string name="unit_data_display_length_ft">Voet</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Inch</string>
@@ -1038,12 +1040,15 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_calculator_delete_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de app hebt verwijderd.</string>
     <string name="xiaomi_calculator_delete_title">Rekenmachine deïnstalleren?</string>
     <string name="xiaomi_calculator_remove_icon_description">Calculator is een systeem-app. U kunt niet meerdere converters en extra functies gebruiken nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_calculator_remove_icon_title">\"Rekenmachine\" verwijderen uit het Startscherm?</string>
     <string name="xiaomi_connect_download_manager_fail">Kon niet verbinden met Downloads. Controleer of de app de vereiste toestemmingen heeft in Instellingen > Geïnstalleerde apps.</string>
     <string name="xiaomi_external_storage_unavailable">Opslag is niet beschikbaar. Controleer uw SD-kaart.</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_update_dialog_message">"De nieuwe versie %1$s
 Grootte: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"De nieuwe versie %1$s

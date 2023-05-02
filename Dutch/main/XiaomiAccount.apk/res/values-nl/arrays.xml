@@ -19,16 +19,6 @@
         <item>Xiaomi Account wachtwoord wijzigen</item>
         <item>Wachtwoord wijzigen;Wachtwoord bijwerken;Mi Account;Account;Xiaomi Account</item>
     </string-array>
-    <string-array name="settings_search_cloud_space_share">
-        <item>Familie opslagruimte</item>
-        <item>Familie opslagruimte bekijken/inschakelen</item>
-        <item>Familie opslagruimte;Opslag delen</item>
-    </string-array>
-    <string-array name="settings_search_family_service">
-        <item>Familie services</item>
-        <item>Familie services bekijken/inschakelen</item>
-        <item>Familie;Familie services;Delen met familie</item>
-    </string-array>
     <string-array name="settings_search_help_center">
         <item>Help</item>
         <item>Krijg Xiaomi Account help en ondersteuning</item>

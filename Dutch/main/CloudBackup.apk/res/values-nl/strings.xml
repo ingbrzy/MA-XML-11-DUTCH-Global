@@ -152,8 +152,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">Apparaat moet verbonden zijn met WLAN, opladen en vergrendeld zijn</string>
     <string name="cloud_backup_detail_time">Laatste backup: %1$s</string>
     <string name="cloud_backup_detail_title">Back-up items</string>
-    <string name="cloud_backup_get_installed_apps_summary">Voor het maken van back-ups en het herstellen van Startscherm apps</string>
-    <string name="cloud_backup_get_installed_apps_title">Toegang tot de lijst met apps die op dit apparaat zijn geïnstalleerd</string>
     <string name="cloud_backup_have_data">Back-up gevonden in Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Annuleren</string>
     <string name="cloud_backup_in_process">Back-up maken</string>
@@ -172,9 +170,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_summary">Uw Startscherm zal opnieuw opgestart worden. Gebackupte apps zullen automatisch gedownload worden.</string>
     <string name="confirm_restore_title">Herstellen</string>
     <string name="copy">Kopiëren</string>
-    <string name="cta_dialog_all_purpose">Welkom bij Cloud back-up! U kunt deze app gebruiken om een back-up van uw Startscherm lay-out, apps, systeeminstellingen en WeChat-gegevens naar de cloud te maken. Zorg ervoor dat u de laatste versie gebruikt om van al onze functies te kunnen profiteren.</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">Voor het maken van back-ups en het herstellen van apps</string>
-    <string name="cta_dialog_permission_description_storage">Voor het maken van back-ups en het herstellen van items</string>
     <string name="customization"><u>Aanpassen</u></string>
     <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
     <string name="date_picker_label_day" />
@@ -402,6 +397,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">Schakel de back-upschakelaar</string>
     <string name="other_device_main_space">Eerste ruimte</string>
     <string name="other_device_second_space">Tweede ruimte</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Kan items niet herstellen in PC-modus. Schakel de PC-modus uit en probeer het opnieuw.</string>
     <string name="permission_to_use">Toestemmingen details</string>
     <string name="pm">PM</string>
@@ -411,7 +408,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_back">Terug</string>
     <string name="provision_background_restore_more_data">Herstel meer items op de achtergrond</string>
     <string name="provision_error_connect_msg">Test het netwerk en probeer het opnieuw. Back-ups zijn niet beschikbaar wanneer uw apparaat offline is.</string>
-    <string name="provision_error_connect_title">Kan niet verbinden</string>
+    <string name="provision_error_connect_title">Verbinden is mislukt</string>
     <string name="provision_next">Volgende</string>
     <string name="provision_restore_data">Items aan het herstellen</string>
     <string name="provision_skip_underline">Overslaan</string>

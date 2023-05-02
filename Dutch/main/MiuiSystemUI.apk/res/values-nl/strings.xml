@@ -629,6 +629,10 @@ Je apparaat-app bepaalt welke apparaten op deze manier kunnen worden bediend."</
     <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
     <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
+    <string name="dark_mode_power_save_alert_dialog_confirm">Begrepen</string>
+    <string name="dark_mode_power_save_alert_dialog_message">"Als u MIUI-optimalisatie uitschakelt en Batterijbesparing inschakelt, wordt Donkere modus automatisch ingeschakeld.
+Als u Donkere modus wilt uitschakelen, schakelt u Batterijbesparing uit of schakelt u in MIUI-optimalisatie in Instellingen > Ontwikkelaarsopties > MIUI-optimalisatie inschakelen."</string>
+    <string name="dark_mode_power_save_alert_dialog_title">Donkere modus</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -1452,6 +1456,7 @@ Neem contact op met je IT-beheerder voor meer informatie."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Je persoonlijke apps hebben verbinding met internet via %1$s. Je netwerkactiviteit, waaronder e-mails en browsegegevens, is zichtbaar voor je VPN-provider.</string>
     <string name="monitoring_description_two_named_vpns">Dit apparaat heeft verbinding met internet via %1$s en %2$s. Je netwerkactiviteit, waaronder e-mails en browsegegevens, is zichtbaar voor je IT-beheerder.</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s kan mogelijk toegang krijgen tot gegevens die aan dit apparaat zijn gekoppeld, apps beheren en de instellingen van dit apparaat wijzigen.
 
 Als je vragen hebt, kun je contact opnemen met %2$s."</string>
@@ -1530,6 +1535,7 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1559,6 +1565,7 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="music_controls_no_title">Geen titel</string>
     <string name="nav_bar">Navigatiebalk</string>
     <string name="nav_bar_layout">Lay-out</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s heeft een afbeelding gestuurd</string>
     <string name="new_notification_text_content_description">%1$s heeft een bericht gestuurd: %2$s</string>
     <string name="new_status_content_description">%1$s heeft een statusupdate: %2$s</string>
@@ -1764,6 +1771,7 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="private_dns_mode_provider">Hostnaam van privé-DNS-provider</string>
     <string name="private_dns_mode_provider_failure">Kan geen verbinding maken</string>
     <string name="private_dns_mode_provider_hostname_hint">Geef hostnaam van DNS-provider op</string>
+    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="profile_connect_timeout_subtext">Probleem bij verbinding maken. Zet het apparaat uit en weer aan.</string>
     <string name="profile_info_settings_title">Profielinfo</string>
     <string name="qr_code_scanner_title">QR-code scannen</string>
@@ -1929,9 +1937,9 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="reboot_info_auto_boot_global">Aankomend alarm: %s</string>
     <string name="reboot_info_shutdown_alarm_global">Uitschakel alarm: %s</string>
     <string name="recent_conversations">Recente gesprekken</string>
-    <string name="recent_used_camera">Deze app gebruikte camera</string>
-    <string name="recent_used_camera_and_microphone">Deze app heeft audio opgenomen en camera gebruikt</string>
-    <string name="recent_used_microphone">Deze app heeft audio opgenomen</string>
+    <string name="recent_used_camera">Deze app heeft toegang gekregen tot camera</string>
+    <string name="recent_used_camera_and_microphone">Deze app heeft toegang gekregen tot camera en microfoon</string>
+    <string name="recent_used_microphone">Deze app heeft toegang gekregen tot microfoon</string>
     <string name="remaining_length_format">Nog %1$s</string>
     <string name="remote_input_image_insertion_text">heeft een afbeelding gestuurd</string>
     <string name="remove_from_settings">Verwijderen uit Instellingen</string>
@@ -2103,6 +2111,8 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
     <string name="status_bar_clock_date_weekday_format">EEEE dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE dd MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -2352,9 +2362,9 @@ Elke gebruiker kan apps updaten voor alle andere gebruikers."</string>
     <string name="user_setup_dialog_title">Gebruiker nu instellen?</string>
     <string name="user_setup_profile_dialog_message">Profiel nu instellen?</string>
     <string name="user_switch_to_user">Overschakelen naar %s</string>
-    <string name="using_camera">Deze app gebruikt camera</string>
-    <string name="using_camera_and_microphone">Deze app neemt audio op en gebruikt de camera</string>
-    <string name="using_microphone">Deze app neemt audio op</string>
+    <string name="using_camera">Deze app heeft toegang tot camera</string>
+    <string name="using_camera_and_microphone">Deze app heeft toegang tot camera en microfoon</string>
+    <string name="using_microphone">Deze app heeft toegang tot microfoon</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="verify_apps_over_usb_summary">Controleer apps die zijn geïnstalleerd via ADB/ADT op schadelijk gedrag</string>

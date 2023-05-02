@@ -36,17 +36,9 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
-    <plurals name="area_code_search_result_size">
-        <item quantity="other">%d resultaten gevonden</item>
-        <item quantity="one">%d resultaat gevonden</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
-    </plurals>
-    <plurals name="health_description_title_suffix">
-        <item quantity="other">" stappen"</item>
-        <item quantity="one">" stap"</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Binnen 1 uur</item>
