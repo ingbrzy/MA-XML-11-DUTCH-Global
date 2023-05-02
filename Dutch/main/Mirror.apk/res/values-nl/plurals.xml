@@ -36,6 +36,18 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Afgewezen bestanden %2$d inclusief %1$s</item>
+        <item quantity="one">Afgewezen bestand %2$d inclusief %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Ontvangen bestanden %2$d inclusief %1$s</item>
+        <item quantity="one">Ontvangen bestand %2$d inclusief %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d bestanden, inclusief %1$s</item>
+        <item quantity="one">%2$d bestand, inclusief %1$s</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
