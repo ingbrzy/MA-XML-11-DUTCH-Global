@@ -40,6 +40,22 @@
         <item quantity="other">%1s munten</item>
         <item quantity="one">%1s munt</item>
     </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">%d taken nu verwijderen?</item>
+        <item quantity="one">%d taak nu verwijderen?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d taken succesvol verwijderd</item>
+        <item quantity="one">%d taak succesvol verwijderd</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d seconden vooruitspoelen</item>
+        <item quantity="one">%d seconde vooruitspoelen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d seconden terugspoelen</item>
+        <item quantity="one">%d seconde terugspoelen</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
@@ -68,6 +84,10 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
@@ -81,6 +101,22 @@ Munten kunnen niet worden gerestitueerd"</item>
     <plurals name="portfolio">
         <item quantity="other">%d werken</item>
         <item quantity="one">%d werk</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"%d bestellingen succesvol terugbetaald. "</item>
+        <item quantity="one">"%d bestelling succesvol terugbetaald. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Uw munten worden binnen %d uur gestort.</item>
+        <item quantity="one">Uw munten worden binnen %d uur gestort.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">Uw terugbetaling is verwerkt. Uw munten worden binnen %d uur gestort.</item>
+        <item quantity="one">Uw terugbetaling is verwerkt. Uw munten worden binnen %d uur gestort.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Dit kan even duren. Als u de gekochte items niet binnen %d uur hebt ontvangen, dient u feedback in om ons op de hoogte te stellen van het probleem.</item>
+        <item quantity="one">Dit kan even duren. Als u de gekochte items niet binnen %d uur hebt ontvangen, dient u feedback in om ons op de hoogte te stellen van het probleem.</item>
     </plurals>
     <plurals name="purchased_instructions">
         <item quantity="other">&lt;Data>Door de betaling te voltooien, gaat u akkoord met de &lt;a href=\"%1$s\">Kennisgeving over in-app-aankopen&lt;/a>.&lt;br>Terugbetalingen zijn beschikbaar voor &lt;xliff:g id=time>%2$d&lt;/xliff:g> uur nadat de aankopen zijn gedaan.&lt;/Data></item>
