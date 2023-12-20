@@ -51,9 +51,9 @@
     <string name="close">Sluiten</string>
     <string name="columbus_ad_flag_text">Advertentie</string>
     <string name="columbus_skip_ad">Overslaan</string>
-    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_button">Aanzetten</string>
     <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
-    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
     <string name="common_google_play_services_install_button">Installeren</string>
     <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
     <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
@@ -74,6 +74,7 @@
     <string name="continue_download">Doorgaan</string>
     <string name="copy">Kopiëren</string>
     <string name="copy_info">Gekopieerd naar klembord. U kunt het delen met vrienden!</string>
+    <string name="copy_toast_msg">Link naar klembord gekopieerd</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -131,8 +132,20 @@
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="evening">Middag</string>
+    <string name="exo_download_completed">Downloaden voltooid</string>
+    <string name="exo_download_description">Downloaden</string>
+    <string name="exo_download_downloading">Downloaden</string>
+    <string name="exo_download_failed">Downloaden mislukt</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads gepauzeerd</string>
+    <string name="exo_download_paused_for_network">Downloads wachten op netwerk</string>
+    <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
+    <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="extend">Meer</string>
+    <string name="fallback_menu_item_copy_link">Link kopiëren</string>
+    <string name="fallback_menu_item_open_in_browser">Openen in browser</string>
+    <string name="fallback_menu_item_share_link">Link delen</string>
     <string name="file_size">Grootte:</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -190,6 +203,9 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="gigabyteShort_per_seconds">GB/s</string>
+    <string name="icon_create_failure">Kon snelkoppeling niet toevoegen</string>
+    <string name="icon_create_success">Snelkoppeling succesvol toegevoegd</string>
+    <string name="icon_restore">Tik om een Startscherm snelkoppeling voor Downloads toe te voegen</string>
     <string name="info_download_progress">Downloadvoortgang weergeven</string>
     <string name="info_flow_show">Aanbevolen inhoud weergeven</string>
     <string name="insufficient_space">Onvoldoende opslagruimte</string>
@@ -212,14 +228,14 @@
     <string name="midnight">Nacht</string>
     <string name="missing_title">&lt;Onbekend></string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -306,6 +322,7 @@
     <string name="preferences_title">Instellingen</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>Welkom bij Downloads! U kunt deze app gebruiken om bestanden te downloaden.&lt;BR>Downloads moet de nodige persoonlijke informatie verzamelen om u de diensten te bieden die downloadstatistieken genereren. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>.&lt;BR>Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Downloads gebruikt.&lt;BR>U kunt uw toestemming voor het Privacybeleid van Downloads op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
     <string name="privacy_agree_dialog_title">Algemene voorwaarden</string>
+    <string name="privacy_policy">Privacybeleid</string>
     <string name="privacy_revoke_dialog_later">Annuleren</string>
     <string name="privacy_revoke_dialog_msg">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Downloads in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Downloads moet de nodige persoonlijke informatie verzamelen om u de diensten te bieden die downloadstatistieken genereren. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om dergelijke diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
     <string name="privacy_revoke_dialog_ok">Intrekken</string>

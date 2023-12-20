@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -31,6 +31,7 @@
     <string name="add_sound">Aangepaste preset toevoegen</string>
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
+    <string name="app_disable_description_title">Deze app uitschakelen?</string>
     <string name="app_name">Oortelefoons</string>
     <string name="apply_sound">Toepassen</string>
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
@@ -64,8 +65,14 @@
     <string name="effect_3dsurround">Meeslepend geluid</string>
     <string name="effect_3dsurround_summary">Verbeter de diepte van de geluidsweergave voor oortelefoons en luidsprekers</string>
     <string name="effect_3dsurround_summary_headphone">Verbeter de diepte van de geluidsweergave voor oortelefoons</string>
+    <string name="effect_dolby">Dolby Atmos</string>
+    <string name="effect_misound">Xiaomi-geluid</string>
+    <string name="effect_none">Original</string>
+    <string name="effect_selection">Geluidseffecten</string>
+    <string name="effect_selection_headset">Oortelefoon effecten</string>
     <string name="effect_virtual_surround">Virtueel meeslepend geluid</string>
     <string name="effect_virtual_surround_summary">Verrijk de geluidsdiepte voor het afspelen van audio en video in een hoofdtelefoon (Deze functie werkt niet wanneer %.1f audio wordt afgespeeld)</string>
+    <string name="effect_virtual_surround_summary_spk">Verrijk de geluidsdiepte voor het afspelen van audio en video</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Stoppen</string>
     <string name="eq_auto">Aangepast</string>
@@ -201,14 +208,14 @@
     <string name="midnight">Nacht</string>
     <string name="misound_effect_setting">Mi Geluid</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -270,6 +277,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -417,6 +425,9 @@
     <string name="now_here">En nu?</string>
     <string name="original_sound">Originele geluid afspelen</string>
     <string name="password_toggle_content_description">Wachtwoord weergeven</string>
+    <string name="permission_go_to_settings">Instellingen</string>
+    <string name="permission_requesr_content">Sta deze app toe om verbinding te maken met apparaten in de buurt in Instellingen.</string>
+    <string name="permission_requesr_title">Toestemmingen vereist</string>
     <string name="personal_sound">Afspelen met toegepaste preset</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
@@ -457,18 +468,13 @@
     <string name="sound_id_function_description">Personaliseer de Equalizer-curve op basis van uw voorkeuren</string>
     <string name="sound_id_function_name">Gepersonaliseerd geluid</string>
     <string name="sound_id_headset_status">Huidige oortelefoons</string>
-    <string name="sound_id_hz_high">"Hoge tonen
-%d Hz"</string>
-    <string name="sound_id_hz_low">"Bas
-%d Hz"</string>
-    <string name="sound_id_hz_media">"Middenbereik
-%d Hz"</string>
+    <string name="sound_id_hz"> %d Hz</string>
+    <string name="sound_id_hz_high">Hoge tonen %d Hz</string>
+    <string name="sound_id_hz_low">Bas %d Hz</string>
+    <string name="sound_id_hz_media">Middenbereik %d Hz</string>
     <string name="sound_id_music_one_description">Licht | %d s</string>
-    <string name="sound_id_music_one_title">Rainy city</string>
     <string name="sound_id_music_three_description">Melodisch | %d s</string>
-    <string name="sound_id_music_three_title">Trace</string>
     <string name="sound_id_music_two_description">Ritmisch | %d s</string>
-    <string name="sound_id_music_two_title">Night fever</string>
     <string name="sound_id_no_effect_msg">Gebruik geen gepersonaliseerd geluid</string>
     <string name="sound_id_notice_headset_change_msg">Het lijkt erop dat u een ander paar oortelefoons gebruikt. De test is gestopt.</string>
     <string name="sound_id_notice_headset_change_msg2">Het lijkt erop dat u een ander paar oortelefoons gebruikt. Zorg ervoor dat dit gepersonaliseerde geluid past bij dit paar oortelefoons.</string>
@@ -514,6 +520,7 @@
     <string name="sound_transmission_title">Draadloze microfoon</string>
     <string name="spatial_audio">Meeslepend geluid</string>
     <string name="spatial_audio_summary">Ervaar onderdompeling en een gevoel van ruimte wanneer audio wordt afgespeeld via oortelefoons</string>
+    <string name="spatial_audio_summary_spk">Ervaar onderdompeling en een gevoel van ruimte wanneer audio wordt afgespeeld</string>
     <string name="speaker_scenario_resume">Herstel originele effecten</string>
     <string name="start_test_sound">Test starten</string>
     <string name="status_bar_notification_info_overflow">999+</string>

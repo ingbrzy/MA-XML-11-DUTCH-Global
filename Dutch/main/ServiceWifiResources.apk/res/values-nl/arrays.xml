@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>:::1839:::%1$s: Er is een probleem bij verbinding maken met Verizon Wi-Fi Access vanwege fout 16384.</item>
+        <item>:::1839:::%1$s: Er is een probleem bij het maken van verbinding met wifi van Verizon. (Fout = 16384)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>:::1839:::%1$s: Er is een probleem bij verbinding maken met Verizon Wi-Fi Access vanwege fout 16385.</item>
+        <item>:::1839:::%1$s: Er is een probleem bij het maken van verbinding met wifi van Verizon. (Fout = 16385)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>:::1839:::%1$s: Je kunt buiten het dekkingsgebied van Verizon geen verbinding maken met Verizon Wi-Fi Access. (Fout = 32760)</item>
@@ -28,9 +28,9 @@
         <item>:::1839:::%1$s: Verizon Wi-Fi Access is niet beschikbaar op jouw locatie. Probeer het later opnieuw of ga naar een andere locatie. (Fout = 32766)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>:::1839:::%1$s: Er is een probleem bij verbinding maken met Verizon Wi-Fi Access. Probeer het later opnieuw of ga naar een andere locatie.</item>
+        <item>:::1839:::%1$s: Er is een probleem bij verbinding maken met Verizon Wi-Fi Access. Probeer het later opnieuw of ga naar een andere locatie. (Fout = 32767)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>:::1839:::%1$s: Er is een probleem bij verbinding maken met Verizon Wi-Fi Access.</item>
+        <item>:::1839:::%1$s: Er is een probleem bij het maken van verbinding met wifi van Verizon. (Fout = onbekend)</item>
     </string-array>
 </resources>

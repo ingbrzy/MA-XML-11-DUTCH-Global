@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Accepteren</string>
+    <string name="apm_enabled_first_time_message">De wifi op je apparaat blijft aan in de vliegtuigmodus. Zet wifi uit als je niet wilt dat dit aan blijft.</string>
+    <string name="apm_enabled_first_time_title">Wifi blijft aan</string>
     <string name="decline">Weigeren</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">APB-meldingen</string>
     <string name="notification_channel_network_alerts">Netwerkmeldingen</string>
     <string name="notification_channel_network_available">Netwerk beschikbaar</string>
     <string name="notification_channel_network_status">Netwerkstatus</string>
@@ -21,6 +24,10 @@
 %1$s
 
 "</string>
+    <string name="wifi_ca_cert_dialog_message_expiration_text">"Vervaldatum certificaat:
+%1$s
+
+"</string>
     <string name="wifi_ca_cert_dialog_message_hint">"Sta deze netwerkverbinding alleen toe als de onderstaande informatie juist lijkt.
 
 "</string>
@@ -36,12 +43,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Handtekening:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"SHA-256-vingerafdruk:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Geen verbinding maken</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Toch verbinding maken</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Verbinding nu verbreken</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Verbonden blijven</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Er ontbreekt een certificaat voor het netwerk %1$s.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Leren hoe je certificaten toevoegt</string>
     <string name="wifi_ca_cert_dialog_preT_title">Kan dit netwerk niet verifiëren</string>
@@ -82,14 +89,29 @@ Door deze wijziging kan de locatie van je apparaat worden bijgehouden door appar
     <string name="wifi_enable_request_dialog_negative_button">Niet toestaan</string>
     <string name="wifi_enable_request_dialog_positive_button">Toestaan</string>
     <string name="wifi_enable_request_dialog_title">Toestaan dat %1$s wifi aanzet?</string>
+    <string name="wifi_enabled_apm_first_time_message">Als je wifi laat aanstaan, onthoudt je apparaat dit en blijft de wifi aanstaan als je de vliegtuigmodus weer aanzet</string>
+    <string name="wifi_enabled_apm_first_time_title">Wifi aan in vliegtuigmodus</string>
     <string name="wifi_interface_priority_approve">Toestaan</string>
+    <string name="wifi_interface_priority_interface_name_ap">Wifi-hotspot</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Wifi-hotspot</string>
+    <string name="wifi_interface_priority_interface_name_nan">Wifi Aware</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wifi Direct</string>
+    <string name="wifi_interface_priority_interface_name_sta">STA</string>
     <string name="wifi_interface_priority_message">Dit kan problemen veroorzaken voor %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Dit kan problemen veroorzaken voor deze apps: %3$s.</string>
     <string name="wifi_interface_priority_reject">Niet toestaan</string>
     <string name="wifi_interface_priority_title">%1$s wil een netwerkbron gebruiken</string>
+    <string name="wifi_network_disabled_by_admin_button">Sluiten</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s is uitgezet door je beheerder.</string>
+    <string name="wifi_network_disabled_by_admin_title">Niet-beschikbaar netwerk</string>
+    <string name="wifi_network_switch_dialog_negative_button">Niet overschakelen</string>
+    <string name="wifi_network_switch_dialog_positive_button">Overschakelen</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s is van lage kwaliteit. Overschakelen naar %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s heeft geen verbinding met internet. Overschakelen naar %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Voer de gewenste pincode in:</string>
     <string name="wifi_p2p_frequency_conflict_message">De verbinding met het wifi-netwerk wordt tijdelijk uitgezet terwijl de telefoon verbonden is met %1$s</string>
     <string name="wifi_p2p_from_message">Van:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0,plural, =1{Accepteren over # seconde.}other{Accepteren over # seconden.}}</string>
     <string name="wifi_p2p_invitation_sent_title">Uitnodiging verzonden</string>
     <string name="wifi_p2p_invitation_to_connect_title">Uitnodiging om te koppelen</string>
     <string name="wifi_p2p_show_pin_message">Pincode</string>

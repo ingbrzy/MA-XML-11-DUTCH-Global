@@ -64,10 +64,15 @@
     <string name="actionbar_button_up_description">Terug</string>
     <string name="ad_close">Sluiten</string>
     <string name="ad_data_exception">Fout advertentiegegevens</string>
+    <string name="ad_flag_text">Advertentie</string>
     <string name="ad_recommend">Advertenties weergeven</string>
     <string name="ad_setting">Aanvullende instellingen</string>
     <string name="add">Toevoegen</string>
     <string name="add_music">Nummers toevoegen</string>
+    <string name="add_songs_manually_bottom">Toevoegen</string>
+    <string name="add_songs_manually_home">Voeg nummers handmatig toe</string>
+    <string name="add_songs_manually_setting">Voeg nummers handmatig toe</string>
+    <string name="add_songs_to_playlist">Aan afspeellijst toevoegen</string>
     <string name="add_to_last_of_playlist">Toevoegen onderaan de afspeellijst</string>
     <string name="add_to_playlist">Aan de wachtrij toevoegen</string>
     <string name="add_to_playlist_successful">Succesvol toegevoegd</string>
@@ -98,6 +103,13 @@
     <string name="app_disable_description_content">Mi Music is een systeem-app. Als u het uitschakelt, kan dit van invloed zijn op uw gebruik van andere apps. Toch uitschakelen?</string>
     <string name="app_disable_description_title">Systeem-app uitschakelen?</string>
     <string name="app_label">Downloads</string>
+    <string name="app_notify_dialog_btn_desc">Instellingen</string>
+    <string name="app_notify_dialog_check_desc">Schakel Meldingenpaneel widget in, maar sta geen permanente meldingen toe</string>
+    <string name="app_notify_dialog_path">Instellingen > Meldingen en statusbalk > App-meldingen > Muziek</string>
+    <string name="app_notify_dialog_path_10">Instellingen > Meldingen en statusbalk > App-meldingen > Muziek</string>
+    <string name="app_notify_dialog_path_8">Instellingen > Meldingen en statusbalk > App-meldingen > Muziek</string>
+    <string name="app_notify_dialog_subtitle">Schakel meldingen voor Mi Music in om het afspelen van muziek te kunnen regelen in het Meldingenpaneel.</string>
+    <string name="app_notify_dialog_title">Toestemmingen vereist</string>
     <string name="app_permission_confirm">Begrepen</string>
     <string name="app_permission_optional">Optionele toestemmingen</string>
     <string name="app_permission_require">Vereiste toestemmingen</string>
@@ -108,8 +120,10 @@
     <string name="app_permission_use_group_phone_desc">Voor Google Push services</string>
     <string name="app_permission_use_group_storage">Opslag</string>
     <string name="app_permission_use_group_storage_desc">Voor het vinden en het afspelen van nummers opgeslagen op het apparaat</string>
+    <string name="app_resident_push_switch">Permanente meldingen toestaan</string>
     <string name="apply_for_the_following_permissions">Deze app vraagt om de volgende toestemmingen:</string>
     <string name="apply_permissions_greater_than_pie">U kunt deze toestemming verlenen in Instellingen > Apps > Toestemmingen > Toestemmingen > Bestanden en media > Muziek.</string>
+    <string name="apply_permissions_greater_than_tiramisu">"U kunt deze toestemming verlenen in Instellingen > Apps > Toestemmingen > Toestemmingen > Muziek en audio/Foto's en video's > Muziek."</string>
     <string name="apply_permissions_less_than_pie">U kunt deze toestemming verlenen in Instellingen > Apps > Toestemmingen > Toestemmingen > Bestanden op interne opslag openen en wijzigen > Muziek.</string>
     <string name="apply_permissions_tips_content">Geef deze app toegang tot bestanden om muziek op uw apparaat te ontdekken.</string>
     <string name="artist">Artiesten</string>
@@ -141,7 +155,7 @@
     <string name="avoid_to_use_traffic_summary">Gebruik geen mobiel netwerk om muziek te streamen</string>
     <string name="avoid_to_use_traffic_title">Melding wanneer mobiele data wordt gebruikt om nummers af te spelen</string>
     <string name="back">Terug</string>
-    <string name="back_confirm">Tik nogmaals om de app naar de achtergrond te drukken</string>
+    <string name="back_confirm">Tik opnieuw om te sluiten</string>
     <string name="best_experience">Beste ervaring</string>
     <string name="billion_char">%sB</string>
     <string name="bluetooth_device">Bluetooth audio-apparaat</string>
@@ -207,6 +221,7 @@
     <string name="create_playlist">Afspeellijst maken</string>
     <string name="create_playlist_failure">Kon geen afspeellijst maken</string>
     <string name="create_playlist_input_hint">Voer de naam van de afspeellijst in</string>
+    <string name="create_shortcut_for_playlist">Een afspeellijst Startscherm snelkoppeling creëren?</string>
     <string name="current_album">Huidige albumcover</string>
     <string name="current_lyric">Huidige songteksten</string>
     <string name="current_version">Huidige versie</string>
@@ -327,7 +342,9 @@
     <string name="download_method">Downloaden</string>
     <string name="download_no_application_title">Kan bestand niet openen</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_queued">In wachtrij</string>
@@ -435,7 +452,9 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -559,9 +578,11 @@
     <string name="get_more_favorite_content_after_login">"Log in om meer nummers en video's te ontdekken."</string>
     <string name="get_one_day_vip">U hebt %d dag VIP!</string>
     <string name="get_one_hour_vip">U hebt %d uur VIP!</string>
+    <string name="get_one_minute_vip">U hebt %d minuut VIP verdiend!</string>
     <string name="get_vip">Verkrijg VIP</string>
     <string name="go_agree">OК</string>
     <string name="google_account_login">Aanmelden met Google</string>
+    <string name="google_download_music">Download %1$s met Google</string>
     <string name="goto_local_search">Op het apparaat zoeken</string>
     <string name="goto_online_search">Online zoeken</string>
     <string name="handle_later">Niet nu</string>
@@ -569,11 +590,19 @@
     <string name="headset_and_audio_effect_category">Hoofdtelefoons en audio-effecten</string>
     <string name="headset_and_audio_effect_summary">Hoofdtelefoons en equalizer</string>
     <string name="headset_and_audio_effect_title">Hoofdtelefoons en audio-effecten</string>
+    <string name="hgm_failed_to_connect_hint">Controleer uw netwerkinstellingen en probeer het opnieuw. Als het probleem een hungama-serverfout is, lossen we het zo snel mogelijk op.</string>
+    <string name="hgm_has_offline">Kan geen muziek afspelen die wordt aangeboden door hungama</string>
+    <string name="hgm_network_request_error_toast">Kon geen verbinding maken met hungama-servers. Probeer het opnieuw.</string>
     <string name="hgm_vip_btn_desc">Start gratis proefperiode</string>
     <string name="hgm_vip_high_quality">Hoge kwaliteit downloads</string>
     <string name="hgm_vip_no_ads">Geen advertenties of limieten</string>
     <string name="hide_album">Albumcover verbergen</string>
     <string name="hide_lyric">Songteksten verbergen</string>
+    <string name="hide_or_add_songs_manually">Bekijk verborgen nummers</string>
+    <string name="hide_reason_folder">Verborgen map</string>
+    <string name="hide_reason_other">Andere reden</string>
+    <string name="hide_reason_size">Groter dan %1$s</string>
+    <string name="hide_songs_title">Verborgen nummers</string>
     <string name="hifi_quality">Hifi-kwaliteit</string>
     <string name="high_sound_quality">Hoog</string>
     <string name="higher_quality_music">Hoge kwaliteit audio</string>
@@ -587,6 +616,7 @@
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Zoeken</string>
     <string name="hot_icon_in_fast_indexer">H</string>
+    <string name="hot_recommend">Populair op dit moment</string>
     <string name="hungama_batch_download_alert_summary">Alleen Gouden leden kunnen meerdere nummers downloaden. Nu een Gouden lidmaatschap aanvragen?</string>
     <string name="hungama_batch_download_alert_summary_toast">Word abonnee om de hele afspeellijst te downloaden.</string>
     <string name="hungama_download_subscription_toast">Abonneer u op hungama Music om dit nummer te downloaden</string>
@@ -665,6 +695,10 @@
     <string name="joox_search_result_more">Meer</string>
     <string name="joox_vip_check_to_pay">Kopen</string>
     <string name="joox_vip_expired_hint">Uw VIP-lidmaatschap is verlopen. De nummers gedownload van JOOX worden alleen weergegeven in uw downloads.</string>
+    <string name="jump_to_ytb_dialog_cancel">Annuleren</string>
+    <string name="jump_to_ytb_dialog_desc">U staat op het punt Mi Music te verlaten en YouTube te openen. YouTube nu openen?</string>
+    <string name="jump_to_ytb_dialog_ok">Bevestigen</string>
+    <string name="jump_to_ytb_dialog_title">Mi Music verlaten</string>
     <string name="just_hit_next">Druk gewoon op volgende</string>
     <string name="keep_queued_download">Bewaren</string>
     <string name="ktv_playlist">KTV-afspeellijst</string>
@@ -681,9 +715,19 @@
     <string name="loading_hint">Een ogenblik geduld…</string>
     <string name="loading_reached_the_bottom">Dat is alles voor nu.</string>
     <string name="loading_text">Een ogenblik geduld…</string>
+    <string name="local_download_download">Downloaden</string>
+    <string name="local_download_hint">Schakel wifi in voordat u gaat downloaden</string>
+    <string name="local_download_item">Gratis downloaden</string>
+    <string name="local_download_title">Selecteer nummers om te downloaden</string>
+    <string name="local_download_toast">Downloaden…</string>
+    <string name="local_download_toast_notify">Downloaden. Controleer de voortgang in het Meldingenpaneel.</string>
     <string name="local_header_title">Lokale muziek</string>
     <string name="local_music">Lokale nummers</string>
     <string name="local_music_is_not_available">U hebt geen nummers op uw apparaat.</string>
+    <string name="local_out_dialog_cancel">Annuleren</string>
+    <string name="local_out_dialog_desc">U staat op het punt een andere app te openen die niet aan Mi Music is gekoppeld.</string>
+    <string name="local_out_dialog_ok">OK</string>
+    <string name="local_out_dialog_title">Mi Music verlaten</string>
     <string name="local_page_album_more">Alles bekijken</string>
     <string name="local_page_artist_more">Meer nummers van %s</string>
     <string name="local_page_playlist">Afspeellijsten</string>
@@ -701,6 +745,13 @@
     <string name="lyric_label">Songteksten</string>
     <string name="lyric_open_other_connect">Download songteksten via het mobiele netwerk</string>
     <string name="lyric_setting">Songtekstinstellingen</string>
+    <string name="lyrics_guide_button_text">Probeer het uit</string>
+    <string name="lyrics_guide_four">Keer terug naar de songtekstenpagina om deze te bekijken</string>
+    <string name="lyrics_guide_one">Tik op een zoekresultaat om het te selecteren</string>
+    <string name="lyrics_guide_three">Bewerk de songteksten en sla deze op</string>
+    <string name="lyrics_guide_title">Hoe songteksten te zoeken en op te slaan</string>
+    <string name="lyrics_guide_two">Selecteer de gewenste songteksten en kopieer deze</string>
+    <string name="lyrics_popup_title">Tik om songteksten te zoeken</string>
     <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
     <string name="material_hour_selection">Selecteer uur</string>
     <string name="material_hour_suffix">%1$s uur</string>
@@ -733,7 +784,7 @@
     <string name="metered_serious_allow">Toch afspelen</string>
     <string name="middle_sound_quality">Standaard</string>
     <string name="midnight">Nacht</string>
-    <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Update MIUI.</string>
+    <string name="milink_unavaliable_please_update">Mi Link is niet beschikbaar. Werk MIUI bij.</string>
     <string name="million_char">%sM</string>
     <string name="millions_songs">Miljoenen nummers</string>
     <string name="missing_title">&lt;Onbekend></string>
@@ -744,14 +795,14 @@
     <string name="miuishare_title_more">Meer</string>
     <string name="miuishare_title_share">Delen</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -826,6 +877,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -931,6 +983,7 @@
     <string name="ok">OК</string>
     <string name="one_day_vip">%d dag VIP</string>
     <string name="one_hour_vip">%d uur VIP</string>
+    <string name="one_minute_vip">%d minuut VIP</string>
     <string name="online_apk_acquired">%d%% geladen</string>
     <string name="online_apk_acquiring">%d%% aan het laden…</string>
     <string name="online_apk_download_error_no_enough_space">Kon niet downloaden vanwege onvoldoende opslagruimte.</string>
@@ -1194,9 +1247,10 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
+    <string name="privacy_request_desc"><Data>"Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
 Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
-Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data>"</string>
+Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar."</Data></string>
     <string name="privacy_request_subtitle">"Welkom bij Mi Music! Deze app biedt de volgende diensten:
 - Een lokale audiospeler
 - Online streamingdiensten"</string>
@@ -1209,9 +1263,9 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="pulluprefreshrecyclerview_loading_finished">Succesvol geladen</string>
     <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
     <string name="queue_is_empty">Afspeelwachtrij is leeg.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>Ik heb de Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Ik heb de Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
     <string name="read_and_agree_protocol">Lees en ga akkoord met onze Gebruikersovereenkomst en Privacybeleid voordat u doorgaat.</string>
     <string name="ready_to_play">Hierna</string>
     <string name="recently_played">Recent afgespeeld</string>
@@ -1219,7 +1273,6 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="recommend_songs_when_playing_audio_files">Ontvang aanbevelingen voor nummers terwijl u naar muziek luistert</string>
     <string name="recommended_file_size_download_in_mobile">%s van mobiele data gebruiken om dit bestand te downloaden?</string>
     <string name="recommended_no_file_size_download_in_mobile">Uw mobiele dataverbinding gebruiken om dit bestand te downloaden?</string>
-    <string name="refresh">Vernieuwen</string>
     <string name="remove">Verwijderen</string>
     <string name="remove_download">Verwijderen</string>
     <string name="remove_user_privacy_dialog_message">Door de schakelaar uit te zetten, trekt u uw toestemming voor het Privacybeleid van Mi Music in. We zullen stoppen met het verzamelen van uw persoonlijke informatie. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd zoals vereist door de toepasselijke wetgeving. Mi Music moet de nodige persoonlijke informatie verzamelen om u basisdiensten te kunnen bieden. Als u uw toestemming voor het Privacybeleid intrekt, wordt dit beschouwd als een weigering om haar diensten te accepteren op basis van verzamelde persoonlijke informatie.</string>
@@ -1236,6 +1289,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="retry_after_network_available">Kan geen verbinding maken met het netwerk. Controleer de verbinding en probeer het opnieuw.</string>
     <string name="retry_download">Opnieuw proberen</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Online nummers worden niet gesynchroniseerd met hungama</string>
+    <string name="reward_received">U hebt een VIP-lidmaatschap verdiend!</string>
     <string name="ringtone_editing">Beltoon bewerker</string>
     <string name="ringtone_not_support">Het formaat van dit nummer wordt niet ondersteund</string>
     <string name="ringtone_selected">Geselecteerd</string>
@@ -1286,6 +1340,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="select_local_cover">Selecteer lokale cover</string>
     <string name="select_local_lyric">Selecteer bestand</string>
     <string name="select_local_lyric_file">Selecteer lokaal songtekstenbestand</string>
+    <string name="select_lyrics_copy">Selecteer en kopieer de songtekst</string>
     <string name="select_none">Alles deselecteren</string>
     <string name="select_one_language">Selecteer ten minste %d taal</string>
     <string name="select_three_languages">U kunt maximaal %d talen selecteren</string>
@@ -1329,6 +1384,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="similar_songs">Vergelijkbare nummers</string>
     <string name="similar_videos">"Soortgelijke video/'s"</string>
     <string name="skip">Overslaan</string>
+    <string name="skip_ad">Overslaan</string>
     <string name="sleep_mode">Slaaptimer</string>
     <string name="sleep_mode_canceled">Slaapmodus uitgeschakeld</string>
     <string name="sleep_mode_summary">Stop de player na een bepaalde tijd</string>
@@ -1344,6 +1400,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="song_offline">Dit nummer is niet meer beschikbaar.</string>
     <string name="song_picker_complete">Gereed</string>
     <string name="song_quality_category">Muziek</string>
+    <string name="song_swipe_navigation">Veeg naar links of rechts om van nummer te wisselen</string>
     <string name="songgroup_pick_album">Albums</string>
     <string name="songgroup_pick_playlist">Afspeellijsten</string>
     <string name="sort_by_name">Naam</string>
@@ -1353,6 +1410,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Voorbereiden om af te spelen…</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_internal">Interne opslag</string>
     <string name="storage_sd_card">SD-kaart</string>
@@ -1516,6 +1574,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar hungama om ze te kunnen openen op andere apparaten waarop u uw Xiaomi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_experience_program_open">Vanwege copyrightbeperkingen moet u zich inschrijven voor het Gebruikerservaringprogramma om gedownloade nummers te kunnen afspelen. U kunt dit doen in Instellingen > Wachtwoorden en beveiliging > Privacy > Schrijf u in voor Gebruikerservaringprogramma.</string>
     <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
@@ -1529,6 +1588,7 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="version_info">Versie</string>
+    <string name="video_loading_fail">Kon video niet laden</string>
     <string name="video_play_cellular">Uw apparaat is niet verbonden met wifi. Mobiele data gebruiken?</string>
     <string name="video_replay_btn">Opnieuw afspelen</string>
     <string name="video_retry_btn">Opnieuw proberen</string>
@@ -1537,10 +1597,22 @@ Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u so
     <string name="vip_required_with_song">%s is alleen beschikbaar voor Gouden leden. Heb dit nummer even overgeslagen.</string>
     <string name="voice_search_first_hint">Probeer spraakgestuurd zoeken uit!</string>
     <string name="watch_video">Bekijk video</string>
+    <string name="web_reward_dialog_cancle">Annuleren</string>
+    <string name="web_reward_dialog_ok">Afsluiten</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
     <string name="welcome_to_entertainment">Bekijk de nieuwe Entertainmentfunctie voor muziekgames en meer</string>
+    <string name="whitelist_add_exist">Sommige nummers staan al in Lokale nummers en worden hier niet weergegeven</string>
+    <string name="whitelist_add_failed">Kon geen bestanden toevoegen</string>
+    <string name="whitelist_desc_1">Als Mi Music de nummers die u zoekt niet vindt op uw apparaat, kunt u ze handmatig toevoegen.</string>
+    <string name="whitelist_desc_2">Deze bestanden worden weergegeven, zelfs als de bestandsgrootte en de lengte van het nummer niet overeenkomen of als ze in verborgen mappen staan.</string>
+    <string name="whitelist_dialog_content">Verwijderde bestanden verschijnen niet langer onder de uitzonderingen van Mi Music, maar worden niet van uw apparaat verwijderd. Nu verwijderen?</string>
+    <string name="whitelist_dialog_title">Bestanden verwijderen?</string>
+    <string name="whitelist_entrance_desc">Voeg handmatig bestanden toe die Mi Music niet automatisch lokaliseert</string>
+    <string name="whitelist_entrance_text_1">"Kunt u een nummer niet vinden? "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">Bestandsuitzonderingen</string>
     <string name="wifi_required_body" formatted="false">"Verbind met Wi-Fi om deze %s download te voltooien. 
 
 Tik%s  om deze download te starten als u de volgende keer met een Wi-Fi netwerk verbonden bent."</string>
@@ -1549,6 +1621,10 @@ Tik%s  om deze download te starten als u de volgende keer met een Wi-Fi netwerk 
     <string name="you_can_switch_mode_in_settings">U kunt tussen modi wisselen in de Instellingen</string>
     <string name="you_may_like">Misschien vindt u dit ook leuk</string>
     <string name="you_might_like_it">Misschien vindt u leuk</string>
+    <string name="youtube_delete_dialog_cancel">Annuleren</string>
+    <string name="youtube_delete_dialog_desc">Dit nummer nu uit favorieten verwijderen?</string>
+    <string name="youtube_delete_dialog_ok">Verwijderen</string>
+    <string name="youtube_delete_dialog_title">Uit favorieten verwijderen</string>
     <string name="youtube_download_canl">Annuleren</string>
     <string name="youtube_download_fail_net">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="youtube_download_fail_source">Er is een fout opgetreden. Wacht een minuut of twee en probeer het opnieuw.</string>
@@ -1560,6 +1636,12 @@ Tik%s  om deze download te starten als u de volgende keer met een Wi-Fi netwerk 
     <string name="youtube_download_suc">Succesvol gedownload</string>
     <string name="youtube_play_history">Afspeelgeschiedenis</string>
     <string name="youtube_share_guide_tip">"U kunt nu video's delen met vrienden"</string>
+    <string name="youtube_store_dialog_desc">"U kunt hier online video's vinden die u aan favorieten hebt toegevoegd. Als een video al eerder is geladen, hoeft u geen mobiele data te gebruiken om deze de volgende keer opnieuw te bekijken."</string>
+    <string name="youtube_store_dialog_ok">Begrepen</string>
     <string name="youtube_tab_explore">Ontdek</string>
     <string name="youtube_tab_playlist">Afspeellijsten</string>
+    <string name="youtube_tab_popular">Populair</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Korte video</string>
+    <string name="youtube_tab_trend">Trending</string>
 </resources>

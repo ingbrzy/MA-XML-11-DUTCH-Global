@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -33,6 +33,8 @@
     <string name="activate_esim_tips">Kon niet activeren. Probeer het opnieuw.</string>
     <string name="activating_esim_tips">Activeren…</string>
     <string name="address_dialing_introduction">U kunt deze app gebruiken om te bellen, belgeschiedenis te bekijken en contacten te beheren.</string>
+    <string name="after_sales_support">After-sales support</string>
+    <string name="after_sales_support_introduction">This service allows you to get support and assistance regarding your purchased devices.</string>
     <string name="afternoon">Middag</string>
     <string name="agree">Akkoord</string>
     <string name="agree_and_next">Akkoord</string>
@@ -54,6 +56,7 @@
     <string name="app_name">Provision</string>
     <string name="application_package_introduction">Pakketinstalleerder wordt gebruikt voor het installeren van apps van derden, inclusief het scannen vóór de installatie en app-aanbevelingsservices na de installatie.</string>
     <string name="application_permissions">App-toestemmingen</string>
+    <string name="authority_introduction">权限管理服务是您对应用进行权限管理的基础服务。</string>
     <string name="back">Vorige</string>
     <string name="backup_introduction">U kunt deze app gebruiken om een back-up te maken van items op uw apparaat en deze te herstellen.</string>
     <string name="bluetooth_introduction">Bluetooth wordt door het systeem gebruikt voor draadloze communicatie. Om normaal te kunnen werken, heeft Bluetooth de volgende toestemmingen nodig:</string>
@@ -69,8 +72,8 @@
     <string name="carousel_privacy"><Data>Lees en ga akkoord met het &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> van onze vertrouwde externe serviceprovider voordat u Achtergrondcarrousel gebruikt.</Data></string>
     <string name="carousel_setting">Uw Vergrendelscherm instellen</string>
     <string name="carousel_setting_sub">Achtergrondcarrousel laat u elke keer dat u uw apparaat ontgrendelt nieuwe verhalen zien</string>
-    <string name="carrier_introduction_china">"In order to provide you with better services, processes running on your device (including SystemHelper, RegService, and Carrier Services) may periodically send the information related to your device and SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, MIUI version, Android version, device model, and basic hardware specifications), as well as approximate location information (including region, coordinates, area identifier, and base station ID) to the carrier via WLAN, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
-    <string name="check_box_label"><Data>"By turning on this feature, you're agreeing to &lt;a href=%1$s>Xiaomi Interconnectivity Services Privacy Policy&lt;/a >."</Data></string>
+    <string name="carrier_introduction_china">Om u betere diensten te bieden, kunnen processen die op uw apparaat worden uitgevoerd (waaronder SystemHelper, RegService en Provider-services) periodiek de informatie met betrekking tot uw apparaat en SIM-kaart verzenden (inclusief IMEI, IMSI, MSISDN, MEID, ICCID, MAC-adres , systeemversie, Android-versie, apparaatmodel en basishardwarespecificaties), evenals geschatte locatie informatie (inclusief regio, coördinaten, gebiedsidentificatie en basisstation-ID) aan de provider via WLAN, mobiel datanetwerk of gratis SMS. De provider belooft om de relevante informatie alleen te analyseren met het doel om de kwaliteit van de diensten te verbeteren of om de diensten of technologieën te personaliseren. De provider belooft om de relevante informatie op geen enkele manier die het mogelijk maakt om u persoonlijk te identificeren, aan derden over te dragen. De verklaring van de specifieke provider heeft voorrang. Neem contact op met uw provider voor informatie over de kosten van deze dienst.</string>
+    <string name="check_box_label">"&lt;Data>By turning on this feature, you're agreeing to the &lt;a href=%1$s>Mi Smart Hub Privacy Policy&lt;/a >.&lt;/Data>"</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="clock_introduction">U kunt deze app gebruiken om de tijd te bekijken, maar kunt hem ook gebruiken als timer, wereldklok, stopwatch, alarmen instellen en nog veel meer.</string>
     <string name="close">Sluiten</string>
@@ -97,10 +100,12 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Chinese Traditionele Kalender</string>
     <string name="date_time_picker_dialog_title">Datum en tijd instellen</string>
+    <string name="default_font">Standaard</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_fingerprint">Gebruik uw vingerafdruk om uw apparaat te vergrendelen, Mi Pay betalingen te verifiëren, of om aan te melden bij apps en services.</string>
     <string name="desc_international_fingerprint">Gebruik uw vingerafdruk om uw apparaat te ontgrendelen, of om aan te melden bij apps en services.</string>
+    <string name="device_information_usage_desc">Met deze service kunt u apparaat info bekijken, uw apparaat verbinden met netwerken en de functies ervan instellen.</string>
     <string name="diagnose_report">Het versturen van diagnostische gegevens om problemen in het systeem te vinden en analyseren en om de gebruikerservaring te verbeteren. Zulke gegevens kunnen persoonlijke gegevens bevatten (bijv. IP, locatie, enz.)</string>
     <string name="disageement_abnormal_download">Als u niet akkoord gaat om deze toestemmingen te verlenen en uw persoonlijke informatie te delen en te uploaden, kunt u deze dienst niet gebruiken.</string>
     <string name="disagree">Annuleren</string>
@@ -117,7 +122,9 @@
     <string name="disagreement_location_service_abnormal">Als u niet akkoord gaat met het verlenen van deze toestemmingen, kunt u geen gebruik maken van locatievoorzieningen. U kunt locatievoorzieningen op elk moment in- of uitschakelen in Instellingen > Privacybescherming.</string>
     <string name="disagreement_mi_account_abnormal">Als u niet akkoord gaat met het verlenen van deze toestemmingen, kunt u de Mi Account services niet gebruiken. U kunt Mi Account services op elk moment in- of uitschakelen in Instellingen > Mi Account.</string>
     <string name="disagreement_service_not_working_properly">Als u niet akkoord gaat met het verlenen van deze toestemmingen, kunt u deze app niet gebruiken.</string>
-    <string name="disagreement_terminate_bluetooth">Als u deze toestemmingen niet wilt verlenen, kunt u Bluetooth niet gebruiken. U kunt Bluetooth in- en uitschakelen en Bluetooth-apparaten toevoegen in de Instellingen.</string>
+    <string name="disagreement_service_not_working_properly_settings">"If you don't agree to grant these permissions, this service won't be able to work normally."</string>
+    <string name="disagreement_service_not_working_properly_with_media_storage">Als u ervoor kiest deze toestemmingen niet te verlenen, kan de service niet normaal werken.</string>
+    <string name="disagreement_terminate_bluetooth">Als u deze toestemmingen niet wilt verlenen, kunt u Bluetooth niet gebruiken. U kunt Bluetooth in- en uitschakelen en Bluetooth-apparaten toevoegen in Instellingen > Bluetooth.</string>
     <string name="disagreement_terminate_miuidaemon">We gebruiken de toestemmingen alleen wanneer u begint met het overzetten van gegevens van uw apparaat wanneer het scherm is beschadigd. Als u niet akkoord gaat met het verlenen van deze toestemmingen, kunt u deze app niet gebruiken.</string>
     <string name="disagreement_terminate_service">Als u niet akkoord gaat om deze toestemmingen te verlenen en uw persoonlijke informatie te delen en te uploaden, kunt u deze app niet gebruiken. In dit geval kunt u ervoor kiezen om de app te verwijderen, uit te loggen of om de toestemmingen in de Instellingen te beperken.</string>
     <string name="download_introduction">"Downloads is een app van Xunlei die wordt gebruikt voor downloads en het beheren van gedownloade inhoud (inclusief App Store-inhoud, video's, systeemupdates, thema's en browserinhoud) voor gebruikers van Xiaomi apparaten."</string>
@@ -133,7 +140,7 @@
     <string name="evening">Middag</string>
     <string name="expand_button_title">Geavanceerd</string>
     <string name="fast_application_introduction">Snelle apps Service Framework is een basisserviceframework dat snelle distributie en werking van apps ondersteunt.</string>
-    <string name="fast_pairing_introduction">Mi Link gebruikt MIUI Bluetooth mogelijkheden om u snel verbinding te laten maken met Bluetooth-apparaten in de buurt.</string>
+    <string name="fast_pairing_introduction">Mi Link lets you quickly connect to Bluetooth devices.</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -188,12 +195,21 @@
     <string name="fmt_weekday_timezone">W z</string>
     <string name="font_hint_large">Standaard tekstgrootte</string>
     <string name="font_hint_normal">Vergroot de tekstgrootte</string>
-    <string name="framework_introduction">Dankzij het Mi Services Framework kunt u Mi Account, Mi Push, Analytics en MIUI BI gebruiken.</string>
-    <string name="framwork_base_service">Om u deze diensten te kunnen bieden, moet Mi Services Framework (Mi Account, Mi Push, Analytics, MIUI BI) verbinding maken met het internet, toegang krijgen tot uw locatie, telefoonnummer, IMEI en IMSI en uw apparaat toestaan push-meldingen te ontvangen</string>
+    <string name="font_settings_sub_title">Selecteer systeemlettertype</string>
+    <string name="font_settings_title">Lettertype instellingen</string>
+    <string name="font_use_case_number_example">%1$d %2$d %3$d %4$d %5$d %6$d %7$d %8$d %9$d %10$d</string>
+    <string name="font_use_case_symbol_example">\@ # % &amp; * () _ + - =</string>
+    <string name="font_use_case_text_example">Hoofdtekst</string>
+    <string name="font_use_case_title_example">Titel</string>
+    <string name="framework_introduction">Xiaomi service framework (Mi Push, Analytics, and MIUIBI) is a basic system service that provides push notifications, risk prevention, statistics, and analytics capabilities. In order to provide these services, we need to collect and process relevant and necessary personal information. When collecting and processing such information, we will comply with applicable laws, regulations, and other normative documents.</string>
+    <string name="framwork_base_service">"In order to provide push notification functionality, we need to collect device identifiers (OAID and encrypted Android ID), information about the apps that use the push service (e.g. app package name, version, and runtime status), device manufacturer, device model, device memory, operating system version, region, name of the SIM card carrier name, current network type, and the Wi-Fi status. You can change the way you receive push notifications in Settings, and we'll provide you with push notifications based on your preferences, for which we'll also collect the information about your preferences including whether you choose to block notifications or not, and whether you allow them to appear on Lock screen.
+For the purposes of risk prevention, statistics, and analytical processing, we need permission to connect to the network and access your location, device IMEI, device IMSI, device identifiers (OAID, MAC address, and encrypted Android ID), device manufacturer, device model, device memory, operating system version, region, and current network type. The above information will be collected once a day for as long as you use this device."</string>
     <string name="friday">Vrijdag</string>
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="game_introduction">Met de plug-in voor games kunt u inloggen, bestellingen en betalingen doen, coupons gebruiken en meedoen met promotie-evenementen.</string>
+    <string name="get_imei_information">Access IMEI</string>
+    <string name="get_imei_information_settings">Access device unique identifier (IMEI)</string>
     <string name="google_service_introduction">To be able to work normally, Google Play needs to connect to the internet, access your location, be able to send SMS and MMS, record audio, make calls, access calendar events, call history, sensors, storage, camera, device info, and accounts.</string>
     <string name="home_settings_miui_home">Klassiek</string>
     <string name="home_settings_poco_launcher">App-lade</string>
@@ -205,37 +221,79 @@
     <string name="input_method_setting">Kies toetsenbord</string>
     <string name="install_preinstall_app">Apps laden…</string>
     <string name="interconnection_communication_introduction">Met Xiaomi internetcommunicatieservices kunt u andere Xiaomi apparaten ontdekken, verbinden en ermee communiceren.</string>
-    <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services allow your devices to interact with each other wirelessly. These services include Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share, and casting.
-To be able to work normally, these service need to connect to the internet and require the following permissions:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For transferring items over Wi-Fi
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected devices during casting or screen mirroring
-\u0009\u0009Access storage
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Mi Share:
-\u0009\u0009Access and save files and photos on your device
-\u0009\u0009For transferring and receiving files wirelessly
-\u0009\u0009Access location
-\u0009\u0009For transferring items to nearby devices over Wi-Fi and Bluetooth
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby and transferring files wirelessly
-\u0009\u0009Connect to nearby devices
-\u0009\u0009For finding devices nearby and connecting to them
-\u0009\u0009Casting:
-\u0009\u0009Turn Bluetooth on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Turn Wi-Fi on and off
-\u0009\u0009For finding devices nearby
-\u0009\u0009Access location
-\u0009\u0009For getting the info about nearby devices
-\u0009\u0009Record audio
-\u0009\u0009For transferring audio playback to connected during casting
-If you don't agree to grant such permissions, you won't be able to use Xiaomi Interconnectivity Services.
-Features are subject to change. Some of the features above may not be available on all device models or for all system versions. Refer to the MIUI website (www.miui.com) to check compatibility."</string>
+    <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
+\u0009\u0009互传：
+\u0009\u0009读写设备上的照片及文件
+\u0009\u0009用于发送和接收传输的文件
+\u0009\u0009获取位置信息
+\u0009\u0009用于实现蓝牙/WLAN状态下的文件传输功能
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描附近可互传文件的设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描周围设备并传输文件
+\u0009\u0009连接附近的设备
+\u0009\u0009发现并连接到附近的设备
+\u0009\u0009影音互联（小米妙播、投屏）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009获取设备的位置信息
+\u0009\u0009用于获取附近可投屏的设备信息
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009应用生态融合（应用接力、妙享桌面）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读取设备MAC地址
+\u0009\u0009用于互联设备的识别
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009向其他设备传输数据
+\u0009\u0009用于在两台设备间建立蓝牙连接并交换数据
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009获取屏幕上的信息
+\u0009\u0009在录制或投屏时，提供此功能的服务会获取在您的屏幕上显示或从您的设备播放的任何敏感信息，包括音频、密码、付款信息、照片和消息等
+\u0009\u0009文件系统（跨设备剪贴板、笔记跨设备拍照）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009读取剪切板
+\u0009\u0009允许应用读取复制的内容
+\u0009\u0009硬件协同（网络协同、键鼠协同、相机协同）：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+\u0009\u0009相机
+\u0009\u0009调用相机拍摄照片和录制视频
+\u0009\u0009设备中心：
+\u0009\u0009开启或关闭蓝牙
+\u0009\u0009使用蓝牙扫描和连接附近可用设备
+\u0009\u0009开启或关闭WLAN
+\u0009\u0009使用WLAN扫描附近可投屏的设备
+\u0009\u0009录制设备内部音频
+\u0009\u0009用于投屏、镜像过程中将声音传输至其他设备播放
+\u0009\u0009读写设备上的照片、视频、音频
+\u0009\u0009用于发送及接收传输的文件
+如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
+因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">Als uw apparaat zoekraakt, kunt u niet voorkomen dat andere mensen het gebruiken en toegang krijgen tot uw gegevens, tenzij u een vergrendelscherm instelt. Toch overslaan?</string>
     <string name="item_facerecognition">Gezichtsontgrendeling</string>
@@ -256,6 +314,8 @@ Features are subject to change. Some of the features above may not be available 
     <string name="location_introduction_qcom">Location services use positioning for providing location-specific services. When location services are used by your device, QCC module will connect to the network to speed up the positioning process.</string>
     <string name="location_location">Noodgeval hulpdiensten kunnen op verzoek uw huidige locatie verkrijgen</string>
     <string name="lockscreen_introduction">Met Achtergrondcarrousel kunt u dagelijks nieuwe afbeeldingen op uw Vergrendelscherm ontvangen.</string>
+    <string name="media_storage_devices">Media-opslagapparaten</string>
+    <string name="media_storage_introduction">"Met deze service kunnen apps foto's, video's, audio en bestanden openen en opslaan."</string>
     <string name="message_introduction">U kunt deze app gebruiken om SMS te verzenden en te ontvangen.</string>
     <string name="mi_account_introduction">Met Mi Account kunt u zich registreren, aanmelden bij en systeemaccounts beheren.</string>
     <string name="midnight">Nacht</string>
@@ -264,16 +324,17 @@ Features are subject to change. Some of the features above may not be available 
     <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">U heeft geen internetverbinding nodig. Bekijk het Privacybeleid op %s.</string>
     <string name="miui_provision">Initiële setup</string>
+    <string name="miui_settings">Instellingen</string>
     <string name="miui_terms_no_network">U heeft geen internetverbinding. Bekijk de Gebruikersovereenkomst op %s.</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -349,17 +410,22 @@ Features are subject to change. Some of the features above may not be available 
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
     <string name="note_introduction">Met deze app kunt u notities aanmaken, bekijken en bewerken.</string>
+    <string name="official_website_real">hyperos.mi.com</string>
     <string name="other_settings">Basis instellingen</string>
     <string name="other_settings_ad_dialog_agree">Inschakelen</string>
     <string name="other_settings_ad_dialog_content">Als persoonlijke aanbevelingen voor advertenties zijn uitgeschakeld, ziet u nog steeds hetzelfde aantal advertenties als wanneer de functie is ingeschakeld. De advertenties zijn echter niet langer relevant omdat ze niet zijn gebaseerd op uw persoonlijke voorkeuren.</string>
-    <string name="other_settings_ad_dialog_content_for_global">Wanneer persoonlijke aanbevelingen voor advertenties zijn uitgeschakeld, ziet u nog steeds dezelfde hoeveelheid advertenties in systeem-apps van MIUI als wanneer de functie is ingeschakeld. De advertenties van Xiaomi en platforms van derden zijn echter niet langer relevant omdat ze niet gebaseerd zijn op uw persoonlijke voorkeuren.</string>
+    <string name="other_settings_ad_dialog_content_for_global">Wanneer persoonlijke aanbevelingen voor advertenties zijn uitgeschakeld, ziet u nog steeds dezelfde hoeveelheid advertenties in systeem-apps als wanneer de functie is ingeschakeld. De advertenties van Xiaomi en platforms van derden zijn echter niet langer relevant omdat ze niet gebaseerd zijn op uw persoonlijke voorkeuren.</string>
     <string name="other_settings_ad_dialog_disagree">Uitschakelen</string>
     <string name="other_settings_ad_disable_summary">Schakel in om advertenties te personaliseren</string>
-    <string name="other_settings_ad_enable">Gepersonaliseerde advertenties</string>
+    <string name="other_settings_ad_enable">Advertenties personaliseren</string>
     <string name="other_settings_ad_enable_summary">Advertenties gepersonaliseerd op basis van uw interesses</string>
+    <string name="other_settings_alarm_assistance">Emergency location</string>
+    <string name="other_settings_alarm_assistance_privacy">Privacy Policy</string>
+    <string name="other_settings_alarm_assistance_summary">"You can send your location info to the police using SMS or mobile data automatically while you're calling 110, 120, 119, or 122. Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before using this feature."</string>
+    <string name="other_settings_alarm_assistance_user">User Agreement</string>
     <string name="other_settings_auto_update">Automatische systeemupdates</string>
-    <string name="other_settings_auto_update_summary">MIUI zal de beste tijd selecteren om updates te downloaden en te installeren. Uw apparaat zal automatisch opnieuw opgestart worden om wijzigingen toe te passen.</string>
-    <string name="other_settings_auto_update_summary_v1">Sta MIUI toe om de beste tijd te selecteren om updates te downloaden en te installeren. Uw apparaat wordt automatisch opnieuw opgestart om wijzigingen toe te passen.</string>
+    <string name="other_settings_auto_update_summary">Het systeem zal de beste tijd selecteren om updates te downloaden en te installeren. Uw apparaat zal automatisch opnieuw opgestart worden om wijzigingen toe te passen.</string>
+    <string name="other_settings_auto_update_summary_v1">Sta het systeem toe om de beste tijd te selecteren om updates te downloaden en te installeren. Uw apparaat wordt automatisch opnieuw opgestart om wijzigingen toe te passen.</string>
     <string name="other_settings_enhanced_lockscreen">Achtergrondcarrousel</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Glance voor Mi</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Privacybeleid</string>
@@ -370,23 +436,25 @@ Features are subject to change. Some of the features above may not be available 
 U kunt automatische updates uitschakelen in GetApps > Instellingen > Automatische updates."</string>
     <string name="other_settings_location">Locatie</string>
     <string name="other_settings_location_summary">Sta apps en websites toegang toe tot uw locatie info om locatiegebaseerde services te bieden</string>
-    <string name="other_settings_quality_service">MIUI Daemon-toestemmingen</string>
-    <string name="other_settings_quality_service_summary">MIUI Daemon wordt gebruikt om de systeemstabiliteit en prestatie te verbeteren. Om normaal te kunnen werken, heeft deze service toestemmingen nodig om items te openen en op te slaan in de apparaatopslag.</string>
-    <string name="other_settings_upload_debug_log_detail">"Help uw MIUI-apparaatervaring te verbeteren door automatisch diagnostische, apparaat- en app-gebruiksgegevens naar Xiaomi te verzenden. Dit zal de levensduur van de batterij, het MIUI-systeem en de app-stabiliteit en meer helpen verbeteren.
-De gegevens die u verzendt, bevatten algemene informatie over uw apparaat en hoe u het gebruikt (bijv. batterijniveau, systeem- en app-activiteit en fouten). De gegevens worden gebruikt om MIUI-apparaten te verbeteren.
+    <string name="other_settings_quality_service">Systeem Daemon-toestemmingen</string>
+    <string name="other_settings_quality_service_summary">Systeem Daemon wordt gebruikt om de systeemstabiliteit en prestatie te verbeteren. Om normaal te kunnen werken, heeft deze service toestemmingen nodig om items te openen en op te slaan in de apparaatopslag.</string>
+    <string name="other_settings_upload_debug_log_detail">"Help uw ervaring te verbeteren door automatisch diagnostische, apparaat- en app-gebruiksgegevens naar Xiaomi te verzenden. Dit zal de levensduur van de batterij, het systeem en de app-stabiliteit en meer helpen verbeteren.
+De gegevens die u verzendt, bevatten algemene informatie over uw apparaat en hoe u het gebruikt (bijv. batterijniveau, systeem- en app-activiteit en fouten). De gegevens worden gebruikt om Xiaomi apparaten te verbeteren.
 Als u deze functie uitschakelt, heeft dit geen invloed op het vermogen van uw apparaat om de informatie te verzenden die nodig is voor essentiële services zoals systeemupdates en beveiliging.
-Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Instellingen."</string>
-    <string name="other_settings_upload_debug_log_summary">Help uw MIUI-apparaatervaring te verbeteren door automatisch diagnostische, apparaat- en app-gebruiksgegevens naar Xiaomi te verzenden. Dit zal de levensduur van de batterij, het MIUI-systeem en de app-stabiliteit helpen verbeteren, en meer.</string>
+U kunt deze functie bedienen via Instellingen > Wachtwoorden en beveiliging > Privacy > Gebruik en diagnostiek."</string>
+    <string name="other_settings_upload_debug_log_summary">Help uw ervaring te verbeteren door automatisch diagnostische, apparaat- en app-gebruiksgegevens naar Xiaomi te verzenden. Dit zal de levensduur van de batterij, het systeem en de app-stabiliteit helpen verbeteren, en meer.</string>
     <string name="other_settings_upload_debug_log_title">Gebruiks- en diagnostische gegevens verzenden</string>
     <string name="other_settings_user_experience">Gebruikerservaringprogramma</string>
     <string name="other_settings_user_experience_summary">Help ons onze producten en diensten te verbeteren door uw gebruiksstatistieken en analyses met ons te delen.</string>
     <string name="other_settings_user_experience_summary_index">Details bekijken</string>
-    <string name="permission_MIUIDaemon_introduction">Met MIUI Daemon kunt u gegevens van uw apparaat overzetten wanneer het scherm is beschadigd.</string>
+    <string name="permission_MIUIDaemon_introduction">System Daemon allows you to transfer data from your device when its screen is damaged.</string>
     <string name="permission_access_calendar">Toegang tot kalender</string>
     <string name="permission_access_calendar_fast_application_summary">Om snelle apps toegang te geven tot de kalender;</string>
     <string name="permission_account">Toegang tot accounts op uw apparaat</string>
     <string name="permission_account_introduction">Om in te loggen met Mi Account</string>
     <string name="permission_application_package_introduction">Voor toegang tot opslag om installatiepakketten te controleren en te scannen</string>
+    <string name="permission_authority_describe">读取应用列表</string>
+    <string name="permission_authority_describe_applist_summary">用于管理应用权限。</string>
     <string name="permission_backup">Toegang tot opslag</string>
     <string name="permission_backup_introduction">Voor toegang tot en opslag van back-ups op uw apparaat</string>
     <string name="permission_call_records">Toegang tot belgeschiedenis</string>
@@ -413,6 +481,8 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="permission_download_introduction">Om gedownloade items te cachen en ze op uw apparaat op te slaan</string>
     <string name="permission_enable_disable_bluetooth_summary">Voor het vinden van apparaten in de buurt om verbinding te maken en gegevens over te dragen</string>
     <string name="permission_fast_pairing">Om apparaten in de buurt te kunnen vinden, moet Mi Link verbinding maken met het internet en zijn de volgende toestemmingen vereist:</string>
+    <string name="permission_get_imei_information_summary">For identifying device activation time</string>
+    <string name="permission_get_imei_information_summary_settings">For displaying device info and specs</string>
     <string name="permission_imei_service">Voor toegang tot de IMEI om diensten aan te bieden die aan uw apparaat zijn gekoppeld</string>
     <string name="permission_interaction_introduction">"Om foto's en video's op het apparaat op te slaan"</string>
     <string name="permission_location">Toegang tot locatie-Informatie:</string>
@@ -427,7 +497,10 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="permission_login_introduction">On in te loggen en systeemaccounts te beheren</string>
     <string name="permission_make_a_call">Bellen</string>
     <string name="permission_make_a_call_fast_application_summary">Om snelle apps toegang te geven om te bellen;</string>
+    <string name="permission_media_storage_summary">Om te controleren hoe apps privacygerelateerde toestemmingen gebruiken bij het openen van bestanden</string>
     <string name="permission_message_introduction">Om berichten aan geblokkeerde contactpersonen te verzenden</string>
+    <string name="permission_number">读取本机号码</string>
+    <string name="permission_number_introduction">用于支持连接系统蓝牙并实现车载或蓝牙耳机通话；</string>
     <string name="permission_phone_imei_device">Om toegang tot de IMEI om apparaten te identificeren</string>
     <string name="permission_phone_network">Voor toegang tot het netwerktype voor het optimaliseren en aanpassen van items die kunnen worden gedownload</string>
     <string name="permission_phone_service">Toegang tot telefoonnummer, IMEI en IMSI</string>
@@ -435,6 +508,8 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="permission_photo_video">"Foto's maken en video's opnemen:"</string>
     <string name="permission_photo_video_introduction">"Om foto's te maken, video's op te nemen en de flits te gebruiken"</string>
     <string name="permission_picture_introduction">"Om foto's en video's op te slaan, te bewerken en te synchroniseren"</string>
+    <string name="permission_qualcomm_describe_summary">用于针对不同类型应用动态调整系统参数，完成系统组件及应用的进程调度。</string>
+    <string name="permission_quality_describe_summary">用于收集应用崩溃信息。</string>
     <string name="permission_read_app_list">Toegang tot de lijst met apps die op dit apparaat zijn geïnstalleerd</string>
     <string name="permission_read_application_list_summary">Voor het bijwerken van gedownloade apps en het bevestigen van app-informatie die wordt gebruikt door de pakketinstalleerder;</string>
     <string name="permission_read_call_records">Bewerken belgeschiedenis</string>
@@ -486,6 +561,7 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="permission_write_device_store">Items opslaan in apparaatopslag</string>
     <string name="permission_write_device_store_summary">Voor het cachen van gedownloade bronconfiguratiebestanden.</string>
     <string name="permission_xunlei_introduction">Om in te loggen en systeemaccounts te beheren om diensten van Xunlei aan te bieden</string>
+    <string name="phone_service_introduction">电话服务是一项基础通讯服务，为通话、短信、上网等功能提供底层通讯能力支撑。</string>
     <string name="pm">PM</string>
     <string name="poco_agree_terms_other">(Inclusief het Privacybeleid en de Gebruikersovereenkomst van POCO Launcher)</string>
     <string name="poco_launcher_privacy_policy">POCO Launcher Privacybeleid</string>
@@ -509,10 +585,17 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="provision_inputmethod_policy_description1">Privacybeleid</string>
     <string name="provision_next">Volgende</string>
     <string name="provision_skip_underline">Overslaan</string>
+    <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier提供系统进程调度服务。</string>
+    <string name="recommend_font">MiSans</string>
+    <string name="recommended_font_mark">Aanbevolen</string>
     <string name="recorder_introduction">U kunt deze app gebruiken om audio op te nemen en om opnames naar de cloud te back-uppen.</string>
     <string name="refuse_cookie">Cookies weigeren</string>
     <string name="require_authority_list_statement">Om normaal te kunnen werken, heeft deze service de volgende toestemmingen nodig:</string>
     <string name="require_authority_statement">Om u de basisservices te kunnen bieden, moet u de volgende toestemmingen verlenen zodat we uw persoonlijke informatie kunnen verzamelen:</string>
+    <string name="require_base_authority_statement">"为实现基本服务，需要调用您的如下权限：
+\u0009\u0009\u0009读取本机号码、IMEI及IMSI"</string>
+    <string name="require_basic_applist_and_authority_statement">为实现基本功能，需要调用您的如下权限：</string>
+    <string name="require_device_information_statement">Om basisdiensten te kunnen leveren, zijn de volgende toestemmingen vereist:</string>
     <string name="require_miuidaemon_authority_statement">Om ons in staat te stellen u deze service te bieden, moet u de volgende toestemmingen verlenen zodat we uw persoonlijke informatie kunnen verzamelen:</string>
     <string name="require_network_and_authority_statement">Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen vereist:</string>
     <string name="require_network_authority_statement">Om normaal te kunnen werken, moet deze service verbinding maken met het internet en zijn de volgende toestemmingen vereist:</string>
@@ -524,6 +607,7 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="search_menu_title">Zoeken</string>
     <string name="security_introduction">U kunt deze app gebruiken om uw apparaat op te schonen, virussen te vinden en te neutraliseren, gameprestaties te optimaliseren, energie te besparen, apps te beheren, toestemmingen en meer.</string>
     <string name="security_mobile_account_introduction">On in te loggen en systeemaccounts te beheren</string>
+    <string name="select_font_modele_tips">"U kunt altijd een nieuw lettertype selecteren in Thema's"</string>
     <string name="send">Verzenden</string>
     <string name="service_agreement">Ik heb de algemene voorwaarden gelezen en ga er akkoord mee.</string>
     <string name="service_company_adjust_content">Xunlei Netwerk Services Gebruikersovereenkomst</string>
@@ -531,10 +615,11 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="service_interconnection_communication">Xiaomi internetcommunicatieservices</string>
     <string name="service_location_share_policy">&lt;Data>Lees en ga akkoord met de &lt;a href=%1$s>Privacyverklaring voor locatievoorzieningen&lt;/a > voordat u doorgaat.&lt;/Data></string>
     <string name="service_mi_account">Mi Account</string>
-    <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+    <string name="service_name_MIUIDaemon">System Daemon</string>
     <string name="service_name_address_dialing">Contacten en Telefoon</string>
     <string name="service_name_album">Galerij</string>
     <string name="service_name_application_package">Pakketinstalleerder</string>
+    <string name="service_name_authority">权限管理服务</string>
     <string name="service_name_backup">Back-ups</string>
     <string name="service_name_bluetooth">Bluetooth</string>
     <string name="service_name_calculator">Rekenmachine</string>
@@ -553,6 +638,8 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="service_name_lockscreen">Achtergrondcarrousel</string>
     <string name="service_name_message">Berichten</string>
     <string name="service_name_note">Notities</string>
+    <string name="service_name_phone_service">电话服务</string>
+    <string name="service_name_qualcomm">com.qualcomm.qti.workloadclassifier</string>
     <string name="service_name_recorder">Recorder</string>
     <string name="service_name_screen_recording">Schermrecorder</string>
     <string name="service_name_security">Beveiliging</string>
@@ -567,7 +654,7 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="servicestate_title">Melding over basisservices</string>
     <string name="setting_locale">Regio instellen…</string>
     <string name="shut_down">Uitschakelen</string>
-    <string name="sim_activation_introduction">De activeringsservice van de SIM-kaart verifieert de informatie van de momenteel geplaatste SIM-kaart om ervoor te zorgen dat MIUI-services normaal kunnen werken. Deze services omvatten Apparaat zoeken, Mi Message, het maken van Mi Accounts met telefoonnummers en het synchroniseren van berichten en belgeschiedenis.</string>
+    <string name="sim_activation_introduction">The SIM card activation service verifies the information of the currently inserted SIM card to make sure that system services can work normally. These services include Find device, Mi Message, creating Xiaomi Accounts using phone numbers, and syncing messages and call history.</string>
     <string name="sim_card_detecting">Controleren voor SIM-kaart…</string>
     <string name="sim_card_detecting_check">SIM-kaart kon niet worden gevonden. Controleer dat uw SIM-kaart juist is geplaatst en dat u voldoende balans heeft.</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Sta verbinding toe met mobiele datanetwerken? Als u dat doet, wordt de SIM-kaart die u invoegt, gebruikt om verbinding te maken met mobiele datanetwerken.</string>
@@ -596,6 +683,8 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
     <string name="system_navigation_mode">Systeemnavigatiemodus</string>
+    <string name="system_update_statement">In order to perform a system update, we need to collect the device IMEI, device IMSI, device identifiers (OAID and encrypted Android ID), Xiaomi Account, device manufacturer, device model, network operator, device memory, operating system version, region, language, connectivity, network type, and IP address.</string>
+    <string name="system_update_title">System updates</string>
     <string name="systemdesktop_introduction">De Startschermservice plug-in biedt u basisfuncties zoals het Startscherm, de systeem UI en screenshots.</string>
     <string name="term_condition_detail">Krijg dagelijks verbluffende afbeeldingen en spannende verhalen op uw Vergrendelscherm. Deze functie gebruikt uw gegevens niet voor personalisatie zonder uw toestemming. Lees en ga akkoord met het &lt;a href =%1$s>Privacybeleid&lt;/a> en &lt;a href =%2$s>Gebruikersovereenkomst&lt;/a> van de externe inhoudsprovider voordat u deze functie gebruikt.</string>
     <string name="terms_of_label_period">". "</string>
@@ -611,9 +700,9 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
     <string name="terms_of_use_label_communication_service">Xiaomi internetcommunicatieservices</string>
     <string name="terms_of_use_label_config_updater">ConfigUpdater</string>
-    <string name="terms_of_use_label_finddevice">Find device</string>
+    <string name="terms_of_use_label_finddevice">Apparaat zoeken</string>
     <string name="terms_of_use_label_game">Games</string>
-    <string name="terms_of_use_label_home">Home screen</string>
+    <string name="terms_of_use_label_home">Startscherm</string>
     <string name="terms_of_use_label_htmlViewer">HTML Viewer</string>
     <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
     <string name="terms_of_use_label_info_assistant">Mi Link</string>
@@ -621,25 +710,27 @@ Om deze functie te bedienen, zoekt u naar \"Gebruik en diagnostiek\" in de Inste
     <string name="terms_of_use_label_landscape">Liggende weergave</string>
     <string name="terms_of_use_label_mab">MAB</string>
     <string name="terms_of_use_label_mi_account">Mi Account</string>
-    <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
-    <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+    <string name="terms_of_use_label_miuiDaemon">System Daemon</string>
+    <string name="terms_of_use_label_miuisdk">System SDK</string>
     <string name="terms_of_use_label_os">OS AI Instelling</string>
     <string name="terms_of_use_label_package">Pakketinstalleerder</string>
     <string name="terms_of_use_label_parallel_windows">Parallelle vensters</string>
     <string name="terms_of_use_label_phrase">Veelgebruikte zinnen</string>
     <string name="terms_of_use_label_power_detection">Power detector</string>
-    <string name="terms_of_use_label_power_performance">Battery and performance</string>
+    <string name="terms_of_use_label_power_performance">Batterij en prestaties</string>
     <string name="terms_of_use_label_quickapp">Snelle apps</string>
+    <string name="terms_of_use_label_remote_provisioner">RemoteProvisioner</string>
     <string name="terms_of_use_label_secure">Secure Element Application</string>
     <string name="terms_of_use_label_simcard">SIM activatieservice</string>
     <string name="terms_of_use_label_smart_service">Slimme services</string>
     <string name="terms_of_use_label_statistics">Statistieken</string>
+    <string name="terms_of_use_label_system_quality_monitoring">系统质量监测</string>
     <string name="terms_of_use_label_systemhelper">Zelfregistratieservice</string>
     <string name="terms_of_use_label_translation">Vertalingsservice</string>
     <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi version)</string>
     <string name="terms_of_use_label_updater">Systeemupdateservice (controleert online op updates en informeert over nieuwe versies)</string>
-    <string name="terms_of_use_label_use_location_and_network_global">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en ons Privacybeleid lezen en ermee akkoord gaan. We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Wanneer uw apparaat is geactiveerd, maken de volgende services verbinding met het netwerk en krijgen ze toegang tot uw locatie:</string>
-    <string name="terms_of_use_label_use_network_china">Voordat u MIUI gebruikt, moet u onze Gebruikersovereenkomst en ons Privacybeleid lezen en ermee akkoord gaan. We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Wanneer uw apparaat is geactiveerd, maken de volgende services verbinding met het netwerk:</string>
+    <string name="terms_of_use_label_use_location_and_network_global">Voordat u het systeem gebruikt, moet u onze Gebruikersovereenkomst en ons Privacybeleid lezen en ermee akkoord gaan. We zullen uw persoonlijke informatie beschermen in overeenstemming met de relevante wetten, voorschriften en privacybeleid. Wanneer uw apparaat is geactiveerd, maken de volgende services verbinding met het netwerk en krijgen ze toegang tot uw locatie:</string>
+    <string name="terms_of_use_label_use_network_china">Before using the system, you must read and agree to our User Agreement and Privacy Policy. We will protect your personal information in accordance with the relevant laws, regulations, and privacy policies. When your device is activated, the following services will connect to the network:</string>
     <string name="terms_of_use_label_wallpaper">Achtergrond</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
@@ -712,10 +803,6 @@ U moet akkoord gaan met het Privacybeleid van Mint Toetsenbord voordat u deze fu
     <string name="user_agreement">Gebruikersovereenkomst</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
-    <string name="voice_assist_advice">Mi AI maakt het voor u mogelijk om spraakbediening te gebruiken, maar verbruikt meer batterij (+1% per uur).</string>
-    <string name="voice_assist_condition">"U kunt Mi AI in al deze gevallen gebruiken: r
-1. Wanneer het scherm aanstaat.r
-2. Wanneer u naar muziek luistert met uw scherm aan."</string>
     <string name="voice_assist_desp">Ze \"Mi AI\" tegen uw telefoon. Mi AI zal uw stem herkennen en u kunt uw apparaat besturen.</string>
     <string name="voice_assist_title">Wekken met stem</string>
     <string name="wc_dialog_agree">Akkoord</string>

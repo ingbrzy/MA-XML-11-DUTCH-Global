@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,20 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
+    </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Onvoldoende opslag. Kon %d foto's niet synchroniseren."</item>
+        <item quantity="one">Onvoldoende opslag. Kon %d foto niet synchroniseren.</item>
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d blokkeerlijst invoeren</item>
@@ -108,6 +112,10 @@
         <item quantity="other">Probeer het opnieuw in %d seconden</item>
         <item quantity="one">Probeer het opnieuw in %d seconde</item>
     </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Kon &lt;font color=#F22424>%s items&lt;/font> niet synchroniseren</item>
+        <item quantity="one">Kon &lt;font color=#F22424>%s item&lt;/font> niet synchroniseren</item>
+    </plurals>
     <plurals name="gallery_auto_sync_fail_noti_title">
         <item quantity="other">Kon %s items niet synchroniseren</item>
         <item quantity="one">Kon %s item niet synchroniseren</item>
@@ -155,6 +163,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Opslag is vol. Kon &lt;font color=#F22424>%d apps&lt;/font> niet synchroniseren.</item>
+        <item quantity="one">Opslag is vol. Kon &lt;font color=#F22424>%d app&lt;/font> niet synchroniseren.</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>

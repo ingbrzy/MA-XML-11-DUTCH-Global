@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 uur geleden</item>
+        <item quantity="one">1 uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">Geschikt voor %1$d+</item>
+        <item quantity="one">Geschikt voor %1$d+</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s downloads</item>
+        <item quantity="one">%1$s download</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s voorbestellingen</item>
+        <item quantity="one">%1$s voorbestelling</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">%1$d apps geselecteerd</item>
+        <item quantity="one">%1$d app geselecteerd</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">Schakel in %1$d stappen over naar foutopsporingsmodus</item>
+        <item quantity="one">Schakel in %1$d stap over naar foutopsporingsmodus</item>
+    </plurals>
+    <plurals name="cloud_game_little_time_desc">
+        <item quantity="other">U hebt nog %d minuten speeltijd over. Koop een cloudpas om zonder onderbrekingen te spelen.</item>
+        <item quantity="one">U hebt nog %d minuut speeltijd over. Koop een cloudpas om zonder onderbrekingen te spelen.</item>
+    </plurals>
+    <plurals name="cloud_game_prioritize_queue">
+        <item quantity="other">Gebruik uw %d-daagse pas voor prioriteitstoegang tot de wachtrij</item>
+        <item quantity="one">Gebruik uw %d-daagse pas voor prioriteitstoegang tot de wachtrij</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_first">
+        <item quantity="other">Er zijn %d mensen voor u</item>
+        <item quantity="one">Er is %d persoon voor u</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_second">
+        <item quantity="other">≈%d min. resterend</item>
+        <item quantity="one">≈%d min. resterend</item>
+    </plurals>
+    <plurals name="cloud_game_toast_time_left">
+        <item quantity="other">%d minuten speeltijd resterend</item>
+        <item quantity="one">%d minuut speeltijd resterend</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">Tik om alle %1$d apps weer te geven</item>
+        <item quantity="one">Tik om alle %1$d apps weer te geven</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">Van %1$d mensen, inclusief @%2$s en @%3$s</item>
+        <item quantity="one">Van %1$d persoon, inclusief @%2$s en @%3$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">U heeft %1$d ongelezen berichten</item>
+        <item quantity="one">U heeft %1$d ongelezen bericht</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s beoordelingen</item>
+        <item quantity="one">%1$s beoordeling</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s dagen</item>
+        <item quantity="one">%1$s dag</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">Delete %1$s items verwijderen?</item>
+        <item quantity="one">%1$s geselecteerd item verwijderen?</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">Opmerkingen moeten minimaal %1$d karakters bevatten</item>
+        <item quantity="one">Opmerkingen moeten minimaal %1$d karakter bevatten</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">Beoordelingen kunnen maximaal %1$d tekens bevatten</item>
+        <item quantity="one">Beoordelingen kunnen maximaal %1$d teken bevatten</item>
+    </plurals>
+    <plurals name="dialog_title_uninstall_multiple_app_new">
+        <item quantity="other">Verwijder %1$d apps inclusief %2$s?</item>
+        <item quantity="one">Verwijder %1$d app inclusief %2$s?</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">%1$d downloads inclusief %2$s uit de wachtrij verwijderen?</item>
+        <item quantity="one">%1$d download inclusief %2$s uit de wachtrij verwijderen?</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">%d seconden vooruitspoelen</item>
+        <item quantity="one">%d seconde vooruitspoelen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">%d seconden terugspoelen</item>
+        <item quantity="one">%d seconde terugspoelen</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s voorbestellingen</item>
+        <item quantity="one">%s voorbestelling</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">%1$d apps geselecteerd</item>
+        <item quantity="one">%1$d app geselecteerd</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Een half uur geleden</item>
+        <item quantity="one">Een half uur geleden</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Binnen 1 uur</item>
+        <item quantity="one">Binnen 1 uur</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">In een half uur</item>
+        <item quantity="one">In een half uur</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Onmiddellijk</item>
+        <item quantity="one">Onmiddellijk</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minuten</item>
+        <item quantity="one">in 1 minuut</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">Toch %1$s apps inclusief %2$s installeren?</item>
+        <item quantity="one">Toch %1$s app inclusief %2$s installeren?</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">Het downloaden van apps via mobiele data kan extra kosten genereren. Toch %1$s apps inclusief %2$s downloaden?</item>
+        <item quantity="one">Het downloaden van apps via mobiele data kan extra kosten genereren. Toch %1$s app inclusief %2$s downloaden?</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">U bent verbonden met een wifi hotspot. Het downloaden van apps kan extra datakosten genereren voor het apparaat waarmee u bent verbonden. Toch %1$s apps inclusief %2$s downloaden?</item>
+        <item quantity="one">U bent verbonden met een wifi hotspot. Het downloaden van apps kan extra datakosten genereren voor het apparaat waarmee u bent verbonden. Toch %1$s app inclusief %2$s downloaden?</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$s items geselecteerd</item>
+        <item quantity="one">%1$s item geselecteerd</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Zojuist</item>
+        <item quantity="one">Zojuist</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">We voeren %d handmatige nalevingstests uit op de meest populaire apps</item>
+        <item quantity="one">We voeren %d handmatige nalevingstest uit op de meest populaire apps</item>
+    </plurals>
+    <plurals name="mine_uninstall_desc">
+        <item quantity="other">%1$d apps zijn %2$d dagen niet gebruikt</item>
+        <item quantity="one">%1$d app is %2$d dagen niet gebruikt</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s beoordelingen</item>
+        <item quantity="one">%s beoordeling</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d items geselecteerd</item>
+        <item quantity="one">%d item geselecteerd</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s downloads</item>
+        <item quantity="one">%s download</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">U kunt &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> apps bijwerken</item>
+        <item quantity="one">U kunt &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> app bijwerken</item>
+    </plurals>
+    <plurals name="notif_auto_update_title">
+        <item quantity="other">%1$d apps bijgewerkt via wifi</item>
+        <item quantity="one">%1$d app bijgewerkt via wifi</item>
+    </plurals>
+    <plurals name="notif_has_new_update_test1">
+        <item quantity="other">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> van de gebruikers heeft deze &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> apps al bijgewerkt</item>
+        <item quantity="one">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> van de gebruikers heeft deze &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> app al bijgewerkt</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">%1$s apps installeren</item>
+        <item quantity="one">%1$s apps installeren</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuten geleden</item>
+        <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d munten</item>
+        <item quantity="one">%1$3d munt</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">Stemmen is gesloten. %1$d mensen hebben gestemd.</item>
+        <item quantity="one">Stemmen is gesloten. %1$d persoon heeft gestemd.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"%1$d mensen hebben gestemd. "</item>
+        <item quantity="one">"%1$d persoon heeft gestemd. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">De resultaten worden over %1$d uur bekend gemaakt.</item>
+        <item quantity="one">De resultaten worden over %1$d uur bekend gemaakt.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">Verwijder %1$s apps</item>
+        <item quantity="one">Verwijder %1$s app</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d updates</item>
+        <item quantity="one">%1$d update</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">Het bijwerken van apps met behulp van mobiele data kan extra kosten genereren. Toch %1$s apps inclusief %2$s bijwerken?</item>
+        <item quantity="one">Het bijwerken van apps met behulp van mobiele data kan extra kosten genereren. Toch %1$s app inclusief %2$s bijwerken?</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">U bent verbonden met een wifi hotspot. Het bijwerken van apps kan extra datakosten genereren voor het apparaat waarmee u bent verbonden. Toch %1$s apps inclusief %2$s bijwerken?</item>
+        <item quantity="one">U bent verbonden met een wifi hotspot. Het bijwerken van apps kan extra datakosten genereren voor het apparaat waarmee u bent verbonden. Toch %1$s app inclusief %2$s bijwerken?</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">%1$d dagen geleden</item>
+        <item quantity="one">%1$d dag geleden</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">%1$s apps inclusief %2$s bijwerken?</item>
+        <item quantity="one">%1$s app inclusief %2$s bijwerken?</item>
+    </plurals>
+</resources>

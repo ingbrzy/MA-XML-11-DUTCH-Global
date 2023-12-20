@@ -49,16 +49,16 @@ totaal %2$d nummer"</item>
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -69,16 +69,16 @@ totaal %2$d nummer"</item>
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d reacties</item>
@@ -142,6 +142,10 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
+    <plurals name="hide_reason_duration">
+        <item quantity="other">Minder dan %1$ds</item>
+        <item quantity="one">Minder dan %1$ds</item>
+    </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">Binnen 1 uur</item>
         <item quantity="one">Binnen 1 uur</item>
@@ -170,6 +174,10 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
         <item quantity="other">%d personen gevolgd</item>
         <item quantity="one">%d persoon gevolgd</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d nieuwe nummers</item>
+        <item quantity="one">%d nieuw nummer</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
@@ -197,6 +205,10 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
     <plurals name="reader_count">
         <item quantity="other">%d volgers</item>
         <item quantity="one">%d volger</item>
+    </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">VIP-lidmaatschap in %d seconden</item>
+        <item quantity="one">VIP-lidmaatschap in %d seconde</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d nummers zullen worden verzonden</item>
@@ -233,5 +245,17 @@ Let op: Bestand wordt ook van dit apparaat verwijderd."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d dagen resterend</item>
         <item quantity="one">%d dag resterend</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Als u %d seconden kijkt, krijgt u als beloning een VIP-lidmaatschap. Toch afsluiten?</item>
+        <item quantity="one">Als u %d seconde kijkt, krijgt u als beloning een VIP-lidmaatschap. Toch afsluiten?</item>
+    </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">%d bestanden toegevoegd</item>
+        <item quantity="one">%d bestand toegevoegd</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d bestanden waren al eerder toegevoegd</item>
+        <item quantity="one">%d bestand was al eerder toegevoegd</item>
     </plurals>
 </resources>

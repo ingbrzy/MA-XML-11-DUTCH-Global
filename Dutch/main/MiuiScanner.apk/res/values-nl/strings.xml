@@ -48,6 +48,9 @@
     <string name="back">Terug</string>
     <string name="barcode_into_rectangle">Plaats de code in het frame</string>
     <string name="birthday">Verjaardag:</string>
+    <string name="btn_add_schedule">Voeg gebeurtenis toe</string>
+    <string name="btn_send_email">E-mail verzenden</string>
+    <string name="btn_send_message">SMS verzenden</string>
     <string name="camera_error_title">Camerafout</string>
     <string name="cancel">Annuleren</string>
     <string name="choose_open_code_app">Selecteer een app</string>
@@ -60,15 +63,17 @@
     <string name="common_save">Opslaan</string>
     <string name="company">Bedrijf:</string>
     <string name="confirm">OК</string>
-    <string name="connect_wifi">Verbind met dit netwerk</string>
+    <string name="connect_wifi">Verbinden</string>
     <string name="contact_details">QR-code contact:</string>
     <string name="continue_access_web_url">Ga naar website</string>
     <string name="continue_to_website">Ga naar website</string>
     <string name="copy">Kopiëren</string>
     <string name="copy_text">Tekst kopiëren</string>
     <string name="copy_text_success">Tekst gekopiëerd</string>
+    <string name="copy_web_url">URL kopiëren</string>
     <string name="crop_cancel_description">Annuleren</string>
     <string name="crop_done_description">Gereed</string>
+    <string name="cta_purpose">"Scanner moet uw camera gebruiken en de afbeeldingen verwerken die u maakt terwijl u de app gebruikt. Gebruik Scanner niet om foto's te maken van de objecten die uw persoonlijke informatie bevatten. Door op \"Akkoord\" te tikken, gaat u akkoord met ons Privacybeleid en geeft u Scanner toestemming om verbinding te maken met het internet."</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -95,6 +100,8 @@
     <string name="drag_barcode_into_frame">Sleep het kader zodat de code past</string>
     <string name="early_morning">Ochtend</string>
     <string name="email">E-mail:</string>
+    <string name="email_message">Hoofdtekst</string>
+    <string name="email_sub">Onderwerp</string>
     <string name="empty" />
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
@@ -103,10 +110,11 @@
     <string name="error_get_image">Kon afbeelding niet ophalen</string>
     <string name="error_media_storage_failure">Kon foto niet opslaan</string>
     <string name="error_permissions">Scanner heeft niet de toestemmingen vereist die hij nodig heeft om normaal te werken. Ga naar instellingen en controleer toestemmingen om door te gaan.</string>
+    <string name="error_permissions_location">Geef deze app toegang tot de exacte locatie zodat deze normaal kan werken</string>
     <string name="error_permissions_storage">"Geef toegang tot uw foto's om deze functie te kunnen gebruiken"</string>
     <string name="evening">Middag</string>
     <string name="expand_button_title">Geavanceerd</string>
-    <string name="feed_search_fail">Geen resultaten, probeer het opnieuw</string>
+    <string name="feed_search_fail">Kon geen resultaten vinden</string>
     <string name="feedback_description_camera_access">Scanner kan geen verbinding maken met camera</string>
     <string name="feedback_description_save_photo">Kon foto of video niet opslaan</string>
     <string name="feedback_phone">phone</string>
@@ -171,7 +179,7 @@
     <string name="friday_shortest">Vr</string>
     <string name="got_it">Begrepen</string>
     <string name="import_contact">Importeer contact</string>
-    <string name="impunity_declaration_content">"Scanner moet uw camera gebruiken en de afbeeldingen verwerken die u maakt terwijl u de app gebruikt. Gebruik Scanner niet om foto's te maken van de objecten die uw persoonlijke gegevens bevatten. Door op \"Akkoord\" te tikken, gaat u akkoord met onze &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Privacybeleid&lt;/a>&lt;/font> en Scanner toestaan om verbinding te maken met het internet."</string>
+    <string name="impunity_declaration_content">"Scanner moet uw camera gebruiken en de afbeeldingen verwerken die u maakt terwijl u de app gebruikt. Gebruik Scanner niet om foto's te maken van de objecten die uw persoonlijke informatie bevatten. Door op \"Akkoord\" te tikken, gaat u akkoord met onze &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Privacybeleid&lt;/a>&lt;/font> en Scanner toestaan om verbinding te maken met het internet."</string>
     <string name="impunity_declaration_negative_text">Sluiten</string>
     <string name="jingdong">JD</string>
     <string name="kuaidi100_data">Mogelijk gemaakt door Kuaidi 100</string>
@@ -185,7 +193,7 @@
     <string name="language_entry_korean">Koreaans</string>
     <string name="language_entry_spanish">Spaans</string>
     <string name="logistics">Express levering</string>
-    <string name="low_version_tip">Werk MIUI bij naar de nieuwste versie om Scanner te kunnen gebruiken.</string>
+    <string name="low_version_tip">Werk bij naar de nieuwste systeemversie om Scanner te kunnen gebruiken.</string>
     <string name="midnight">Nacht</string>
     <string name="mihome_goto_install">Installeren</string>
     <string name="mihome_goto_update">Bijwerken</string>
@@ -198,7 +206,7 @@
     <string name="mipayin_dialog_more">Meer</string>
     <string name="mipayin_dialog_title">Openen met</string>
     <string name="miracast_connect">Casten</string>
-    <string name="miracast_connect_fail">Kon niet casten, probeer opnieuw</string>
+    <string name="miracast_connect_fail">Kon niet casten. Probeer het opnieuw.</string>
     <string name="miracast_connecting">Wordt gecast…</string>
     <string name="miracast_details">Scan QR-code om te casten</string>
     <string name="miracast_message">Casten naar %s?</string>
@@ -282,6 +290,7 @@
     <string name="note">Opmerking:</string>
     <string name="now_state">"Huidige status: "</string>
     <string name="once">Slechts eenmaal</string>
+    <string name="open_web_url">Openen in browser</string>
     <string name="pay_save_this_choose">Mijn keuze onthouden</string>
     <string name="payment_text">Openen met %s</string>
     <string name="phone">Telefoon:</string>
@@ -290,7 +299,7 @@
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="preparing_sd">Intern geheugen voorbereiden…</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="qr_code_details">QR-code details:</string>
+    <string name="qr_code_details">Tekst</string>
     <string name="queryNum">Controleer bestelling</string>
     <string name="query_faile">Orderstatus en details zijn nog niet gesynchroniseerd. Controleer uw bestelling handmatig.</string>
     <string name="query_more">Meer info</string>
@@ -301,6 +310,10 @@
     <string name="saturday_short">Za</string>
     <string name="saturday_shortest">Za</string>
     <string name="scan_result">Resultaat</string>
+    <string name="schedule_date">Datum</string>
+    <string name="schedule_description">Beschrijving</string>
+    <string name="schedule_location">Locatie</string>
+    <string name="schedule_title">Titel</string>
     <string name="sdk_not_ready">SDK voorbereiden. Probeer het later opnieuw.</string>
     <string name="search_menu_title">Zoeken</string>
     <string name="secure_access_web_url">Ga naar website</string>
@@ -323,6 +336,7 @@
     <string name="sunday_shortest">Zon</string>
     <string name="switch_open">Inschakelen</string>
     <string name="taobao">Taobao</string>
+    <string name="text_search">Zoeken</string>
     <string name="the_anniversary_of_lifting_martial_law">Verjaardag van de Opheffing van de Staat van Beleg</string>
     <string name="the_anti_aggression_day">Anti-agressie dag</string>
     <string name="the_arbor_day">Nationale Boomfeestdag</string>
@@ -371,7 +385,9 @@
     <string name="time_picker_label_minute">M</string>
     <string name="title">Titel:</string>
     <string name="to_install_title">Deze QR-code verwijst u door naar een verwijderde app. Deze app nu downloaden?</string>
+    <string name="to_message">SMS-inhoud</string>
     <string name="to_pay">Betaling voltooien</string>
+    <string name="to_person">Ontvanger</string>
     <string name="today">Vandaag</string>
     <string name="toinstall">Downloaden</string>
     <string name="tomorrow">Morgen</string>
@@ -392,16 +408,17 @@
     <string name="vender_info_translation_kingsoft">Mogelijk gemaakt door Kingsoft</string>
     <string name="waybill_num">"Bestelling: "</string>
     <string name="web">Website:</string>
-    <string name="website_details">Website:</string>
+    <string name="website_details">URL</string>
     <string name="wednesday">Woensdag</string>
     <string name="wednesday_short">Wo</string>
     <string name="wednesday_shortest">Wo</string>
     <string name="wifi_details">Wi-Fi:</string>
     <string name="wifi_exist_fail">Hotspot \"%1$s\" bestaat al. Verwijder deze en scan de code dan opnieuw om te verbinden.</string>
     <string name="wifi_open_fail">Kan Wi-Fi niet aanzetten</string>
+    <string name="wifi_password">Wachtwoord</string>
     <string name="wifi_psd_toolong">Het wachtwoord is te lang. Voer het wachtwoord handmatig in.</string>
     <string name="wifi_pwd">Wachtwoord:</string>
-    <string name="wifi_security">Beveiliging:</string>
-    <string name="wifi_ssid">SSID:</string>
+    <string name="wifi_security">Versleuteling</string>
+    <string name="wifi_ssid">Netwerknaam</string>
     <string name="yesterday">Gisteren</string>
 </resources>

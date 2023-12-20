@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d video's in WeChat-gesprekken staan op punt te vervallen. Een back-up maken naar de interne opslag van uw apparaat?"</item>
@@ -165,16 +165,16 @@
         <item quantity="one">%1$s reactie</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> dagen</item>
-        <item quantity="one">• &lt;font color=#fc7050>%1$d&lt;/font> dag</item>
+        <item quantity="other">" • &lt;font color=#fc7050>%1$d&lt;/font> dagen"</item>
+        <item quantity="one">" • &lt;font color=#fc7050>%1$d&lt;/font> dag"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> volgers!</item>
-        <item quantity="one">• U hebt &lt;font color=#fc7050>%1$s&lt;/font> volger!</item>
+        <item quantity="other">" • U hebt &lt;font color=#fc7050>%1$s&lt;/font> volgers!"</item>
+        <item quantity="one">" • U hebt &lt;font color=#fc7050>%1$s&lt;/font> volger!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">"• U uploadde &lt;font color=#fc7050>%1$s&lt;/font> video's."</item>
-        <item quantity="one">• U uploadde &lt;font color=#fc7050>%1$s&lt;/font> video.</item>
+        <item quantity="other">" • U uploadde &lt;font color=#fc7050>%1$s&lt;/font> video's. "</item>
+        <item quantity="one">" • U uploadde &lt;font color=#fc7050>%1$s&lt;/font> video. "</item>
     </plurals>
     <plurals name="original_user_play_2">
         <item quantity="other">U maakte &lt;font color=#fc7050>%1$s&lt;/font> personen gelukkig!</item>

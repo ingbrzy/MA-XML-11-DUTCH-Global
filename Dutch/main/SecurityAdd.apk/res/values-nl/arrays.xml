@@ -27,6 +27,20 @@
         <item>Gebalanceerd</item>
         <item>Hoge kwaliteit</item>
     </string-array>
+    <string-array name="gb_gpu_custom_fps_gear">
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Laag</item>
+        <item>Standaard</item>
+        <item>Hoog</item>
+        <item>Hoogste</item>
+        <item>Standaard</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Hoge snelheid</item>
         <item>Gebalanceerd</item>
