@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Deze items toevoegen aan privéalbum?</item>
@@ -172,9 +172,9 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d burst shots van Xiaomi Cloud en alle gesynchroniseerde apparaten verwijderen?</item>
-        <item quantity="one">%d burst shot van Xiaomi Cloud en alle gesynchroniseerde apparaten verwijderen?</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">%d burst-opnames verwijderen?</item>
+        <item quantity="one">%d burst-opname verwijderen?</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">%d burst-opnames verwijderen?</item>
@@ -192,17 +192,13 @@
         <item quantity="other">%d items verwijderen?</item>
         <item quantity="one">%d item verwijderen?</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">"%d foto's van alle apparaten en Xiaomi Cloud verwijderen?"</item>
-        <item quantity="one">%d foto van alle apparaten en Xiaomi Cloud verwijderen?</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">%d items verwijderen?</item>
+        <item quantity="one">%d item verwijderen?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">%d burst-opnames van uw apparaat verwijderen?</item>
         <item quantity="one">%d burst-opname van uw apparaat verwijderen?</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">"%d video's van alle apparaten en Xiaomi Cloud verwijderen?"</item>
-        <item quantity="one">%d video van alle apparaten en Xiaomi Cloud verwijderen?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Kon %1$d bestanden niet downloaden</item>
@@ -311,10 +307,6 @@
     <plurals name="photo_count_format">
         <item quantity="other">Totaal %1$d items</item>
         <item quantity="one">Totaal %1$d item</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d graden roteren</item>
-        <item quantity="one">%d graad roteren</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d dagen</item>
@@ -480,6 +472,10 @@
         <item quantity="other">"Delen mislukt. Nog steeds bezig met het verwerken van %d foto's…"</item>
         <item quantity="one">Delen mislukt. Nog steeds bezig met het verwerken van %d foto…</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Selecteer maximaal %d items om te verzenden</item>
+        <item quantity="one">Selecteer maximaal %d item om te verzenden</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">"%2$d video's van %1$s"</item>
         <item quantity="one">%2$d video van %1$s</item>
@@ -577,8 +573,8 @@
         <item quantity="one">%d video</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">"Er is geen back-up van %d foto's en video's"</item>
-        <item quantity="one">Er is geen back-up van %d foto of video</item>
+        <item quantity="other">%d items zijn niet gesynchroniseerd</item>
+        <item quantity="one">%d item is niet gesynchroniseerd</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d bestanden zijn te groot voor een back-up</item>
@@ -628,6 +624,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Kon %1$d items niet overzetten</item>
+        <item quantity="one">Kon %1$d item niet overzetten</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Kon %1$d items niet overzetten. Ga naar i.mi.com om het te downloaden.</item>
+        <item quantity="one">Kon %1$d item niet overzetten. Ga naar i.mi.com om het te downloaden.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d geselecteerde items worden permanent verwijderd uit de cloud en alle gesynchroniseerde apparaten. Toch verwijderen?</item>
         <item quantity="one">%d geselecteerd item wordt permanent verwijderd uit de cloud en alle gesynchroniseerde apparaten. Toch verwijderen?</item>
@@ -651,6 +655,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Items kunnen hier maximaal worden opgeslagen tot %1$d dagen (%2$s)</item>
         <item quantity="one">Items kunnen hier worden opgeslagen voor %1$d dag (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Items kunnen hier worden opgeslagen voor %1$s dagen. Tik om deze periode te verlengen.</item>
+        <item quantity="one">Items kunnen hier worden opgeslagen voor %1$s dag. Tik om deze periode te verlengen.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Verwijderde items worden %1$d dagen in de cloud opgeslagen</item>
+        <item quantity="one">Verwijderde items worden %1$d dag in de cloud opgeslagen</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Items kunnen hier maximaal worden opgeslagen tot %1$d dagen. Upgrade uw abonnement om deze periode te verlengen.</item>

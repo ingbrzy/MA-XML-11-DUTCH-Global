@@ -4,6 +4,10 @@
         <item>Man</item>
         <item>Vrouw</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Man</item>
+        <item>Vrouw</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Accounts</item>
         <item>Accounts van derden toevoegen en beheren</item>
@@ -11,23 +15,28 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Accounts</item>
-        <item>Accounts van derden toevoegen en beheren</item>
-        <item>Accounts;SNS;WeChat;QQ;Mi Account;Account;Xiaomi Account</item>
+        <item>Bekijk uw verbonden WeChat- en andere SNS-accounts</item>
+        <item>toestemmingen;SNS;WeChat;Xiaomi Account;account</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Wachtwoord wijzigen</item>
         <item>Xiaomi Account wachtwoord wijzigen</item>
         <item>Wachtwoord wijzigen;Wachtwoord bijwerken;Mi Account;Account;Xiaomi Account</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Familie opslagruimte</item>
+        <item>Familie opslagruimte bekijken/inschakelen</item>
+        <item>Familie opslagruimte;Opslag delen</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Familie services</item>
+        <item>Familie services bekijken/inschakelen</item>
+        <item>Familie;Familie services;Delen met familie</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Help</item>
         <item>Krijg Xiaomi Account help en ondersteuning</item>
         <item>Mi Account;Account;Xiaomi Account;Account help;Helpcentrum</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>2-stap-verificatie</item>
-        <item>Stel 2-stap-verificatie in voor uw Xiaomi Account</item>
-        <item>Aanmelden;Inloggen;2-stap;verificatie;Xiaomi;Account;Mi Account;Account;Xiaomi Account</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Accountbeveiliging</item>

@@ -76,7 +76,7 @@
     <string name="currency_update_time_format">Wisselkoersen worden verstrekt door Webull (%s)</string>
     <string name="currency_update_updating">Koersen bijwerken…</string>
     <string name="data_analysis">Analyse</string>
-    <string name="date_format">dd-MM-yyyy</string>
+    <string name="date_format">dd MMM yyyy</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -185,7 +185,7 @@
     <string name="friday_shortest">Vr</string>
     <string name="fund_loan">Fondslening</string>
     <string name="further_education">Verdere onderwijs</string>
-    <string name="get_loaction_permission_title">Lokaliseren</string>
+    <string name="get_loaction_permission_title">Toegang tot locatie</string>
     <string name="get_location_fail_prompt">Kon locatie niet ophalen</string>
     <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
@@ -232,11 +232,12 @@
     <string name="label_days">Dagen</string>
     <string name="label_emi">EMI</string>
     <string name="label_from_date">Van</string>
-    <string name="label_interest">Rente (%)</string>
+    <string name="label_interest">Rente (percentage)</string>
     <string name="label_investment_duration">Duur</string>
     <string name="label_months">Maanden</string>
     <string name="label_powered_by">Mogelijk gemaakt door Mi Calculator</string>
     <string name="label_principal">Hypotheek hoofdsom</string>
+    <string name="label_share">Delen</string>
     <string name="label_statistics">Statistieken</string>
     <string name="label_to_date">Tot</string>
     <string name="label_total_interest">Totaal rente</string>
@@ -356,13 +357,13 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="mt_max">Het ingevoerde bedrag is te groot</string>
     <string name="mulDesc">vermenigvuldigen</string>
     <string name="n_a">Niet van toepassing</string>
-    <string name="name_cgst" formatted="false">CGST/SGST: %s%</string>
+    <string name="name_cgst">CGST/SGST: 2.5</string>
     <string name="name_discount">Korting (% eraf)</string>
     <string name="name_original">Originele prijs</string>
     <string name="name_price">Uiteindelijke prijs</string>
     <string name="name_save">"U bespaart "</string>
     <string name="negDesc">Schakelen tussen temperaturen onder en boven nul</string>
-    <string name="new_privacy_string">&lt;Data>Welkom bij Rekenmachine!&lt;br/>Deze app bevat de volgende functies:&lt;br/>• Basis rekenmachine&lt;br/>• Grafische rekenmachine&lt;br/>• Universele omzetter (Bijv. valuta, meeteenheden, etc.)&lt;br/>• Berekeningssjablonen voor leningen, investeringen, EMI en meer&lt;br/>Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Rekenmachine gebruikt. U kunt uw toestemming voor het Privacybeleid van Rekenmachine op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.&lt;/Data></string>
+    <string name="new_privacy_string"><Data>Welkom bij Rekenmachine!&lt;br/>Deze app bevat de volgende functies:&lt;br/>• Basis rekenmachine&lt;br/>• Grafische rekenmachine&lt;br/>• Universele omzetter (Bijv. valuta, meeteenheden, etc.)&lt;br/>• Berekeningssjablonen voor leningen, investeringen, EMI en meer&lt;br/>Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Rekenmachine gebruikt. U kunt uw toestemming voor het Privacybeleid van Rekenmachine op elk moment in de Instellingen intrekken. Als u niet akkoord gaat met ons Privacybeleid, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar.</Data></string>
     <string name="night">Avond</string>
     <string name="none">Geen</string>
     <string name="noon">Tussen de middag</string>
@@ -376,7 +377,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="permission_location_miui12">Toegang tot locatie</string>
     <string name="permission_option_desc_miui12">Deze toestemmingen zijn vereist wanneer u aanvullende functies gebruikt.</string>
     <string name="permission_option_miui12">Optionele toestemmingen</string>
-    <string name="permission_privacy_link">&lt;Data>Voordat u deze app gebruikt, lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>.&lt;/Data></string>
+    <string name="permission_privacy_link"><Data>Voordat u deze app gebruikt, lees en ga akkoord met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>.</Data></string>
     <string name="permission_purpose_miui12_system">Welkom bij Rekenmachine! Deze app combineert de functies van een gewone rekenmachine met meerdere converters en levensstijl functies.</string>
     <string name="permission_remove_desc_miui12">Sta toe dat deze app verbinding maakt met het internet en verleen de optionele toestemmingen om alle functies te kunnen gebruiken.</string>
     <string name="permission_title_miui12">Let op</string>
@@ -408,7 +409,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="preference_use_voice_title">Spraakuitvoer</string>
     <string name="preference_user_feedback_title">Feedback</string>
     <string name="preference_view_privacy_title">Privacybeleid bekijken</string>
-    <string name="privacy_dialog_title">Let op</string>
+    <string name="privacy_dialog_title">Privacy</string>
     <string name="privacy_revoke_error">Kon niet intrekken. Probeer het opnieuw.</string>
     <string name="privacy_revoke_progress">Intrekken…</string>
     <string name="privacy_switch">Intrekking van toestemming</string>
@@ -428,7 +429,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="search_menu_title">Zoeken</string>
     <string name="secondFunctionDesc">Overschakelen naar de tweede functie</string>
     <string name="send">Verzenden</string>
-    <string name="settingsDesc">instellingen</string>
+    <string name="settingsDesc">Instellingen</string>
     <string name="sinDesc">sinus</string>
     <string name="sqrtDesc">wortel</string>
     <string name="statistic_label_balance">Saldo</string>
@@ -573,6 +574,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_display_currency_btn">Bhutaanse ngultrum</string>
     <string name="unit_data_display_currency_bwp">Botswaanse pula</string>
     <string name="unit_data_display_currency_byn">Wit-Ruslandse roebel</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">Canadese dollar</string>
     <string name="unit_data_display_currency_cdf">Congolese frank</string>
     <string name="unit_data_display_currency_chf">Zwitserse frank</string>
@@ -822,7 +824,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_short_velocity_c">c</string>
     <string name="unit_data_short_velocity_ftps">fps</string>
     <string name="unit_data_short_velocity_inps">ips</string>
-    <string name="unit_data_short_velocity_kmph">km/h</string>
+    <string name="unit_data_short_velocity_kmph">km/u</string>
     <string name="unit_data_short_velocity_kmps">km/s</string>
     <string name="unit_data_short_velocity_mach">Ma</string>
     <string name="unit_data_short_velocity_mileph">mph</string>
@@ -858,7 +860,7 @@ Een- en vijfjaars LPR's worden genoteerd op de 20e van elke maand (vertragingen 
     <string name="unit_data_short_weight_qian">qian</string>
     <string name="unit_data_short_weight_st">sh.t</string>
     <string name="unit_data_short_weight_t">t</string>
-    <string name="unit_data_short_weight_taijin">jin(tw)</string>
+    <string name="unit_data_short_weight_taijin">jin (Taiwan)</string>
     <string name="unit_data_short_weight_ug">μg</string>
     <string name="unit_data_short_weight_uk.cwt">cwt</string>
     <string name="unit_data_short_weight_uk.st">st</string>

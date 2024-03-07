@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">%d reacties bekijken</item>
@@ -51,10 +51,6 @@
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">%d seconden terugspoelen</item>
         <item quantity="one">%d seconde terugspoelen</item>
-    </plurals>
-    <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Kijk nog %s seconden van een video om punten te verdienen en beloningen in te wisselen</item>
-        <item quantity="one">Kijk nog %s seconde van een video om punten te verdienen en beloningen in te wisselen</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Zal teruggaan naar de startpagina over %1$d seconden…</item>
@@ -84,36 +80,6 @@
         <item quantity="other">in %d minuten</item>
         <item quantity="one">in 1 minuut</item>
     </plurals>
-    <plurals name="incentive_dialog_congratulation_get_credits_title">
-        <item quantity="other">U hebt %d punten verdiend!</item>
-        <item quantity="one">U hebt %d punt verdiend!</item>
-    </plurals>
-    <plurals name="incentive_dialog_credits">
-        <item quantity="other">%d punten</item>
-        <item quantity="one">%d punt</item>
-    </plurals>
-    <plurals name="incentive_dialog_login_and_get_credits_message">
-        <item quantity="other">Log in om te claimen en %d extra punten te verdienen</item>
-        <item quantity="one">Log in om te claimen en %d extra punt te verdienen</item>
-    </plurals>
-    <plurals name="incentive_dialog_seconds">
-        <item quantity="other">%d seconden</item>
-        <item quantity="one">%d seconde</item>
-    </plurals>
-    <plurals name="incentive_guide_all_time_tip">
-        <item quantity="other">Bekijk in totaal %d minuten om punten te verdienen! Nu de taak voltooien?</item>
-        <item quantity="one">Bekijk in totaal %d minuut om punten te verdienen! Nu de taak voltooien?</item>
-    </plurals>
-    <plurals name="incentive_guide_coins_tip">
-        <item quantity="other">"U hebt %d punten om te claimen
-Alleen vandaag beschikbaar"</item>
-        <item quantity="one">"U hebt %d punt om te claimen
-Alleen vandaag beschikbaar"</item>
-    </plurals>
-    <plurals name="incentive_guide_current_time_tip">
-        <item quantity="other">U hebt vandaag %d minuten gekeken</item>
-        <item quantity="one">U hebt vandaag %d minuut gekeken</item>
-    </plurals>
     <plurals name="incentive_popup_window_share_success">
         <item quantity="other">Succesvol gedeeld. U hebt %d punten verdiend.</item>
         <item quantity="one">Succesvol gedeeld. U hebt %d punt verdiend.</item>
@@ -122,34 +88,6 @@ Alleen vandaag beschikbaar"</item>
         <item quantity="other">Succesvol geabonneerd. U hebt %d punten verdiend.</item>
         <item quantity="one">Succesvol geabonneerd. U hebt %d punt verdiend.</item>
     </plurals>
-    <plurals name="incentive_task_watchvideo_begin">
-        <item quantity="other">Verdien %d punten!</item>
-        <item quantity="one">Verdien %d punt!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_finish">
-        <item quantity="other">De taken van vandaag zijn voltooid! U hebt %d punten verdiend.</item>
-        <item quantity="one">De taken van vandaag zijn voltooid! U hebt %d punt verdiend.</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_of_one">
-        <item quantity="other">U hebt %1$1d s gekeken en %2$2d punten verdiend!</item>
-        <item quantity="one">U hebt %1$1d s gekeken en %2$2d punt verdiend!</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip1">
-        <item quantity="other">Bekijk een willekeurige video om %d punten te verdienen</item>
-        <item quantity="one">Bekijk een willekeurige video om %d punt te verdienen</item>
-    </plurals>
-    <plurals name="incentive_task_watchvideo_tip2">
-        <item quantity="other">Bekijk %1$1d seconden van een video om %2$2d punten te verdienen</item>
-        <item quantity="one">Bekijk %1$1d seconden van een video om %2$2d punt te verdienen</item>
-    </plurals>
-    <plurals name="incentive_toast_share_success">
-        <item quantity="other">%d punten verdiend. Blijf delen om meer te verdienen.</item>
-        <item quantity="one">%d punt verdiend. Blijf delen om meer te verdienen.</item>
-    </plurals>
-    <plurals name="incentive_toast_subscribe_success">
-        <item quantity="other">%d punten verdiend. Blijf abonneren om meer te verdienen.</item>
-        <item quantity="one">%d punt verdiend. Blijf abonneren om meer te verdienen.</item>
-    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
@@ -157,6 +95,10 @@ Alleen vandaag beschikbaar"</item>
     <plurals name="local_diversion_video_number">
         <item quantity="other">"%d video's"</item>
         <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Afspelen op %sX snelheid. Laat los om op normale snelheid af te spelen.</item>
+        <item quantity="one">Afspelen op %sX snelheid. Laat los om op normale snelheid af te spelen.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d mappen</item>
@@ -181,10 +123,6 @@ Alleen vandaag beschikbaar"</item>
     <plurals name="lv_subtitle_onlinesub_size_float_kb">
         <item quantity="other">Grootte: %.2fKB</item>
         <item quantity="one">Grootte: %.2fKB</item>
-    </plurals>
-    <plurals name="lv_video_count">
-        <item quantity="other">"%d video's"</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="mangotv_feature_list_title1">
         <item quantity="other">%1$1d van %2$2d afleveringen beschikbaar</item>
@@ -214,14 +152,6 @@ Alleen vandaag beschikbaar"</item>
         <item quantity="other">%d nummers</item>
         <item quantity="one">%d nummer</item>
     </plurals>
-    <plurals name="new_incentive_toast_share_success">
-        <item quantity="other">Succesvol gedeeld. U hebt %d punten verdiend. Claim in het Puntencentrum.</item>
-        <item quantity="one">Succesvol gedeeld. U hebt %d punt verdiend. Claim in het Puntencentrum.</item>
-    </plurals>
-    <plurals name="new_incentive_toast_subscribe_success">
-        <item quantity="other">Succesvol geabonneerd. U hebt %d punten verdiend. Claim in het Puntencentrum.</item>
-        <item quantity="one">Succesvol geabonneerd. U hebt %d punt verdiend. Claim in het Puntencentrum.</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dagen tot %3$s.</item>
         <item quantity="one">Uw inhoud bevat items (%1$s) die onze community-normen overtreden. Uw account is opgeschort voor %2$d dag tot %3$s.</item>
@@ -233,14 +163,6 @@ Alleen vandaag beschikbaar"</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
-    </plurals>
-    <plurals name="ovp_detail_v_video_count">
-        <item quantity="other">"%d video's"</item>
-        <item quantity="one">%d video</item>
-    </plurals>
-    <plurals name="ovp_home_item_unit">
-        <item quantity="other">"%d videos's"</item>
-        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="plus_edit_delete_comfire_text">
         <item quantity="other">%s items nu verwijderen?</item>
@@ -297,10 +219,6 @@ Alleen vandaag beschikbaar"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Voeg tot %d bladwijzers toe</item>
         <item quantity="one">Voeg tot %d bladwijzer toe</item>
-    </plurals>
-    <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">%d geselecteerde bestanden verbergen?</item>
-        <item quantity="one">%d geselecteerd bestand verbergen?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s likes</item>

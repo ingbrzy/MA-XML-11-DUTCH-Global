@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -33,7 +33,7 @@
     <string name="abrupt_weather_settings_summary_type">Ontvang waarschuwingen over verwachte regenval, veranderingen in luchtkwaliteit en andere significante veranderingen</string>
     <string name="act_find_city_hint">Locatie invoeren</string>
     <string name="act_find_city_hot_city_title">Populaire steden</string>
-    <string name="act_location_error_to_find_city">Kon locatie info niet verkrijgen. U kunt handmatig een stad toevoegen.</string>
+    <string name="act_location_error_to_find_city">Kon locatie info niet verkrijgen. U kunt handmatig een locatie toevoegen.</string>
     <string name="act_set_city_find_side">Plaatsbepaling</string>
     <string name="act_set_city_find_side_error">Kan apparaat niet lokaliseren</string>
     <string name="act_weather_find_city_added">Toegevoegd</string>
@@ -78,17 +78,11 @@
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_publish_time">Bijgewerkt: %1$s</string>
     <string name="aqi_quality_co_desc">Koolmonoxide</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_no2_desc">Stikstofdioxide</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">Ozon</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">Inhaleerbare grove deeltjes</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Fijne deeltjes</string>
-    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">Zwaveldioxide</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_station_best_quality_station">Beste station in de buurt</string>
     <string name="aqi_station_min_distance_station">Dichtstbijzijnde station</string>
     <string name="aqi_title_pad">AQI: %1$s</string>
@@ -143,7 +137,7 @@
     <string name="daily_forecast_add_city_message">Volg het weer in %1$s s voor een meer gedetailleerde voorspelling.</string>
     <string name="daily_forecast_add_city_title">Het weer volgen in %1$s</string>
     <string name="daily_forecast_detail_date">d/M</string>
-    <string name="data_provided_by">Gegevens gedeeltelijk verstrekt door</string>
+    <string name="data_provided_by">Data deels verstrekt door</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -163,6 +157,7 @@
     <string name="dynamic_weather">Weer</string>
     <string name="early_morning">Ochtend</string>
     <string name="edit_city">Steden beheren</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">Updaten…</string>
     <string name="empty_view_net_unavailable">Kon niet verbinden met het netwerk</string>
     <string name="empty_view_refresh">Opnieuw proberen</string>
@@ -208,13 +203,13 @@
     <string name="feedback_haze">Nevel</string>
     <string name="feedback_moderate_rain">Regen</string>
     <string name="feedback_moderate_snow">Sneeuw</string>
-    <string name="feedback_overcast">Bewolkt</string>
+    <string name="feedback_overcast">Zwaar bewolkt</string>
     <string name="feedback_report_privacy_msg">Het rapport zal uw locatiegegevens bevatten</string>
     <string name="feedback_result_fail_no_choice">Kies de huidige weersomstandigheden</string>
     <string name="feedback_result_fail_no_reason">Bedankt voor uw feedback!</string>
     <string name="feedback_result_fail_same_type">Het lijkt erop dat uw weerbericht niet verschillend is van het huidige weer. Probeer het opnieuw.</string>
-    <string name="feedback_result_success">Succesvol verstuurd, bedankt voor uw feedback.</string>
-    <string name="feedback_sandy">Zanderig</string>
+    <string name="feedback_result_success">Succesvol ingediend. Bedankt voor uw feedback.</string>
+    <string name="feedback_sandy">Stofstorm</string>
     <string name="feedback_sunny">Helder</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -272,18 +267,21 @@
     <string name="friday_short">Vr</string>
     <string name="friday_shortest">Vr</string>
     <string name="hourly_forcast_now">Nu</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">Nu installeren</string>
     <string name="indices_title_chance_of_rain">Kans op regen</string>
     <string name="indices_title_feel">Gevoelstemperatuur</string>
     <string name="indices_title_pressure">Luchtdruk</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">Windsnelheid</string>
     <string name="indices_wind_direction_east">O</string>
     <string name="indices_wind_direction_north">N</string>
     <string name="indices_wind_direction_south">Z</string>
     <string name="indices_wind_direction_west">W</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">UV index</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">Locatieservices inschakelen</string>
     <string name="location_tag">Lokaliseren</string>
     <string name="manager_city_option_add_home">Toevoegen aan startpagina</string>
@@ -294,16 +292,15 @@
     <string name="minute_rain_feedback_title">De weersinformatie lijkt onjuist.</string>
     <string name="minute_rain_now">Nu</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">U hebt een vereiste toestemming uitgeschakeld.</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -392,8 +389,8 @@
     <string name="privacy_grant_or_revoke_settings">Intrekking van toestemming</string>
     <string name="privacy_grant_success">Toestemming succesvol verleend</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_policy_msg">&lt;Data>Deze app bevat de volgende functies:&lt;br/>• Weersinformatie specifiek voor uw locatie&lt;br/>• Weersverwachtingen&lt;br/>• Weerwaarschuwingen&lt;br/>&lt;br/>Weer heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Weer gebruikt. U kunt uw toestemming voor het Privacybeleid van Weer op elk moment in de Instellingen intrekken.&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>Deze app bevat de volgende functies:&lt;br/>• Weersinformatie specifiek voor uw locatie&lt;br/>• Weersverwachtingen&lt;br/>• Weerwaarschuwingen&lt;br/>&lt;br/>Weer moet de nodige persoonlijke informatie verzamelen, inclusief locatiegegevens, om deze functies beschikbaar te maken, zelfs als de app is gesloten of niet in gebruik is. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Weer gebruikt. U kunt uw toestemming voor het Privacybeleid van Weer op elk moment in de Instellingen intrekken.&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>Deze app bevat de volgende functies:&lt;br/>• Weersinformatie specifiek voor uw locatie&lt;br/>• Weersverwachtingen&lt;br/>• Weerwaarschuwingen&lt;br/>&lt;br/>Weer heeft de nodige persoonlijke informatie nodig om u basisdiensten te kunnen bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Weer gebruikt. U kunt uw toestemming voor het Privacybeleid van Weer op elk moment in de Instellingen intrekken.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>Deze app bevat de volgende functies:&lt;br/>• Weersinformatie specifiek voor uw locatie&lt;br/>• Weersverwachtingen&lt;br/>• Weerwaarschuwingen&lt;br/>&lt;br/>Weer moet de nodige persoonlijke informatie verzamelen, inclusief locatiegegevens, om deze functies beschikbaar te maken, zelfs als de app is gesloten of niet in gebruik is. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"%3$s\">Privacybeleid&lt;/a> voordat u Weer gebruikt. U kunt uw toestemming voor het Privacybeleid van Weer op elk moment in de Instellingen intrekken.</Data></string>
     <string name="privacy_revoke_success">Toestemming succesvol ingetrokken</string>
     <string name="privacy_settings">Privacybeleid</string>
     <string name="pull_fresh_updated">Succesvol bijgewerkt</string>
@@ -412,10 +409,6 @@
     <string name="realtime_wind_default_title">Wind</string>
     <string name="refresh_fail">Kon niet verbinden met netwerk</string>
     <string name="reminder_from_xiaomi_weather_app">Mi weermelding</string>
-    <string name="request_cta_connect_net">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde vereiste toestemmingen.</string>
-    <string name="request_permission_location_dialog_content">Om weersinfo voor uw huidige locatie te weergeven</string>
-    <string name="request_permission_main_purpose">Weersinformatie weergeven</string>
-    <string name="request_permission_storage_dialog_content">Om weersinfome te delen in het afbeeldingsformat</string>
     <string name="revoke_fail">Kan geen verbinding maken met het netwerk</string>
     <string name="revoke_privacy_policy_title">Intrekking van toestemming</string>
     <string name="saturday">Zaterdag</string>
@@ -441,7 +434,7 @@
     <string name="share_button">Delen</string>
     <string name="share_menu_title">Delen</string>
     <string name="share_subject">Delen</string>
-    <string name="share_weather_desc">\#MIUI Weer#Vandaag %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Kan geen screenshot maken</string>
     <string name="shortcut_short_label_24_hour_forecast">%d-uur voorspelling</string>
@@ -469,7 +462,7 @@
     <string name="suggestion_for_light_rain">Draag waterdichte kleding</string>
     <string name="suggestion_for_rain">Vergeet uw paraplu niet</string>
     <string name="suggestion_for_sand_storm">Rijd vandaag voorzichtig</string>
-    <string name="suggestion_for_shower">Lichte regen met wind verwacht</string>
+    <string name="suggestion_for_shower">Lichte regenval met wind verwacht</string>
     <string name="suggestion_for_sleet">Blijf warm en neem een paraplu mee</string>
     <string name="suggestion_for_snow_showers">Voeg een extra laag kleding toe</string>
     <string name="suggestion_for_storm">Sterke wind voorspeld. Forens veilig!</string>
@@ -568,9 +561,6 @@
     <string name="user_agreement">Gebruikersovereenkomst</string>
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
-    <string name="video_banner_regional_weather_update">Regionale weerupdates</string>
-    <string name="video_banner_weather_forecast">Weervoorspelling</string>
-    <string name="video_banner_weather_update">Laatste weerupdates</string>
     <string name="view_forecast_item_yesterday">Gisteren</string>
     <string name="view_indexes_item_today">Vandaag</string>
     <string name="view_indexes_item_tommorrow">Morgen</string>
@@ -591,9 +581,7 @@
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$skm/u</string>
     <string name="xiaomi_weather_description_content">Weer is een systeem-app. U kunt geen weersinformatie bekijken of gerelateerde widgets gebruiken nadat u de app hebt verwijderd.</string>
-    <string name="xiaomi_weather_description_content_remove">Weer is een systeem-app. U kunt geen weersinformatie bekijken of gerelateerde widgets gebruiken nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
     <string name="xiaomi_weather_description_title">\"Weer\" verwijderen?</string>
-    <string name="xiaomi_weather_description_title_remove">\"Weer\" verwijderen uit het Startscherm?</string>
     <string name="yes_vote_ratio">Voor %1$s%%</string>
     <string name="yesterday">Gisteren</string>
 </resources>

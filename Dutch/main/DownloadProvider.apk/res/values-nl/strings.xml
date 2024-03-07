@@ -10,6 +10,7 @@
     <string name="download_queued">In wachtrij</string>
     <string name="download_remaining">%s resterend</string>
     <string name="download_running">Aan het downloaden</string>
+    <string name="download_running_percent">Downloaden, %s</string>
     <string name="download_unknown_title">&lt;Naamloos></string>
     <string name="notif_title_file_size">%1$d totaal</string>
     <string name="notif_title_single_downloading">%1$s downloaden</string>
@@ -32,7 +33,6 @@
     <string name="permlab_downloadManager">Toegang tot Downloads.</string>
     <string name="permlab_downloadManagerAdvanced">Geavanceerde functies van Downloads.</string>
     <string name="permlab_downloadWithoutNotification">Bestanden downloaden zonder melding</string>
-    <string name="permlab_seeAllExternal">Bekijk alle downloads naar USB-opslag</string>
     <string name="root_downloads">Downloads</string>
     <string name="wifi_recommended_body">"Het nu starten van deze %1$s download kan het leven van uw batterij verkorten en/of resulteren in een excessief gebruik van uw mobiele dataverbinding, wat, afhankelijk van uw abonnement, kan leiden tot kosten.
 

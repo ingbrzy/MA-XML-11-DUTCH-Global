@@ -79,6 +79,24 @@
     <string name="cloud_storage_upgrade_text">Upgraden</string>
     <string name="cloud_storage_upgrade_text_now">Upgraden</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Gratis upgraden</string>
+    <string name="common_google_play_services_enable_button">Aanzetten</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services aanzetten</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_channel_name">Beschikbaarheid van Google Play-services</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
     <string name="confirm_save">Bewaren</string>
     <string name="connect_network">Verbind met wifi of plaats een SIM kaart</string>
     <string name="connect_network_china">Verbind met WLAN of plaats een SIM kaart</string>
@@ -164,6 +182,8 @@
     <string name="feedback_custom_hint">Beschrijf de problemen die u hier bent tegengekomen. Als u suggesties geeft, stellen we meer details op prijs!</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#0097FF>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <u><a href="app://com.miui.cloudservice.gdpr.license">Privacybeleid</a></u>. Schakel deze functie uit als u uw toestemming wilt intrekken.</string>
     <string name="find_device_operation_failure_rpc">Door een RPC-fout kon de operatie niet worden uitgevoerd.</string>
     <string name="find_device_permissions_footer">Tik op \"Verlenen\" om de door u geselecteerde toestemmingen te verlenen.</string>

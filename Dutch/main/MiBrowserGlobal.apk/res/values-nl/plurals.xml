@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">Geblokkeerd %d advertenties</item>
@@ -48,6 +48,10 @@
         <item quantity="other">Geblokkeerd %d advertenties tot nu toe</item>
         <item quantity="one">Geblokkeerd %d advertentie tot nu toe</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">Heb %d dagen niet gescand</item>
+        <item quantity="one">Heb %d dag niet gescand</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Check %1$d nieuwe artikelen</item>
         <item quantity="one">Check %1$d nieuw artikel</item>
@@ -55,6 +59,22 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">Volgende video wordt afgespeeld over %d seconden</item>
         <item quantity="one">Volgende video wordt afgespeeld over %d seconde</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">U hebt uw apparaat al %d dagen niet gescand. Nu scannen?</item>
+        <item quantity="one">U hebt uw apparaat al %d dag niet gescand. Nu scannen?</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">dagen</item>
+        <item quantity="one">dag</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">U hebt uw apparaat niet geoptimaliseerd in %d dagen. Nu optimaliseren?</item>
+        <item quantity="one">U hebt uw apparaat niet geoptimaliseerd in %d dag. Nu optimaliseren?</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s likes</item>
+        <item quantity="one">%s like</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d dagen geleden</item>
@@ -148,6 +168,10 @@
         <item quantity="other">%d items geselecteerd</item>
         <item quantity="one">%d item geselecteerd</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nieuwe meldingen</item>
+        <item quantity="one">%d nieuwe melding</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Laatste %ddagen</item>
         <item quantity="one">Laatste %ddag</item>
@@ -192,9 +216,9 @@
         <item quantity="other">Geblokkeerd %d advertenties</item>
         <item quantity="one">Geblokkeerd %d advertentie</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">%1$d resultaten gevonden</item>
-        <item quantity="one">%1$d resultaat gevonden</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">"%d nieuwe aanbevolen video's"</item>
+        <item quantity="one">%d nieuwe aanbevolen video</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s zoekopdrachten</item>
@@ -291,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s keer</item>
         <item quantity="one">%s keer</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">"Vorige week heeft Mi Browser de laadsnelheid van webpagina's %d keer voor u verhoogd!"</item>
+        <item quantity="one">"Vorige week heeft Mi Browser de laadsnelheid van webpagina's %d keer voor u verhoogd!"</item>
     </plurals>
 </resources>

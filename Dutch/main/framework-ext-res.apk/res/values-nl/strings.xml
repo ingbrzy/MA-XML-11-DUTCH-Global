@@ -519,6 +519,8 @@
     <string name="vigor">Kracht</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">Bloemstuk</string>
+    <string name="wallpaper_gradient_title">Kleurovergang</string>
     <string name="wallpaper_group_black_white_title">Zwart en wit</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Dynamische nevel</string>
@@ -530,6 +532,8 @@
     <string name="wallpaper_group_natural_texture_title">Natuurpatronen</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, de Universiteit van Arizona</string>
     <string name="wallpaper_group_red_mars_title">Mars</string>
+    <string name="wallpaper_neon_title">Neon</string>
+    <string name="wallpaper_overlapping_space_title">Vorm en schaduw</string>
     <string name="waterdrop_preview">Druppels</string>
     <string name="wifi_assistant_wifi_no_internet">Dit wifi-netwerk heeft geen toegang tot internet</string>
     <string name="wifi_assistant_wifi_no_internet_detail">Tik om details te bekijken</string>

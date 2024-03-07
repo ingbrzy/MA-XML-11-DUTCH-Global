@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
     <string name="accessing_notification_title">Bestanden openen op %1$s</string>
     <string name="app_label">MTP-host</string>
+    <string name="call_notification_answer_action">Beantwoorden</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Weigeren</string>
+    <string name="call_notification_hang_up_action">Ophangen</string>
+    <string name="call_notification_incoming_text">Inkomend gesprek</string>
+    <string name="call_notification_ongoing_text">Actief gesprek</string>
+    <string name="call_notification_screening_text">Een inkomend gesprek screenen</string>
     <string name="downloads_app_label">Downloads</string>
     <string name="error_busy_device">Het andere apparaat wordt gebruikt. Je moet wachten tot het beschikbaar is om bestanden te kunnen overzetten.</string>
     <string name="error_locked_device">Geen bestanden gevonden. Het kan zijn dat het andere apparaat is vergrendeld. Als dat het geval is, ontgrendel je het en probeer je het opnieuw.</string>

@@ -5,16 +5,16 @@
         <item quantity="one">1 uur geleden</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 uur geleden</item>
-        <item quantity="one">1 uur geleden</item>
+        <item quantity="other">%d uur geleden</item>
+        <item quantity="one">%d uur geleden</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
         <item quantity="one">Een half uur geleden</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Binnen 1 uur</item>
-        <item quantity="one">Binnen 1 uur</item>
+        <item quantity="other">Over %d uur</item>
+        <item quantity="one">Over %d uur</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">In een half uur</item>
@@ -25,16 +25,16 @@
         <item quantity="one">Onmiddellijk</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d minuten</item>
-        <item quantity="one">in 1 min.</item>
+        <item quantity="other">Over %d min.</item>
+        <item quantity="one">Over %d min.</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Zojuist</item>
         <item quantity="one">Zojuist</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d minuten geleden</item>
-        <item quantity="one">1 minuut geleden</item>
+        <item quantity="other">%d min. geleden</item>
+        <item quantity="one">%d min. geleden</item>
     </plurals>
     <plurals name="btn_clear_records">
         <item quantity="other">%d opnames verwijderen</item>
@@ -104,10 +104,6 @@
         <item quantity="other">Kon %d items niet herstellen vanwege een onbekende fout.</item>
         <item quantity="one">Kon %d item niet herstellen vanwege een onbekende fout.</item>
     </plurals>
-    <plurals name="search_alll_records_hint">
-        <item quantity="other">%d opnames</item>
-        <item quantity="one">%d opname</item>
-    </plurals>
     <plurals name="search_app_records_hint">
         <item quantity="other">%d opnames</item>
         <item quantity="one">%d opname</item>
@@ -127,10 +123,6 @@
     <plurals name="search_result">
         <item quantity="other">%d opnames gevonden</item>
         <item quantity="one">%d opname gevonden</item>
-    </plurals>
-    <plurals name="text_btn_list_with_message">
-        <item quantity="other">%d nieuwe opnames</item>
-        <item quantity="one">%d nieuwe opname</item>
     </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d dagen over</item>

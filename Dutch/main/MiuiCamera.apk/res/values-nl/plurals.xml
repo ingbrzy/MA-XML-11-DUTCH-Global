@@ -36,6 +36,10 @@
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-seconden timer voor Nachtmodus</item>
+        <item quantity="one">%d-seconde timer voor Nachtmodus</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">Gefocust. %d gezichten gedetecteerd</item>
         <item quantity="one">Gefocust. %d gezicht gedetecteerd</item>
@@ -52,6 +56,14 @@
         <item quantity="other">Duur: %d seconden</item>
         <item quantity="one">Duur: %d seconde</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">"U kunt maximaal %d camera's op hetzelfde netwerk aansluiten"</item>
+        <item quantity="one">U kunt maximaal %d camera op hetzelfde netwerk aansluiten</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">U kunt maximaal %d monitoren op hetzelfde netwerk aansluiten</item>
+        <item quantity="one">U kunt maximaal %d monitor op hetzelfde netwerk aansluiten</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">U kunt maximaal maken %d klonen tegelijk.</item>
         <item quantity="one">U kunt maximaal maken %d kloon tegelijk.</item>
@@ -64,6 +76,10 @@
         <item quantity="other">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
         <item quantity="one">&lt;Data>Dit apparaat is nu te heet.&lt;br>De app wordt over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font> gesloten. De huidige voortgang is automatisch opgeslagen.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>De Cameraversie die u gebruikt, is niet compatibel met uw apparaatmodel.&lt;br>De app sluit over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Verwijder Camera-updates en probeer het opnieuw.&lt;/Data></item>
+        <item quantity="one">&lt;Data>De Cameraversie die u gebruikt, is niet compatibel met uw apparaatmodel.&lt;br>De app sluit over &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Verwijder Camera-updates en probeer het opnieuw.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min.</item>
         <item quantity="one">%1$d min.</item>
@@ -71,6 +87,10 @@
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d sec</item>
         <item quantity="one">%1$d sec</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">"Timer ingeschakeld (%1$d sec). Foto's worden overgezet naar dit apparaat."</item>
+        <item quantity="one">"Timer ingeschakeld (%1$d sec). Foto's worden overgezet naar dit apparaat."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Een half uur geleden</item>
@@ -107,6 +127,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d minuten geleden</item>
         <item quantity="one">1 minuut geleden</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">"Uw apparaat is oververhit. De camera wordt over %d seconden afgesloten. Uw foto's of video's worden automatisch opgeslagen."</item>

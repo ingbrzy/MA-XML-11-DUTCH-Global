@@ -9,7 +9,7 @@
         <item>Geen toegang tot netwerk. Maak opnieuw verbinding met wifi of start de router opnieuw op.</item>
     </string-array>
     <string-array name="net_diag_err_link_quality_china">
-        <item>Poor WLAN connection. Switch wireless bands or reboot the router.</item>
+        <item>Slechte wifi-verbinding. Schakel tussen draadloze banden of start de router opnieuw op.</item>
         <item>"Can't access network. Reconnect to WLAN or reboot the router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity">
@@ -17,7 +17,7 @@
         <item>Netwerktoegang is beperkt. Pas de tijd op dit apparaat aan en controleer de netwerkinstellingen van de router.</item>
         <item>Netwerkfout. Controleer de HTTP-proxy-instellingen.</item>
         <item>Netwerkfout. Controleer of de router toegang heeft tot het internet.</item>
-        <item>Kan geen verbinding maken met het netwerk. Maak opnieuw verbinding met wifi of start de router opnieuw op.</item>
+        <item>Geen toegang tot netwerk. Maak opnieuw verbinding met wifi of start de router opnieuw op.</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Authenticatie is vereist voor netwerktoegang</item>
@@ -29,7 +29,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>DNS-serverfout. Controleer de DNS-configuratie van de router.</item>
         <item>Grote vertragingen van DNS-server. Controleer de DNS-configuratie van de router.</item>
-        <item>Geen toegang tot gateway. Maak opnieuw verbinding met wifi of start de router opnieuw op.</item>
+        <item>Geen toegang tot netwerk. Maak opnieuw verbinding met wifi of start de router opnieuw op.</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>DNS-serverfout. Controleer de DNS-configuratie van de router.</item>

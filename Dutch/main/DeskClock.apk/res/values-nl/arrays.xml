@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>Alarm over minder dan 1 minuut</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarm over minder dan %d minuut</item>
         <item>Alarm over %1$s</item>
         <item>Alarm over %2$s</item>
-        <item>Alarm over %1$s%2$s</item>
+        <item>Alarm over %1$s %2$s</item>
         <item>Alarm over %3$s</item>
-        <item>Alarm over %1$s%3$s</item>
-        <item>Alarm over %2$s%3$s</item>
-        <item>Alarm over %1$s%2$s%3$s</item>
+        <item>Alarm over %1$s %3$s</item>
+        <item>Alarm over %2$s %3$s</item>
+        <item>Alarm over %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Eenmalig</item>
@@ -24,8 +24,8 @@
         <item>Ma tot Vr</item>
         <item>Aangepast</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>Alarm zal over minder dan een minuut afgaan.</item>
+    <string-array name="alarm_set_new_array">
+        <item>Alarm zal afgaan over minder dan %d minuut.</item>
         <item>Alarm zal afgaan over %1$s.</item>
         <item>Alarm zal afgaan over %2$s.</item>
         <item>Alarm zal afgaan over %1$s en %2$s.</item>
@@ -42,20 +42,19 @@
         <item>Heel slecht</item>
         <item>Ernstig</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>Nooit</item>
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>Maandag tot vrijdag</item>
         <item>Iedere dag</item>
         <item>Werkdagen</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>Ma tot Vr</item>
+        <item>Elke dag</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>Elke dag</item>
+        <item>Ma tot Vr</item>
+        <item>Aangepast</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Iedere dag</item>
@@ -351,11 +350,6 @@
         <item>Paramaribo</item>
         <item>Quito</item>
     </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>Wit</item>
-        <item>Zwart</item>
-        <item>Auto</item>
-    </string-array>
     <string-array name="countries_names_miui">
         <item>Ivoorkust</item>
         <item>Ghana</item>
@@ -644,40 +638,6 @@
         <item>Suriname</item>
         <item>Ecuador</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>Zo</item>
-        <item>Ma</item>
-        <item>Di</item>
-        <item>Woe</item>
-        <item>Do</item>
-        <item>Vrij</item>
-        <item>Zat</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>Op het ingestelde tijdstip</item>
-        <item>15 minuten van tevoren</item>
-        <item>30 minuten van tevoren</item>
-        <item>1 uur van tevoren</item>
-        <item>Geen</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>1 minuut</item>
-        <item>5 minuten</item>
-        <item>10 minuten</item>
-        <item>15 minuten</item>
-        <item>20 minuten</item>
-        <item>25 minuten</item>
-        <item>30 minuten</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -700,10 +660,5 @@
         <item>Niets doen</item>
         <item>Sluimeren</item>
         <item>Uitschakelen</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

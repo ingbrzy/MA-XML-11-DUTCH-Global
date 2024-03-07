@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -79,6 +79,7 @@
     <string name="bugreport_dump_start_notification_title">Foutenrapport aanmaken…</string>
     <string name="bugreport_tool_log_dumping_desc">Duurt maar eventjes</string>
     <string name="bugreport_tool_log_dumping_title">Foutenrapport aanmaken</string>
+    <string name="can_not_add_more_image">"Kan geen foto's of video's meer toevoegen"</string>
     <string name="catch_full_log_action_cancel">Annuleren</string>
     <string name="catch_full_log_action_complete">Voltooien en uploaden</string>
     <string name="catch_full_log_action_start">Starten</string>
@@ -156,6 +157,15 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="discard_draft_dialog_content">Alle wijzigingen die u hebt aangebracht in dit rapport zullen verloren gaan.</string>
     <string name="discard_draft_dialog_title">Concepten weggooien?</string>
     <string name="doing_query_account">Accountinformatie controleren…</string>
+    <string name="dynamic_dialog_content">U staat op het punt dynamische logboeken te genereren. Ze bevatten opnames van softwarebewerkingen (zoals systeemoproepen). Terwijl dynamische logboeken worden gegenereerd, kan uw apparaat bevriezen of opwarmen, wat normaal is. Zodra de logboeken zijn gegenereerd, wordt deze functie uitgeschakeld. Vergeet niet om uw feedback op tijd in te dienen als het probleem zich opnieuw voordoet. Door hieronder op \"Akkoord\" te tikken, gaat u ermee akkoord dat we de bovenstaande gegevens verzamelen tijdens het genereren van logboeken en vervolgens de logboeken uploaden naar onze servers om te helpen bij het diagnosticeren en oplossen van de problemen die u hebt gemeld.</string>
+    <string name="dynamic_dialog_negative_text">Niet akkoord</string>
+    <string name="dynamic_dialog_notification_text">Zodra de logboeken zijn gegenereerd, wordt deze functie uitgeschakeld</string>
+    <string name="dynamic_dialog_notification_title">Dynamische logboeken genereren…</string>
+    <string name="dynamic_dialog_positive_text">Akkoord</string>
+    <string name="dynamic_dialog_title">Privacyverklaring</string>
+    <string name="dynamic_log_load_text">Een ogenblik geduld…</string>
+    <string name="dynamic_log_restore_toast_text">Dynamische logboeken herstellen…</string>
+    <string name="dynamic_log_title">Dynamische logboeken</string>
     <string name="early_morning">Ochtend</string>
     <string name="empty" />
     <string name="eras_ad">n.C.</string>
@@ -187,7 +197,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="facebook_login_btn_content_description">Inloggen met Facebook</string>
     <string name="failed_to_fetch_fql">FAQ-informatie kon niet worden verkregen, controleer uw netwerkverbinding</string>
     <string name="feedback_account_inconsistent_login_hint">Het lijkt erop dat u van account bent gewisseld. Meld u aan bij uw vorige Xiaomi Account.</string>
-    <string name="feedback_account_login_hint">Log eerst in op uw Xiaomi Account</string>
+    <string name="feedback_account_login_hint">Log in op Xiaomi Account!</string>
     <string name="feedback_answer_detail_feedback_resolved">Ja</string>
     <string name="feedback_answer_detail_feedback_result">Bedankt voor uw feedback!</string>
     <string name="feedback_answer_detail_feedback_title">Was dit nuttig?</string>
@@ -212,7 +222,7 @@ Verstuur deze code naar de leidinggevende."</string>
 %1$d. In welke app of op welke pagina bent u het probleem tegengekomen?
 %2$d. Na welke acties die u hebt uitgevoerd, is het probleem verschenen?
 %3$d. Geef ons de aanvullende informatie die ons kan helpen het probleem op te lossen."</string>
-    <string name="feedback_description_hint_suggestion">Vertel ons hoe u MIUI zou willen verbeteren.</string>
+    <string name="feedback_description_hint_suggestion">Vertel ons hoe we kunnen verbeteren.</string>
     <string name="feedback_description_suggest_hint">Ik wil graag een nieuwe functie () toevoegen omdat ik () moet doen.</string>
     <string name="feedback_detail_copy_toast">Gekopieerd naar klembord</string>
     <string name="feedback_detail_feedback_attach">Bijlagen</string>
@@ -239,13 +249,13 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="feedback_evaluation_success_dialog_content">Bedankt voor uw feedback!</string>
     <string name="feedback_evaluation_success_dialog_title">Succesvol beoordeeld</string>
     <string name="feedback_guess">Onze gok:</string>
-    <string name="feedback_history_remind_login_desc">Meld u aan met uw Mi Account om details weer te geven en de voortgang van uw rapport te zien</string>
+    <string name="feedback_history_remind_login_desc">Meld u aan met uw Xiaomi Account om details weer te geven en de voortgang van uw rapport te zien</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA Sleutel: %s</string>
     <string name="feedback_jira_key_place_holder">Een Jira creëren…</string>
     <string name="feedback_package_log_failed">Rapport kon niet gecomprimeerd worden</string>
     <string name="feedback_remind_login_btn">Aanmelden</string>
-    <string name="feedback_report_remind_login_desc">Meld u aan met uw Mi Account zodat onze technici contact met u kunnen opnemen.</string>
+    <string name="feedback_report_remind_login_desc">Meld u aan met uw Xiaomi Account zodat onze technici contact met u kunnen opnemen.</string>
     <string name="feedback_report_remind_login_desc2">U kunt de voortgang van uw rapport ook zien in \"Mijn feedback\".</string>
     <string name="feedback_reproductivity_everytime">Altijd</string>
     <string name="feedback_reproductivity_occasionally">Soms</string>
@@ -366,6 +376,10 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="hint_feedback_main">Beschrijf het probleem</string>
     <string name="i_get_it">Begrepen</string>
     <string name="i_know">Begrepen</string>
+    <string name="icon_add_description">Voeg een Startscherm snelkoppeling toe</string>
+    <string name="icon_remove_confirm">Verwijderen</string>
+    <string name="icon_remove_description_content">\"Services en feedback\" is een systeem-app. U kunt het nog steeds gebruiken via Instellingen nadat u de Startscherm snelkoppeling hebt verwijderd.</string>
+    <string name="icon_remove_description_title">\"Services en feedback\" verwijderen uit het Startscherm?</string>
     <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
     <string name="issue_search">Zoeken</string>
     <string name="jump_full_log_dialog_cancel">Annuleren</string>
@@ -373,8 +387,8 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="jump_full_log_dialog_content">Logbestanden helpen ons het probleem dat u gaat melden veel sneller te vinden en op te lossen. Logbestanden genereren en voeg deze toe aan uw feedback.</string>
     <string name="jump_full_log_dialog_title">Logbestanden genereren</string>
     <string name="kr_authorization_agree">Accepteren</string>
-    <string name="kr_authorization_contact">Accounts</string>
-    <string name="kr_authorization_contact_desc">Voor toegang tot Mi Account info om het apparaat te identificeren</string>
+    <string name="kr_authorization_contact">Account</string>
+    <string name="kr_authorization_contact_desc">Voor toegang tot Xiaomi Account info om het apparaat te identificeren</string>
     <string name="kr_authorization_exit">Sluiten</string>
     <string name="kr_authorization_function">Feedback indienen, logbestanden genereren, veelgestelde vragen bekijken</string>
     <string name="kr_authorization_log_protocol">Log Protocol (optioneel)</string>
@@ -400,20 +414,115 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="logout_account">Afmelden</string>
     <string name="menu_copy">Kopiëren</string>
     <string name="message_label">Bericht</string>
+    <string name="mi_service_app_name">Services en feedback</string>
+    <string name="mi_service_back">Terug</string>
     <string name="mi_service_dialog_cancel">Sluiten</string>
     <string name="mi_service_dialog_confirm">Openen</string>
     <string name="mi_service_dialog_content">Alle feedback functies zijn verplaatst naar de nieuwe \"Services en feedback\" app. De Feedback app zal van uw Startscherm verwijderd worden. Tik op \"Openen\" om \"Services en feedback\" uit te proberen.</string>
     <string name="mi_service_dialog_title">Introductie van \"Services en feedback\"</string>
     <string name="midnight">Nacht</string>
+    <string name="miui_feedback_answer_detail_community">U kunt antwoorden op uw vragen vinden in Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">Ja</string>
+    <string name="miui_feedback_answer_detail_feedback_result">Bedankt voor uw feedback!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">Was deze informatie nuttig?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">Nee</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">Krijg online hulp</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">Customer support bellen</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Gerelateerde info</string>
+    <string name="miui_feedback_answer_detail_title">Details</string>
+    <string name="miui_feedback_edit_action_submit">Verzenden</string>
+    <string name="miui_feedback_edit_add_original_images">Foto toevoegen</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">Als het probleem dat u rapporteert te maken heeft met de fotokwaliteit van de camera, voeg dan een originele voorbeeldfoto toe (niet bijgesneden) om ons te helpen het probleem te vinden. Foto nu toevoegen?</string>
+    <string name="miui_feedback_edit_choose_module">Selecteer item</string>
+    <string name="miui_feedback_edit_choose_module_hint">Vereist</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Tijd</string>
+    <string name="miui_feedback_edit_choose_reproductivity">Reproduceerbaarheid</string>
+    <string name="miui_feedback_edit_choose_third_app_name">App-naam selecteren</string>
+    <string name="miui_feedback_edit_contact_info_hint">Telefoonnummer/e-mailadres</string>
+    <string name="miui_feedback_edit_delete_images">Afbeeldingen verwijderen</string>
+    <string name="miui_feedback_edit_desc_hint">Beschrijf het probleem dat u bent tegengekomen</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">Vertel ons hoe u MIUI zou willen verbeteren</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Hier blijven</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Verwijderen</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">Alle wijzigingen die u hebt aangebracht in dit rapport zullen verloren gaan.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">Concept weggooien?</string>
+    <string name="miui_feedback_edit_hint">Meld bugs, iedere keer wanneer u problemen ondervindt, zodat we ze sneller kunnen oplossen</string>
+    <string name="miui_feedback_edit_hint_gone">Gesloten bericht</string>
+    <string name="miui_feedback_edit_hint_optional">Selecteren</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wachten op Wifi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Uploaden</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">Het lijkt erop dat u met een betaald netwerk verbonden bent. Het uploaden van logbestanden kan aanvullende kosten genereren.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Waarschuwing datagebruik</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Geef de app toegang tot apparaat info om deze uw IMEI te laten lezen, wat helpt problemen te lokaliseren. Tik op \"OK\" om Instellingen te openen.</string>
+    <string name="miui_feedback_edit_need_storage_permission">"Geef de app toegang tot apparaatopslag om afbeeldingen en video's toe te voegen aan uw feedback. Tik op \"OK\" om Instellingen te openen."</string>
+    <string name="miui_feedback_edit_permission_denied_title">Vereiste toestemmingen: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">Toegang tot apparaat info</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">Elke keer</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">Soms</string>
+    <string name="miui_feedback_edit_reproductivity_often">Regelmatig</string>
+    <string name="miui_feedback_edit_reproductivity_once">Eenmalig</string>
+    <string name="miui_feedback_edit_select_images">Voeg een afbeelding of korte video toe</string>
+    <string name="miui_feedback_edit_select_modem_log">Modemlogbestanden toevoegen</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">Geen \"Modemlogbestanden toevoegen\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">\"Modemlogbestanden toevoegen\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_original_images">Voeg oorspronkelijke afbeelding of korte video toe</string>
+    <string name="miui_feedback_edit_select_problem">Problemen</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">Geen \"Problemen\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">\"Problemen\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_suggestion">Suggesties</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">Geen \"Suggesties\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">\"Suggesties\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_upload_log">Logbestanden toevoegen</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">Geen \"Logbestanden toevoegen\" geselecteerd</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">\"Logbestanden toevoegen\" geselecteerd</string>
+    <string name="miui_feedback_edit_storage_permission_name">Toegang tot apparaatopslag</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">Niet akkoord</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Akkoord</string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>U moet akkoord gaan met ons &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacybeleid&lt;/a> en onze &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Gebruikersovereenkomst&lt;/a> om Feedback te kunnen gebruiken. De problemen die u rapporteert samen met de items die u bijvoegt (deze kunnen persoonlijke informatie, zowel als informatie over uw apparaat en netwerk bevatten) zullen geüpload worden naar servers van MIUI. Dit zal ons helpen om gerapporteerde problemen op te sporen en op te lossen.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>Uw feedback, samen met eventuele bijlagen en logboeken (u kunt vakjes voor items die u niet wilt uploaden deselecteren) zullen naar de servers van MIUI verzonden worden. Logbestanden kunnen persoonlijke informatie en locatiegegevens bevatten. \"Akkoord\" selecteren betekent dat u ons &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Privacybeleid&lt;/a> en &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Gebruikersovereenkomst&lt;/a> hebt gelezen en ermee akkoord gaat.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">Niet meer tonen</string>
+    <string name="miui_feedback_edit_submit_dialog_title">Rapport versturen</string>
+    <string name="miui_feedback_edit_submit_directly">Indienen</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Tijd selecteren</string>
+    <string name="miui_feedback_edit_title_reproductivity">Reproduceerbaarheid selecteren</string>
+    <string name="miui_feedback_edit_toast_description_required">Beschrijf eerst het probleem</string>
+    <string name="miui_feedback_edit_toast_module_required">Selecteer item</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">Uw beschrijving zou wat langer mogen zijn</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">Categorie selecteren</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">Vul naam van de app in</string>
+    <string name="miui_feedback_main_answer_title">Er is een antwoord op deze vraag</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Klantenservice: 0120-300-521
+Kantooruren: 9:00 - 18:00 (behalve op feestdagen)
+E-mail: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">Veelgestelde vragen</string>
+    <string name="miui_feedback_main_item_catch_full_log">Logbestanden</string>
+    <string name="miui_feedback_main_item_customer_service">Dienst na verkoop services</string>
+    <string name="miui_feedback_main_item_feedback_list">Mijn feedback</string>
+    <string name="miui_feedback_main_item_official_progress">Reparatievoortgang</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Werk de reparatievoortgang regelmatig in Xiaomi Community bij</string>
+    <string name="miui_feedback_main_menu_view_privacy">Privacybeleid</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Intrekking van toestemming</string>
+    <string name="miui_feedback_main_search_footer">Dit zijn niet de vragen die je wilt stellen?</string>
+    <string name="miui_feedback_main_search_footer_submit">Feedback verzenden</string>
+    <string name="miui_feedback_main_search_issue">Vul trefwoorden in om te zoeken</string>
+    <string name="miui_feedback_main_search_no_answer">Kon geen resultaten vinden</string>
+    <string name="miui_feedback_main_start_submit">Feedback verzenden</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">Indienen</string>
+    <string name="miui_feedback_main_submit_dialog_content">Het lijkt erop dat we geen oplossing voor uw probleem hebben kunnen vinden. U kunt ons uw feedback sturen.</string>
+    <string name="miui_feedback_main_submit_dialog_title">Feedback verzenden</string>
+    <string name="miui_feedback_main_title">Feedback</string>
+    <string name="miui_feedback_main_withdraw">Intrekken</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van %1$s in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien %2$s zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van toestemming beschouwd als een weigering om %3$s diensten te accepteren. Toestemming nu intrekken?</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Installeer Xiaomi Community om deze functie te kunnen gebruiken.</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -495,6 +604,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
+    <string name="net_daig_network_repair">Netwerk reparatie</string>
     <string name="net_diag_cancel">Annuleren</string>
     <string name="net_diag_continue">Doorgaan</string>
     <string name="net_diag_dialog_msg">Door uw netwerk te testen, kunt u problemen opsporen en uw verbinding verbeteren.</string>
@@ -509,9 +619,15 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="net_diag_entry_network_protocol">Netwerkprotocol</string>
     <string name="net_diag_entry_network_rssi">Signaalkwaliteit</string>
     <string name="net_diag_entry_router_topology">Netwerkrouting</string>
+    <string name="net_diag_fix_guide_window_msg">Er is een netwerkfout opgetreden. Tik voor probleemoplossing.</string>
+    <string name="net_diag_fixing">Netwerk repareren. Dit kan even duren.</string>
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Router</string>
     <string name="net_diag_header_this_device">Dit apparaat</string>
+    <string name="net_diag_repair_msg">Tijdens dit proces wordt wifi losgekoppeld en vervolgens weer verbonden. Nu repareren?</string>
+    <string name="net_diag_repair_msg_china">Tijdens dit proces wordt WLAN losgekoppeld en vervolgens weer verbonden. Nu repareren?</string>
+    <string name="net_diag_repair_static_ip_msg">Tijdens dit proces kunnen netwerkconfiguraties worden gereset. Nu repareren?</string>
+    <string name="net_diag_repair_title">Netwerk repareren?</string>
     <string name="net_diag_title">Netwerk testen</string>
     <string name="net_diag_toast_cellular_data">Schakel eerst mobiele data uit om het netwerk te testen.</string>
     <string name="net_diag_toast_other_networks">Om het netwerk te testen, maakt u eerst verbinding met wifi en verbreekt u de verbinding met andere netwerken.</string>
@@ -530,6 +646,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="non_system_app_select">Gedownloade apps</string>
     <string name="noon">Tussen de middag</string>
     <string name="not_set">Niet ingesteld</string>
+    <string name="not_support_service_in_maintenance_mode">Deze service is niet beschikbaar in de onderhoudsmodus</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">Meer</string>
     <string name="open_settings">Instellingen</string>
@@ -626,6 +743,26 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="passport_wrong_phone_number_format">Het format van het ingevoerde telefoonnummer is ongeldig</string>
     <string name="passport_wrong_vcode">De code die u hebt ingevoerd is incorrect</string>
     <string name="passport_wrong_voice">De code die u hebt ingevoerd is incorrect</string>
+    <string name="permission_agree">Akkoord</string>
+    <string name="permission_china_version_msg">&lt;Data>Voordat u \"Services en feedback\" gebruikt, moet u lezen en ermee akkoord gaan met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>. Deze app heeft ook verbinding met het internet nodig om normaal te functioneren.&lt;/Data></string>
+    <string name="permission_complete">Gereed</string>
+    <string name="permission_contacts_info">Toegang tot account info</string>
+    <string name="permission_contacts_introduce">Om aan te melden met Xiaomi Account</string>
+    <string name="permission_device_info">Toegang tot apparaat info</string>
+    <string name="permission_device_introduce">Voor het bepalen van een beperkte garantieperiode</string>
+    <string name="permission_exit">Sluiten</string>
+    <string name="permission_external_storage_introduce">Voor het opslaan en uploaden van uw feedback</string>
+    <string name="permission_first_start_network_title">Algemene voorwaarden</string>
+    <string name="permission_imei_disable_desc">Sta toe dat deze app verbinding maakt met het internet.</string>
+    <string name="permission_imei_enable_desc">Sta toe dat deze app verbinding maakt met het internet en verleen de hierboven vermelde vereiste toestemmingen.</string>
+    <string name="permission_location_introduce">Om nabijgelegen servicepunten te tonen</string>
+    <string name="permission_main_purpose">"Functie demo's weergeven, feedback indienen en dienst na verkoop services aanvragen."</string>
+    <string name="permission_privacy">Privacybeleid (vereist)</string>
+    <string name="permission_region_version_msg">&lt;Data>Voordat u \"Services en feedback\" gebruikt, moet u lezen en ermee akkoord gaan met onze &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>.&lt;/Data></string>
+    <string name="permission_select_all">Alles selecteren</string>
+    <string name="permission_storage">Opslag</string>
+    <string name="permission_storage_introduce">Voor het opslaan van bestanden op uw apparaat</string>
+    <string name="permission_user_protocol">Gebruikersovereenkomst (vereist)</string>
     <string name="phone_auto_login_register_with_local_number">Account aanmaken</string>
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="please_download_gallery">Galerij installeren om te bekijken</string>
@@ -641,6 +778,14 @@ Lees en ga akkoord met de nieuwe versie van %3$s voordat u doorgaat."</string>
     <string name="progressbar_title">Controleren op veiligheidsproblemen…</string>
     <string name="protocal_dialog_confirm">Akkoord</string>
     <string name="protocal_dialog_title">Let op</string>
+    <string name="public_authorize_now">Instellingen</string>
+    <string name="public_loading_text">Een momentje…</string>
+    <string name="public_net_error_retry">Probeer opnieuw</string>
+    <string name="public_net_error_sub_title">Controleer uw netwerkinstellingen en probeer opnieuw</string>
+    <string name="public_net_error_title">Kon niet verbinden met het netwerk</string>
+    <string name="public_open_feedback_service">Starten</string>
+    <string name="public_please_authorize">Toestemmingen vereist om door te gaan</string>
+    <string name="public_welcome_use_feedback_service">Welkom bij Services en feedback! U kunt deze app gebruiken om feedback in te dienen, veelgestelde vragen te bekijken, productretouren en -uitwisselingen aan te vragen en meer.</string>
     <string name="qq_login_btn_content_description">Inloggen met QQ</string>
     <string name="refresh">Vernieuwen</string>
     <string name="register_by_local_phone_long_text">Account aanmaken</string>
@@ -650,7 +795,7 @@ Lees en ga akkoord met de nieuwe versie van %3$s voordat u doorgaat."</string>
     <string name="reply_option_log_hint">Optioneel</string>
     <string name="reply_select_log_hint">Selecteer logbestand</string>
     <string name="reply_successful">Succesvol beantwoord</string>
-    <string name="report_miui">Rapporteer bug</string>
+    <string name="report_miui">Feedback versturen</string>
     <string name="request_agree">Toestaan</string>
     <string name="request_camera_permission_message">We zullen uw persoonlijke gegevens beschermen in overeenstemming met de relevante wet- en regelgeving. Deze app heeft de volgende toestemmingen nodig om normaal te werken:&lt;br>&lt;br>&lt;b>Camera gebruiken (voor het instellen van uw profielfoto)&lt;/b>&lt;br>&lt;br>Als u niet akkoord gaat met het verlenen van dergelijke toestemmingen, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar. U kunt toestemmingen altijd beperken of uw autorisatie intrekken in de Instellingen.</string>
     <string name="request_cancel">Annuleren</string>
@@ -685,9 +830,9 @@ Lees en ga akkoord met de nieuwe versie van %3$s voordat u doorgaat."</string>
     <string name="stop_full_log_dialog_title">Logbestanden genereren…</string>
     <string name="submit_dialog_cancel">Niet akkoord</string>
     <string name="submit_dialog_confirm">Akkoord</string>
-    <string name="submit_dialog_content">&lt;Data>Lees en ga akkoord met onze &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> voordat u feedback indient. De problemen die u rapporteert samen met de items die u bijvoegt (inclusief de logbestanden die mogelijk persoonlijke informatie bevatten, evenals de informatie over uw apparaat en netwerk) worden geüpload naar de servers van MIUI. Dit helpt ons bij het lokaliseren en oplossen van de problemen die u meldt. Als u problemen meldt die verband houden met meerdere apparaten, worden de logbestanden van andere apparaten waarop uw Mi Account wordt gebruikt ook geüpload.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>Uw feedback, samen met eventuele bijlagen en logboeken (u kunt vakjes voor items die u niet wilt uploaden deselecterem) zullen naar de MIUI servers verzonden worden. Logbestanden kunnen persoonlijke informatie en locatie info bevatten. \"Akkoord\" selecteren betekent dat u akkoord gaat met ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a>.&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Uw feedback, samen met bijlagen (indien aanwezig), logboeken (u kunt de overeenkomstige vakjes uitschakelen voor de items die u niet wilt uploaden), telefoonnummer of e-mail zal naar de servers van MIUI worden verzonden. Logboeken kunnen persoonlijke informatie en uw locatiegegevens bevatten. Als u \"Akkoord\" selecteert, betekent dit dat u ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> heeft gelezen en hiermee akkoord gaat.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>Lees en ga akkoord met onze &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> voordat u feedback indient. De problemen die u rapporteert samen met de items die u bijvoegt (inclusief de logbestanden die mogelijk persoonlijke informatie bevatten, evenals de informatie over uw apparaat en netwerk) worden geüpload naar onze servers. Dit helpt ons bij het lokaliseren en oplossen van de problemen die u meldt. Als u problemen meldt die verband houden met meerdere apparaten, worden de logbestanden van andere apparaten waarop uw Xiaomi Account wordt gebruikt ook geüpload.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>Uw feedback, samen met bijlagen (indien aanwezig) en logboeken (u kunt de overeenkomstige vakjes uitschakelen voor de items die u niet wilt uploaden) worden naar onze servers verzonden. Logbestanden kunnen persoonlijke informatie en uw locatiegegevens bevatten. \"Akkoord\" selecteren betekent dat u ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> hebt gelezen en ermee akkoord gaat.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Uw feedback, samen met bijlagen (indien aanwezig) en logboeken (u kunt de overeenkomstige vakjes uitschakelen voor de items die u niet wilt uploaden) worden naar onze servers verzonden. Logbestanden kunnen persoonlijke informatie en uw locatiegegevens bevatten. \"Akkoord\" selecteren betekent dat u ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a> en &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> hebt gelezen en ermee akkoord gaat.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">Niet meer tonen</string>
     <string name="submit_dialog_title">Rapport versturen</string>
     <string name="submit_feedback_info_failed">Rapport kon niet worden verzonden</string>

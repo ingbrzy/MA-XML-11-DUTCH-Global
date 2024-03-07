@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -32,9 +32,8 @@
     <string name="am">AM</string>
     <string name="app_name">Schermrecorder</string>
     <string name="app_notification_channel_record_complete">Meldingen over voltooide opnames</string>
-    <string name="app_notification_info">Schermrecorder werkt op de achtergrond</string>
-    <string name="app_notification_record_saved">"Opname succesvol opgeslagen
-Tik om te bekijken"</string>
+    <string name="app_notification_info">Scherm dat momenteel wordt opgenomen…</string>
+    <string name="app_notification_record_saved">Schermopname opgeslagen. Tik om te bekijken.</string>
     <string name="app_notification_title">Schermrecorder</string>
     <string name="auto_stop_title">Video succesvol opgeslagen</string>
     <string name="battery_not_allowed_warning">Kan niet opnemen wanneer het batterijniveau beneden %1$s is. Zorg ervoor dat de batterij minimaal voor %2$s is opgeladen.</string>
@@ -158,14 +157,14 @@ Tik om te bekijken"</string>
     <string name="mic_sound">Microfoon</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -236,7 +235,9 @@ Tik om te bekijken"</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="protect_oneself_when_recording">Oproep opnemen. Bescherm de privacy van u en anderen wanneer u deze functie gebruikt.</string>
     <string name="quit_recording">Schermrecorder verlaten</string>
+    <string name="record_time_too_short">Opgenomen video is te kort</string>
     <string name="recording_failure">Kon niet opnemen, start opnieuw</string>
     <string name="recording_max_size">Opname werd gestopt en opgeslagen omdat het videobestand de limiet van zijn bestandsgrootte bereikte. Start, wanneer u nog niet klaar bent, de opname van waar deze werd gestopt.</string>
     <string name="recording_without_mic">Microfoon is bezig en kan nu geen geluid opnemen.</string>
@@ -268,7 +269,7 @@ Tik om te bekijken"</string>
     <string name="sound_source">Geluidsbron</string>
     <string name="sound_source_summary">Systeemgeluiden of microfoon</string>
     <string name="sound_source_summary_without_system_sounds">Gebruik de microfoon of demp het geluid</string>
-    <string name="start">Start</string>
+    <string name="start">Starten</string>
     <string name="start_recording">Start opname</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_by_second_space">Wanneer er van ruimte wordt gewisseld, stopt de opname</string>

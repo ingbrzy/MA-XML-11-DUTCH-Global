@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -36,9 +36,9 @@
     <string name="activate_feature_mi_roaming">Mi Roaming</string>
     <string name="activate_feature_mms_sync">Berichten synchroniseren</string>
     <string name="activate_feature_mx">Mi Message</string>
-    <string name="activate_feature_register_xiaomi_account">Mi Account instellen</string>
+    <string name="activate_feature_register_xiaomi_account">Xiaomi Account instellen</string>
     <string name="activate_feature_remote_assist">Draadloze assistent</string>
-    <string name="activate_feature_verify_mx_token">Mi Accountverificatie</string>
+    <string name="activate_feature_verify_mx_token">Xiaomi Account verificatie</string>
     <string name="activate_feature_voip">Mi Message VoIP</string>
     <string name="activate_history_canceled_overview">Activering simkaart is geannuleerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
     <string name="activate_history_multisim_canceled_overview">Activering van simkaart %2$d is geannuleerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
@@ -47,8 +47,8 @@
     <string name="activate_history_success_overview">Simkaart succesvol geactiveerd. Activering wordt uitgevoerd voor \"%1$s\".</string>
     <string name="activate_history_title">Activering simkaart</string>
     <string name="activate_phone_failed_notif_title_sim">Kon \"%2$s\" niet activeren met behulp van SIM %1$d</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Succesvol een Mi Account gemaakt met behulp van SIM %d</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Kon Mi Account niet aanmaken met SIM %d</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">Succesvol een Xiaomi Account gemaakt met behulp van SIM %d</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">Kon Xiaomi Account niet aanmaken met SIM %d</string>
     <string name="activate_phone_server_failed_notif_title">Kon niet activeren \"%s\"</string>
     <string name="activate_phone_server_success_notif_title">\"%s\" succesvol geactiveerd</string>
     <string name="activate_phone_success_notif_title_sim">Succesvol \"%2$s\" geactiveerd met behulp van SIM %1$d</string>
@@ -60,8 +60,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">Opnieuw proberen</string>
     <string name="activate_popup_confirm_failed_send_sms">Opnieuw versturen</string>
     <string name="activate_popup_confirm_failed_server">Opnieuw proberen</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Om \"%2$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b> verzonden. Uw provider brengt u kosten in rekening voor deze berichten.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Om \"%2$s\" te activeren, worden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b> verzonden. Uw provider brengt u kosten in rekening voor deze berichten.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">"Om \"%2$s\" te activeren, worden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>internationale betaalde sms'jes&lt;/font> verzonden. Uw provider brengt u kosten in rekening voor deze berichten."</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">"Om \"%2$s\" te activeren, worden &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>binnenlandse betaalde sms'jes&lt;/font> verzonden. Uw provider brengt u kosten in rekening voor deze berichten."</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Kan uw telefoonnummer niet vinden. Controleer of uw simkaart is geactiveerd.
 Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld, om opnieuw te activeren%s."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Kan activeringsbericht niet verzenden. Controleer of uw simkaart is geactiveerd.
@@ -74,21 +74,22 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="activate_popup_desc_failed_receive_sms">Controleer of het telefoonnummer dat u hebt ingevoerd correct is en dat uw simkaart is geactiveerd.</string>
     <string name="activate_popup_desc_failed_server">Controleer uw netwerkverbinding en probeer het opnieuw.</string>
     <string name="activate_popup_desc_failed_server_msg">Er is een serverfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Om \"%3$s\" te activeren, voer het telefoonnummer van SIM %2$d in. Als u deze SIM-kaart vervangt, wordt er nog een activering SMS verzonden.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Om \"%2$s\" te activeren, voert u uw telefoonnummer in. Als u deze SIM-kaart vervangt, wordt er nog een activering SMS verzonden.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Om \"%2$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b> verzonden. Uw provider brengt u kosten in rekening voor dit bericht.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data>Raadpleeg de &lt;a href=https://account.xiaomi.com/helpcenter/faq>Mi Account Gebruikershandleiding&lt;/a> als u vragen hebt.&lt;/Data></string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Om \"%3$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>binnenlandse betaalde SMS&lt;/b> en &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>internationale betaalde SMS&lt;/b> verzonden. Uw provider brengt u kosten in rekening voor deze berichten.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s Om \"%3$s\" te activeren, voer het telefoonnummer van SIM %2$d in. Als u deze SIM-kaart vervangt, wordt er nog een activering SMS verzonden.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s Om \"%2$s\" te activeren, voert u uw telefoonnummer in. Als u deze SIM-kaart vervangt, wordt er nog een activering SMS verzonden.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Om \"%2$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>internationale betaalde SMS&lt;/font> verzonden. Uw provider brengt u kosten in rekening voor dit bericht.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+&lt;Data>Raadpleeg de &lt;a href=https://account.xiaomi.com/helpcenter/faq>Xiaomi Account Gebruikershandleiding&lt;/a> als u vragen hebt.&lt;/Data>"</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Om \"%3$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>binnenlandse betaalde SMS&lt;/font> en &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>internationale betaalde SMS&lt;/font> verzonden. Uw provider brengt u kosten in rekening voor deze berichten.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Om \"%2$s\" te activeren, voer het telefoonnummer van SIM %1$d in.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Voer uw telefoonnummer in om %s te activeren.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Om \"%2$s\" te activeren, wordt &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>betaalde SMS&lt;/font> verzonden. Uw provider brengt u kosten in rekening voor dit bericht.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Om \"%3$s\" te activeren, voer het telefoonnummer van SIM %2$d in. De technische ondersteuning wordt gedeeltelijk geleverd door Weihuitel. Raadpleeg het Weihuitel Privacybeleid voor details.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. Om \"%2$s\" te activeren, voert u uw telefoonnummer in. Technische ondersteuning wordt gedeeltelijk geleverd door Weihuitel. Raadpleeg het Privacybeleid van Weihuitel voor details.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s Om \"%3$s\" te activeren, voer het telefoonnummer van SIM %2$d in. De technische ondersteuning wordt gedeeltelijk geleverd door Weihuitel. Raadpleeg het Weihuitel Privacybeleid voor details.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s Om \"%2$s\" te activeren, voert u uw telefoonnummer in. Technische ondersteuning wordt gedeeltelijk geleverd door Weihuitel. Raadpleeg het Privacybeleid van Weihuitel voor details.</string>
     <string name="activate_popup_failed_send_sms_desc">Kon geen activering SMS verzenden. Zorg ervoor dat SIM %d correct werkt en probeer het opnieuw.</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">Kon geen activering SMS verzenden. Controleer of uw SIM-kaart correct werkt en probeer het opnieuw.</string>
     <string name="activate_progress_status_title">Activeren \"%s\"…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">Kon Mi Account niet aanmaken</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">Mi Account succesvol aangemaakt</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">Kon Xiaomi Account niet aanmaken</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">Xiaomi Account succesvol aangemaakt</string>
     <string name="activate_status_desc_acquire_phone_number">Telefoonnummer verifiëren…</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">Kon telefoonnummer niet verifiëren. Zorg ervoor dat SIM %d correct werkt en probeer het opnieuw.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">Kon telefoonnummer niet verifiëren. Controleer of uw SIM-kaart correct werkt en probeer het opnieuw.</string>
@@ -102,8 +103,8 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="activate_status_desc_sending_sms">Activering SMS versturen…</string>
     <string name="activate_status_desc_wait_for_sms">Wachten op activering SMS van server…</string>
     <string name="activate_status_title_activating_sim">\"%2$s\" activeren met behulp van SIM %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">Mi Account creëren…</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">Mi Account aanmaken met SIM %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">Xiaomi Account creëren…</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">Xiaomi Account aanmaken met SIM %d…</string>
     <string name="afternoon">Middag</string>
     <string name="am">AM</string>
     <string name="app_name">Xiaomi SIM activatieservice</string>
@@ -126,7 +127,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="error_sim_not_in_service_tip">SIM %d kan geen verbinding maken met het netwerk. Zorg ervoor dat de SIM kaart correct werkt en probeer het opnieuw.</string>
     <string name="error_sim_not_in_service_tip_one_sim">Kan geen verbinding maken met het netwerk. Controleer of uw SIM-kaart correct werkt en probeer het opnieuw.</string>
     <string name="evening">Middag</string>
-    <string name="explain_activate_register_xiaomi_account_title">Mi Account creëren</string>
+    <string name="explain_activate_register_xiaomi_account_title">Creëer Xiaomi Account</string>
     <string name="explain_activate_send_sms_permission_msg">Om %s te activeren, heeft uw apparaat toestemming nodig om activering SMS te sturen. Uw provider zal voor dit bericht kosten in rekening brengen.</string>
     <string name="explain_send_sms_permission_button">Verifieer</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -186,14 +187,14 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="friday_shortest">Vr</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -265,7 +266,7 @@ Voer het telefoonnummer in dat aan uw nieuwe simkaart is gekoppeld om %s opnieuw
     <string name="sim_activated_failed_msg">Kon service niet activeren. Tik om het opnieuw te proberen.</string>
     <string name="sim_unactivated_feature_title">\"%s\" is niet geactiveerd</string>
     <string name="sim_unactivated_msg">Deze service is niet geactiveerd. Tik om het opnieuw te proberen.</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">Mi Account is niet aangemaakt</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">Xiaomi Account is niet aangemaakt</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_short">Zo</string>

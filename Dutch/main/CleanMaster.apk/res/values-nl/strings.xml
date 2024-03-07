@@ -3,8 +3,8 @@
     <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
-    <string name="abc_action_mode_done">Gereed</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_action_mode_done">Klaar</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -52,6 +52,7 @@
     <string name="activity_title_uninstall_apps">Apps</string>
     <string name="activity_title_video">"Video's verwijderen"</string>
     <string name="activity_title_white_list">Uitzonderingen</string>
+    <string name="ad_flag_text">Advertentie</string>
     <string name="ad_install_success_dialog_lunch">Openen</string>
     <string name="ad_install_success_dialog_title">%1$s succesvol geïnstalleerd. Nu openen?</string>
     <string name="afternoon">Middag</string>
@@ -239,6 +240,7 @@
     <string name="dc_item_title_wechat_chat">WeChat geschiedenis wissen</string>
     <string name="dc_storage_cleaned">%s vrijgemaakt</string>
     <string name="dc_storage_info">Beschikbaar: %1$s | Totaal: %2$s</string>
+    <string name="dc_storage_info_new">%1$s beschikbaar</string>
     <string name="deep_clean_completed_tips">Succesvol opgeschoond</string>
     <string name="deep_clean_data_path_clean_title">Cache wissen</string>
     <string name="deep_clean_uninstall_completed_tips">Succesvol verwijderd</string>
@@ -302,6 +304,7 @@
     <string name="download">Downloaden</string>
     <string name="downloading">Downloaden</string>
     <string name="early_morning">Ochtend</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">Leeg</string>
     <string name="empty_content_no_privacy">Leeg</string>
     <string name="empty_content_no_similar_image">"Geen foto's"</string>
@@ -462,7 +465,6 @@
     <string name="guide_dc_dialog_negative">Annuleren</string>
     <string name="guide_dc_dialog_positive">OK</string>
     <string name="guide_dc_dialog_title">De opslagruimte is bijna vol</string>
-    <string name="guide_secure_dialog_message">De optimalisatiescore van uw apparaat is lager dan 80 punten. Optimaliseren nu?</string>
     <string name="guide_secure_dialog_message_new">De optimalisatiescore van uw apparaat is lager dan %d punten. Optimaliseer nu?</string>
     <string name="guide_secure_dialog_negative">Annuleren</string>
     <string name="guide_secure_dialog_positive">Optimaliseren</string>
@@ -490,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">Alles ziet er goed uit</string>
     <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">Leeg</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">Bijna nooit gebruikt</string>
     <string name="hints_installed_app_near">Recent gebruikt</string>
     <string name="hints_installed_app_never">Nooit gebruikt</string>
@@ -539,6 +542,7 @@
     <string name="last_check_canceled">Vorige scan was geannuleerd</string>
     <string name="load_only_under_wlan">Alleen via wifi laden</string>
     <string name="location_not_found">Kon bestand niet vinden</string>
+    <string name="lock_device_toast">Dit apparaat is geblokkeerd. Ontgrendel om Opruimer te gebruiken.</string>
     <string name="login_immediately">Aanmelden</string>
     <string name="long_click_dialog_summary">Houd lang ingedrukt om aan uitzonderingen toe te voegen.</string>
     <string name="long_click_dialog_title">Mededeling</string>
@@ -566,14 +570,14 @@
     <string name="menu_view">In map bekijken</string>
     <string name="midnight">Nacht</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selecteer items</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Meer</string>
     <string name="miuix_appcompat_cancel_description">Annuleren</string>
     <string name="miuix_appcompat_confirm_description">Bevestigen</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
-    <string name="miuix_appcompat_deselect_all">Deselecteren</string>
+    <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
@@ -638,6 +642,9 @@
     <string name="msg_update_error_code_success">Klaar</string>
     <string name="msg_update_error_code_unknown_error">Servers zijn bezig. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="name_debuglog_dir">BSP-foutopsporingslogboek</string>
+    <string name="native_body">Tekstgedeelte</string>
+    <string name="native_headline">Kop</string>
+    <string name="native_media_view">Mediacontent</string>
     <string name="nb_clear_set">Cache wissen, batterij tonen en blokkeerlijst info in het meldingenpaneel</string>
     <string name="network_not_available">Kan geen verbinding maken met het netwerk</string>
     <string name="news_change">Wijzigen</string>
@@ -744,12 +751,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">Upload bestandsnamen</string>
     <string name="pref_title_open_optimizer_memory_scan">App geheugen scannen</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
-    <string name="privacy_app_desc">Account en wachtwoord</string>
-    <string name="privacy_app_desc_message">Account, wachtwoorden en berichten</string>
-    <string name="privacy_app_desc_search">Account, wachtwoorden en zoekgeschiedenis</string>
-    <string name="privacy_app_desc_setting">Account, wachtwoorden en instellingen</string>
     <string name="privacy_browser_desc">Gezochte items</string>
-    <string name="privacy_cache_desc">Account, wachtwoorden, geschiedenis, instellingen en meer</string>
     <string name="privacy_cache_empty">Geen privé gegevens</string>
     <string name="privacy_cache_scaning">Controleren…</string>
     <string name="privacy_cache_title">Persoonlijke info</string>
@@ -807,6 +809,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Overslaan</string>
     <string name="sponsored">Gesponsord</string>
     <string name="start_downloading_app">Downloaden starten: %1$s</string>
     <string name="start_install">Nu installeren</string>
@@ -868,9 +871,7 @@
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="tips_low_storage_dialog_cancel">Annuleren</string>
-    <string name="tips_low_storage_dialog_msg_qq">De cachegrootte van QQ heeft 3GB bereikt. Dit kan uw apparaat vertragen. QQ cache nu wissen?</string>
     <string name="tips_low_storage_dialog_msg_qq_new">De cachegrootte van QQ heeft %d GB bereikt. Dit kan uw apparaat vertragen. QQ cache nu wissen?</string>
-    <string name="tips_low_storage_dialog_msg_storage">U gebruikt 90% van uw opslagruimte. Verwijder de apps die u niet gebruikt.</string>
     <string name="tips_low_storage_dialog_msg_storage_new">U gebruikt %s van uw opslagruimte. Verwijder de apps die u niet gebruikt.</string>
     <string name="tips_low_storage_dialog_msg_wechat_new">De cachegrootte van WeChat heeft %d GB bereikt. Dit kan uw apparaat vertragen. WeChat cache nu wissen?</string>
     <string name="tips_low_storage_dialog_ok">Wissen</string>
@@ -938,6 +939,7 @@
     <string name="v7_preference_off">UIT</string>
     <string name="v7_preference_on">AAN</string>
     <string name="virus_scan">Virusscan</string>
+    <string name="watermark_label_prefix">AdMob -</string>
     <string name="wechat_chat_data_type_cache">WeChat cache</string>
     <string name="wechat_chat_data_type_cache_desc">U kunt deze bestanden herstellen nadat u bent verbonden met het internet.</string>
     <string name="wechat_chat_data_type_chat">Chat geschiedenis</string>

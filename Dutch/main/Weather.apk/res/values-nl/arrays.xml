@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Goed</item>
-        <item>Matig</item>
-        <item>Ongezond voor kwetsbare groepen</item>
+        <item>Goed</item>
+        <item>Gemiddeld</item>
         <item>Ongezond</item>
-        <item>Zeer ongezond</item>
+        <item>Ernstig</item>
         <item>Gevaarlijk</item>
     </string-array>
     <string-array name="aqi_title">
@@ -34,12 +34,12 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Goed</item>
-        <item>Voldoende</item>
-        <item>Matig vervuild</item>
-        <item>Slecht</item>
-        <item>Heel slecht</item>
+        <item>Goed</item>
+        <item>Gemiddeld</item>
+        <item>Ongezond</item>
         <item>Ernstig</item>
-        <item>Waarden overstijgen lijstweergave</item>
+        <item>Gevaarlijk</item>
+        <item>Waarden overstijgen index</item>
     </string-array>
     <string-array name="hot_city">
         <item>Peking</item>
@@ -70,6 +70,37 @@
         <item>Matig</item>
         <item>Licht</item>
     </string-array>
+    <string-array name="realtime_humidity_status">
+        <item>Droog</item>
+        <item>Comfortabel</item>
+        <item>Vochtig</item>
+    </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Hoog</item>
+        <item>Gemiddeld</item>
+        <item>Laag</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Koud</item>
+        <item>Koel</item>
+        <item>Comfortabel</item>
+        <item>Warm</item>
+        <item>Heet</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+        <item>Zwak</item>
+        <item>Gemiddeld</item>
+        <item>Sterk</item>
+        <item>Heel sterk</item>
+        <item>Extreem</item>
+    </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Helder</item>
         <item>Bewolkt</item>
@@ -79,24 +110,24 @@
         <item>Stortbui</item>
         <item>Regenstorm</item>
         <item>Onweersbui</item>
-        <item>Regenbui</item>
-        <item>Zware regenval</item>
-        <item>Matige regenval</item>
+        <item>Regenbuien</item>
+        <item>Zware regen</item>
+        <item>Gematigde regenval</item>
         <item>Lichte regenval</item>
-        <item>Buien met sneeuw</item>
+        <item>Natte sneeuw</item>
         <item>Sneeuwstorm</item>
-        <item>Sneeuw</item>
+        <item>Sneeuwbuien</item>
         <item>Zware sneeuwval</item>
         <item>Matige sneeuwval</item>
-        <item>Lichte sneeuw</item>
+        <item>Lichte sneeuwval</item>
         <item>Sterke zandstorm</item>
-        <item>Matige zandstorm</item>
         <item>Zandstorm</item>
-        <item>Winderig</item>
+        <item>Lichte zandstorm</item>
+        <item>Stofstorm</item>
         <item>Hagel</item>
         <item>Smog</item>
         <item>Nevel</item>
-        <item>IJzel</item>
+        <item>Ijskoude regen</item>
         <item></item>
     </string-array>
     <string-array name="wind_direction">
