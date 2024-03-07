@@ -253,9 +253,7 @@
     <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -396,7 +394,6 @@
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -566,7 +563,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -835,7 +831,6 @@ mm"</string>
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -973,7 +968,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">Voelt als %s°</string>
     <string name="special_topic">Categorieën</string>
     <string name="start_all">Alles hervatten</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Toepassen</string>
     <string name="storage_file">Voor het opslaan van gedownloade items</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1106,7 +1100,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_on_the_phone_alert">Kan niet afspelen tijdens oproepen</string>
     <string name="theme_recommend">"Vergelijkbare thema's"</string>

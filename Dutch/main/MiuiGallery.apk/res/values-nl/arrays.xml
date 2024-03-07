@@ -119,11 +119,6 @@
         <item>Nieuwe vrienden en oude vrienden</item>
         <item>De bijeenkomsten van vorig jaar</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Verplaatsen</item>
-        <item>Kopiëren</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>Januari</item>
         <item>Februari</item>

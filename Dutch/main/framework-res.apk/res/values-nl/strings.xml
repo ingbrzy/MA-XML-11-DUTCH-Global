@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Let op</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Deze video kan niet worden gestreamd naar dit apparaat.</string>
     <string name="selectTextMode">Tekst selecteren</string>
-    <string name="status_bar_notification_info_overflow">999 +</string>
     <string name="fingerprint_icon_content_description">Vingerafdruk-icoon</string>
     <string name="paste_as_plain_text">Plakken als platte tekst</string>
     <string name="autofill">Automatisch invullen</string>
@@ -683,7 +682,6 @@ Neem contact op met de beheerder van je organisatie als je vragen hebt."</string
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">Functiecode voltooid.</string>
     <string name="fcError">Verbindingsprobleem of ongeldige functiecode.</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_count">{count,plural, =1{{file_name} + # bestand}other{{file_name} + # bestanden}}</string>
     <string name="find">Vinden</string>
     <string name="find_next">Volgende zoeken</string>
@@ -934,7 +932,6 @@ Ga naar "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_reordering_delete_drop_target_text">Verwijderen</string>
     <string name="kg_sim_pin_instructions">Geef de pincode van de simkaart op</string>
     <string name="kg_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Je hebt je wachtwoord %1$d keer onjuist getypt. 
 
 Probeer het opnieuw over %2$d seconden."</string>
@@ -1305,7 +1302,6 @@ Verbeterde meldingen hebben toegang tot meldingscontent, waaronder persoonlijke 
     <string name="notification_hidden_text">Nieuwe melding</string>
     <string name="notification_history_title_placeholder">Aangepaste app-melding</string>
     <string name="notification_listener_binding_label">Listener voor meldingen</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="notification_phishing_alert_content_description">Phishingmelding</string>
     <string name="notification_ranker_binding_label">Rangschikkingsservice voor meldingen</string>
     <string name="notification_reply_button_accessibility">Beantwoorden</string>
@@ -2192,7 +2188,6 @@ Wil je de pagina sluiten?"</string>
     <string name="zen_mode_feature_name">Niet storen</string>
     <string name="zen_mode_forever">Totdat je uitzet</string>
     <string name="zen_mode_forever_dnd">Totdat je Niet storen uitzet</string>
-    <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
     <string name="zen_mode_until">Tot %1$s</string>
     <string name="zen_mode_until_next_day">Tot %1$s</string>
     <string name="zen_upgrade_notification_content">Tik om te controleren wat er is geblokkeerd.</string>

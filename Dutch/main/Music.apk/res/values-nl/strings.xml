@@ -368,7 +368,6 @@
     <string name="download_method">Downloaden</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
     <string name="download_processing">Downloaden…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_song_quality_title">Kwaliteit van gedownloade nummers</string>
@@ -464,9 +463,7 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -884,7 +881,6 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1245,7 +1241,6 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
@@ -1422,7 +1417,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Voorbereiden om af te spelen…</string>
     <string name="start_update">Nieuwe versie installeren…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_space_permissions_for_display">Toegang tot apparaatopslag: voor het scannen, weergeven en afspelen van lokale bestanden</string>
     <string name="streamloadingtext">Verbinding maken met %s</string>
@@ -1585,7 +1579,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar hungama om ze te kunnen openen op andere apparaten waarop u uw Xiaomi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_experience_program_open">Vanwege copyrightbeperkingen moet u zich inschrijven voor het Gebruikerservaringprogramma om gedownloade nummers te kunnen afspelen. U kunt dit doen in Instellingen > Wachtwoorden en beveiliging > Privacy > Schrijf u in voor Gebruikerservaringprogramma.</string>
     <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>

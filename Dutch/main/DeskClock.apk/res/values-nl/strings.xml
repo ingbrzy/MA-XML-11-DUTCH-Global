@@ -361,7 +361,6 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -469,7 +468,6 @@
     <string name="shutdown_alarm_alert_title">Uitschakel alarm</string>
     <string name="shutdown_alarm_disable_summary">Alarm zal niet afgaan nadat het apparaat uitgeschakeld is</string>
     <string name="silent_alarm_summary">Stil</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Eenmalig uitschakelen op %s</string>
     <string name="sleep_analysis">Statistieken</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -506,7 +504,6 @@
     <string name="snooze_duration_value_twenty_new">%d</string>
     <string name="star_wy_alarm_speech">Ontmoet Roy Wang</string>
     <string name="start">Starten</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_running_notification">Stopwatch</string>
     <string name="stopwatch_title">Stopwatch</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
