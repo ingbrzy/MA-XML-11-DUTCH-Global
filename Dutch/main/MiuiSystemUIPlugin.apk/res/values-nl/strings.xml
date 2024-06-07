@@ -188,7 +188,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">Stille modus is nu uitgeschakeld. Oproepen en meldingen worden niet gedempt.</string>
     <string name="kddi_miui_toast_zen_to_standard">Overgeschakeld naar Stille modus. Oproepen en meldingen worden nu gedempt.</string>
     <string name="loading">Status onbekend</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">Nacht</string>
     <string name="miplay_accessibility_cast">Apparaat selecteren</string>
     <string name="miplay_accessibility_cover">Cover</string>
@@ -201,6 +201,8 @@
     <string name="miplay_bluetooth_share_des_text">"Xiaomi Earbuds-gebruikers: open het oplaadetui of houd het oplaadetui-knop ingedrukt voor %d s
 Niet-Xiaomi-oordoppengebruikers: reset uw oordopjes in de Bluetooth-instellingen en maak vervolgens verbinding"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">Voeg oortelefoons toe om audio te delen</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Klaar met het delen van audio</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">Voeg oortelefoons toe om audio te delen</string>
     <string name="miplay_bluetooth_share_subTitle_text">Deel apparaataudio met een andere persoon</string>
     <string name="miplay_bluetooth_share_title_text">Audio delen</string>
     <string name="miplay_detail_divider_title">Luidsprekers</string>

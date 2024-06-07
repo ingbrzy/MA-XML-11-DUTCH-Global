@@ -79,6 +79,8 @@
     <string name="afternoon">Middag</string>
     <string name="agreement_desc">Gebruikersovereenkomst (vereist)</string>
     <string name="alaka_required">U moet betalen om naar dit nummer te luisteren</string>
+    <string name="alarm_clock_recommend_desc">Word elke dag wakker met een nieuw liedje</string>
+    <string name="alarm_clock_recommend_switch">Aanbevolen liedalarm</string>
     <string name="alarm_clock_ringtones_successful">Alarm succesvol ingesteld</string>
     <string name="album_cover">Albumcover</string>
     <string name="album_is_empty">Albumnaam kan niet leeg zijn.</string>
@@ -138,8 +140,21 @@
     <string name="artist_home_search_hint">Naar artiesten zoeken</string>
     <string name="artist_is_empty">Artiestennaam kan niet leeg zijn.</string>
     <string name="artist_name">Artiest</string>
+    <string name="asm_account_exception">Er is een accountfout opgetreden</string>
     <string name="asm_batch_download_failed">Kon niet downloaden</string>
     <string name="asm_buy_member_success">VIP-lidmaatschap succesvol gekocht</string>
+    <string name="asm_check_video_playing">Video afspelen. Kan item niet toevoegen aan afspeellijst.</string>
+    <string name="asm_delete_all">Wissen</string>
+    <string name="asm_delete_all_data">Alle gegevens wissen</string>
+    <string name="asm_delete_all_data_failed">Kon gegevens niet wissen. Probeer het opnieuw.</string>
+    <string name="asm_delete_all_data_loading">Een ogenblik geduld…</string>
+    <string name="asm_delete_all_data_no_net">Er is een netwerkverbinding vereist om uw identiteit te verifiëren en gegevens te wissen. Maak verbinding met het netwerk en probeer het opnieuw.</string>
+    <string name="asm_delete_all_data_success">Gegevens succesvol gewist</string>
+    <string name="asm_delete_all_data_tips">"Als u doorgaat, wist u alle app-gegevens, inclusief nummers, afspeellijsten en browsegeschiedenis.
+Alle lidmaatschapsvoordelen en betaalde nummers worden gewist. U krijgt geen geld terug voor een bestaand lidmaatschap, maar er worden geen kosten meer in rekening gebracht.
+Zodra u ervoor kiest om alle gegevens definitief te wissen, wordt u uitgelogd bij de app. Nu alle gegevens wissen?"</string>
+    <string name="asm_delete_data">Gegevens wissen</string>
+    <string name="asm_delete_data_local_and_online">Wis offline en streamingdienstgegevens</string>
     <string name="asm_dialog_title_tips">VIP-lidmaatschap</string>
     <string name="asm_dialog_vip_confirm_text">Meedoen</string>
     <string name="asm_dialog_vip_message">Meld u aan voor een VIP-lidmaatschap om naar nummers van hoge kwaliteit te luisteren en nog meer inhoud te downloaden.</string>
@@ -155,7 +170,7 @@
     <string name="asm_fail_play_song">Kon nummer niet downloaden</string>
     <string name="asm_google_connect_failed">Kon de betaling niet voltooien. Zorg ervoor dat u bent ingelogd bij de Play Store.</string>
     <string name="asm_google_no_goods">Kon productinformatie niet ophalen</string>
-    <string name="asm_google_not_login">Meld u aan bij Google Play en probeer het opnieuw</string>
+    <string name="asm_google_not_login">Log in bij de Play Store en probeer het opnieuw</string>
     <string name="asm_google_pay_success">Gegenereerde Google Pay-bestelling</string>
     <string name="asm_google_query_failed">Kon productinformatie niet ophalen</string>
     <string name="asm_google_service_failed">Kon Google-services niet starten. Probeer het opnieuw.</string>
@@ -168,6 +183,7 @@
     <string name="asm_no_network">Kon niet verbinden met het netwerk</string>
     <string name="asm_not_action_is_local_music">Kan deze actie niet uitvoeren op lokale bestanden</string>
     <string name="asm_notify_use_mobile_download">Downloaden met mobiele data</string>
+    <string name="asm_online_service_switch">Schakel online services in de app-instellingen in</string>
     <string name="asm_page_empty_search">Kon geen resultaten vinden</string>
     <string name="asm_page_error_airplane">Schakel Vliegtuigmodus uit om verbinding te kunnen maken</string>
     <string name="asm_page_error_data">Er is een fout opgetreden</string>
@@ -178,9 +194,9 @@
     <string name="asm_pay_order_generate">Bestelling genereren…</string>
     <string name="asm_pay_order_generate_failed">Kon bestelling niet genereren</string>
     <string name="asm_pay_query_overtime">Er is een time-out opgetreden bij het betalingsstatusverzoek</string>
-    <string name="asm_privacy_desc">Wansheng Privacybeleid</string>
-    <string name="asm_privacy_tips_content">Ga akkoord met het <a href="/link/click">Wansheng Privacybeleid</a> om online muziekservices te kunnen gebruiken.</string>
-    <string name="asm_privacy_tips_title">Wansheng Privacybeleid</string>
+    <string name="asm_privacy_desc">ASM Privacybeleid</string>
+    <string name="asm_privacy_tips_content">Ga akkoord met het <a href="/link/click">ASM Privacybeleid</a> om online muziekservices te kunnen gebruiken.</string>
+    <string name="asm_privacy_tips_title">ASM Privacybeleid</string>
     <string name="asm_pro_center">Lidmaatschap</string>
     <string name="asm_search_result_contain_music">Bevat: \"%1$s\"</string>
     <string name="asm_song_err_connect">Kon niet verbinden met server</string>
@@ -368,6 +384,7 @@
     <string name="download_method">Downloaden</string>
     <string name="download_paused_in_power_save_mode">Downloads worden gepauzeerd wanneer Batterijbesparing aanstaat</string>
     <string name="download_processing">Downloaden…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">Downloadkwaliteit</string>
     <string name="download_quality_summary">Aanvullende instellingen voor nummers die u downloadt</string>
     <string name="download_song_quality_title">Kwaliteit van gedownloade nummers</string>
@@ -463,7 +480,9 @@
     <string name="exo_media_action_repeat_all_description">Alles herhalen</string>
     <string name="exo_media_action_repeat_off_description">Niets herhalen</string>
     <string name="exo_media_action_repeat_one_description">Eén herhalen</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -501,6 +520,19 @@
     <string name="favorite_tracks">Favorieten</string>
     <string name="favorites">Favorieten</string>
     <string name="feed_back">Feedback</string>
+    <string name="feed_back_ad_desc">Mi Music is een gratis dienst die afhankelijk is van advertenties als belangrijkste bron van inkomsten. We gebruiken advertentie-inkomsten om onze functies en services te blijven verbeteren en updates uit te brengen. Waar mogelijk verminderen we het aantal advertenties om u een meer gestroomlijnde ervaring te bieden.</string>
+    <string name="feed_back_ad_problem">Er zijn te veel advertenties</string>
+    <string name="feed_back_button_text">Feedback versturen</string>
+    <string name="feed_back_button_toast">Feedback succesvol verzonden</string>
+    <string name="feed_back_icon_problem">Ik kan het Mi Music-icoon niet vinden</string>
+    <string name="feed_back_iconp_desc">Zorg ervoor dat u de Startscherm snelkoppeling van Mi Music hebt toegestaan in Instellingen > Apps > Startscherm snelkoppelingen beheren.</string>
+    <string name="feed_back_iconp_generate">U kunt ook hieronder tikken om een Startscherm snelkoppeling voor Mi Music te maken.</string>
+    <string name="feed_back_iconp_text">Snelkoppeling creëren</string>
+    <string name="feed_back_iconp_toast">Startscherm snelkoppeling succesvol gecreëerd</string>
+    <string name="feed_back_other">Feedback versturen</string>
+    <string name="feed_back_tab_disappear">Het tabblad \"Kijk\" is verdwenen</string>
+    <string name="feed_back_tabd_desc">Als het tabblad Kijk eerder zichtbaar was en verdwenen is, maak dan verbinding met het netwerk en start de app opnieuw.</string>
+    <string name="feed_back_title">Veelgestelde vragen en feedback</string>
     <string name="file_and_media_permissions_for_display">Toegang tot bestanden: voor het scannen, weergeven en afspelen van lokale bestanden</string>
     <string name="file_not_found">Bestand bestaat niet</string>
     <string name="filter_by_MP4">Geef mappen weer met MP4-bestanden</string>
@@ -630,7 +662,7 @@
     <string name="hungama_batch_download_alert_summary_toast">Word abonnee om de hele afspeellijst te downloaden.</string>
     <string name="hungama_download_subscription_toast">Abonneer u op hungama Music om dit nummer te downloaden</string>
     <string name="hungama_free_download_out_summary">U kunt niet meer gratis nummers downloaden. Gouden lidmaatschap aanvragen om ongelimiteerd nummers te downloaden?</string>
-    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
+    <string name="hungama_free_download_out_summary_toast">U heeft al %d nummers gedownload. Abonneer om meer te downloaden.</string>
     <string name="hungama_privacy_desc">hungama privacybeleid (optioneel)</string>
     <string name="hungama_privacy_tips_content">Om toegang te krijgen tot online inhoud, moet u akkoord gaan met het <a href="/link/click">hungama Privacybeleid</a>.</string>
     <string name="hungama_privacy_tips_title">hungama Privacybeleid</string>
@@ -640,7 +672,7 @@
     <string name="i_know">OК</string>
     <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="imported">Geïmporteerd</string>
-    <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
+    <string name="impunity_declaration_content">U moet onze &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Gebruikersovereenkomst&lt;/a> en &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacybeleid&lt;/a> lezen en ermee akkoord gaan voordat u het product gebruikt.</string>
     <string name="impunity_declaration_ignore">Niet meer tonen</string>
     <string name="impunity_declaration_negative_text">Afsluiten</string>
     <string name="impunity_declaration_positive_text">Akkoord</string>
@@ -740,6 +772,10 @@
     <string name="local_page_artist_more">Meer nummers van %s</string>
     <string name="local_page_playlist">Afspeellijsten</string>
     <string name="local_page_song_download_history">Downloads</string>
+    <string name="lock_screen_music_settings">Muziek op Vergrendelscherm instellingen</string>
+    <string name="lock_screen_settings">Vergrendelscherm instellingen</string>
+    <string name="lock_screen_slide_up">Veeg omhoog om te ontgrendelen</string>
+    <string name="lock_screen_switch">Muziek op Vergrendelscherm</string>
     <string name="login_instantly">Aanmelden</string>
     <string name="login_mi_account_and_gain_more_rights">Meld u aan met uw Xiaomi Account voor toegang tot meer functies.</string>
     <string name="login_out_tip">Kan zich voorlopig niet afmelden. U kunt in plaats daarvan alle app-gegevens wissen.</string>
@@ -749,6 +785,31 @@
     <string name="lrc_search_failed">Kon songteksten niet vinden</string>
     <string name="lrc_searching">Zoeken…</string>
     <string name="ludo_tab_guide">Bekijk onze nieuwe Muziekkamers</string>
+    <string name="lyric_ai_apply_fail">Kon niet gebruiken. Probeer het opnieuw.</string>
+    <string name="lyric_ai_button_text">AI-songteksten</string>
+    <string name="lyric_ai_dialog_one">•U kunt tikken om de songteksten te herkennen, en wij vullen de songteksten voor u in met behulp van AI-spraakherkenningstechnologie.</string>
+    <string name="lyric_ai_dialog_three">•U kunt de voortgang controleren in de songtekstwerkbalk.</string>
+    <string name="lyric_ai_dialog_two">•Herkenning duurt enkele minuten. Zodra het voltooid is, worden de songteksten automatisch ingevuld.</string>
+    <string name="lyric_ai_fail_toast">Bestand is te groot om te herkennen</string>
+    <string name="lyric_ai_identify_success">Songteksten succesvol herkend</string>
+    <string name="lyric_ai_song">Huidig nummer</string>
+    <string name="lyric_ai_song_list">Nummers</string>
+    <string name="lyric_ai_state_apply">Songteksten gebruiken</string>
+    <string name="lyric_ai_state_default">Nummer niet herkend</string>
+    <string name="lyric_ai_state_fail">Kon songteksten niet herkennen</string>
+    <string name="lyric_ai_state_identify">Herkennen</string>
+    <string name="lyric_ai_state_identifying">Een ogenblik geduld…</string>
+    <string name="lyric_ai_state_use">Gebruiken</string>
+    <string name="lyric_ai_title">AI-songtekstenherkenning</string>
+    <string name="lyric_feedback_inaccurate_timing">De songteksten zijn niet synchroon</string>
+    <string name="lyric_feedback_lyrics_error">De hele songtekst van het nummer is verkeerd</string>
+    <string name="lyric_feedback_misspelling">Spelfouten en typefouten</string>
+    <string name="lyric_feedback_other">Overige</string>
+    <string name="lyric_feedback_pure_music">Instrumentaal lied</string>
+    <string name="lyric_feedback_report_optimization">Dien een rapport in om ons te helpen onze services te optimaliseren</string>
+    <string name="lyric_feedback_submit">Indienen</string>
+    <string name="lyric_feedback_submit_success">Succesvol ingediend</string>
+    <string name="lyric_feedback_title">Vertel ons over het probleem</string>
     <string name="lyric_is_empty">Geen songteksten beschikbaar</string>
     <string name="lyric_label">Songteksten</string>
     <string name="lyric_open_other_connect">Download songteksten via het mobiele netwerk</string>
@@ -772,7 +833,7 @@
     <string name="material_timepicker_pm">p.m.</string>
     <string name="material_timepicker_select_time">Tijd selecteren</string>
     <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
-    <string name="message_delete_playlist">Afspeellijst %sverwijderen?</string>
+    <string name="message_delete_playlist">Afspeellijst %s verwijderen?</string>
     <string name="metered_alert">Waarschuwing datagebruik</string>
     <string name="metered_alert_msg">U gebruikt mobiele data om nummers af te spelen. Toch afspelen?</string>
     <string name="metered_alert_msg_with_data">U hebt %s mobiele data over. Mobiele data gebruiken om nummers af te spelen?</string>
@@ -809,6 +870,7 @@
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
@@ -881,6 +943,7 @@
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1009,7 +1072,6 @@
     <string name="online_apk_install_network_error">Kon geen verbinding maken met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="online_apk_install_tips">U moet de plug-in van deze inhoudsprovider eenmaal downloaden. De volgende keer heeft u direct toegang tot liedjes.</string>
     <string name="online_list_delete_message">Alle gedownloade liedjes in deze afspeellijst zullen van de interne opslag worden verwijderd.</string>
-    <string name="online_playlist_category">Afspeellijsten</string>
     <string name="online_recommend">Afspeellijst</string>
     <string name="online_service_open_tip">Online muziekservices staan aan</string>
     <string name="online_service_title">Online services</string>
@@ -1018,6 +1080,7 @@
     <string name="online_switch_message">Het uitschakelen van online services zal effect hebben op VIP-services en -aanbevelingen. Toch uitschakelen?</string>
     <string name="online_switch_setting">Online inhoudinstellingen</string>
     <string name="only_pro_can_choose_hd_sound_quality">Hoge kwaliteit audio is alleen beschikbaar voor Gouden leden</string>
+    <string name="open_alarm_clock_recommend_switch">Aanbevolen liedalarm</string>
     <string name="open_online_service">U moet online services aanzetten om deze functie te gebruiken. Nu aanzetten?</string>
     <string name="open_service">Inschakelen</string>
     <string name="operation_done_close">Sluiten</string>
@@ -1053,7 +1116,6 @@
     <string name="passport_agree">Akkoord</string>
     <string name="passport_area_code_title">Regiocode</string>
     <string name="passport_attention">Let op</string>
-    <string name="passport_auth_fail_warning">Sessie verlopen. Opnieuw aanmelden.</string>
     <string name="passport_back">Terug</string>
     <string name="passport_bad_authentication">Ongeldige gebruikersnaam of wachtwoord</string>
     <string name="passport_can_not_recevie_verify_code">Geen code ontvangen?</string>
@@ -1075,11 +1137,9 @@
     <string name="passport_doing_query_account">Accountinformatie controleren…</string>
     <string name="passport_error_auth_fail">Sessie verlopen. Meld u opnieuw aan.</string>
     <string name="passport_error_device_id">Kan geen apparaat-ID ophalen</string>
-    <string name="passport_error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een andere Xiaomi Account.</string>
     <string name="passport_error_empty_password">Voer uw wachtwoord in</string>
     <string name="passport_error_empty_pwd">Wachtwoord mag niet leeg zijn</string>
     <string name="passport_error_empty_user_id">Voer uw gebruikersnaam in</string>
-    <string name="passport_error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
     <string name="passport_error_length_limit">De door u ingevoerde tekst is te lang</string>
     <string name="passport_error_network">Kan geen verbinding maken met het netwerk</string>
     <string name="passport_error_no_password_user">U hebt nog geen wachtwoord ingesteld. Meld aan met sms.</string>
@@ -1095,17 +1155,14 @@
     <string name="passport_error_unknown">Onbekende fout</string>
     <string name="passport_error_user_name">De ingevoerde gebruikersnaam is ongeldig</string>
     <string name="passport_error_user_password">Wachtwoorden komen niet overeen</string>
-    <string name="passport_exceed_binded_phone_times_notice">Dit telefoonnummer is al gekoppeld aan een andere Xiaomi Account.</string>
     <string name="passport_facebook_login_btn_content_description">Inloggen met Facebook</string>
     <string name="passport_frequency_try_later">Te veel pogingen. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="passport_get_login_type_next">Volgende</string>
-    <string name="passport_get_phone_verifycode_exceed_limit">Er zijn te veel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer het opnieuw.</string>
     <string name="passport_google_login_btn_content_description">Aanmelden met Google</string>
     <string name="passport_help">Help</string>
     <string name="passport_i_know">Begrepen</string>
     <string name="passport_identification_expired">Verificatiecode is verlopen. Begin opnieuw.</string>
     <string name="passport_input_captcha_hint">Voer code in</string>
-    <string name="passport_input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
     <string name="passport_input_password_hint">Wachtwoord invoeren</string>
     <string name="passport_input_phone_number_hint">Voer telefoonnummer in</string>
     <string name="passport_input_verify_code">Voer verificatiecode in</string>
@@ -1146,39 +1203,35 @@
     <string name="passport_request_error_network">Er is een netwerkfout opgetreden. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="passport_request_error_unknown">Er is een systeemfout opgetreden. Ga terug en probeer het opnieuw.</string>
     <string name="passport_request_gallery_permission_message">"Toegang tot Galerij toestaan:&lt;br />Voor het instellen van profielfoto's"</string>
-    <string name="passport_resend_email_reach_limit_message">U heeft te veel verificatie e-mails aangevraagd. Zorg ervoor dat de verificatie e-mail niet in de map met ongewenste e-mail zit.</string>
-    <string name="passport_resend_email_reach_limit_title">Te veel pogingen</string>
     <string name="passport_resend_ticket">Code opnieuw versturen</string>
     <string name="passport_retry">Opnieuw proberen</string>
-    <string name="passport_same_new_and_old_pwd">Mag niet hetzelfde zijn als het huidige wachtwoord</string>
     <string name="passport_send_sms_to">Code verzonden naar %1$s</string>
     <string name="passport_send_too_many_code">Er zijn te veel verificatiecodes verzonden naar dit telefoonnummer. Wacht 24 uur en probeer het opnieuw.</string>
     <string name="passport_sending_vcode">Code verzenden…</string>
-    <string name="passport_service_error">Serverfout</string>
     <string name="passport_set_password_no_phone_msg">Voeg uw telefoonnummer toe om uw account te beschermen.</string>
     <string name="passport_skip_query_account">Overslaan</string>
-    <string name="passport_sns_access_token_expired_warning">Sessie is verlopen. Meld u opnieuw aan om deze account opnieuw te koppelen.</string>
     <string name="passport_sns_bind_limit">Te veel aanmeldingen. Probeer andere aanmeldingsopties.</string>
     <string name="passport_system_error">Systeem is bezet. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="passport_talkback_image_captcha">Verificatiecode afbeelding</string>
     <string name="passport_talkback_switch_image_captcha">Overschakelen naar verificatiecode afbeelding</string>
     <string name="passport_talkback_switch_voice_captcha">Overschakelen naar spraak verificatiecode</string>
     <string name="passport_talkback_voice_captcha">Spraakverificatie code afspelen</string>
+    <string name="passport_third_sns_service_unavailable">De service is niet beschikbaar. Zorg ervoor dat de app is geïnstalleerd en niet is geblokkeerd.</string>
     <string name="passport_ticket_send_by_second">Versturen in %d</string>
     <string name="passport_to_forget_password">Wachtwoord vergeten?</string>
     <string name="passport_to_password_login">Log in met een wachtwoord</string>
     <string name="passport_to_verify_code_login">Log in via sms</string>
     <string name="passport_unknown_error">Onbekende fout</string>
     <string name="passport_unknown_host_network_error">Controleer uw netwerkinstellingen en probeer het opnieuw</string>
-    <string name="passport_user_agreement_hint_3rd_app">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_default">&lt;Data>Ik heb Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_3rd_app"><Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> en Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Mobile&lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>Ik heb de &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, Xiaomi Account &lt;a href=%3$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%4$s>Privacybeleid&lt;/a>, evenals &lt;a href=%5$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_default"><Data>Ik heb Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a> gelezen en ga ermee akkoord.</Data></string>
     <string name="passport_user_agreement_hint_first_login">We maken automatisch een account aan als u uw telefoonnummer voor het eerst gebruikt.</string>
-    <string name="passport_user_agreement_hint_with_mobile">&lt;Data>Ik heb de Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Mobile &lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_telecom">&lt;Data>Ik heb de Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
-    <string name="passport_user_agreement_hint_with_unicom">&lt;Data>Ik heb Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.&lt;/Data></string>
+    <string name="passport_user_agreement_hint_with_mobile"><Data>Ik heb de Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Mobile &lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_with_telecom"><Data>Ik heb de Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van eSurfing accountverificatiediensten&lt;/a> gelezen en ga ermee akkoord.</Data></string>
+    <string name="passport_user_agreement_hint_with_unicom"><Data>Ik heb Xiaomi Account &lt;a href=%1$s>Gebruikersovereenkomst&lt;/a> en &lt;a href=%2$s>Privacybeleid&lt;/a>, evenals &lt;a href=%3$s>Algemene voorwaarden van de verificatiediensten van China Unicom&lt;/a> gelezen en ga ermee akkoord.</Data></string>
     <string name="passport_user_avatar_update_title">Profielfoto wijzigen</string>
     <string name="passport_user_avatar_uploading">Een ogenblik geduld…</string>
     <string name="passport_user_id_hint">E-mail/telefoonnummer/Xiaomi Account ID</string>
@@ -1217,6 +1270,21 @@
     <string name="play_setting">Playback</string>
     <string name="play_video_with_traffic">DOORGAAN</string>
     <string name="play_video_with_traffic_toast">U gebruikt nu mobiele data.</string>
+    <string name="playerui_lyric_dialog_cancel">Nee</string>
+    <string name="playerui_lyric_dialog_hint">Ik geef Mi Music toegang tot audiobestanden voor optimalisatiedoeleinden</string>
+    <string name="playerui_lyric_dialog_ok">Ja</string>
+    <string name="playerui_lyric_dialog_title">Zijn deze songteksten accuraat?</string>
+    <string name="playerui_lyric_edit_hint">Tik hier om songteksten te bewerken</string>
+    <string name="playerui_lyric_fun_edit">Songteksten bewerken</string>
+    <string name="playerui_lyric_fun_font">Tekstgrootte</string>
+    <string name="playerui_lyric_fun_history">Geschiedenis van de songteksten</string>
+    <string name="playerui_lyric_fun_research">Opnieuw zoeken</string>
+    <string name="playerui_lyric_searching">Zoeken…</string>
+    <string name="playerui_lyric_selected">Gebruik deze songteksten</string>
+    <string name="playerui_song_dialog_cancel">Niet toestaan</string>
+    <string name="playerui_song_dialog_hint">Nauwkeuriger songteksten zijn momenteel niet beschikbaar. U kunt ons helpen door Mi Music toegang te geven tot dit audiobestand voor optimalisatiedoeleinden. Nu toegang toestaan?</string>
+    <string name="playerui_song_dialog_ok">Toestaan</string>
+    <string name="playerui_song_dialog_title">Toegang tot audiobestand toestaan</string>
     <string name="playlist_empty">Geen afspeellijsten gevonden.</string>
     <string name="playlist_title">Naam afspeellijst</string>
     <string name="playlist_title_is_empty">Naam afspeellijst mag niet leeg zijn</string>
@@ -1241,9 +1309,11 @@
     <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
     <string name="privacy_desc">Privacybeleid (vereist)</string>
     <string name="privacy_policy">Privacybeleid</string>
-    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
-Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
-If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
+    <string name="privacy_policy_title_asm">Een wereld aan muziek binnen handbereik</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=nl_NL</string>
+    <string name="privacy_request_desc"><Data>"Mi Music moet de nodige persoonlijke informatie verzamelen om u online streamingdiensten te bieden. Hoe we omgaan met de informatie die we verzamelen, leest u in ons &lt;a href=\"%1$s\">Privacybeleid&lt;/a>. U kunt uw toestemming voor het Privacybeleid van Mi Music op elk moment in de Instellingen intrekken.
+Lees en ga akkoord met onze &lt;a href=\"%2$s\">Gebruikersovereenkomst&lt;/a> and &lt;a href=\"%1$s\">Privacybeleid&lt;/a> voordat u Mi Music gebruikt.
+Als u niet akkoord gaat met het gebruik van de bovengenoemde services, kunt u sommige functies van deze app niet gebruiken; de basisfunctionaliteit blijft echter voor u beschikbaar."</Data></string>
     <string name="privacy_request_subtitle">"Welkom bij Mi Music! Deze app biedt de volgende diensten:
 - Een lokale audiospeler
 - Online streamingdiensten"</string>
@@ -1256,10 +1326,10 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="pulluprefreshrecyclerview_loading_finished">Succesvol geladen</string>
     <string name="pulluprefreshrecyclerview_loading_running">Laden…</string>
     <string name="queue_is_empty">Afspeelwachtrij is leeg.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data>Lees en ga akkoord met het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacybeleid&lt;/a>&lt;/font> om online muziekservices te kunnen gebruiken.&lt;/Data></string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
-    <string name="read_and_agree_joox_protocol">&lt;Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>Ik heb de Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord&lt;/Data></string>
+    <string name="read_and_agree_asm_protocol"><Data>Lees en ga akkoord met het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">ASM Privacybeleid&lt;/a>&lt;/font> om online muziekservices te kunnen gebruiken.</Data></string>
+    <string name="read_and_agree_hungama_protocol"><Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>Ik heb het &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>Ik heb de Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Gebruikersovereenkomst&lt;/a>&lt;/font> en &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacybeleid&lt;/a>&lt;/font> gelezen en ga ermee akkoord</Data></string>
     <string name="read_and_agree_protocol">Lees en ga akkoord met onze Gebruikersovereenkomst en Privacybeleid voordat u doorgaat.</string>
     <string name="ready_to_play">Hierna</string>
     <string name="recently_played">Recent afgespeeld</string>
@@ -1417,6 +1487,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">Downloaden…</string>
     <string name="start_to_play">Voorbereiden om af te spelen…</string>
     <string name="start_update">Nieuwe versie installeren…</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">Opslag voor dubbele apps</string>
     <string name="storage_space_permissions_for_display">Toegang tot apparaatopslag: voor het scannen, weergeven en afspelen van lokale bestanden</string>
     <string name="streamloadingtext">Verbinding maken met %s</string>
@@ -1432,7 +1503,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="tab_artist">Artiesten</string>
     <string name="tab_artist_list">Artiesten</string>
     <string name="tab_chart">Charts</string>
-    <string name="tab_flow">Watch</string>
+    <string name="tab_flow">Kijk</string>
     <string name="tab_folder">Mappen</string>
     <string name="tab_playlist">Afspeellijsten</string>
     <string name="tab_top_results">Top resultaat</string>
@@ -1553,6 +1624,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="today">Vandaag</string>
     <string name="today_hot_playlist">De topafspeellijst van vandaag</string>
     <string name="tomorrow">Morgen</string>
+    <string name="tools_settings">Instellingen voor gereedschap</string>
     <string name="top_chart_title">Hitlijsten</string>
     <string name="track_play_history_after_login">Log in om de afspeelgeschiedenis te bekijken</string>
     <string name="tuesday">Dinsdag</string>
@@ -1579,6 +1651,7 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">Online nummers synchroniseren naar hungama om ze te kunnen openen op andere apparaten waarop u uw Xiaomi Account gebruikt.</string>
     <string name="upload_playlist_to_hungama_toast">Online nummers worden gesynchroniseerd met hungama</string>
     <string name="user_agreement">Gebruikersovereenkomst</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=nl_NL</string>
     <string name="user_experience_program_open">Vanwege copyrightbeperkingen moet u zich inschrijven voor het Gebruikerservaringprogramma om gedownloade nummers te kunnen afspelen. U kunt dit doen in Instellingen > Wachtwoorden en beveiliging > Privacy > Schrijf u in voor Gebruikerservaringprogramma.</string>
     <string name="user_playlist_plaza">Afspeellijsten</string>
     <string name="user_privacy_dialog_negative_text">Annuleren</string>
@@ -1653,4 +1726,5 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="youtube_tab_shorts">Korte video</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Trending</string>
+    <string name="ytb_turn_on_sound">Tik om geluid in te schakelen</string>
 </resources>

@@ -102,7 +102,7 @@
     <string name="error_p2p_create_group_failure_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
     <string name="error_p2p_recv_connect_timeout">Kon niet verbinden. Maak op beide apparaten opnieuw verbinding met wifi en probeer het opnieuw.</string>
     <string name="error_p2p_recv_connect_timeout_china">"Couldn't connect. Reconnect to WLAN on both devices and try again."</string>
-    <string name="error_permission_denied">Om deze functie te kunnen gebruiken, verleen Mi Share alle vereiste toestemmingen in de Instellingen.</string>
+    <string name="error_permission_denied">Om deze functie te kunnen gebruiken, verleen Xiaomi Share alle vereiste toestemmingen in de Instellingen.</string>
     <string name="error_receive_file_cannot_read">Kon bestand niet ontvangen</string>
     <string name="error_receive_file_changed">Kan niet ontvangen. Het bestand is gewijzigd.</string>
     <string name="error_receive_file_file_opened">Kan dit item niet ontvangen. Het lijkt erop dat het nu wordt gebruikt.</string>
@@ -121,8 +121,8 @@
     <string name="error_send_file_service_disabled">Uitgaande overdracht geannuleerd</string>
     <string name="error_send_transfer_error">Kon items niet verzenden. Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="error_send_transfer_pc_error">Transfer timed out. Update Xiaomi PC Manager to the latest version and try again.</string>
-    <string name="error_slave_wifi_in_use">Mi Share werkt niet wanneer duale Wifi is ingeschakeld. Schakel duale Wifi uit in de Instellingen en probeer opnieuw.</string>
-    <string name="error_slave_wifi_in_use_china">Mi Share werkt niet wanneer duale WLAN is ingeschakeld. Schakel duale WLAN uit in de Instellingen en probeer het opnieuw.</string>
+    <string name="error_slave_wifi_in_use">Xiaomi Share werkt niet wanneer duale Wifi is ingeschakeld. Schakel duale Wifi uit in de Instellingen en probeer opnieuw.</string>
+    <string name="error_slave_wifi_in_use_china">Xiaomi Share werkt niet wanneer duale WLAN is ingeschakeld. Schakel duale WLAN uit in de Instellingen en probeer het opnieuw.</string>
     <string name="error_timeout">Sessie verlopen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="error_user_refuse">Kon niet verzenden. Overdracht is geweigerd.</string>
     <string name="error_wifi_display_in_use">Kan tijdens het casten geen bestanden naar andere apparaten verzenden</string>
@@ -201,17 +201,17 @@
     <string name="go_to_settings">Instellingen</string>
     <string name="guide_summary_1">De andere persoon kan op de schakelaar in het Meldingenpaneel tikken</string>
     <string name="guide_summary_2">Selecteer het apparaat waarnaar u items wilt verzenden en tik op het icoon</string>
-    <string name="guide_title_1">Schakel Mi Share in op beide apparaten</string>
+    <string name="guide_title_1">Schakel Xiaomi Share in op beide apparaten</string>
     <string name="guide_title_2">Selecteer een apparaat om te delen</string>
     <string name="help">Kan geen apparaten vinden?</string>
-    <string name="help_content">Als u het gewenste apparaat niet kunt vinden, vraag dan de andere persoon om Mi Share in te schakelen.</string>
+    <string name="help_content">Als u het gewenste apparaat niet kunt vinden, vraag dan de andere persoon om Xiaomi Share in te schakelen.</string>
     <string name="hide">Verbergen</string>
     <string name="hisense">Hisense</string>
     <string name="hisense_phone">Hisense</string>
     <string name="i_know">Begrepen</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
-    <string name="location_enabled">Mi Share heeft locatieservices ingeschakeld om apparaten in de buurt te vinden</string>
+    <string name="location_enabled">Xiaomi Share heeft locatieservices ingeschakeld om apparaten in de buurt te vinden</string>
     <string name="meizu">Meizu</string>
     <string name="meizu_phone">Meizu</string>
     <string name="menu_item_permission_manager_and_use_guide_title">Toestemmingen details</string>
@@ -231,7 +231,7 @@
     <string name="mi_9_lite">Mi 9 Lite</string>
     <string name="mi_9t">Mi 9T</string>
     <string name="mi_9t_pro">Mi 9T Pro</string>
-    <string name="mi_drop">Mi Share</string>
+    <string name="mi_drop">Xiaomi Share</string>
     <string name="mi_note_10">Mi Note 10</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
@@ -239,14 +239,14 @@
     <string name="mi_share_turbo_mode">Turbo-overdracht</string>
     <string name="midnight">Nacht</string>
     <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
-    <string name="mishare_folder_in_file_explorer">Bestandsbeheer > MiShare</string>
-    <string name="mishare_service_channel_desc">Meldingen over Mi Share processen</string>
-    <string name="mishare_settings_summary_international">"Mi Share staat toe dat u items draadloos naar andere apparaten in de buurt verzend.
+    <string name="mishare_folder_in_file_explorer">Bestandsbeheer > Xiaomi Share</string>
+    <string name="mishare_service_channel_desc">Meldingen over Xiaomi Share processen</string>
+    <string name="mishare_settings_summary_international">"Xiaomi Share staat toe dat u items draadloos naar andere apparaten in de buurt verzend.
 Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabrikanten. U kunt de lijst met ondersteunde apparaten bekijken op de officiële website van elk geselecteerd merk."</string>
-    <string name="mishare_state_protection">Schakel Mi Share automatisch in</string>
-    <string name="mishare_state_protection_summary">Schakel Mi Share automatisch weer in wanneer Bluetooth of Wifi weer ingeschakeld is</string>
-    <string name="mishare_state_protection_summary_china">Schakel Mi Share automatisch weer in wanneer Bluetooth of WLAN weer ingeschakeld is</string>
-    <string name="mishare_transefer_channel_desc">Meldingen over items verzonden en ontvangen door Mi Share</string>
+    <string name="mishare_state_protection">Schakel Xiaomi Share automatisch in</string>
+    <string name="mishare_state_protection_summary">Schakel Xiaomi Share automatisch weer in wanneer Bluetooth of wifi weer ingeschakeld is</string>
+    <string name="mishare_state_protection_summary_china">Schakel Xiaomi Share automatisch weer in wanneer Bluetooth of WLAN weer ingeschakeld is</string>
+    <string name="mishare_transefer_channel_desc">Meldingen over items verzonden en ontvangen door Xiaomi Share</string>
     <string name="miuix_access_state_desc">Geselecteerd</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_action_mode_select_all">Alles selecteren</string>
@@ -317,8 +317,8 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="nfc_check_the_touch_device">Om de apparaten te verbinden, moeten wifi en Bluetooth ook op het andere apparaat zijn ingeschakeld. Controleer of verbinding voor het andere apparaat is toegestaan in Instellingen > Verbinding en delen > Verbonden apparaten en probeer het opnieuw.</string>
     <string name="nfc_check_the_touch_device_china">Om de apparaten te verbinden, moeten WLAN en Bluetooth ook op het andere apparaat zijn ingeschakeld. Controleer of verbinding voor het andere apparaat is toegestaan in Instellingen > Verbinding en delen > Verbonden apparaten en probeer het opnieuw.</string>
     <string name="nfc_connect_fail">Kon niet verbinden. Wacht een minuut of twee en probeer het opnieuw.</string>
-    <string name="nfc_connect_fail_lyra_secure">U kunt Mi Share inschakelen in het Controlecentrum van uw apparaat.</string>
-    <string name="nfc_connect_fail_lyra_secure_title">Mi Share is uitgeschakeld</string>
+    <string name="nfc_connect_fail_lyra_secure">U kunt Xiaomi Share inschakelen in het Controlecentrum van uw apparaat.</string>
+    <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share is uitgeschakeld</string>
     <string name="nfc_connect_fail_pad">Kon niet verbinden</string>
     <string name="nfc_connecting">Verbinden…</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Schakel eerst wifi en Bluetooth in op dit apparaat om de apparaten te verbinden. Nu inschakelen?</string>
@@ -344,16 +344,16 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="pc_device_model_name">Computer</string>
     <string name="pc_redmi_device_model_name">Redmi laptop</string>
     <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
-    <string name="permission_apply_purpose">Laat Mi Share apparaten in de buurt ontdekken en er verbinding mee maken, zodat het bestanden kan overbrengen.</string>
-    <string name="permission_denied_hint">Verleen de vereiste toestemmingen om Mi Share te kunnen gebruiken</string>
+    <string name="permission_apply_purpose">Laat Xiaomi Share apparaten in de buurt ontdekken en er verbinding mee maken, zodat het bestanden kan overbrengen.</string>
+    <string name="permission_denied_hint">Verleen de vereiste toestemmingen om Xiaomi Share te kunnen gebruiken</string>
     <string name="permission_related">Toestemmingen</string>
     <string name="pm">PM</string>
     <string name="preference_copied">"'%1$s' is gekopieerd naar het klembord."</string>
     <string name="privacy_authorize">Autorisatie</string>
     <string name="progress_ratio">%1$d%%</string>
-    <string name="purpose">"Welkom bij Mi Share! U kunt deze app gebruiken om bestanden tussen apparaten over te zetten. We beschermen uw persoonlijke informatie in overeenstemming met hiervan op toepassing zijnde wetten, reguleringen en beleid.
- Voordat u Mi Share gebruikt, dient u de volgende toestemmingen te verlenen, en het toestemming te geven om de benodigde persoonlijke informatie te verzamelen:"</string>
-    <string name="purpose_v12">Welkom bij Mi Share! U kunt deze app gebruiken om bestanden over te dragen tussen apparaten.</string>
+    <string name="purpose">"Welkom bij Xiaomi Share! U kunt deze app gebruiken om bestanden tussen apparaten over te zetten. We beschermen uw persoonlijke informatie in overeenstemming met hiervan op toepassing zijnde wetten, reguleringen en beleid.
+Voordat u Xiaomi Share gebruikt, dient u de volgende toestemmingen te verlenen, en het toestemming te geven om de benodigde persoonlijke informatie te verzamelen:"</string>
+    <string name="purpose_v12">Welkom bij Xiaomi Share! U kunt deze app gebruiken om bestanden over te dragen tussen apparaten.</string>
     <string name="queue_full">Voltooi huidige overdrachten voordat u nieuwe toevoegt.</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
@@ -435,7 +435,7 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sub_title_mishare_switch">Deze functie wordt automatisch uitgeschakeld na %d minuten</string>
     <string name="sub_title_turbo_mode">Supersnelle overdrachten tussen Xiaomi telefoons en tablets. Tijdens de overdracht wordt het netwerk verbroken.</string>
-    <string name="sub_title_withdraw_privacy_policy_consent">Als u uw toestemming voor het Privacybeleid intrekt, wordt Mi Share ook uitgeschakeld</string>
+    <string name="sub_title_withdraw_privacy_policy_consent">Als u uw toestemming voor het Privacybeleid intrekt, wordt Xiaomi Share ook uitgeschakeld</string>
     <string name="success_receive_much_file_from_pc">Meer dan %2$d bestanden ontvangen van %1$s. Tik om te bekijken.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Zondag</string>
@@ -495,22 +495,20 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="time_picker_label_minute">M</string>
     <string name="tips_p2p_support_use5g">Gebruik voor de beste resultaten een 5 GHz wifi-netwerk.</string>
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
-    <string name="tips_prompt_enable_midrop">Mi Share</string>
+    <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
     <string name="to_feedback">Rapporteren</string>
-    <string name="toast_auto_close_in_minutes">Mi Share wordt automatisch uitgeschakeld over %d minuten</string>
+    <string name="toast_auto_close_in_minutes">Xiaomi Share wordt over %d minuten automatisch uitgeschakeld</string>
     <string name="toast_transfering">Items overzetten. Probeer het later opnieuw.</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
     <string name="transfer_intercept_to_remote">Kon niet verzenden: %1$s</string>
-    <string name="transfer_to_pc_summary">De nieuwste versie van AIoT-software die is geïnstalleerd op Mi Notebooks is compatibel met Mi Share. U kunt de lijst met ondersteunde laptopmodellen bekijken op de MIUI-website. Als uw laptop in de lijst staat, maar AIoT is er niet op geïnstalleerd, werk dan het BIOS en netwerkadapterstuurprogramma van uw laptop bij en download AIoT.</string>
-    <string name="transfer_to_pc_summary_new">&lt;Data>De laatste versie van MIUI+ die op Mi Notebooks is geïnstalleerd, is compatibel met Mi Share. U kunt de lijst met ondersteunde laptopmodellen bekijken op de MIUI+ website (&lt;a href=%1$s>%2$s&lt;/a>). Als uw laptop op de lijst staat, maar MIUI+ er niet op is geïnstalleerd, werk dan het BIOS en de netwerkadapter driver bij en download MIUI+.&lt;/Data></string>
-    <string name="transfer_to_pc_summary_new_plus">&lt;Data>Xiaomi PC Manager now supports Mi Share! You can find a list of supported computer models &lt;a href=%1$s>here&lt;/a>.&lt;/Data></string>
+    <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager ondersteunt nu Xiaomi Share! Een lijst met ondersteunde computermodellen vindt u &lt;a href=%1$s>hier&lt;/a>.</Data></string>
     <string name="transfer_to_pc_title">Bestanden verzenden naar computers</string>
-    <string name="transfer_to_phone_summary">Schakel Mi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
-    <string name="transfer_to_phone_summary_new">Schakel Mi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
+    <string name="transfer_to_phone_summary">Schakel Xiaomi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
+    <string name="transfer_to_phone_summary_new">Schakel Xiaomi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
     <string name="transfer_to_phone_title">Bestanden naar telefoons verzenden</string>
-    <string name="transfer_to_summary">Schakel Mi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
-    <string name="transfer_to_summary_new">Schakel Mi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
+    <string name="transfer_to_summary">Schakel Xiaomi Share in met de schakelaar in het Meldingenpaneel. Daarna kunt u apparaten in de buurt zien wanneer u een foto of bestand begint te delen. Tik op het apparaat van de ontvanger om het item dat u deelt te verzenden.</string>
+    <string name="transfer_to_summary_new">Schakel Xiaomi Share in Controlecentrum in om eenvoudig items te kunnen verzenden en ontvangen. Nadat u het hebt aangezet, kunt u gedurende %d minuten items delen met apparaten in de buurt voordat het automatisch wordt uitgeschakeld.</string>
     <string name="transfer_to_title">Bestanden verzenden naar mobiele apparaten</string>
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
@@ -519,8 +517,8 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="unrecognized_manufacture">Onbekend</string>
     <string name="unrecognized_model">Onbekend apparaat</string>
     <string name="user_instructions">Let op</string>
-    <string name="uwb_guide_summary_1">Als u het doelapparaat niet kunt vinden, vraagt u de andere persoon om op de Mi Share schakelaar in hun Controlecentrum te tikken.</string>
-    <string name="uwb_guide_title_1">Vraag de andere persoon om Mi Share in te schakelen</string>
+    <string name="uwb_guide_summary_1">Als u het doelapparaat niet kunt vinden, vraagt u de andere persoon om op de Xiaomi Share schakelaar in hun Controlecentrum te tikken.</string>
+    <string name="uwb_guide_title_1">Vraag de andere persoon om Xiaomi Share in te schakelen</string>
     <string name="uwb_guide_title_2">Vind het doelapparaat sneller met Beam</string>
     <string name="uwb_setting_guide">Meer informatie</string>
     <string name="uwb_setting_guide_summary">Beam gebruikt UWB-technologie om doelapparaten draadloos te herkennen. Zodra het doelapparaat is herkend, komt het icoon op de voorgrond.</string>
@@ -542,7 +540,7 @@ Deze functie wordt ondersteund door OPPO, vivo, realme en andere smartphonefabri
     <string name="wifi_is_not_enabled">Schakel eerst wifi in</string>
     <string name="wifi_is_not_enabled_china">Schakel eerst WLAN in</string>
     <string name="withdraw">Intrekken</string>
-    <string name="withdraw_consent_message">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Mi Share in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien Mi Share zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van toestemming beschouwd als een weigering om Mi Share diensten te accepteren.</string>
+    <string name="withdraw_consent_message">Als u doorgaat, trekt u uw toestemming voor het Privacybeleid van Xiaomi Share in. De persoonlijke informatie die al is verzameld en bewaard, wordt binnen de specifieke periode verwijderd in overeenstemming met de toepasselijke wet- en regelgeving, tenzij anders vereist. Aangezien Xiaomi Share zijn diensten levert op basis van het verzamelen van de benodigde persoonlijke informatie, wordt uw intrekking van toestemming beschouwd als een weigering om Xiaomi Share diensten te accepteren.</string>
     <string name="withdraw_consent_title">Intrekking van toestemming</string>
     <string name="withdraw_with_time">Intrekken (%1$d s)</string>
     <string name="xiaomi">Mi</string>

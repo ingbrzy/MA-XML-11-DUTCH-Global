@@ -75,6 +75,7 @@
     <string name="ad_bar_notification_setting_title">Evenementen</string>
     <string name="ad_click_to_play">Tik om te spelen</string>
     <string name="ad_flag_text">Advertentie</string>
+    <string name="ad_topview_repeat_play">Tik om opnieuw af te spelen</string>
     <string name="add_local_shortcut_add">Toevoegen</string>
     <string name="add_local_shortcut_des">"Voeg \"Mijn video's\" toe aan het Startscherm om met één tik toegang te krijgen tot lokale videobestanden."</string>
     <string name="add_search_channel_link">URL</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">Vooruitspoelen</string>
     <string name="cast_forward_10">Tien seconden vooruitspoelen</string>
     <string name="cast_forward_30">Dertig seconden vooruitspoelen</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">LIVE</string>
     <string name="cast_mute">Dempen</string>
     <string name="cast_notification_connected_message">Verbonden met %1$s</string>
@@ -261,7 +263,7 @@ Verstuur deze code naar de leidinggevende."</string>
     <string name="dialog_cancel">Annuleren</string>
     <string name="dialog_clearn_content">Browsegeschiedenis nu wissen?</string>
     <string name="dialog_clearn_title">Geschiedenis wissen</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Toevoegen</string>
     <string name="dialog_delete_bookmarks_content">Bladwijzer nu verwijderen?</string>
     <string name="dialog_disagree_continue">Doorgaan</string>
     <string name="dialog_disagree_info">"Als u niet akkoord gaat met het Mi Video Privacybeleid, kunt u onze online services niet gebruiken en kunt u alleen video's bekijken die op uw apparaat zijn opgeslagen. Toch doorgaan?"</string>
@@ -330,6 +332,8 @@ Mi Video moet de nodige persoonlijke informatie verzamelen om u basisservices te
     <string name="download_unable_tip">Kan dit item niet downloaden</string>
     <string name="download_video">Video downloaden</string>
     <string name="downloading">Bezig met downloaden…</string>
+    <string name="draw_ad_button_click_text">Schud of tik om te openen</string>
+    <string name="draw_ad_button_slide_text">Schuif voor details</string>
     <string name="early_morning">Ochtend</string>
     <string name="empty" />
     <string name="empty_channels">Kanalen beheren</string>
@@ -414,14 +418,10 @@ Mi Video moet de nodige persoonlijke informatie verzamelen om u basisservices te
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Voer uw contactinformatie in</string>
     <string name="feedback_contact_title">Contactinformatie</string>
-    <string name="feedback_detail_input_hint">Voer uw bericht in</string>
-    <string name="feedback_hint">Beschrijf het probleem dat u bent tegengekomen.</string>
     <string name="feedback_hint_contact">Telefoon/QQ/E-mail</string>
     <string name="feedback_hint_text">Beschrijf het probleem dat u bent tegengekomen.</string>
-    <string name="feedback_input_tip">U kunt hier problemen beschrijven of suggesties geven.</string>
     <string name="feedback_net_error">Kon niet indienen. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="feedback_sent">Indienen</string>
-    <string name="feedback_success">Succesvol ingediend</string>
     <string name="feedback_success_toast">Succesvol ingediend. Bedankt voor uw feedback!</string>
     <string name="feedback_tag_title">Categorie</string>
     <string name="feedback_text_empty_toast">Geef eerst uw feedback.</string>
@@ -642,6 +642,7 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="hidden_channels">De volgende kanalen zullen niet op de Startpagina weergegeven worden.</string>
     <string name="hide">Verbergen</string>
     <string name="hide_video_toast">Dit item is verborgen. U kunt verborgen items vinden en beheren in Lokaal > Mappen > Verborgen items.</string>
+    <string name="hiding_dialog_ok">Instellen</string>
     <string name="hint_icon_ad_title">Aanbevolen</string>
     <string name="hint_in_mivideo">U kunt nu het zijpaneel controleren op aanvullende functies</string>
     <string name="history">Geschiedenis</string>
@@ -695,7 +696,6 @@ Deze bewerking heeft geen invloed op uw galerijfoto's."</string>
     <string name="inline_mute_click_tip">Tik om het dempen op te heffen</string>
     <string name="input_email_address_notice">We zullen deze e-mail gebruiken om uw account te verifiëren</string>
     <string name="input_new_pwd">Voer nieuw wachtwoord in</string>
-    <string name="input_size_tips_new">U kunt maximaal %d tekens invoeren</string>
     <string name="isornot_your_mi_account">Is dit uw Mi Account?</string>
     <string name="item_card_all_replies">Alle reacties</string>
     <string name="item_card_continue_play">Automatisch afspelen</string>
@@ -799,7 +799,6 @@ voor video's"</string>
     <string name="local_zoom_adjust_button">Weergavemodus wisselen</string>
     <string name="lock_screen">Vergrendelscherm</string>
     <string name="login">Aanmelden</string>
-    <string name="login_tip">Meld u aan om antwoorden op uw feedback te kunnen ontvangen.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">Afmelden</string>
     <string name="logout_account">Afmelden</string>
@@ -887,6 +886,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="manager_request_continue">Toestaan</string>
     <string name="manager_request_tip">Niet meer tonen</string>
     <string name="manager_request_title">Geen toegang tot dit bestand</string>
+    <string name="mangotv_episode">Aflevering %d</string>
     <string name="mangotv_feature_list_title3">Aflevering %s toegevoegd</string>
     <string name="mangotv_feature_more">Meer</string>
     <string name="mangotv_feature_title1">Afleveringen</string>
@@ -916,11 +916,13 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
     <string name="miuix_appcompat_select_all_description">Alles selecteren</string>
     <string name="miuix_appcompat_select_item">Selecteer items</string>
+    <string name="miuix_dialog_ok">OK</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Sleep omlaag om te vernieuwen</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Succesvol vernieuwd</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Vernieuwen…</string>
@@ -1016,6 +1018,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -1045,7 +1048,6 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="music_new_user_dialog_got_it">Begrepen</string>
     <string name="music_new_user_dialog_tip">Welkom bij Mi Video! Deze app biedt een lokale videospeler en online muziek- en videostreamingdiensten.</string>
     <string name="my_favorite_channels">Mijn favoriete kanalen</string>
-    <string name="my_feedback_title">Mijn feedback</string>
     <string name="native_body">Tekstgedeelte</string>
     <string name="native_headline">Kop</string>
     <string name="native_media_view">Mediacontent</string>
@@ -1056,6 +1058,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="network_failed">Kon niet verbinden met het netwerk</string>
     <string name="newyearfestival_go_to_draw_prizes">Ga naar de lotterij</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">"Bekijk video's om mee te doen aan de lotterij"</string>
+    <string name="next_button">Volgende</string>
     <string name="nick_name">Bijnaam</string>
     <string name="night">Avond</string>
     <string name="no_account">Niet aangemeld</string>
@@ -1105,6 +1108,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="online_play_start_ready_loading_tip_kb">Laden %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">Laden %.2f MB/s</string>
     <string name="online_play_title">Voer URL in</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Recente abonnementen</string>
     <string name="order_recently_updated">Recent geüpdatet</string>
     <string name="out_of_memory_background_playback_is_suspended">Afspelen op de achtergrond onderbroken vanwege onvoldoende geheugen</string>
@@ -1133,7 +1137,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="ovp_resolution_not_support">Kan de resolutie van deze video niet wijzigen</string>
     <string name="ovp_resolution_title">Resolutie</string>
     <string name="ovp_setting_clear_cache_success">Succesvol cache gewist</string>
-    <string name="ovp_setting_clear_cache_text">Wis cache bestanden die op uw apparaat zijn opgeslagen</string>
+    <string name="ovp_setting_clear_cache_text">Wis cachebestanden die op uw apparaat zijn opgeslagen</string>
     <string name="ovp_setting_privacy_policy_title">Privacybeleid</string>
     <string name="ovp_setting_user_agreement_title">Gebruikersovereenkomst</string>
     <string name="ovp_start_error_msg">Deze video kan niet worden afgespeeld</string>
@@ -1241,6 +1245,8 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="photoPickerNotFoundText">"Geen foto's beschikbaar."</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Werk bij naar de nieuwste systeemversie om Afbeelding-in-Afbeelding te kunnen gebruiken.</string>
+    <string name="play_at_normal_speed">Afspelen op 1X snelheid</string>
+    <string name="play_at_speed">Afspelen op %.1fX snelheid</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Afspeellijst maken</string>
     <string name="play_list_save_dialog_title">Aan afspeellijst toevoegen</string>
@@ -1402,7 +1408,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="question_step">Overslaan</string>
     <string name="recommend_channels">Aanbevolen kanalen</string>
     <string name="recommend_online_switch">Online aanbevelingen</string>
-    <string name="recommend_online_tips">Schakel in om online video aanbevelingen te ontvangen</string>
+    <string name="recommend_online_tips">Schakel in om online video-aanbevelingen te ontvangen</string>
     <string name="recommend_slide_to_more">Veeg voor meer</string>
     <string name="recommend_switch_alert">Om deze sectie te verwijderen, ga naar instellingen in Mi Video</string>
     <string name="recommend_to_you">Aanbevolen voor jou</string>
@@ -1412,6 +1418,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="remaining_space_not_enough">Kan niet downloaden vanwege onvoldoende opslagruimte</string>
     <string name="reminder">Let op</string>
     <string name="rename">Hernoemen</string>
+    <string name="rename_dialog_ok">OK</string>
     <string name="rename_word_out">Deze bestandsnaam is te lang</string>
     <string name="report">Rapporteren</string>
     <string name="report_content_dislike">Geweld of ongepast gedrag</string>
@@ -1480,6 +1487,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="shake_to_open_ad">Schud voor meer informatie</string>
     <string name="share">Delen</string>
     <string name="share_text_before_link">"Bekijk en download gratis geweldige video's op Mi Video"</string>
+    <string name="share_title">Delen</string>
     <string name="share_ugc_waitting">Link genereren…</string>
     <string name="shorts_assemble_ad_recommend">Aanbevolen</string>
     <string name="show_the_location">Soorten meldingen</string>
@@ -1494,6 +1502,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="slide_or_click_to_open_ad">Schuif of tik voor meer informatie</string>
     <string name="slide_save_message">Video genereren…</string>
     <string name="slide_to_open_ad">Schuif voor meer informatie</string>
+    <string name="small_mango_play_next_episode">Volgende aflevering</string>
     <string name="small_video_load_more_hint">"Veeg omhoog om meer video's af te spelen"</string>
     <string name="small_video_report">Rapporteren</string>
     <string name="small_video_report_dialog_title">Selecteer een reden</string>
@@ -1506,9 +1515,9 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="sns_sign_in">Andere manieren om aan te melden</string>
     <string name="source">"Bron: "</string>
     <string name="start_download_tip">Toegevoegd aan wachtrij. Bekijk de voortgang in Profiel > Downloads.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD-kaart</string>
     <string name="storage_internal_sdcard">Interne opslag</string>
-    <string name="submit">Indienen</string>
     <string name="subscribe">ABONNEREN</string>
     <string name="subscribe_author_recommend_btn">Abonneren</string>
     <string name="subscribe_author_recommend_title">"Abonneer u om de nieuwste video's van deze makers te zien"</string>
@@ -1528,6 +1537,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="sunday_short">Zo</string>
     <string name="sunday_shortest">Zon</string>
     <string name="sure_to_logout">Nu afmelden?</string>
+    <string name="swipe_to_exit">Veeg nog een keer om af te sluiten</string>
     <string name="switch_ratio_pause">De afspeelsnelheid is onstabiel. Schakel terug naar de standaard afspeelsnelheid.</string>
     <string name="sync_favorites_limit_new">"Er zijn meer dan %d video's in uw favorieten. We zullen een aantal eerdere video's moeten verwijderen om door te gaan met synchroniseren."</string>
     <string name="sync_favorites_message">Favorieten van dit apparaat synchroniseren met uw account? Items die niet meer beschikbaar zijn zullen verwijderd worden.</string>
@@ -1654,7 +1664,6 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">Deze beloning is momenteel niet beschikbaar. Probeer het later opnieuw.</string>
     <string name="toast_m3u8_download_path_tip">Kan het downloadpad voor inhoud in m3u8-formaat niet wijzigen</string>
     <string name="toast_play_error_tip">Kan dit bestand niet afspelen</string>
-    <string name="toast_request_too_frequently">Niet zo snel!</string>
     <string name="toast_share_failed">Kon niet delen. Wacht een paar minuten en probeer het opnieuw.</string>
     <string name="today">Vandaag</string>
     <string name="tomorrow">Morgen</string>
@@ -1663,9 +1672,6 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="tuesday">Dinsdag</string>
     <string name="tuesday_short">Di</string>
     <string name="tuesday_shortest">Di</string>
-    <string name="type_content">Inhoud</string>
-    <string name="type_issue">Probleem</string>
-    <string name="type_suggestion">Suggestie</string>
     <string name="ugc_no_net">Kon niet verbinden met het netwerk. Controleer uw netwerkinstellingen en probeer het opnieuw.</string>
     <string name="ui_common_title_back">Terug</string>
     <string name="unknow">Onbekend</string>
@@ -1690,7 +1696,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="v_menu_hide">Verbergen</string>
     <string name="v_more">Meer</string>
     <string name="v_next">Volgende</string>
-    <string name="v_ok">OK</string>
+    <string name="v_ok">Volgende</string>
     <string name="v_online_play">Online streamen</string>
     <string name="v_pw_need_update_app">Werk Mi Video bij om alle functies te gebruiken</string>
     <string name="v_save">Opslaan</string>
@@ -1701,6 +1707,7 @@ We gebruiken deze toestemming alleen om de video's te vinden waarnaar u zoekt en
     <string name="video_download_fail">Kon video niet downloaden</string>
     <string name="video_download_fail_hint">Kon niet downloaden</string>
     <string name="video_download_floating_guide">"Download gratis video's"</string>
+    <string name="video_download_folder">"Gedownloade video's"</string>
     <string name="video_download_folder_title">Mi Video downloads</string>
     <string name="video_download_forbidden">Kan niet downloaden van deze website</string>
     <string name="video_download_login_guide">"Log in bij %s om video's te kunnen downloaden"</string>

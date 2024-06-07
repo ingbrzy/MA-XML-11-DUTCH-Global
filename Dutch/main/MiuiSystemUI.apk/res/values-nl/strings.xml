@@ -1223,6 +1223,7 @@ Neem contact op met je IT-beheerder voor meer informatie."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Je persoonlijke apps hebben verbinding met internet via %1$s. Je netwerkactiviteit, waaronder e-mails en browsegegevens, is zichtbaar voor je VPN-provider.</string>
     <string name="monitoring_description_two_named_vpns">Dit apparaat heeft verbinding met internet via %1$s en %2$s. Je netwerkactiviteit, waaronder e-mails en browsegegevens, is zichtbaar voor je IT-beheerder.</string>
     <string name="monitoring_description_vpn_settings">VPN-instellingen openen</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s kan mogelijk toegang krijgen tot gegevens die aan dit apparaat zijn gekoppeld, apps beheren en de instellingen van dit apparaat wijzigen.
 
 Als je vragen hebt, kun je contact opnemen met %2$s."</string>
@@ -1422,6 +1423,8 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>Selecteer &lt;font color=#a5220e>\"Wis en Reset\"&lt;/font> en wacht totdat het apparaat opnieuw opstart.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">Hoe gegevens wissen?</string>
     <string name="phone_locked_string">Dit apparaat is vergrendeld</string>
+    <string name="pin_toast">Schuif omhoog vanaf de onderkant van het scherm en pauzeer om deze app los te maken</string>
+    <string name="pin_toast_nav">Houd de knoppen Vorige en Preview ingedrukt om deze app los te maken</string>
     <string name="pip_close">Sluiten</string>
     <string name="pip_collapse">Samenvouwen</string>
     <string name="pip_edu_text">Druk 2 keer op <annotation icon="home_icon">HOME</annotation> voor bedieningsopties</string>
@@ -1823,6 +1826,8 @@ Als je vragen hebt, kun je contact opnemen met %2$s."</string>
     <string name="status_bar_clock_date_format_12">E d MMM</string>
     <string name="status_bar_clock_date_time_format">H:mm E d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E d MMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Scherm automatisch draaien</string>
     <string name="status_bar_work">Werkprofiel</string>

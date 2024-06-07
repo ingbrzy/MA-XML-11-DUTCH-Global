@@ -353,6 +353,7 @@
     <string name="gadget_search_label">Zoeken</string>
     <string name="gadget_weather_title">Weer</string>
     <string name="global_search">Zoeken</string>
+    <string name="global_shelf">App-zoeker</string>
     <string name="got_it_botton">Begrepen</string>
     <string name="guide_install_app_msg">Deze app is niet op uw apparaat geïnstalleerd. De app nu zoeken en installeren?</string>
     <string name="guide_install_app_title">App zoeken en installeren?</string>
@@ -360,6 +361,7 @@
     <string name="guide_privacy_dialog_title">Servicevoorwaarden</string>
     <string name="home_gesture_content_center">Contentcentrum</string>
     <string name="home_gesture_global_search">Zoeken</string>
+    <string name="home_gesture_global_shelf">App-zoeker</string>
     <string name="home_gesture_no_action">Geen</string>
     <string name="home_gesture_notification_and_control_center">Meldingenpaneel en Controlecentrum</string>
     <string name="home_gesture_notification_bar">Meldingen</string>
@@ -378,7 +380,7 @@
     <string name="international_home_pull_down_sub_content">U kunt dit gebaar omschakelen om in plaats daarvan het Controlecentrum te openen in Instellingen > Startscherm > Veeg omlaag op het Startscherm.</string>
     <string name="international_home_pull_down_up_btn_get">Begrepen</string>
     <string name="international_home_pull_up_content">Veeg omhoog op het Startscherm om Contentcentrum te openen.</string>
-    <string name="international_home_pull_up_sub_content">Om zoeken te openen, veegt u omlaag vanuit het midden van uw Startscherm.</string>
+    <string name="international_home_pull_up_sub_content">Om apps en app-suggesties te vinden, veegt u vanuit het midden van uw Startscherm omlaag.</string>
     <string name="item_view_role_description">Tabblad</string>
     <string name="jeejen_description">"Grotere UI-elementen.
 Meer toegankelijk bellen.
@@ -443,7 +445,7 @@ Verbeterde beveiliging."</string>
     <string name="mi_wallpaper">"MIUI Thema's"</string>
     <string name="midnight">Nacht</string>
     <string name="minus_one_screen">App-kluis</string>
-    <string name="miui_screen_config_title">Startscherm instellingen</string>
+    <string name="miui_screen_config_title">Startscherm lay-out</string>
     <string name="miui_setting_config_title">Startscherm instellingen</string>
     <string name="miui_widget_menu_replace_text">Vervangen</string>
     <string name="miui_widget_toast_for_not_support_by_pa">App-kluis ondersteunt geen widgets van dit formaat</string>
@@ -519,6 +521,7 @@ Verbeterde beveiliging."</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -648,8 +651,9 @@ Verbeterde beveiliging."</string>
     <string name="recent_menu_item_info">Informatie</string>
     <string name="recent_menu_item_lock">Vergrendelen</string>
     <string name="recent_menu_item_unlock">Ontgrendelen</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">App-taken overzetten</string>
+    <string name="recent_menu_item_worldcirculate_disable">Kan app-taken niet overdragen tussen verbonden apparaten</string>
+    <string name="recent_pin_text">Vastmaken</string>
     <string name="recents_app_info_button_label">App-info</string>
     <string name="recents_config_title">Recent</string>
     <string name="recents_dimiss_task">Wissen</string>
@@ -731,6 +735,7 @@ Verbeterde beveiliging."</string>
     <string name="small_window">Zwevend venster</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="start_new_window">Nieuw venster</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s van %2$s beschikbaar</string>
     <string name="status_bar_recent_memory_info2" />
@@ -748,8 +753,10 @@ Verbeterde beveiliging."</string>
     <string name="switch_personal_assistant_app_vault">App-kluis</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Geen</string>
+    <string name="switch_personal_assistant_summary">Veeg naar rechts op het Startscherm om Google Discover te openen</string>
     <string name="switch_screen_button_order">Knoppen spiegelen</string>
     <string name="switch_screen_button_order_desc">Terug- en Menu-knop spiegelen</string>
+    <string name="system_sdk_disabled_toast">Systeem SDK is uitgeschakeld. Schakel het eerst in.</string>
     <string name="system_shortcuts_edit">Bewerken</string>
     <string name="system_shortcuts_icon_remove">Verwijderen</string>
     <string name="system_shortcuts_more_operation">App-info</string>

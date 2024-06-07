@@ -88,6 +88,7 @@ Controleer de Instellingen voor details."</string>
     <string name="fast_connect_device_battery">Batterij</string>
     <string name="fast_connect_device_box">Oplaadetui</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
+    <string name="fast_connect_device_button_audio_share_fail">Begrepen</string>
     <string name="fast_connect_device_connect_cancel">Annuleren</string>
     <string name="fast_connect_device_connect_ok">Verbinden</string>
     <string name="fast_connect_device_connect_retry">Opnieuw proberen</string>
@@ -96,6 +97,12 @@ Controleer de Instellingen voor details."</string>
     <string name="fast_connect_device_headset_l">Links</string>
     <string name="fast_connect_device_headset_r">Rechts</string>
     <string name="fast_connect_device_headset_reset">Houd de knop op de oplaadetui ingedrukt</string>
+    <string name="fast_connect_device_message_audio_share">Deel de audio van dit apparaat met dit paar oortelefoons</string>
+    <string name="fast_connect_device_replace_current_device">Wissel van apparaat</string>
+    <string name="fast_connect_device_start_audio_share">Delen</string>
+    <string name="fast_connect_device_title_audio_share">Luister samen met %1$s</string>
+    <string name="fast_connect_device_title_audio_share_fail">Kon geen verbinding maken met %1$s. Probeer het opnieuw.</string>
+    <string name="fast_connect_device_title_audio_share_success">Samen luisteren met %1$s</string>
     <string name="fast_connect_device_title_connect_fail">Kan niet verbinden met %1$s</string>
     <string name="fast_connect_device_title_connecting">Verbinden…</string>
     <string name="fast_connect_device_title_find_headset">Zoeken %1$s</string>

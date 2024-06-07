@@ -9,7 +9,7 @@
     <string name="abc_action_bar_up_description">Omhoog navigeren</string>
     <string name="abc_action_menu_overflow_description">Meer opties</string>
     <string name="abc_action_mode_done">Klaar</string>
-    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activity_chooser_view_see_all">Alles tonen</string>
     <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
     <string name="abc_capital_off">UIT</string>
     <string name="abc_capital_on">AAN</string>
@@ -253,7 +253,9 @@
     <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -388,12 +390,14 @@
     <string name="humidity_format_with_unit">%s</string>
     <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="icon_size">Icoon grootte</string>
+    <string name="icon_style">Iconen</string>
     <string name="in_the_end">Niets om weer te geven</string>
     <string name="incompatible_dialog_cancel">Kan niet toepassen</string>
     <string name="incompatible_dialog_message">Dit thema is niet compatibel met de systeemversie van uw apparaat. Sommige systeemfuncties werken mogelijk niet correct als u dit thema toepast.</string>
     <string name="incompatible_dialog_ok">Begrepen</string>
     <string name="incompatible_dialog_title">Compatibiliteitsproblemen</string>
     <string name="is_setting_wallpaper_message">Achtergrond instellen…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Wekkers</string>
     <string name="item_resource_audio_optional_color_ring">Terugbeltoon</string>
     <string name="item_resource_audio_optional_notification_ring">Meldingen</string>
@@ -486,6 +490,7 @@ mm"</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
@@ -563,6 +568,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -627,6 +633,9 @@ mm"</string>
     <string name="normal_temperature_format">%1$s° %2$s</string>
     <string name="not_prompt_again">Niet meer tonen</string>
     <string name="not_set">Niet ingesteld</string>
+    <string name="notifications_permission_confirm">Toestaan</string>
+    <string name="notifications_permission_decline">Niet toestaan</string>
+    <string name="notifications_permission_title">App toestaan om je meldingen te sturen?</string>
     <string name="notify_style">Meldingseffecten</string>
     <string name="offline_notification_text">Tik om advertentie te openen</string>
     <string name="offline_notification_title">De advertentie bekijken die je hebt opgeslagen toen je offline was</string>
@@ -831,6 +840,7 @@ mm"</string>
     <string name="resource_pack_price_info">Originele prijs: %1$s</string>
     <string name="resource_pack_warning">U heeft al %1$d onderdelen van dit thema gekocht. Het is goedkoper om de resterende onderdelen per stuk te kopen.</string>
     <string name="resource_present">Cadeau</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Gratis</string>
     <string name="resource_price_unit">mi Credits</string>
     <string name="resource_purchase_common_error">Er is een fout opgetreden, probeer het opnieuw</string>
@@ -968,6 +978,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">Voelt als %s°</string>
     <string name="special_topic">Categorieën</string>
     <string name="start_all">Alles hervatten</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">Toepassen</string>
     <string name="storage_file">Voor het opslaan van gedownloade items</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1100,6 +1111,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">Opslaan op SD kaart</string>
     <string name="theme_is_external_priority_storage_summary">"Thema's app zal direct opnieuw opstarten om deze instelling toe te passen."</string>
     <string name="theme_multiple_button_title_customize">Aanpassen</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">Nee</string>
     <string name="theme_on_the_phone_alert">Kan niet afspelen tijdens oproepen</string>
     <string name="theme_recommend">"Vergelijkbare thema's"</string>

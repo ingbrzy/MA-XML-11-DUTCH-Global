@@ -343,6 +343,9 @@
     <string name="app_manager_copy_pkg_to_clip">Gekopieerd naar klembord</string>
     <string name="app_manager_data_size">Gebruikersgegevens</string>
     <string name="app_manager_default_cleared">Gewist</string>
+    <string name="app_manager_default_close_summary">Geen standaardnormen ingesteld.</string>
+    <string name="app_manager_default_open_summary">U hebt ervoor gekozen om deze app standaard te starten voor sommige acties.</string>
+    <string name="app_manager_default_open_title">Standaardwaarden wissen</string>
     <string name="app_manager_defaults_setting">Standaard apps</string>
     <string name="app_manager_details_electric_title">Batterij</string>
     <string name="app_manager_details_storage_title">Opslag</string>
@@ -533,7 +536,7 @@ U zult geen app-gegevens verliezen."</string>
     <string name="applock_no_account_login">U bent niet aangemeld bij uw Xiaomi Account</string>
     <string name="applock_not_add_account"><u>Niet nu</u></string>
     <string name="applock_not_add_account_normal">Voeg geen account toe</string>
-    <string name="applock_not_login_account">Je bent niet aangemeld</string>
+    <string name="applock_not_login_account">U bent niet aangemeld</string>
     <string name="applock_numeric_pwd_type_line">Totaal aantal cijfers in het wachtwoord: %1$d. Ingevoerde cijfers: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Ontgrendel apps door simpelweg naar het scherm te kijken</string>
     <string name="applock_operate_faceunlock_title">Gezichtsgegevens gebruiken</string>
@@ -968,6 +971,7 @@ Sommige van uw transacties zijn echter nog niet voltooid. Om uw toestemming in t
     <string name="card_main_private_space_summary">Als u Tweede ruimte gebruikt, is het alsof u 2 toestellen heeft</string>
     <string name="card_main_private_space_title">Tweede ruimte</string>
     <string name="card_main_sectool_title">Hulpmiddelen</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">"Video's beheren"</string>
     <string name="card_main_whatsappclean_title">Whatsapp opruimer</string>
     <string name="card_main_xspace_action">Aanmaken</string>
@@ -1337,6 +1341,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="dynamic_performance_optimization_title">Dynamische prestatie</string>
     <string name="early_morning">Ochtend</string>
     <string name="edit_phone_num">SIM-telefoonnummer bewerken</string>
+    <string name="ellipsis">…</string>
     <string name="email">E-mail</string>
     <string name="empty" />
     <string name="empty_app">Geen apps</string>
@@ -1414,7 +1419,9 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="exo_download_paused_for_wifi">Downloads wachten op wifi</string>
     <string name="exo_download_removing">Downloads verwijderen</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternatief</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Commentaar</string>
@@ -1601,6 +1608,7 @@ Het nummer zal worden toegevoegd aan de uitzonderingen, maar eerder geblokkeerde
     <string name="fod_finger_notice_title">Plaats uw vinger op het scherm</string>
     <string name="fod_finger_windows_tips">Verifieer uw vingerafdruk</string>
     <string name="fod_tips_split_screen_more_than_half">Wachtwoord invoeren</string>
+    <string name="fold_application_mode_name">App-layouts</string>
     <string name="forbid_autobright_summary">Automatische helderheid zal uitgeschakeld worden wanneer u speelt en weer ingeschakeld worden wanneer u klaar bent met spelen</string>
     <string name="forbid_autobright_title">Los schermhelderheid op</string>
     <string name="foreground_traffic">Voorgrond %s</string>
@@ -2599,6 +2607,7 @@ Uw apparaat is %s sneller nu."</string>
     <string name="menu_text_license_manager">Toestemmingen</string>
     <string name="menu_text_networkassistants">Datagebruik</string>
     <string name="menu_text_networkassistants_danger">%s te veel</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s resterend</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2607,6 +2616,7 @@ Uw apparaat is %s sneller nu."</string>
     <string name="menu_text_optimize_manage">Boost snelheid</string>
     <string name="menu_text_optimize_manage_1">Boost snelheid</string>
     <string name="menu_text_power_manager">Batterij</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">Verwijderen uit uitzonderingen</string>
     <string name="menu_white">Voeg toe aan uitzonderingen</string>
     <string name="mi_ime_not_used">Gebruik een toetsenbord dat is geautoriseerd door Xiaomi</string>
@@ -2715,6 +2725,7 @@ Uw apparaat is %s sneller nu."</string>
     <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
     <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
     <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
     <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
@@ -3246,7 +3257,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pc_wireless_charging_special_stand_summary2">Installeer uw apparaat op de standaard die bij uw draadloze oplader is geleverd voor de beste oplaadprestaties</string>
     <string name="pc_wireless_charging_special_stand_title">Gebruik de meegeleverde oplaadstandaard</string>
     <string name="pc_wireless_handle_connected">Apparaat verbonden</string>
-    <string name="pc_wireless_handle_title">Draadloze cameragrip</string>
+    <string name="pc_wireless_handle_title">Cameragrip</string>
     <string name="pc_work_in_save_mode">Batterijbesparing</string>
     <string name="pc_work_in_super_save_mode">Ultra batterijbesparing</string>
     <string name="pc_xiaoai_create_auto_task">Nieuwe taak van Mi AI</string>
@@ -3426,7 +3437,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pm_remember_choice">Mijn keuze onthouden</string>
     <string name="pm_root_success_notification_infomation">"Zorg ervoor dat u de risico's begrijpt die verbonden zijn met root toegang"</string>
     <string name="pm_root_success_notification_title">Root-toegang toegestaan</string>
-    <string name="popular_action_anti_spam_title_global">Blokkeer oproepen en berichten</string>
+    <string name="popular_action_anti_spam_title_global">Block spam calls</string>
     <string name="popular_action_app_lock_title_global">Bescherm apps met Appvergrendeling</string>
     <string name="popular_action_card_title">Populaire functies</string>
     <string name="popular_action_first_aid_title_global">Voor nieuwe gebruikers</string>
@@ -3482,6 +3493,11 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="power_center_dialog_msg_top">Als Batterijbesparing is ingeschakeld, worden de volgende optimalisaties uitgevoerd:</string>
     <string name="power_center_hints_scan_danger_result">U kunt nu batterijproblemen oplossen</string>
     <string name="power_center_list_item_auto_brightness">Pas helderheid van het scherm automatisch aan</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
+    <string name="power_center_list_item_battery_status_capacity">mAh</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">u</string>
     <string name="power_center_list_item_close_bluetooth">Bluetooth uitschakelen</string>
     <string name="power_center_list_item_deep_save_title">Geavanceerde instellingen</string>
@@ -3794,6 +3810,7 @@ Probeer een andere ethernetkabel om je router aan te sluiten. Als je vermoedt da
     <string name="pref_normal_traffic_limit">Wanneer het data-abonnement verbruikt is</string>
     <string name="pref_open_adjust_traffic">Werk het datagebruik elke dag bij met behulp van statistieken van je provider</string>
     <string name="pref_operator_not_set">Provider is niet ingesteld</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">Wanneer u over uw data-abonnement gaat</string>
     <string name="pref_package_traffic_settings">Data-abonnement</string>
     <string name="pref_pkg_begin_date">Gebruik reset datum</string>
@@ -4094,6 +4111,7 @@ Toestemming nu intrekken?"</string>
     <string name="privacy_using_record">Audio opnemen</string>
     <string name="privacyapp_number_masked_text">Meldingsinhoud is verborgen</string>
     <string name="privacyapp_number_unmasked_text">Meldingsinhoud kan worden verborgen</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_vpnsdkmanager_label">Game Turbo</string>
     <string name="promotion">Advertentie</string>
@@ -5329,7 +5347,7 @@ Als u het ene inschakelt, wordt het andere uitgeschakeld."</string>
     <string name="vb_video_effects_spatial_summary_new">Ervaar een verbeterd gevoel van ruimte en richting voor ondersteunde audio bij gebruik van hoofdtelefoons</string>
     <string name="vb_video_effects_srs_premium_sound">Geluid</string>
     <string name="vb_video_super_division">Opschalen</string>
-    <string name="vb_video_super_division_desc">"Schaal de resolutie automatisch op wanneer deze ≤720p is.
+    <string name="vb_video_super_division_desc">"Schaal de resolutie automatisch op wanneer deze ≤720P is.
 
 Het gebruik van deze functie verhoogt het stroomverbruik.
 
@@ -5379,6 +5397,7 @@ Probeer de resolutie op te schalen!"</string>
     <string name="virus_update_tips_title">Waarschuwing</string>
     <string name="virus_wait_network_dialog_message">Je telefoon is nu niet verbonden met Wifi. Mobiele dataverbinding gebruiken?</string>
     <string name="vtb_ai_subtitle">Ondertitels</string>
+    <string name="vtb_ai_subtitle_intl">AI-ondertiteling</string>
     <string name="vtb_func_desc">Over deze functie</string>
     <string name="vtb_func_display_style_desc0">"AI kan mensen, dieren, planten, lucht, gebouwen en andere objecten in video's herkennen en deze dynamisch verbeteren."</string>
     <string name="vtb_func_display_style_desc1">"Geselecteerde effecten worden niet toegepast op HDR-video's op geselecteerde apparaten."</string>

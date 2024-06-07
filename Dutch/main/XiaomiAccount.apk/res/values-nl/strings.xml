@@ -53,7 +53,7 @@
     <string name="account_token_expired_msg">"Verificatiecode verlopen, start opnieuw of log uit
  Uw account ID: %s"</string>
     <string name="account_token_expired_title">Kan niet authenticeren</string>
-    <string name="account_user_avatar">Profiel foto</string>
+    <string name="account_user_avatar">Profielfoto</string>
     <string name="account_user_avatar_activity_not_found">Kon Galerij niet openen</string>
     <string name="account_user_avatar_from_album">Selecteer foto</string>
     <string name="account_user_avatar_from_camera">Foto nemen</string>
@@ -93,18 +93,14 @@
     <string name="binded">Verbonden</string>
     <string name="binded_description" formatted="false">"%s is verbonden aan uw Xiaomi Account.
 U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
-    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
     <string name="button_agree">Akkoord</string>
     <string name="button_close">Afsluiten</string>
     <string name="button_refuse">Niet akkoord</string>
     <string name="button_unbind">Verbinding verbreken</string>
     <string name="cancel">Annuleren</string>
     <string name="change_password">Wachtwoord wijzigen</string>
-    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
-    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
     <string name="check_apk_update">Controleren op updates</string>
     <string name="child_account_system_ad_disable_hint">Deze functie is niet beschikbaar voor kinderaccounts</string>
-    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
     <string name="clearable_edittext_clear_description">Opschonen</string>
     <string name="close">Sluiten</string>
     <string name="close_drawer">Navigatiemenu sluiten</string>
@@ -208,13 +204,11 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="eras_ad">n.C.</string>
     <string name="eras_bc">v.C.</string>
     <string name="error_dup_binded_email">Dit e-mailadres is al gekoppeld aan een andere Xiaomi Account.</string>
-    <string name="error_icon_content_description">Fout</string>
     <string name="error_invalid_bind_address">Het ingevoerde e-mailadres is ongeldig.</string>
     <string name="evening">Middag</string>
     <string name="exceed_binded_phone_times_notice">Dit telefoonnummer is al gekoppeld aan een andere Xiaomi Account.</string>
     <string name="exit">Sluiten</string>
     <string name="expand_button_title">Geavanceerd</string>
-    <string name="exposed_dropdown_menu_content_description">Dropdownmenu weergeven</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Aanmelden met Facebook</string>
     <string name="failed_dup_secure_phone_number">Dit telefoonnummer is al gekoppeld aan een andere Xiaomi Account</string>
@@ -341,7 +335,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="help_center">Help</string>
     <string name="i_agree">OК</string>
     <string name="i_agree_continue">Akkoord</string>
-    <string name="icon_content_description">Icoon voor dialoogvenster</string>
     <string name="identity">Identificatie</string>
     <string name="in_progress">Bezig</string>
     <string name="inconsistent_pwd">Wachtwoorden komen niet overeen</string>
@@ -350,7 +343,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="input_new_pwd">Voer uw nieuwe wachtwoord in</string>
     <string name="input_ps">Wachtwoord invoeren</string>
     <string name="io_error_title">Bevestig uw netwerk</string>
-    <string name="item_view_role_description">Tabblad</string>
     <string name="just_a_second">Een ogenblik geduld…</string>
     <string name="keep_phone_ticket_login">Log in met verificatiecode</string>
     <string name="kr_license_desc">U moet akkoord gaan met onze Gebruikersovereenkomst en ons Privacybeleid voordat u gebruik maakt van Xiaomi Account en Xiaomi Cloud services.</string>
@@ -370,18 +362,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="login_with_other">Meer opties</string>
     <string name="logout_account">Uitloggen</string>
     <string name="logout_failed">Kan niet uitloggen</string>
-    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
-    <string name="material_hour_selection">Selecteer uur</string>
-    <string name="material_hour_suffix">%1$s uur</string>
-    <string name="material_minute_selection">Minuten selecteren</string>
-    <string name="material_minute_suffix">%1$s minuten</string>
-    <string name="material_timepicker_am">a.m.</string>
-    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
-    <string name="material_timepicker_hour">Uur</string>
-    <string name="material_timepicker_minute">Minuut</string>
-    <string name="material_timepicker_pm">p.m.</string>
-    <string name="material_timepicker_select_time">Tijd selecteren</string>
-    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
     <string name="mi_account">Mijn account</string>
     <string name="mi_health">Xiaomi Health</string>
     <string name="midnight">Nacht</string>
@@ -398,6 +378,7 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="miuix_appcompat_delete_description">Verwijderen</string>
     <string name="miuix_appcompat_deselect_all">Alles deselecteren</string>
     <string name="miuix_appcompat_deselect_all_description">Alles deselecteren</string>
+    <string name="miuix_appcompat_edit">Bewerken</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Annuleren</string>
     <string name="miuix_appcompat_search_input_description">Zoeken</string>
     <string name="miuix_appcompat_select_all">Alles selecteren</string>
@@ -452,38 +433,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Meer</string>
     <string name="morning">Ochtend</string>
-    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
-    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Meer dan %1$d nieuwe meldingen</string>
-    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
-    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
-    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
-    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
-    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
-    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
-    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$s navigeren</string>
-    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
-    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
-    <string name="mtrl_picker_save">Opslaan</string>
-    <string name="mtrl_picker_text_input_date_hint">Datum</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
-    <string name="mtrl_picker_text_input_day_abbr">d</string>
-    <string name="mtrl_picker_text_input_month_abbr">m</string>
-    <string name="mtrl_picker_text_input_year_abbr">j</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
     <string name="multi_user_not_show_sync_activity_message_1">Het lijkt erop dat u uw Eerste ruimte Xiaomi Account gebruikt.</string>
     <string name="multi_user_not_show_sync_activity_message_2">"In zo'n geval, zullen alle gegevens worden gesynchroniseerd met uw Tweede ruimte. Als u dit wilt voorkomen, schakel dan synchroniseren met de cloud niet in."</string>
     <string name="multi_user_not_show_sync_activity_title">Schakel synchroniseren met de cloud niet in</string>
@@ -820,7 +769,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="passport_wrong_phone_number_format">Het formaat van het telefoonnummer dat je hebt ingevoerd, is ongeldig</string>
     <string name="passport_wrong_vcode">De code die je hebt ingevoerd is incorrect</string>
     <string name="passport_wrong_voice">De code die u hebt ingevoerd is incorrect</string>
-    <string name="password_toggle_content_description">Wachtwoord tonen</string>
     <string name="password_view_hide_password">Wachtwoord verbergen</string>
     <string name="password_view_show_password">Wachtwoord weergeven</string>
     <string name="permission_group_contacts">Contacten</string>
@@ -982,9 +930,9 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
 %2$d. Als u uw wachtwoord niet opnieuw kunt instellen of als iemand uw apparaat heeft vergrendeld, ga dan naar i.mi.com om het te ontgrendelen.
 %3$d. Uw ontgrendelingsnummer: %4$s"</string>
     <string name="update_apk_version_later">Niet nu</string>
-    <string name="update_apk_version_now">Bijwerken</string>
-    <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u e-mail kan updaten.</string>
-    <string name="update_email_address_dialog_title">E-mail updaten</string>
+    <string name="update_apk_version_now">Installeren</string>
+    <string name="update_email_address_dialog_message">U moet uw identiteit verifiëren voordat u uw e-mail kunt bijwerken.</string>
+    <string name="update_email_address_dialog_title">E-mail bijwerken</string>
     <string name="update_phone_notice">Veiligheidsinstellingen wijzigen</string>
     <string name="use_google_account_login">Aanmelden met Google</string>
     <string name="user_agreement_device_permission_desc">Voor het waarborgen van de veiligheid van de aanmeldingsomgeving</string>
@@ -994,7 +942,6 @@ U kunt nu aanmelden op uw Xiaomi Account met %s."</string>
     <string name="user_agreement_read_phone_permission_desc">Voor inloggen met telefoonnummer</string>
     <string name="user_agreement_read_phone_permission_title">Telefoonnummers lezen</string>
     <string name="user_agreement_use_account_msg">Met Xiaomi Account hebt u toegang tot alle services van Xiaomi.</string>
-    <string name="user_agreement_wifi_permission_title">Wifi in- en uitschakelen</string>
     <string name="user_agreement_wlan_permission_desc">Voor het controleren van de aanmeldingsomgeving op beveiligingsproblemen</string>
     <string name="user_agreement_wlan_permission_title_china">WLAN in- en uitschakelen</string>
     <string name="user_avatar_update_title">Verander profielfoto</string>

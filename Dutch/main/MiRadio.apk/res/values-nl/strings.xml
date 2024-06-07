@@ -71,7 +71,7 @@
     <string name="msg_fm_starting">Starten…</string>
     <string name="msg_internalantenna_optimal">Verbind oortelefoons voor het beste effect</string>
     <string name="msg_noantenna_message">Hoofdtelefoon niet gedetecteerd. Sommige functies zijn mogelijk niet beschikbaar.</string>
-    <string name="msg_try_plug_headset">Verbind uw koptelefoon en probeer het opnieuw.</string>
+    <string name="msg_try_plug_headset">Verbind uw hoofdtelefoon en probeer het opnieuw.</string>
     <string name="new_frequency">Nieuwe frequentie</string>
     <string name="next_station">Volgende station</string>
     <string name="noheadset_dialog_info">Het lijkt erop dat het radiosignaal momenteel zwak is. U kunt in plaats hiervan naar online radio luisteren.</string>
@@ -87,6 +87,9 @@
     <string name="stations_list">Stations lijst</string>
     <string name="stations_list_empty">Geen presets</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="talkback_back">Ga terug</string>
+    <string name="talkback_close">Afsluiten</string>
+    <string name="talkback_speed">Snelheid</string>
     <string name="toast_added_to_list">Toegevoegd aan de lijst</string>
     <string name="toast_added_to_presets">Toegevoegd aan presets</string>
     <string name="toast_fm_error_startfailed">Opnamefout. Een andere app gebruikt mogelijk de opnamefunctie.</string>
@@ -99,7 +102,6 @@
     <string name="toast_sleep_mode">Radio zal stoppen met afspelen over %s</string>
     <string name="toast_sleep_mode_exit">Slaaptimer geannuleerd</string>
     <string name="turn_off_fm">FM uitschakelen</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">Slaapmodus</string>
     <string name="using_recorder_cancel">Weigeren</string>
     <string name="using_recorder_confirm">Toestaan</string>
