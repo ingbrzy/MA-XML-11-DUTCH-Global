@@ -386,7 +386,6 @@ Let er op dat de internetberichtenfunctionaliteit tot nader order is opgeschort.
     <string name="file_size">Grootte:</string>
     <string name="file_title">Naam:</string>
     <string name="file_width_height">Grootte:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">Vlucht</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1214,7 +1213,6 @@ Bekijk aanbevolen chatbots!"</string>
     <string name="send_signature_confirm_dialog_title">Verstuur bericht</string>
     <string name="send_sms">Verstuur bericht</string>
     <string name="send_to">Aan:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Verstuurd op: %1s</string>
     <string name="sent_label">"Verzonden: "</string>
     <string name="service_abandon_alert">Let op</string>

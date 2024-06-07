@@ -182,8 +182,6 @@
     <string name="feedback_custom_hint">Beschrijf de problemen die u hier bent tegengekomen. Als u suggesties geeft, stellen we meer details op prijs!</string>
     <string name="find_device">Apparaat zoeken</string>
     <string name="find_device_dspt_provision">Als u uw apparaat kwijtraakt, kunt u naar &lt;font color=#0097FF>%s&lt;/font> gaan om uw apparaat te lokaliseren, vergrendelen of resetten. U kunt deze functie via de instellingen op ieder gewenst moment in- of uitschakelen.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">Door Apparaat zoeken in te schakelen, gaat u akkoord met ons <u><a href="app://com.miui.cloudservice.gdpr.license">Privacybeleid</a></u>. Schakel deze functie uit als u uw toestemming wilt intrekken.</string>
     <string name="find_device_operation_failure_rpc">Door een RPC-fout kon de operatie niet worden uitgevoerd.</string>
     <string name="find_device_permissions_footer">Tik op \"Verlenen\" om de door u geselecteerde toestemmingen te verlenen.</string>

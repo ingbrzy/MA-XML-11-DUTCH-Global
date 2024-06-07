@@ -1815,7 +1815,6 @@ Terwijl %2$s is verbonden, ontvangt dit apparaat alle gesprekken naar %3$s."</st
 Als u al een van de bovenstaande dingen gedaan hebt, voeg uw Mi Account dan opnieuw toe; anders zult u uw apparaat niet kunnen ontgrendelen."</string>
     <string name="bootloader_tips_ok">Begrepen</string>
     <string name="bootloader_tips_warning">Verbreek de verbinding met het netwerk niet, meld niet af van uw Mi Account, voer geen fabrieksreset uit en wis geen systeemgegevens.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Functies van extra knoppen</string>
     <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
     <string name="breathing_light_color_menu_title">Lichtkleur</string>
@@ -2911,7 +2910,6 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
     <string name="dialog_wifi_context">U moet verbinding maken met het internet om uw apparaat in te stellen. Tenzij u verbinding maakt met wifi, kan mobiele data worden gebruikt. Het gebruik van mobiele data kan extra kosten voor uw provider opleveren. Toch mobiele data gebruiken?</string>
     <string name="dialog_wifi_title">Mobiele gegevens gebruiken</string>
     <string name="dialog_yes">Ja</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">Opmerking: Na opnieuw opstarten, start deze app pas wanneer u uw apparaat ontgrendelt.</string>
     <string name="disable_overlays">HW-overlays uitzetten</string>
     <string name="disable_overlays_summary">Gebruik altijd GPU voor schermcompositing</string>
@@ -3000,7 +2998,6 @@ Deze instelling is van invloed op alle gebruikers van dit apparaat."</string>
     <string name="dndm_auto_button_title">Niet storen tijd herhalen</string>
     <string name="dndm_auto_setting_group">Gepland</string>
     <string name="dndm_auto_time_setting">Tijd instellen</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">Naar</string>
     <string name="dndm_auto_time_turn_off_title">Niet storen automatisch uitschakelen</string>
     <string name="dndm_auto_time_turn_on">Van</string>
@@ -4698,7 +4695,6 @@ Open Xiaomi Cloud en herstel items vanaf daar."</string>
     <string name="lights_title">LED-licht</string>
     <string name="line_breaking_summary">Breken van paragraafregels optimaliseren</string>
     <string name="line_breaking_title">Tekst optimaliseren</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_turbo_prompt">De statistieken op deze pagina tonen alleen de hoeveelheid gegevens die wordt gebruikt om de wifi-verbindingssnelheid te verhogen. Deze statistieken geven niet het werkelijke mobiele gegevensgebruik weer.</string>
     <string name="link_turbo_settings_all_app_display_loading">Een ogenblik geduld…</string>
     <string name="link_turbo_settings_all_app_reach_max">U kunt tot 15 apps selecteren</string>
@@ -5306,7 +5302,6 @@ U kunt deze actie niet ongedaan maken."</string>
     <string name="memory_usage">Geheugengebruik</string>
     <string name="memory_usage_apps">Geheugen gebruikt door apps</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{1 app heeft geheugen gebruikt in de afgelopen {time}}other{# apps hebben geheugen gebruikt in de afgelopen {time}}}</string>
-    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">Gem. %1$s geheugen gebruikt in de afgelopen drie uur</string>
     <string name="memorycard_calculating">Berekenen…</string>
     <string name="memtag_footer">Start je apparaat opnieuw op om Geavanceerde geheugenbescherming aan of uit te zetten. Als de functie aanstaat, werkt het apparaat misschien trager.</string>
@@ -6063,7 +6058,6 @@ Selecteer uw besturingssysteem:"</string>
     <string name="nfc_more_details">Meer informatie</string>
     <string name="nfc_more_title">Meer…</string>
     <string name="nfc_notification_mode_title">NFC-kaartleesherinneringen</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">Instellen als standaard</string>
     <string name="nfc_payment_btn_text_update">Updaten</string>
     <string name="nfc_payment_default">Standaard betaal-app</string>
@@ -6660,7 +6654,6 @@ Lees en ga akkoord met %s voordat u deze service gebruikt."</string>
     <string name="power_cell">Mobiel netwerk</string>
     <string name="power_center">Batterijoptimalisatie</string>
     <string name="power_charge_remaining">%1$s tot batterij is opgeladen</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - vol over %2$s</string>
     <string name="power_charging_future_paused">%1$s - Opladen geoptimaliseerd</string>
     <string name="power_charging_limited">%1$s - Opladen geoptimaliseerd</string>
@@ -6717,7 +6710,6 @@ Druk tegelijkertijd op de aan/uit-knop en de knop Volume omhoog"</string>
     <string name="power_remaining_less_than_duration_only">Minder dan %1$s</string>
     <string name="power_remaining_more_than_subtext">Nog meer dan %1$s (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Meer dan %1$s</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Scherm</string>
     <string name="power_settings_title">Systeemprestaties</string>
     <string name="power_suggestion_battery_run_out">Batterij is waarschijnlijk leeg om %1$s</string>
@@ -6968,7 +6960,6 @@ Druk tegelijkertijd op de aan/uit-knop en de knop Volume omhoog"</string>
     <string name="privileged_action_disable_sub_dialog_title">%1$s uitzetten?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">Simkaart uitzetten?</string>
     <string name="process_dex2oat_label">App-optimalisatie</string>
-    <string name="process_kernel_label">Android-besturingssysteem</string>
     <string name="process_mediaserver_label">Mediaserver</string>
     <string name="process_network_tethering">Tethering</string>
     <string name="process_provider_in_use_description">Provider %1$s in gebruik.</string>
@@ -7758,7 +7749,6 @@ Zo zet je een app vast: \u0009
     <string name="security_encryption_attention_3">U moet een nieuwe schermvergrendeling instellen.</string>
     <string name="security_encryption_attention_4">Zorg ervoor dat u uw schermvergrendeling onthoudt, anders moet u een volledige reset uitvoeren en alle gegevens op het apparaat wissen.</string>
     <string name="security_encryption_attention_info">U kunt uw accounts, instellingen, gedownloade apps en bijbehorende gegevens, media en andere bestanden versleutelen.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Belangrijk</string>
     <string name="security_encryption_close_dialog_info">Als u ervoor kiest het apparaat niet te versleutelen met een vergrendelscherm, zijn sommige Google services mogelijk niet beschikbaar.</string>
     <string name="security_encryption_close_dialog_title">Ga terug naar de standaardsysteemversleuteling</string>
@@ -8353,7 +8343,6 @@ Dubbeltik om Recent te openen."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">Toch overslaan</string>
     <string name="skip_label">Overslaan</string>
@@ -8571,10 +8560,8 @@ Dit is mogelijk omdat je een vertrouwd certificaat op je apparaat hebt opgeslage
     <string name="status_bar_app_enable_keyguard">Vergrendelscherm</string>
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">Geen SIM kaart</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">Meldingen en statusbalk</string>
     <string name="status_bar_settings_all_app_display_loading">Een ogenblik geduld…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">App-meldingen</string>
     <string name="status_bar_settings_notification_bar">Meldingenpaneel</string>
     <string name="status_bar_settings_status_bar">Statusbalk</string>
@@ -8897,7 +8884,6 @@ Probeer het met een snellere ^3 of gebruik deze ^4 voor draagbare opslag."</stri
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">"Toon bedieningselementen voor tv's, luidsprekers en auto's in de buurt in Controlecentrum"</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="sunday">Zondag</string>
     <string name="sunday_first_day_of_week">zondag</string>
     <string name="sunday_short">Zo</string>
@@ -9815,7 +9801,6 @@ Druk op de plus om woorden toe te voegen."</string>
     <string name="vision_settings_title">Visuele instellingen</string>
     <string name="voice_access">Spraakbediening</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Spraak</string>
     <string name="voice_helper_title">Spraakassistent</string>
     <string name="voice_input_output_settings">Spraakinvoer en -uitvoer</string>
@@ -10981,11 +10966,9 @@ Als je 'Niet storen' uitschakelt, kun je de gemiste meldingen zien door van bove
     <string name="zone_auto_summaryOff">De tijd verstrekt door de netwerkprovider gebruiken</string>
     <string name="zone_auto_summaryOn">De tijd verstrekt door de netwerkprovider gebruiken</string>
     <string name="zone_auto_title">Tijdzone automatisch instellen</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">Gebruikt %1$s. %2$s</string>
     <string name="zone_info_footer_no_dst">Gebruikt %1$s. Geen zomertijd.</string>
     <string name="zone_info_footer_second_sentence">%1$s begint op %2$s.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">Sorteren op alfabet</string>
     <string name="zone_list_menu_sort_by_timezone">Sorteren op tijdzone</string>
     <string name="zone_menu_by_offset">Selecteren op basis van UTC-verschil</string>

@@ -942,7 +942,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="face_name_edit">Bewerken</string>
     <string name="face_name_input">Naam invoeren</string>
     <string name="face_recommend">Aanbevelingen</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">Kon handeling niet voltooien</string>
     <string name="fail_reason_migrate">Items verwerken… Wacht een minuut of twee en probeer het opnieuw.</string>
     <string name="fail_to_pick_email">Ongeldig e-mailadres</string>
@@ -958,7 +957,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="feedback_my_reports">Feedback</string>
     <string name="feedback_problem">Een probleem rapporteren</string>
     <string name="feedback_suggest">Een suggestie indienen</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="finish_create_baby_album_toast">Album aangemaakt voor \"%s\" op Xiaomi Cloud</string>
     <string name="finish_fill_baby">Aanmaken</string>
     <string name="first_delete_media_for_cloud">Geselecteerde items worden verwijderd uit de cloud en alle gesynchroniseerde apparaten naar Recent verwijderde items en worden na %d dagen permanent verwijderd, tenzij u een cloud opslagabonnement hebt. Toch verwijderen?</string>
@@ -1068,7 +1066,6 @@ Neem meer foto's van je vrienden!"</string>
     <string name="grant_permission_go_and_set">Instellen</string>
     <string name="grant_permission_go_and_set_2">Instellingen</string>
     <string name="grant_permission_go_and_set_3">Instellingen</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">Toestemmingen vereist</string>
     <string name="grant_permission_manage_storage_unlock">Ontgrendel uw apparaat en geef deze app toegang tot alle bestanden om items te kunnen bekijken.</string>
     <string name="grant_permission_shortcut">Sta deze app toe eerst Startscherm snelkoppelingen te maken.</string>
@@ -1750,7 +1747,6 @@ Het transcoderen kan enige tijd duren wanneer u deze functie voor het eerst gebr
     <string name="people_page_label">Personen</string>
     <string name="people_page_photo">Thumbnail van een persoon</string>
     <string name="people_page_unname">Naamloos</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">Voor het aanmelden op en het beheren van de systeemaccount</string>
     <string name="permission_account_name">Toegang tot accounts</string>
     <string name="permission_clipboard_desc">Voor toegang tot en opslaan van items op het klembord</string>
@@ -2156,7 +2152,6 @@ Het transcoderen kan enige tijd duren wanneer u deze functie voor het eerst gebr
     <string name="share_album_cancel_share">Stop met delen</string>
     <string name="share_album_change_background">Achtergrondfoto wijzigen</string>
     <string name="share_album_create_failed">Kon gedeeld album niet aanmaken</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">Stop met delen</string>
     <string name="share_album_exit_confirm">Als u doorgaat, hebt u geen toegang meer tot alle items in dit album. Bewaar alle belangrijke spullen voordat u vertrekt.</string>
     <string name="share_album_exit_confirm_title">Deze groep verlaten?</string>
@@ -2243,7 +2238,6 @@ Het transcoderen kan enige tijd duren wanneer u deze functie voor het eerst gebr
     <string name="share_with_family">Delen met familie</string>
     <string name="sharer_quota_fulfiled">Je hebt dit album al gedeeld met het maximaal aantal personen..</string>
     <string name="show_cloud_albumlist_summary">Nieuwe items uit geselecteerde albums worden niet geüpload naar de cloud nadat u synchronisatie heeft uitgeschakeld.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">Verborgen albums weergeven en beheren</string>
     <string name="show_hidden_album_title">Verborgen albums weergeven</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">Succesvol verwijderd. U kunt dit item nu bekijken onder \"Albums\".</string>
